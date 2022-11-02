@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Everything I know",
   tagline: "Everything I know",
-  url: "https://wiki.nikiv.dev",
+  url: "https://truknow.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -25,7 +25,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
           // Please change this to your repo.
-          editUrl: "https://github.com/nikitavoloboev/knowledge/tree/main/",
+          editUrl: "https://github.com/truroshan/knowledge/tree/main/",
         },
         blog: false,
         theme: {
