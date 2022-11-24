@@ -10,7 +10,7 @@ I always view my events from `Week` view & have 7 days in view with 18 hours sho
 
 I often switch between `Week` and `Month` views.
 
-[Amie](https://www.amie.so/) is nice too.
+[Cron](https://cron.com/) & [Amie](https://www.amie.so/) are nice too.
 
 ## Notes
 
@@ -48,3 +48,4 @@ I often switch between `Week` and `Month` views.
 - [dave](https://github.com/micromata/dave) - Simple and very easy to configure stand alone webdav server.
 - [Linkal](https://github.com/JulienMalka/Linkal) - Public-calendar aggregator server. ([Lobsters](https://lobste.rs/s/4sbor7/linkal_public_calendar_aggregator))
 - [Zerocal - A Serverless Calendar App in Rust Running on shuttle.rs (2022)](https://endler.dev/2022/zerocal/) ([HN](https://news.ycombinator.com/item?id=33109513)) ([Code](https://github.com/mre/zerocal))
+- [Calendar Link](https://github.com/AnandChowdhary/calendar-link) - Calendar link generator for popular services.

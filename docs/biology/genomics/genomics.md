@@ -4,6 +4,8 @@ title: Genomics
 
 # [Genomics](https://en.wikipedia.org/wiki/Genomics)
 
+[Introduction to Genomics for Engineers](https://learngenomics.dev/) is nice intro.
+
 ## Links
 
 - [Seq](https://github.com/seq-lang/seq) - Programming language for high-performance computational genomics. ([Web](https://seq-lang.org/)) ([HN](https://news.ycombinator.com/item?id=28537179))
@@ -211,3 +213,12 @@ title: Genomics
 - [GffCompare](https://github.com/gpertea/gffcompare) - Classify, merge, tracking and annotation of GFF files by comparing to a reference annotation GFF.
 - [GCLib](https://github.com/gpertea/gclib) - Genomic C++ Library.
 - [rust-alignbench](https://github.com/rchikhi/rust-alignbench) - Pairwise nucleotide alignment benchmark of Rust bindings.
+- [umis](https://github.com/vals/umis) - Tools for processing UMI RNA-tag data.
+- [bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+- [HTS](https://github.com/biogo/hts) - SAM and BAM handling for Go.
+- [Introduction to Genomics for Engineers](https://learngenomics.dev/) ([Lobsters](https://lobste.rs/s/ykd3vh/introduction_genomics_for_engineers)) ([Code](https://github.com/stjude/learngenomics.dev))
+- [Consider working on genomics (2022)](https://claymcleod.dev/blog/2022-11-19-consider-working-on-genomics.html) ([HN](https://news.ycombinator.com/item?id=33671264))
+- [Pinello Lab](https://main.pinellolab.partners.org/) - Massachusetts General Hospital/ Harvard Medical School. ([GitHub](https://github.com/pinellolab))
+- [scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data.
+- [gggenomes](https://github.com/thackl/gggenomes) - Grammar of graphics for comparative genomics.
+- [sgdemux](https://github.com/Singular-Genomics/singular-demux) - Singular Genomics Demultiplexing Tool.

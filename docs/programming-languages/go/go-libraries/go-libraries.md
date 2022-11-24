@@ -14,6 +14,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [BubbleZone](https://github.com/lrstanley/bubblezone) - Helper utility for BubbleTea, allowing easy mouse event tracking.
+- [BubbleTint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone.
 - [catwalk](https://github.com/knz/catwalk) - Unit test library for Bubbletea TUI models.
 - [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
 - [Stickers](https://github.com/76creates/stickers) - Collection of TUI elements, FlexBox and Table at the moment, its build for bubbletea using lipgloss.
@@ -158,6 +159,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [golden](https://github.com/tenntenn/golden) - Utilities for golden file tests.
 - [Snapshot](https://github.com/kodiiing/snapshot) - Simple utility to do snapshot testing in Go.
 - [assert](https://github.com/junk1tm/assert) - Common assertions to use with the standard testing package.
+- [golden](https://github.com/nao1215/golden) - Golden file testing for Go.
 
 ## Web
 
@@ -165,6 +167,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [router](https://github.com/gowww/router) - Lightning fast HTTP router.
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
 - [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
+- [GoSession](https://github.com/Kwynto/gosession) - Quick session for net/http in Go.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate)) ([Examples](https://github.com/gin-gonic/examples))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
@@ -208,6 +211,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
 - [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs)) ([Fiber OpenTelemetry](https://github.com/psmarcin/fiber-opentelemetry)) ([GoFiber Docker Boilerplate](https://github.com/gofiber/boilerplate)) ([Storage](https://github.com/gofiber/storage))
 - [Fiber Swagger](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
+- [Fiber Swagger](https://github.com/gofiber/swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
@@ -367,6 +371,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-http](https://github.com/openziti-test-kitchen/go-http) - Go HTTP Clients/Servers and Alternative Networking.
 - [gofetch](https://github.com/sidwebworks/gofetch-client) - Lightweight and productive http client for Go.
 - [TTL](https://github.com/devnw/ttl) - Time To Live Cache Implementation for Go.
+- [azugo](https://github.com/azugo/azugo) - Opinionated Go web framework based on fasthttp and inspired by go-chi.
 
 ## GraphQL
 
@@ -564,6 +569,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ScyllaDB Go Driver](https://github.com/scylladb/scylla-go-driver) ([Article](https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/)) ([HN](https://news.ycombinator.com/item?id=33187677))
 - [libschema](https://github.com/muir/libschema) - Way for Go libraries to manage their own database migrations.
 - [redis](https://github.com/cristalhq/redis) - Redis client for Go.
+- [go-dqlite](https://github.com/canonical/go-dqlite) - Go package, containing bindings for the dqlite C library and a pure-Go client for the dqlite wire protocol.
+- [Lazycache](https://github.com/bep/lazycache) - Simple thread safe in-memory LRU cache.
+- [YaDAL](https://github.com/senrok/yadal) - Accessing S3, POSIX in the same way. Deeply inspired by Databend's OpenDAL.
+- [Ghostly](https://github.com/Dominic-Wassef/ghostly) - Simple, lightweight, and fast full-stack framework for Go. ([HN](https://news.ycombinator.com/item?id=33570575))
+- [go-sqlite](https://github.com/glebarez/go-sqlite) - Pure-Go SQLite driver for Go (SQLite embedded).
 
 ## ML
 
@@ -578,6 +588,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-face](https://github.com/Kagami/go-face) - Face recognition with Go.
 - [Nune](https://github.com/vorduin/nune) - Tensor based numerical engine.
 - [Cybertron](https://github.com/nlpodyssey/cybertron) - Go package that provides a simple and easy-to-use interface for cutting-edge NLP.
+- [CNNs](https://github.com/LdDl/cnns) - Convolutional Neural Networks in Go.
 
 ## Graphics
 
@@ -593,6 +604,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library.
 - [twodeeparticles](https://github.com/blizzy78/twodeeparticles) - Engine-agnostic 2D particle system simulator for Go.
 - [polyred](https://github.com/polyred/polyred) - 3D Graphics in Go.
+- [Resolv](https://github.com/SolarLune/resolv) - Simple 2D Go collision detection and resolution library for games.
 
 ## WASM
 
@@ -657,6 +669,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GopenPGP](https://github.com/ProtonMail/gopenpgp) - High-level OpenPGP library.
 - [Go-wolfSSL](https://github.com/wolfSSL/go-wolfssl) - Go wrapper for wolfSSL lightweight TLS library and wolfCrypt cryptography library.
 - [Reed-Solomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go.
+- [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
+- [libsignalgo](https://github.com/sumnerevans/libsignalgo) - Go wrapper for the libsignal library.
 
 ## Linux
 
@@ -679,6 +693,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-evdev](https://github.com/holoplot/go-evdev) - Go support for the Linux evdev interface.
 - [Go Landlock](https://github.com/landlock-lsm/go-landlock) - Go library for the Linux Landlock sandboxing feature.
 - [ZSocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Go.
+- [Gonso](https://github.com/cpuguy83/gonso) - Library to do safe Linux namespace manipulation in Go.
+- [go-perf](https://github.com/aclements/go-perf) - Go packages and tools for Linux perf.
 
 ## Apple
 
@@ -687,6 +703,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## Error
 
 - [Simplerr](https://github.com/lobocv/simplerr) - Advanced Go error handling, made simple.
+- [Emperror](https://github.com/emperror/emperror) - Takes care of all errors personally.
 - [Errors](https://github.com/ainsleyclark/errors) - Drop-in replacement for Go errors, with some added sugar! Error handling in Go made easy with codes, messages and more.
 - [Errors](https://github.com/bnkamalesh/errors) - Drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types.
 - [errors](https://github.com/juju/errors) - Provides an easy way to annotate errors without losing the original error context.
@@ -1864,6 +1881,40 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [messagediff](https://github.com/d4l3k/messagediff) - Library for doing diffs of arbitrary Go structs.
 - [Threads Helper](https://github.com/BlackpointCyber/threads) - Helper library for handling groups of threads easily.
 - [Jet](https://github.com/CloudyKit/jet) - Template engine developed to be easy to use, powerful, dynamic, yet secure and very fast.
+- [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access.
+- [check](https://github.com/junk1tm/check) - Convenience helpers to perform validations of any kind.
+- [TOML](https://github.com/BurntSushi/toml) - TOML parser for Go with reflection.
+- [Sorted Set](https://github.com/wangjia184/sortedset) - Data-struct inspired by the one from Redis. It allows fast access by key or score.
+- [Weave Common](https://github.com/weaveworks/common) - Libraries used in multiple Weave projects.
+- [shellquote](https://github.com/kballard/go-shellquote) - Go utilities for performing shell-like word splitting/joining.
+- [Pipeline](https://github.com/deliveryhero/pipeline) - Library to help you create pipelines in Go.
+- [Logger](https://github.com/google/logger) - Cross platform Go logging library.
+- [go-envparse](https://github.com/hashicorp/go-envparse) - Minimal environment variable parser for Go.
+- [raggio](https://github.com/empijei/raggio) - Go channels library.
+- [Matroska](https://github.com/dwbuiten/matroska) - Full-surface Go Wrapper for Haali's Matroska Parser.
+- [FFV1 Decoder in Go](https://github.com/dwbuiten/go-ffv1)
+- [rxgo](https://github.com/empijei/rxgo) - Reactive programming in Go.
+- [Terraform Cloud/Enterprise Go Client](https://github.com/hashicorp/go-tfe)
+- [Datadog Go](https://github.com/DataDog/datadog-go) - Library that provides a DogStatsD client in Go.
+- [Rgeo](https://github.com/sams96/rgeo) - Go package for basic, fast, local reverse geocoding.
+- [Go interface values](https://github.com/akutz/go-interface-values) - When storing a value in a Go interface allocates memory on the heap.
+- [Notify](https://github.com/projectdiscovery/notify) - Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
+- [Goja-Node](https://github.com/dop251/goja_nodejs) - Collection of Goja modules that provide Node compatibility.
+- [Go-NAT-PMP](https://github.com/jackpal/go-nat-pmp) - Go language client for the NAT-PMP internet protocol for port mapping and discovering the external IP address of a firewall.
+- [GoUPnP](https://github.com/huin/goupnp) - UPnP client library for Go.
+- [Hooks](https://github.com/mikestefanello/hooks) - Simple, type-safe hook system to enable easier modularization of your Go code.
+- [Noise](https://github.com/flynn/noise) - Go implementation of the Noise Protocol Framework.
+- [Bsimp](https://github.com/akrylysov/bsimp) - Minimalistic S3-backed audio library.
+- [Go-EXIF](https://github.com/dsoprea/go-exif) - Complete, highly tested, standards-driven (but customizable) EXIF reader/writer lovingly written in Go.
+- [pool](https://github.com/silenceper/pool) - Go universal network connection pool.
+- [gopkg](https://github.com/bytedance/gopkg) - Universal utility collection for Go, it complements offerings such as Boost, Better std, Cloud tools.
+- [artifex](https://github.com/mborders/artifex) - Simple in-memory job queue for Go using worker-based dispatching.
+- [Tag](https://github.com/frolovo22/tag) - Parsing/editing tags ID3, MP4, FLAC.
+- [go-iprtb](https://github.com/moznion/go-iprtb) - Go implementation of the IP routing table.
+- [Unleash Go](https://github.com/Unleash/unleash-client-go)
+- [Frida-Go](https://github.com/frida/frida-go) - Go bindings for Frida.
+- [RocketMQ Client Go](https://github.com/apache/rocketmq-client-go)
+- [Units](https://github.com/smyrman/units) - Go library that makes it easy to work with physical types, e.g. distances, velocities and angles.
 
 ## Links
 
@@ -2019,3 +2070,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ORM vs SQL Builder in Go (2022)](https://www.reddit.com/r/golang/comments/y5obc7/orm_vs_sql_builder_in_go/)
 - [oa3](https://github.com/aarondl/oa3) - Generates HTTP endpoint stubs and supporting models from OpenAPI 3 specs.
 - [Top Go ORMs](https://github.com/d-tsuji/awesome-go-orms) - Most starred on GitHub.
+- [Go Vulnerability Management](https://github.com/golang/vuln)
+- [A consistent logging format for Go (2022)](https://www.youtube.com/watch?v=gd_Vyb5vEw0)
+- [Top Go Web Frameworks, most starred on GitHub](https://github.com/mingrammer/go-web-framework-stars)
+- [goimports-reviser](https://github.com/incu6us/goimports-reviser) - Right imports sorting & code formatting tool (goimports alternative).
+- [GoReleaser-Cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Go cross-compiling with CGO.
+- [nabaz](https://github.com/nabaz-io/nabaz) - Test runner for the easily distracted.
+- [coredumpctl, delve and debug packages for Go (2022)](https://linderud.dev/blog/coredumpctl-delve-and-debug-packages-for-go/)
+- [All about the Go errors package (2022)](https://www.youtube.com/watch?v=5DUuyWxXnC0)

@@ -183,6 +183,8 @@ And these Discord servers:
 - [openDemocracy](https://www.opendemocracy.net/en/odr/) - Independent media platform covering world affairs, ideas and culture. ([Twitter](https://twitter.com/opendemocracy))
 - [Offscreen Magazine](https://www.offscreenmag.com/) - Independent print magazine that explores critical perspectives on technology through earnest conversations.
 - [viborc.com](https://viborc.com/) - Data-driven stories for bright minds.
+- [Foreign Affairs](https://www.foreignaffairs.com/) - American magazine of international relations and U.S. foreign policy.
+- [Asterisk](https://asteriskmag.com/)
 
 ### Other
 
@@ -276,3 +278,6 @@ And these Discord servers:
 - [One App](https://reader.one/) - Read HN/Reddit/.. in one website.
 - [A List Of Text-Only News Sites](https://greycoder.com/a-list-of-text-only-new-sites/)
 - [Ask HN: Where do you escape for non-clickbait thoughtful/informational content? (2022)](https://news.ycombinator.com/item?id=33212499)
+- [News Homepages](https://palewi.re/docs/news-homepages/) - Open-source archive that gathers, saves, shares and analyzes news homepages. ([Code](https://github.com/palewire/news-homepages/)) ([Runner](https://github.com/palewire/news-homepages-runner))
+- [HN Ratio](https://github.com/paradite/hn-ratio) - Hacker News top 50 stories ranked by Comment/Score ratio.
+- [Как победить информационный шум](https://www.youtube.com/watch?v=cTz_jUwgxZY)

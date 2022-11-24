@@ -10,7 +10,11 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Substack](https://substack.com/profile/4702201-nikita), [Medium](https://medium.com/@nikitavoloboev/following).
 
-My blog is written with [Solid](../programming-languages/javascript/js-libraries/solid.md) ([code here](https://github.com/nikitavoloboev/nikitavoloboev)).
+I found [a wiki](../other/wiki-workflow.md) to be a superior approach to sharing knowledge than articles that quickly become outdated thus I [stopped blogging in 2018](../sharing/my-articles.md).
+
+I may start writing long form content again, high quality and also as part of this wiki.
+
+My personal site is currently written with [Solid](../programming-languages/javascript/js-libraries/solid.md) ([code here](https://github.com/nikitavoloboev/nikitavoloboev)). Once I move the wiki to my personal stack and not [Docusaurus](../tools/docusaurus.md), I will start writing more long form articles again but have ways to keep them up to date.
 
 [Simple Blog Astro Template](https://littlesticks.dev/templates/simple-blog/) or [Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) are also a pretty minimal blog implementations. [Proselog](https://github.com/proselog/proselog) looks interesting too.
 
@@ -19,7 +23,8 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 ## Favorite blogs
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
-- [Overreacted by Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
+- [Armin Ronacher](https://lucumr.pocoo.org/)
+- [Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Nicolas Moutschen](https://n14n.dev/)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 - [Anthony Fu](https://antfu.me/posts)
@@ -196,6 +201,27 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Alex Bespoyasov](https://bespoyasov.me/blog/)
 - [Lei Zhang](https://www.lei.chat/posts/)
 - [Gergo Erdi](https://gergo.erdi.hu/)
+- [Max Bernstein](https://bernsteinbear.com/blog/)
+- [Stargirl Flowers](https://blog.thea.codes/)
+- [Simon Hearne](https://simonhearne.com/posts/)
+- [Lux](https://lux.camera/)
+- [Francesco](https://mazzo.li/archive.html)
+- [Bruno Luiz Silva](https://brunoluiz.net/)
+- [Matt Parsons](https://www.parsonsmatt.org/)
+- [Patrick Dubroy](https://dubroy.com/blog/)
+- [Maxime Heckel](https://blog.maximeheckel.com/)
+- [Sergey Potapov](https://www.greyblake.com/)
+- [Anantha Kumaran](https://ananthakumaran.in/)
+- [Kyle Hovey](https://kylehovey.github.io/blog/)
+- [Colin Woodbury](https://www.fosskers.ca/en/blog)
+- [Vlad Moldovean](https://vmoldo.com/blog/)
+- [Longhorn](https://threedots.ovh/blog/)
+- [All Things Distributed](https://www.allthingsdistributed.com/articles.html)
+- [Rain](https://sunshowers.io/)
+- [Dave Pagurek](https://www.davepagurek.com/blog/)
+- [Coding XR](https://codingxr.com/)
+- [Determinate Systems](https://determinate.systems/posts)
+- [Cliff Biffle](http://cliffle.com/blog/)
 
 ## Notes
 
@@ -331,3 +357,6 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [What happens when a blog post goes viral? (2022)](https://www.jvt.me/posts/2022/10/14/blog-viral/)
 - [Blog with Native Content Editing](https://vercel.com/templates/next.js/blog-nextjs-sanity) ([Tweet](https://twitter.com/sanity_io/status/1584986255489925120))
 - [Get Blogging!](https://getblogging.org/) - Your easy guide to starting a new blog.
+- [What to blog about (2022)](https://simonwillison.net/2022/Nov/6/what-to-blog-about/) ([HN](https://news.ycombinator.com/item?id=33495295))
+- [Sonic](https://github.com/go-sonic/sonic) - Go Blogging Platform. Simple and Powerful.
+- [Ooh.directory](https://ooh.directory/) - Collection of 852 blogs about every topic. ([HN](https://news.ycombinator.com/item?id=33719983))

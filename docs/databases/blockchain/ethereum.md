@@ -4,11 +4,13 @@ title: Ethereum
 
 # [Ethereum](https://www.ethereum.org)
 
-Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
+Ethereum is a virtual machine built using a [blockchain](blockchain.md) (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.
 
 [Solidity](https://soliditylang.org) is nice prototype language. You can also use [Solang](https://solang.readthedocs.io/en/latest/) to compile Solidity code for [Solana](solana.md) chain.
 
 [StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting. [Eth2 Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) seems nice.
+
+[Helios](https://github.com/a16z/helios) is a nice Eth client. [Kakarot](https://github.com/sayajin-labs/kakarot) is interesting.
 
 ## Notes
 
@@ -440,7 +442,7 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [Ying-Yang](https://github.com/exp-table/ying-yang) - Pay on Ethereum, mint on Starknet.
 - [Aegis](https://github.com/Chainstride-Capital/aegis) - Ethereum smart contracts to shield you from bad actors and mempool snipers when listing a new token on a decentralized exchange.
 - [ethereal](https://github.com/wealdtech/ethereal) - Command-line tool for managing common tasks in Ethereum.
-- [wagmi](https://github.com/tmm/wagmi) - React Hooks library for Ethereum, built on ethers.js.
+- [wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum. ([Docs](https://wagmi.sh/))
 - [ZRNT CLI](https://github.com/protolambda/zcli) - Eth2 CLI debugging tool.
 - [NFT Swap SDK](https://github.com/trader-xyz/nft-swap-sdk) - Ethereum's missing p2p NFT and token swap library for web3 developers. Written in TypeScript. Powered by 0x.
 - [token-list](https://github.com/telcoin/token-list) - Ethereum token list standard.
@@ -641,6 +643,7 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [The Franchiser](https://uniswaplabs.notion.site/uniswaplabs/The-Franchiser-768dd0e188eb4323957c6e919c09491b) - Smart contract design which would allow large holders of Compound-style voting tokens to selectively delegate portions of their voting power to third parties. ([Code](https://github.com/NoahZinsmeister/franchiser))
 - [Interesting Eth Smart Contracts](https://github.com/fiveoutofnine/cool-contracts/) ([Tweet](https://twitter.com/fiveoutofnine/status/1543289800123420674))
 - [Seaport](https://github.com/ProjectOpenSea/seaport) - Marketplace protocol for safely and efficiently buying and selling NFTs.
+- [Seaport Gossip](https://github.com/ProjectOpenSea/seaport-gossip) - Peer-to-peer network for sharing Seaport orders.
 - [Gas Optimizations in Solidity](https://github.com/kadenzipfel/gas-optimizations)
 - [Turbo ETH](https://github.com/turbo-eth/turbo-eth) - Ethereum dApp Build System; with a suite of tools to start building production ready dApps today.
 - [Ethereum Proof-of-Stake (2022)](https://0xfoobar.substack.com/p/ethereum-proof-of-stake) ([HN](https://news.ycombinator.com/item?id=32012352))
@@ -705,3 +708,21 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 - [solstat](https://github.com/0xKitsune/solstat) - Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
 - [Optimizor Club SQRT challenge](https://github.com/OptimizorClub/sqrt_foundry_template) - Foundry template for the Optimizor Club SQRT challenge.
 - [Awesome wagmi](https://github.com/wagmi-dev/awesome-wagmi)
+- [DAI Teleport](https://github.com/makerdao/dss-teleport) - Facility allows users to fast teleport DAI between "domains", i.e. different chains that have a settlement mechanism with Ethereum L1.
+- [Super Liquidator](https://github.com/jtriley-eth/super-liquidator)
+- [Helios](https://github.com/a16z/helios) - Fast, secure, and portable light client for Ethereum.
+- [Amarna](https://github.com/crytic/amarna) - Static-analyzer and linter for the Cairo programming language.
+- [Murph](https://github.com/iFrostizz/murph) - Transpile EVM bytecode into huff.
+- [Permit2](https://github.com/Uniswap/permit2) - Next generation token approvals mechanism.
+- [Universal Router](https://github.com/Uniswap/universal-router) - ERC20 and NFT swap router that allows users greater flexibility when performing trades across multiple token types.
+- [Flashbots Builder API](https://github.com/flashbots/builder) - Run on your favorite network, including Mainnet, Goerli, Sepolia and local devnet. ([Tweet](https://twitter.com/bertcmiller/status/1593668480951373827))
+- [Kakarot](https://github.com/sayajin-labs/kakarot) - Ethereum Virtual Machine written in Cairo.
+- [React Native Helios](https://github.com/cawfree/react-native-helios) - Fast, secure, and portable light client for Ethereum dApps.
+- [Full stack Hackathon Starter Kit](https://github.com/schmidsi/hackathon-starterkit) - Minimalistic boilerplate to quickly get started with fullstack dapp development with Hardhat and The Graph.
+- [slang](https://github.com/NomicFoundation/slang) - Solidity compiler.
+- [Dove Protocol](https://github.com/whitenois3/dove-protocol) - Provide liquidity on L1, trade on L2. ([Interface](https://github.com/whitenois3/dove-interface))
+- [Beerus](https://github.com/starknet-exploration/beerus) - Trustless StarkNet Light Client.
+- [Arbiter](https://github.com/primitivefinance/arbiter) - Simple price data monitoring tool for uniswap V3 Pools written in Rust.
+- [Upgrading Ethereum](https://eth2book.info/) - Technical handbook on Ethereum's move to proof of stake and beyond. ([Code](https://github.com/benjaminion/upgrading-ethereum-book))
+- [Starkli](https://github.com/xJonathanLEI/starkli) - Blazing fast CLI tool for StarkNet.
+- [Solidify](https://github.com/proofxyz/solidify) - Go + solidity library aimed to make storing arbitrary data on EVM blockchains as easy and efficient as possible.

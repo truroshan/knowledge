@@ -6,8 +6,12 @@ title: Vue.js
 
 [Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client. [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) seems pretty great too.
 
+[Nuxt](https://github.com/nuxt/framework) seems nice.
+
 ## Built with Vue
 
+- [Nuxt 3 + Vuetify 3 Starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
+- [Content Wind](https://github.com/Atinux/content-wind) - Lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.
 - [Nuxt 3 Minimal Starter](https://github.com/Dawntraoz-Storyblok/storyblok-nuxt-jamstack-blog)
 - [Nuxt 3 PWA](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3.
 - [Nuxt 3 Minimal Starter with ESLint](https://github.com/Diizzayy/n3-starter)
@@ -20,6 +24,7 @@ title: Vue.js
 - [VueTube](https://github.com/Frontesque/VueTube) - Open source YouTube client.
 - [VuePress Home Page](https://github.com/imfing/vuepress-homepage) - Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress.
 - [Nuxt 3 + Medium (n3dium)](https://github.com/danielroe/n3dium)
+- [Avantage](https://github.com/jurassicjs/avantage) - Accelerate building full stack node applications with Nuxt 3.
 
 ## Notes
 
@@ -204,3 +209,13 @@ title: Vue.js
 - [Nuxt Web Bundle](https://github.com/danielroe/nuxt-web-bundle) - Generate web bundles with Nuxt 3.
 - [Flowbite Vue 3](https://flowbite-vue.com/) - Official Vue 3 components built for Flowbite and Tailwind CSS. ([Code](https://github.com/themesberg/flowbite-vue))
 - [V-Mapkit.js](https://github.com/geoql/v-mapkit.js) - Vue 3 + MapKit JS.
+- [Nuxt-Iron-Session](https://github.com/wobsoriano/nuxt-iron-session) - Add stateless session support for Nuxt apps using signed and encrypted cookies.
+- [vue-mixable](https://github.com/LinusBorg/vue-mixable) - Turn Vue Mixins into Composables with a simple helper function.
+- [Nuxt Plausible](https://github.com/johannschopplich/nuxt-plausible) - Nuxt 3 module to natively integrate Plausible analytics.
+- [Vue Data Picker](https://github.com/Vuepic/vue-datepicker)
+- [Advent Of Vue](https://adventofvue.com/) ([In SvelteKit](https://github.com/geoffrich/advent-of-sveltekit-2022))
+- [v-satori](https://github.com/wobsoriano/v-satori) - Generate a satori-friendly VDOM from a Vue component.
+- [Vue Auth UI](https://github.com/ndrbrt/vue-auth-ui) - Pre-built Vue component for authenticating users.
+- [Nuxt Lazy Hydrate](https://github.com/Baroshem/nuxt-lazy-hydrate)
+- [Nuxt Typography](https://github.com/nuxt-themes/typography) - Nuxt theme to get a beautiful and customisable typography with Nuxt Content.
+- [Vue-Sprinkles](https://github.com/wobsoriano/vue-sprinkles) - Composable to create a component from your vanilla-extract + sprinkles tokens.

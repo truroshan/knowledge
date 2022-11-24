@@ -1,12 +1,16 @@
 # Ideas
 
-I share all ideas of things I want to build in [Notion](../sharing/my-notion.md) as well as sharing [all the projects I am making or have made](https://nikiv.dev/projects).
+I share all ideas of things I want to build or building now [in Height](../focusing/goals.md). And I share ideas I published [here](https://nikiv.dev/projects).
 
-Currently I am focusing my time on building [Learn Anything](learn-anything.md).
+I am focusing my time on building [Learn Anything](learn-anything.md) as it will also be the main place I track and share all kinds of ideas with everyone. Height is nice but sadly can't share contents of it publicly.
 
-I try to give my full attention to any ideas I am working on.
+I try to give my full attention to any ideas I am working on. As well as [trying many things](https://twitter.com/levelsio/status/1457315274466594817). Everything I try build benefits me in some way.
 
 ![](https://i.imgur.com/CXLG4IY.jpg)
+
+I try to expose myself to novel experiences and be attentive to everything. Conversations I have, things I notice. What I feel. Any kind of friction I feel is an idea to build something to get rid of the friction, so I write it down, sort by priority and build it or let someone build it by sharing the idea.
+
+Few things that inspire new ideas are [travelling](../travel/travel.md) to new places, [meeting new people](../work/communication.md) (asking what everyone is excited about right now), [going for walks](https://twitter.com/emollick/status/1590785568929382401) and nice showers. Plus listening to great [podcasts](../podcasts/podcasts.md), movies/series. Well everything really can spark an idea. Just make sure to note it down and work on them as [all ideas start fragile and can be easily killed or forgotten](https://www.youtube.com/watch?v=2oksetv3i90).
 
 ## Notes
 
@@ -24,6 +28,7 @@ I try to give my full attention to any ideas I am working on.
 - [More people should make "1% products". Tiny little gems that have 1% of the functionality, but are obsessively polished and perfect.](https://twitter.com/palm_beach_m/status/1507220620328808449)
 - [My best advice for people trying to figure out what’s next is figure out what they want to do after the next thing—the next next thing—and do the thing next that will increase the success of that next next thing (which may just be skipping straight to the next next thing).](https://twitter.com/dwr/status/1519900289855152129)
 - [Good idea generator: 1: Have any idea. 2: Pursue it. 3: Build something that makes it easier to achieve. 4: #3 is your good idea.](https://twitter.com/mattwensing/status/1552136584224509954)
+- [Build things for yourself. It's much more motivating and fun to build for yourself. You know precisely what you want.](https://twitter.com/thomaspaulmann/status/1589238572296859652)
 
 ## Links
 
@@ -139,3 +144,9 @@ I try to give my full attention to any ideas I am working on.
 - [Project book](https://projectbook.code.brettchalupa.com/) - Collection of 100 project ideas for learning. ([HN](https://news.ycombinator.com/item?id=33245614))
 - [Ask HN: What not-profit-seeking project are you tinkering with this week? (2022)](https://news.ycombinator.com/item?id=33256412)
 - [Just for Fun. No, really.](https://justforfunnoreally.dev/) ([HN](https://news.ycombinator.com/item?id=33255920))
+- [Ask HN: Comment here about whatever you're passionate about at the moment (2022)](https://news.ycombinator.com/item?id=33488891)
+- [Ask HN: What are your “scratch own itch” projects? (2022)](https://news.ycombinator.com/item?id=33582687)
+- [Give Your Ideas Some Legs: The Positive Effect of Walking on Creative Thinking](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf) ([Tweet](https://twitter.com/emollick/status/1590785568929382401)) ([HN](https://news.ycombinator.com/item?id=33620716))
+- [What software do you dream about, but do not have time to code yourself? (2022)](https://lobste.rs/s/gjza8a/what_software_do_you_dream_about_do_not)
+- [Ask HN: Alternative ways to make money with coding and system skills? (2022)](https://news.ycombinator.com/item?id=33619650)
+- [Ask HN: What is the most impactful thing you've built? (2022)](https://news.ycombinator.com/item?id=33659852)

@@ -2,7 +2,7 @@
 
 [Exercism Elixir exercises](https://github.com/exercism/elixir) & [DockYard's guide](https://github.com/DockYard-Academy/beta_curriculum) are nice intros.
 
-[Gleam](../gleam.md) is nice typed Elixir.  
+[Gleam](../gleam.md) is nice typed Elixir.
 
 ## Links
 
@@ -185,3 +185,8 @@
 - [RustlerElixirFun](https://github.com/Qqwy/elixir-rustler_elixir_fun) - Calling Elixir or Erlang functions from native code written in Rust.
 - [Parser Combinators in Elixir: Taming Semi-Structured Text (2022)](https://blog.appsignal.com/2022/10/18/parser-combinators-in-elixir-taming-semi-structured-text.html)
 - [Composable Collectable in Elixir (2021)](https://akash-akya.github.io/post/composable-collectable/)
+- [An Animated Introduction to Elixir](https://markm208.github.io/exbook/) ([HN](https://news.ycombinator.com/item?id=33503306))
+- [On Caching Elixir Beam files (2022)](https://ananthakumaran.in/2022/08/26/elixir-ci-cache.html)
+- [ElixirConf 2022 - Onorio Catenacci - Searching Your Elixir Code](https://www.youtube.com/watch?v=am9NSuTjOhA&list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr)
+- [Functional Imperative Programming With Elixir (2018)](http://bitwalker.org/posts/2018-03-18-functional-imperative-programming-with-elixir/)
+- [The Complete Guide to Full-text Search with Postgres and Ecto (2022)](https://www.peterullrich.com/complete-guide-to-full-text-search-with-postgres-and-ecto)

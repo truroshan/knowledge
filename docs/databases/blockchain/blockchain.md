@@ -12,6 +12,8 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 
 [Dark Forest](https://zkga.me/) is a [unique game built on top of blockchain](https://twitter.com/larsiusprime/status/1537181872572485632).
 
+[Thirdweb](https://thirdweb.com/) seems like a nice dev framework.
+
 ## Consensus algorithms
 
 - PoW: The more hashing power the more trust worthy.
@@ -370,7 +372,6 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Sui](https://github.com/MystenLabs/sui) - Smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 - [Веб 3.0 (2022)](https://vas3k.ru/blog/web3/)
 - [Aptos](https://aptoslabs.com/) - Building the safest and most scalable Layer 1 blockchain. ([Code](https://github.com/aptos-labs/aptos-core))
-- [tea](https://tea.xyz/) - Toolkit that builds the Internet.
 - [A Comparison of Heterogeneous Blockchain Networks (2022)](https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279) ([Tweet](https://twitter.com/el33th4xor/status/1507686380658429957))
 - [Matchstick](https://github.com/LimeChain/matchstick) - Unit testing framework for The Graph protocol.
 - [0Chain](https://0chain.net/) - Decentralized blockchain-based storage platform with built-in privacy and security compliance. It provides high performance, enforceable SLAs, choice of providers for all enterprise grade applications. ([Code](https://github.com/0chain/0chain))
@@ -414,3 +415,10 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Glow ID](https://glow.xyz/glowid) - Social Profile That You Own.
 - ["Beyond Blockchain: Convergent Consensus" by Mike Anderson (2022)](https://www.youtube.com/watch?v=XmDUkrOAhsY)
 - [Dune Client](https://github.com/cowprotocol/dune-client) - Framework for interacting with Dune Analytics' officially supported API service.
+- [Uniswap Labs Widgets](https://github.com/Uniswap/widgets)
+- [Discove](https://www.discove.xyz/)
+- [Twilight: A Differentially Private Payment Channel Network (2022)](https://www.usenix.org/conference/usenixsecurity22/presentation/dotan)
+- [Notes on Proposer-Builder Separation (PBS) (2022)](https://barnabe.substack.com/p/pbs)
+- [Validity Language](https://github.com/Tempest-Protocol/validity) - Next-generation, deduction-based language for formally verified, context-aware, autonomous & reactive smart contracts.
+- [Thirdweb](https://thirdweb.com/) - Complete web3 development framework. ([Dashboard code](https://github.com/thirdweb-dev/dashboard)) ([GitHub](https://github.com/thirdweb-dev))
+- [SSX](https://github.com/spruceid/ssx) - Self-Sovereign Anything.

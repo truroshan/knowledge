@@ -2,7 +2,7 @@
 
 [Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
 
-Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969).
+Love [command palettes](https://twitter.com/pacocoursey/status/1556635574051667969). [This](https://maggieappleton.com/command-bar) is nice overview of well designed search palettes. And [CMD+K](https://github.com/pacocoursey/cmdk) is nice library for making them.
 
 ## Notes
 
@@ -24,6 +24,7 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Love the dot on top to show which part of website you are.](https://benadam.me/thoughts/)
 - [Focus on: Layout. Hierarchy. Feature discoverability. Seeding content. In the shortest time possible, do whatever you can to: 1. Get users to the Aha Moment (i.e., "Oh that's what this app is for". 2. Activated (e.g., reach minimum friend count).](https://twitter.com/nikitabier/status/1499105551938031616)
 - [Successful product starts with a great onboarding.](https://twitter.com/KilianPoulinTW/status/1497573920181927943)
+- [If you have a real, engaged customer base, you'll never go wrong by focusing on things that smooth out their workflows. Speed and stability are usually high on that list. Make it easier to centralize on the tool as well.](https://twitter.com/bkono101010/status/1594593294147014656)
 
 ## Links
 
@@ -207,3 +208,10 @@ Love [command palettes](https://twitter.com/pacocoursey/status/15566355740516679
 - [Beginner’s Guide to Finding User Needs](https://urbook.fordes.de/)
 - [Write better error messages (2022)](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f) ([HN](https://news.ycombinator.com/item?id=33261125))
 - [SaaS Shots](https://twitter.com/saasshots) - Hand-picked design patterns from real SaaS products.
+- [Classic HCI demos](https://jackrusher.com/classic-ux/)
+- [Resolving the Great Undo-Redo Quandary](https://github.com/zaboople/klonk/blob/master/TheGURQ.md) ([HN](https://news.ycombinator.com/item?id=33560275))
+- [Why everything looks the same (2022)](https://medium.com/knowable/why-everything-looks-the-same-bad80133dd6e) ([HN](https://news.ycombinator.com/item?id=33520414))
+- [Tray background color to indicate what action a user is taking](https://twitter.com/benjitaylor/status/1390410175236902913) ([In Safari](https://twitter.com/pacocoursey/status/1591151080628682752))
+- [Command K Bars (2022)](https://maggieappleton.com/command-bar)
+- [Craft — Thoughts on elevating product quality (2022)](https://paulstamatiou.com/craft/)
+- [Button styles](https://twitter.com/AdhamDannaway/status/1595425255027269634)

@@ -415,3 +415,19 @@ title: ML Libraries
 - [Neograd](https://github.com/pranftw/neograd) - Deep learning framework created from scratch with Python and NumPy.
 - [MMEval](https://github.com/open-mmlab/mmeval) - Unified and open cross-framework evaluation library.
 - [cuda-convnet](https://github.com/mbrukman/cuda-convnet) - High-performance C++/CUDA implementation of abstract convolutional neural networks.
+- [Vectory](https://github.com/pentoai/vectory) - Collection of tools to track and compare embedding versions.
+- [Lovely Tensors](https://github.com/xl0/lovely-tensors) - Tensors, ready for human consumption.
+- [EPyMARL](https://github.com/uoe-agents/epymarl) - Extended Python MARL framework.
+- [Zero](https://github.com/mangaki/zero) - Mangaki's recommendation algorithms.
+- [LassoNet](https://github.com/lasso-net/lassonet) - Feature selection in neural networks.
+- [AutoOED](https://github.com/yunshengtian/AutoOED) - Automated Optimal Experimental Design Platform.
+- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - Tool for predicting the accuracy of Deep Neural Networks.
+- [Web Neural Network API samples](https://github.com/webmachinelearning/webnn-samples)
+- [SparseTIR](https://github.com/uwsampl/sparsetir) - Sparse Tensor Compiler for Deep Learning.
+- [Embetter](https://github.com/koaning/embetter) - Scikit-learn compatible embeddings for computer vision and text.
+- [FlowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference.
+- [PyImpetus](https://github.com/atif-hassan/PyImpetus) - Markov Blanket based feature subset selection algorithm that considers features both separately and together as a group in order to provide not just the best set of features but also the best combination of features.
+- [TPU Care](https://github.com/ClashLuke/tpucare) - Automatically take good care of your preemptible TPUs.
+- [Merlin Dataloader](https://github.com/NVIDIA-Merlin/dataloader) - Lets you rapidly load tabular data for training deep leaning models with TensorFlow, PyTorch or JAX.
+- [SISH](https://github.com/mahmoodlab/SISH) - Fast and scalable search of whole-slide images via self-supervised deep learning.
+- [TuneTA](https://github.com/jmrichardson/tuneta) - Intelligently optimizes technical indicators and optionally selects the least intercorrelated for use in machine learning models.

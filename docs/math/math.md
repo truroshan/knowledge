@@ -412,3 +412,7 @@
 - [What is your favorite powerful result with a surprisingly simple proof? (2022)](https://www.reddit.com/r/math/comments/yatlyp/what_is_your_favorite_powerful_result_with_a/)
 - [Programming for Mathematicians 2022](https://www.youtube.com/playlist?list=PL7RZyOlq_XnyUAmcuMgmPTJTUc5NPKYK6)
 - [What is a math “fact” that is completely unintuitive to the average person?](https://www.reddit.com/r/math/comments/yictte/what_is_a_math_fact_that_is_completely/)
+- [If you could re-do all math nomenclature, how would you rename things to make them more clear or more intuitive? (2022)](https://www.reddit.com/r/math/comments/ysbtnr/if_you_could_redo_all_math_nomenclature_how_would/)
+- [Mathematical Blind Spots](https://kylehovey.github.io/blog/mathematical-blind-spots)
+- [Wavelets: A mathematical microscope](https://www.youtube.com/watch?v=jnxqHcObNK4) ([HN](https://news.ycombinator.com/item?id=33583114))
+- [What are the most influential math books ever written? (2022)](https://www.reddit.com/r/math/comments/yz8px3/what_are_the_most_influential_maths_books_ever/)

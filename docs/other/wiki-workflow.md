@@ -182,12 +182,15 @@ I want to:
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [McCoy R. Becker](https://femtomc.github.io/)
 - [Rosano Garden](https://rosano.hmm.garden/)
+- [Christian's "Cheat-Sheets"](https://github.com/ChristianLempa/cheat-sheets)
+- [Louis Beaumont](https://brain.louis030195.com/README)
 - [Matt Titmus TIL](https://github.com/clockworksoul/today-i-learned)
 - [Scott Spence's Garden](https://scottspence.com/garden)
 - [Uncertainty Mindset Wiki](https://uncertaintymindset.org/UM1/index.html)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
 - [Ten Digits](https://tendigits.space/site/index.html)
+- [Fenil Jain](https://github.com/feniljain/knowledge-base)
 - [Sridhar Ratnakumar](https://notes.srid.ca/) ([Code](https://github.com/srid/notes.srid.ca))
 - [Uzay-G's Wiki](https://knowledge.uzpg.me/)
 - [Clinton Boys's Garden](http://mtsolitary.com/)
@@ -231,6 +234,7 @@ I want to:
 - [Brandon's Digital Garden](https://wiki.brandontoner.ca/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
+- [Lacey Henschel's TIL](https://github.com/williln/til)
 - [Evan's Notes](https://peppyhare.github.io/r/) ([Code](https://github.com/PeppyHare/r))
 - [Allen Lee](https://www.haskell.computer/) ([Code](https://github.com/ale0sx/brains))
 - [Keyvan Akbary's Notes](https://keyvanakbary.github.io/learning-notes/) ([Code](https://github.com/keyvanakbary/learning-notes))
@@ -537,3 +541,7 @@ I want to:
 - [Silver Bullet](https://github.com/silverbulletmd/silverbullet) - Extensible, open source personal knowledge platform.
 - [cobalt](https://co.wukko.me/) - Best way to save content you love. ([Code](https://github.com/wukko/cobalt))
 - [Recall](https://www.recall-app.com/) - Helps you remember things you're interested in. ([HN](https://news.ycombinator.com/item?id=33425947))
+- [Lazy](https://lazy.so/) - Capture tool for knowledge. ([Tweet](https://twitter.com/demtzu/status/1589633050107080704))
+- [Potluck](https://potluck-sheets.vercel.app/) ([Code](https://github.com/inkandswitch/potluck))
+- [The Archive](https://zettelkasten.de/the-archive/) - Zettelkasten Method macOS app.
+- [acreom](https://acreom.com/) - Capture notes, break down issues, track your progress, create a knowledge base.

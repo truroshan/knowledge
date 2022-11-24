@@ -17,6 +17,7 @@
 - [Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
 - [Motor](https://github.com/flintprocessor/Motor) - Swift cli spinner. Simple and fully customizable.
 - [SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications.
+- [Beak](https://github.com/yonaskolb/Beak) - Command line interface for your Swift scripts.
 
 ## Animation
 
@@ -279,6 +280,12 @@
 - [Yokoso](https://github.com/toshi0383/Yokoso) - Simple spotlight instruction framework for UIKit iOS.
 - [Parchment](https://github.com/k-kohey/Parchment-swift) - Event logger implemented in Swift.
 - [EZCustomNavigation](https://github.com/Enricoza/EZCustomNavigation) - Easy Custom Navigation Controller that allows popping view controllers with pan gesture from center too and UnPop them back in.
+- [ImageViewer.swift](https://github.com/michaelhenry/ImageViewer.swift) - Easy to use Image Viewer that is inspired by Facebook.
+- [Thunder Basics](https://github.com/3sidedcube/ThunderBasics) - Collection of helpful extensions, subclasses and wrappers to make iOS app development easier.
+- [Thunder Collection](https://github.com/3sidedcube/ThunderCollection) - Wrapper around UICollectionViewController enabling a declarative API around it's delegate methods using protocols.
+- [Baymax](https://github.com/3sidedcube/Baymax) - Diagnostics framework for iOS apps.
+- [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
+- [Lurker](https://github.com/Sam-Spencer/Lurker) - Abstraction over the iOS BackgroundTask API to make background tasks easy to isolate, maintain and schedule.
 
 ## macOS
 
@@ -303,9 +310,12 @@
 - [MenuBuilder](https://github.com/j-f1/MenuBuilder) - Swift Function Builder for creating NSMenuItems.
 - [LoginItemKit](https://github.com/chrenn/LoginItemKit) - Add non-sandboxed macOS applications to user login items.
 - [DSFMenuBuilder](https://github.com/dagronf/DSFMenuBuilder) - SwiftUI-style DSL for generating `NSMenu` instances for AppKit.
+- [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin-Modern) - Add “Launch at Login” functionality to your macOS app in seconds.
 
 ## Web
 
+- [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Swift HTTP library to rapidly create communication layers with API endpoints.
+- [CleanNetwork](https://github.com/alperen23230/CleanNetwork) - Lightweight URLSession wrapper for using async/await in networking.
 - [Mu](https://github.com/Nirma/Mu) - Minimalist HTTP request library via async / await.
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
 - [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.
@@ -366,6 +376,7 @@
 - [SafeURL](https://github.com/baguio/SwiftSafeURL) - Compile-time-checked URLs.
 - [JWT](https://github.com/vapor/jwt) - Vapor JWT provider.
 - [RxNetworks](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+- [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor.
 
 ## GraphQL
 
@@ -579,6 +590,10 @@
 - [EasyMenu](https://github.com/hdehghan/EasyMenu) - SwiftUI Menu but not only button. You can create custom Menu.
 - [SwiftUI Dynamic Island Animations](https://github.com/amosgyamfi/dynamic-island-animations)
 - [TagExtractor](https://github.com/GeorgeElsham/TagExtractor) - Extract tag value from SwiftUI views.
+- [HypeUI](https://github.com/hyperconnect/HypeUI) - Implementation of Apple's SwiftUI DSL style based on UIKit.
+- [SimpleToast](https://github.com/sanzaru/SimpleToast) - Simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI.
+- [Engine](https://github.com/nathantannar4/Engine) - Performance driven framework for developing SwiftUI frameworks and apps.
+- [UIToolz](https://github.com/flowtoolz/UIToolz) - Programmatic UI in Swift.
 
 ## Test
 
@@ -637,6 +652,7 @@
 - [RSocket Swift](https://github.com/rsocket/rsocket-swift) - Client and Server implementation of the RSocket (Reactive Socket) network protocol on top of SwiftNIO.
 - [MySQLKit](https://github.com/vapor/mysql-kit) - Non-blocking, event-driven Swift client for MySQL.
 - [MySQLNio](https://github.com/vapor/mysql-nio) - Non-blocking, event-driven Swift client for MySQL built on SwiftNIO.
+- [OHMySQL](https://github.com/oleghnidets/OHMySQL) - Swift + MySQL.
 - [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models.
 - [Swift ORM](https://github.com/prisma-ai/Sworm) - CoreData based Swift ORM.
 - [RapidLMDB](https://github.com/tannerdsilva/RapidLMDB) - Fast and efficient LMDB wrapper for Swift.
@@ -663,6 +679,7 @@
 ## Crypto
 
 - [Elliptic Curve Key Pair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave on iOS and MacOS.
+- [CBORCoding](https://github.com/SomeRandomiOSDev/CBORCoding) - Lightweight framework containing a coder pair for encoding and decoding Codable conforming types to and from CBOR document format.
 
 ## WebSocket
 
@@ -673,6 +690,7 @@
 - [Matft](https://github.com/jjjkkkjjj/Matft) - Numpy-like library in Swift. Function name and usage is similar to Numpy.
 - [NumberKit](https://github.com/objecthub/swift-numberkit) - Advanced numeric data types for Swift 5, including BigInt, Rational, and Complex numbers.
 - [FirebladeMath](https://github.com/fireblade-engine/math) - Dependency free, lightweight, fast math library for 2D and 3D vectors, quaternions and matrices in Swift with (optional) SIMD support.
+- [Euler](https://github.com/arguiot/Euler) - Computational framework written in Swift.
 
 ## Other
 
@@ -1290,6 +1308,28 @@
 - [swift-index-store](https://github.com/lyft/swift-index-store) - Library to read from Swift / clang source code indexes.
 - [ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
 - [LongPressButton](https://github.com/danielctull-playground/LongPressButton)
+- [XConfigs](https://github.com/michaelhenry/XConfigs) - Quick, simple and stylish solution for your remote and dev configurations.
+- [Advanced ScrollView](https://github.com/dmytro-anokhin/advanced-scrollview) - Build advanced interactions with UIScrollView and NSScrollView in SwiftUI.
+- [TimecodeKit](https://github.com/orchetect/TimecodeKit) - Robust and precise SMPTE timecode library supporting 20 frame rates.
+- [MIDIKit](https://github.com/orchetect/MIDIKit) - Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
+- [PListKit](https://github.com/orchetect/PListKit) - Multiplatform Swift library bringing functional methods and type safety to .plist (Property List) files.
+- [SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
+- [EasyBackgroundRefresh](https://github.com/yonat/EasyBackgroundRefresh) - Easy background refresh registration, scheduling, execution, and completion. BGTaskScheduler for the lazy.
+- [ReflectionMirror](https://github.com/philipturner/swift-reflection-mirror)
+- [SerializedSwift](https://github.com/dejanskledar/SerializedSwift) - Significant enhancement to the current Codable protocol for better and easier Serializing and Deserializing of JSON.
+- [TaskQueue](https://github.com/icanzilb/TaskQueue) - Task Queue Class developed in Swift.
+- [ASN1Parser](https://github.com/DominikHorn/ASN1Parser) - Minimalistic Swift parser for ASN.1 data. Currently supports DER and therefore also BER binary format.
+- [MothECS](https://github.com/forkercat/MothECS) - Simple Entity Component System in Swift.
+- [Inject](https://github.com/MaximBazarov/Inject) - Effortless modular dependency injection for Swift.
+- [Decide](https://github.com/MaximBazarov/Decide) - Modular state and side-effects system for your swift application.
+- [Frostflake](https://github.com/ordo-one/package-frostflake) - High performance unique ID generator inspired by Snowflake.
+- [ProcessService](https://github.com/ChimeHQ/ProcessService) - System to host an executable within an XPC service.
+- [MessagePack.swift](https://github.com/a2/MessagePack.swift) - Fast, zero-dependency MessagePack implementation.
+- [NearbyActorSystem](https://github.com/antigp/NearbyActorSystem) - Easy to use implementation of a DistributedActorSystem Swift 5.7 language feature based on MultiPeer Connectivity framework.
+- [Compilertron](https://github.com/johnno1962/Compilertron) - InjectionIII for the Swift compiler.
+- [BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
+- [SwiftTypeReader](https://github.com/omochi/SwiftTypeReader) - Gather type definitions from Swift source code.
+- [FineJSON](https://github.com/omochi/FineJSON) - More useful JSONEncoder, Decoder.
 
 ## Other (not lib)
 
@@ -1375,3 +1415,7 @@
 - [Learn how to use Core Data CloudKit](https://github.com/delawaremathguy/CoreDataCloudKitShare)
 - [Swift dependency graph](https://github.com/adam-fowler/swift-dependency-graph) - Visualization of swift package dependencies.
 - [ExtensionKit](https://developer.apple.com/documentation/extensionkit) - Create executable bundles to extend the functionality of other apps by presenting a user interface. ([HN](https://news.ycombinator.com/item?id=33409558))
+- [Loco](https://github.com/konrad1977/loco) - Fast CLI linter for Localization.strings and swift files.
+- [Swift CI](https://github.com/BinaryBirds/CI) - Swift + Continuous Integration service.
+- [Jungle](https://github.com/xing/jungle) - Swift CLI tool that generates complexity metrics information from a Cocoapods Xcode project or a SwiftPM package.
+- [Build DocC documentation for your Xcode project / Swift Package](https://github.com/lukepistrol/xcodebuild-docc-action)

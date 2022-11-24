@@ -6,6 +6,8 @@
 
 [YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build. Need to [be bold with trying all kinds of ideas](https://twitter.com/FoundersPodcast/status/1581803172879749121).
 
+[Try many ideas. Many will fail, some will succeed. The goal is to find the right mix of successful changes to ensure the long-term health and growth of the business.](https://twitter.com/esthercrawford/status/1590386711179464705)
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.
@@ -395,6 +397,7 @@
 - [Being on a board as an employee (2022)](https://paulosman.me/2022/10/17/being-on-a-board/) ([HN](https://news.ycombinator.com/item?id=33234884))
 - [Product Market Fit](https://www.kevinslin.com/notes/htchyy536bb169mzu47ksb6/) ([HN](https://news.ycombinator.com/item?id=33308135))
 - [The Cadence: How to Operate a SaaS Startup (2020)](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+- [Ask HN: How do you start a startup in your 30s when you have wife/kids/mortgage? (2022)](https://news.ycombinator.com/item?id=33707889)
 
 ## Images
 

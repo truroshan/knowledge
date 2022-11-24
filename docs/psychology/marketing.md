@@ -6,6 +6,8 @@ Think [Poolsuite](https://poolsuite.net/) does marketing incredibly well. All th
 
 One way to do launches with possible virality is rewarding people who retweet with potential to win some amazing reward [like life time subscription](https://twitter.com/thekitze/status/1144147293786005504).
 
+Best way to do marketing is simply [launching features often and sharing updates through multiple channels](https://www.producthunt.com/discussions/i-m-alex-maccaw-founder-of-clearbit-and-reflect-ask-me-anything) (Twitter/Email are most effective). As well as making teaching content via nicely readable shareable docs or videos.
+
 ## Nice ads
 
 - [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)
@@ -192,6 +194,10 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [Race car growth framework](https://twitter.com/lennysan/status/1579843486672556033)
 - [Ask HN: How to Learn to Sell? (2022)](https://news.ycombinator.com/item?id=33224240)
 - [Companies that are best at telling their story](https://twitter.com/packyM/status/1582018462574346240)
+- [Spending 0$ on traditional paid marketing but still acquiring customers (2022)](https://twitter.com/ankurnagpal/status/1593026491058917377)
+- [Narratives (2022)](https://stratechery.com/2022/narratives/)
+- [Senja](https://senja.io/) - Collect, Manage and Share Testimonials. ([Demo](https://love.senja.io/))
+- [Product Hunt Launch Checklist](https://phlaunchchecklist.com/)
 
 ## Images
 

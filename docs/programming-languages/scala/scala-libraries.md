@@ -19,6 +19,10 @@
 - [Cask](https://github.com/com-lihaoyi/cask) - Scala HTTP micro-framework.
 - [http4s-curl](https://github.com/http4s/http4s-curl) - Experimental client for http4s on Scala Native, backed by libcurl.
 - [fs2-dom](https://github.com/armanbilge/fs2-dom) - Idiomatic Cats Effect + FS2 integrations for Web APIs.
+- [Scala DOM Types](https://github.com/raquo/scala-dom-types) - Scala types for your library to represent HTML tags, attributes, properties and CSS styles.
+- [Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js. ([Talk](https://www.youtube.com/watch?v=L_AHCkl6L-Q)) ([Web](https://laminar.dev/))
+- [Waypoint](https://github.com/raquo/Waypoint) - Efficient router for Laminar UI Library.
+- [Apache Pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala.
 
 ## CLI
 
@@ -43,6 +47,7 @@
 - [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Scala Native wrapper of the SQLite C library.
 - [Scalding](https://github.com/twitter/scalding) - Scala library that makes it easy to specify Hadoop MapReduce jobs.
 - [ProtoQuill](https://github.com/zio/zio-protoquill) - Compile-time Language Integrated Queries for Scala.
+- [SPL-to-PySpark transpiler](https://github.com/databrickslabs/transpiler)
 
 ## Math
 
@@ -203,6 +208,8 @@
 - [Morphling](https://github.com/danslapman/morphling) - Cats-based Scala library for free applicative schemas.
 - [Kalix Java and Scala SDK](https://github.com/lightbend/kalix-jvm-sdk)
 - [Scala Standard Parser Combinator](https://github.com/scala/scala-parser-combinators) - Parsing for Scala.
+- [Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches.
+- [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) - Implementation of the Debug Adapter Protocol for Scala.
 
 ## Links
 
@@ -238,3 +245,5 @@
 - [Scala 3 Metaprogramming Examples](https://github.com/lampepfl/dotty-macro-examples)
 - [Sbtix](https://github.com/natural-transformation/sbtix) - Generates a Nix definition that represents your SBT project's dependencies.
 - [Dotty-patched and Eval](https://github.com/DmytroMitin/dotty-patched) - Evaluating source code and trees at compile time hacking multi-staging programming.
+- [Immutable Collections should be Your Default (2022)](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
+- [ScalaZ and Cats](https://github.com/fosskers/scalaz-and-cats) - Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).

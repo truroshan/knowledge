@@ -2,6 +2,8 @@
 
 I like asking people [what they are excited about](https://twitter.com/HelloShreyas/status/1507219196781871113).
 
+One thing I learned is to always be proactive with cold approaching people, just phrase the first message to short and actionable. Many great things came from someone sending that first message and connecting.
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)
@@ -213,3 +215,6 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ask HN: How do I learn to communicate effectively? (2022)](https://news.ycombinator.com/item?id=33091972)
 - [There are three types of meetings](https://camdaigle.com/posts/three-types-of-meetings/)
 - [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/) ([HN](https://news.ycombinator.com/item?id=33370870))
+- [Effective Sync Meetings (2022)](https://blog.jonm.dev/posts/effective-sync-meetings/)
+- [Record and transcribe your meetings + more tips (2022)](https://twitter.com/berman66/status/1590769320766099456)
+- [Ask HN: Why do some people not communicate clearly? (2022)](https://news.ycombinator.com/item?id=33656909)

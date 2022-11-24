@@ -252,3 +252,11 @@ title: DNS
 - [Automated learning of regexes for DNS discovery](https://github.com/cramppet/regulator)
 - [DNS privacy with speed? Evaluating DNS over QUIC and its impact on web performance (2022)](https://dl.acm.org/doi/10.1145/3517745.3561445)
 - [DNS Response Size (2022)](https://www.netmeister.org/blog/dns-size.html)
+- [Making a DNS query in Ruby from scratch (2022)](https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/) ([HN](https://news.ycombinator.com/item?id=33494386))
+- [Stop using low DNS TTLs (2019)](https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/) ([HN](https://news.ycombinator.com/item?id=33527642))
+- [macOS DNS resolving change in Go 1.20 (2022)](https://danp.net/posts/macos-dns-change-in-go-1-20/)
+- [Zig-DNS](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in Zig.
+- [DNS over Ping](https://github.com/jamespwilliams/dns-over-ping)
+- [Faster DNS name decompression (2022)](https://dotat.at/@/2022-11-17-dns-decompress.html)
+- [Subdomain Sleuth](https://github.com/yahoo/SubdomainSleuth) - Scanner to identify dangling DNS records and subdomain takeovers.
+- [acme-dns](https://github.com/joohoi/acme-dns) - Simplified DNS server with a RESTful HTTP API to provide a simple way to automate ACME DNS challenges.

@@ -20,11 +20,17 @@ My favorite psychedelics currently are [4-AcO-DMT](https://psychonautwiki.org/wi
 
 Want to try [mescaline](https://www.reddit.com/r/mescaline/comments/uiz47o/wow/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) at some point too and actually breakthrough on DMT.
 
-I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance.
+I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance. Usually take 2+ month breaks in between.
 
 I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day.
 
 Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md) taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my [happiness](../../life/happiness.md) amidst all the universe's chaos.
+
+I like listening to my [Trip playlist of songs](https://open.spotify.com/playlist/2FiHv3aqoyPNojdSYrHa5A) when I trip.
+
+[Realchems](https://realchems.net/) is great vendor.
+
+It's good to be aware that [set and setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/) are important to get right before taking psychedelics. Otherwise you risk getting a [bad trip](https://www.reddit.com/r/Psychonaut/comments/yx9c8v/how_bad_does_a_bad_trip_feel/).
 
 ## Notes
 
@@ -177,3 +183,5 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [The life-changing effects of hallucinations (2022)](https://www.bbc.com/future/article/20221005-how-to-hallucinate-without-drugs-and-learn-about-your-brain) ([HN](https://news.ycombinator.com/item?id=33109262))
 - [Borax Reddit](https://www.reddit.com/r/Borax/)
 - [Trial of Psilocybin versus Escitalopram for Depression (2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2032994) ([Tweet](https://twitter.com/RCarhartHarris/status/1586757459888201732))
+- [Psychedelics: A Personal Take (2021)](https://ava.substack.com/p/psychedelics-a-personal-take) ([HN](https://news.ycombinator.com/item?id=33435140))
+- [Guide to Taking Psychedelics: Set & Setting](https://www.reddit.com/r/LSD/comments/bc7l6l/guide_to_taking_psychedelics_set_setting/)

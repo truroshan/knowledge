@@ -4,7 +4,7 @@ title: BitTorrent
 
 # [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
 
-[Transmission](https://transmissionbt.com/) is a great BitTorrent client. [rain](https://github.com/cenkalti/rain) is nice BitTorrent Go client/lib.
+[Transmission](https://transmissionbt.com/) is a great BitTorrent client. [rain](https://github.com/cenkalti/rain) is nice BitTorrent Go client/lib. [Porla](https://github.com/porla/porla) seems nice as a BitTorrent server.
 
 ## Torrent sites
 
@@ -36,7 +36,7 @@ title: BitTorrent
 - [confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service.
 - [/r/trackers](https://www.reddit.com/r/trackers/) - Great subreddit.
 - [BTFS](https://www.bittorrent.com/btfs/) - Mount any .torrent file or magnet link as directory. ([HN](https://news.ycombinator.com/item?id=23576063))
-- [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/) ([HN](https://news.ycombinator.com/item?id=21958359)) ([Code](https://github.com/veggiedefender/torrent-client))
+- [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/) ([HN](https://news.ycombinator.com/item?id=21958359)) ([Code](https://github.com/veggiedefender/torrent-client)) ([HN](https://news.ycombinator.com/item?id=33495328))
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
 - [DHT](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [Intermodal](https://rodarmor.com/blog/intermodal) - New command-line BitTorrent metainfo utility. ([Code](https://github.com/casey/intermodal))
@@ -144,3 +144,5 @@ title: BitTorrent
 - [LinuxServer.io qBittorrent](https://github.com/linuxserver/docker-qbittorrent)
 - [Ask HN: I've Built a DHT Torrent Sniffer and Search Engine. Should I Release? (2022)](https://news.ycombinator.com/item?id=33305671)
 - [we-get](https://github.com/rachmadaniHaryono/we-get) - Command-line tool for searching torrents.
+- [Gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
+- [Planktos](https://github.com/xuset/planktos) - Serving websites over BitTorrent.

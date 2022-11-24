@@ -2,7 +2,7 @@
 
 I love using [macOS](../macOS/macOS.md) as my personal OS.
 
-And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
+And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md). [illumos](https://illumos.org/) is interesting too.
 
 [MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) & [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) courses are great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
 
@@ -69,7 +69,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Cosmos](https://github.com/CosmosOS/Cosmos) - Operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more. ([Web](https://www.gocosmos.org/))
 - [MollenOS](https://github.com/Meulengracht/MollenOS) - Modern operating system that is built with focus on abstraction and a modular design.
 - [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications.
-- [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/))
+- [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/)) ([HN](https://news.ycombinator.com/item?id=33670177))
 - [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
 - [bootloader](https://github.com/rust-osdev/bootloader) - Experimental x86 bootloader written in Rust and inline assembly.
 - [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
@@ -169,6 +169,10 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Xous Core](https://github.com/betrusted-io/xous-core) - Microkernel operating system.
 - [Osmium](https://github.com/moratorium08/osmium) - Operating System written in Rust on RISC V.
 - [octox](https://github.com/o8vm/octox) - Unix-like operating system inspired by xv6-riscv.
+- [KotOS](https://github.com/kot-org/Kot) - 64-bit x86 operating system written in C/C++.
+- [elsOS](https://github.com/elsOS-dev/elsOS) - Functional italo-alsatian toy-kernel in rust, for x86.
+- [Glazier](https://github.com/linebender/glazier) - Operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust.
+- [EuraliOS](https://github.com/bendudson/EuraliOS) - Hobby x86-64 operating system written in Rust.
 
 ## Notes
 
@@ -348,7 +352,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [FlexSC: Flexible System Call Scheduling with Exception-Less System Calls](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf) ([Summary](https://catern.com/flexsc.html)) ([Lobsters](https://lobste.rs/s/ihm1l7/summary_flexsc_paper))
 - [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)
 - [dyld](https://github.com/apple-oss-distributions/dyld) - Dynamic link editor. ([Tweet](https://twitter.com/davidecci/status/1490920286086070274))
-- [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft)) ([kraft - Define, configure, build, and run Unikraft unikernel applications](https://github.com/unikraft/kraft))
+- [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft)) ([kraft - Define, configure, build, and run Unikraft unikernel applications](https://github.com/unikraft/kraft)) ([GitHub](https://github.com/unikraft))
 - [systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation.
 - [Let's write an OS which can run on RISC-V in Rust from scratch](https://github.com/rcore-os/rCore-Tutorial-v3)
 - [MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - Thin-hypervisor that runs on aarch64 CPUs.
@@ -396,3 +400,13 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Multi-Kernel Drifting (2022)](https://luqman.ca/blog/multi-kernel-drifting/) ([HN](https://news.ycombinator.com/item?id=33337086))
 - [Things a modern OS should have](https://twitter.com/kocienda/status/1586828713492041728)
 - [AMD Hypervisor with Rust - Matthias Heiden (2022)](https://www.youtube.com/watch?v=7igpsgCZJY4)
+- [Booting an Embedded OS: the Booting and U-Boot Phase (2022)](https://serhack.me/articles/os-embedded-booting-phase-uboot/)
+- [KraftKit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
+- [Programmer's Guide | C64 OS](https://c64os.com/c64os/programmersguide/introduction)
+- [grace](https://github.com/liamg/grace) - Tool for monitoring and annotating syscalls for a given process.
+- [The Programmable Data Plane and the OS (2022)](https://ry.goodwu.net/architecture/the-programmable-data-plane-and-the-os/)
+- [In Praise of Plan 9 (2022)](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html) ([HN](https://news.ycombinator.com/item?id=33571953))
+- [Good books to review operating systems and computer architecture (2022)](https://www.reddit.com/r/computerscience/comments/yw6akh/what_are_good_books_to_review_operating_systems/)
+- [inspect](https://github.com/square/inspect) - Collection of metrics gathering, analysis utilities for various subsystems of Linux, MySQL and Postgres.
+- [TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - Minimalist open source BIOS project for fun.
+- [Kernel (OS Kernel Book)](https://539kernel.com/) ([Code](https://github.com/MaaSTaaR/539kernel))

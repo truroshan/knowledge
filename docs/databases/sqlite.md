@@ -64,6 +64,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [edge-sql](https://sql.lspgn.workers.dev/) - Serverless edge worker embedding SQLite using Cloudflare Workers and WASM. ([Code](https://github.com/lspgn/edge-sql)) ([HN](https://news.ycombinator.com/item?id=25842999))
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. ([Why I Built Litestream (2021)](https://litestream.io/blog/why-i-built-litestream/)) ([HN](https://news.ycombinator.com/item?id=26103776)) ([Lobsters](https://lobste.rs/s/bplm1x/why_i_built_litestream)) ([Web](https://litestream.io/))
 - [Rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite. ([HN](https://news.ycombinator.com/item?id=25871605)) ([Article](https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/)) ([Talk](https://www.youtube.com/watch?v=JLlIAWjvHxM)) ([Lobsters](https://lobste.rs/s/marmcc/rqlite_distributed_database_built_on)) ([Articles](https://www.philipotoole.com/tag/rqlite/)) ([pyrqlite](https://github.com/rqlite/pyrqlite)) ([jepsen.rqlite](https://github.com/wildarch/jepsen.rqlite)) ([Testing consistency of rqlite](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md)) ([HN](https://news.ycombinator.com/item?id=31089363))
+- [rrqlite](https://github.com/yuyang0/rrqlite) - Rust implementation of Rqlite.
 - [SQLite CREATE TABLE Parser](https://github.com/marcobambini/sqlite-createtable-parser)
 - [sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database.
 - [SQLite DB Migrations with PRAGMA user_version](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
@@ -267,3 +268,7 @@ I use SQLite for whenever I need an embedded database. Local apps etc. It works 
 - [SQLite in the browser with WASM/JS](https://sqlite.org/wasm/doc/tip/about.md) ([HN](https://news.ycombinator.com/item?id=33374402)) ([Tweet](https://twitter.com/maccaw/status/1586122543098134529))
 - [Soul](https://github.com/thevahidal/soul) - SQLite RESTful server. ([HN](https://news.ycombinator.com/item?id=33387162))
 - [SQLite – Partial Indexes](https://www.sqlite.org/partialindex.html) ([HN](https://news.ycombinator.com/item?id=33401404))
+- [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html) ([HN](https://news.ycombinator.com/item?id=22098832))
+- [Who needs MLflow when you have SQLite? (2022)](https://ploomber.io/blog/experiment-tracking/) ([HN](https://news.ycombinator.com/item?id=33624018))
+- [SQLite Release 3.40.0 (2022)](https://www.sqlite.org/releaselog/3_40_0.html) ([HN](https://news.ycombinator.com/item?id=33628136)) ([HN](https://news.ycombinator.com/item?id=33696837))
+- [How LiteFS Works](https://fly.io/docs/litefs/how-it-works/) ([HN](https://news.ycombinator.com/item?id=33675439))

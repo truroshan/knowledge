@@ -49,7 +49,7 @@
 - [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/)) ([Rust Testground SDK](https://github.com/testground/sdk-rust))
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
 - [hypercore-protocol-rs](https://github.com/Frando/hypercore-protocol-rs) - Rust implementation of the wire protocol of Hypercore.
-- [Earthstar](https://earthstar-project.org/) - Specification and JavaScript library for building online tools you can truly call your own. ([GitHub](https://github.com/earthstar-project)) ([Code](https://github.com/earthstar-project/earthstar)) ([react-earthstar](https://github.com/earthstar-project/react-earthstar)) ([Earthstar Replica Server for Glitch](https://github.com/earthstar-project/replica-server-glitch))
+- [Earthstar](https://earthstar-project.org/) - Specification and JavaScript library for building online tools you can truly call your own. ([GitHub](https://github.com/earthstar-project)) ([Code](https://github.com/earthstar-project/earthstar)) ([react-earthstar](https://github.com/earthstar-project/react-earthstar)) ([Earthstar Replica Server for Glitch](https://github.com/earthstar-project/replica-server-glitch)) ([Earthstar Schemas](https://github.com/earthstar-project/earthstar-schemas))
 - [go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - PubSub implementation for go-libp2p.
 - [multifeed](https://github.com/kappa-db/multifeed) - Multi-writer hypercore.
 - [Data Terra Nemo talks](https://www.youtube.com/channel/UCp-7zAsouqg4LP4xULhYhcg/videos)
@@ -131,3 +131,4 @@
 - [Hyper Hyper Space](https://github.com/hyperhyperspace/hyperhyperspace-core) - Offline-first shared data library for creating p2p apps that work in the browser and NodeJS.
 - [Noosphere](https://github.com/subconsciousnetwork/noosphere) - Foundational protocol that the Subconscious app builds upon to enable an open-ended, permissionless multiplayer experience.
 - [Fluence](https://fluence.dev/docs/learn/overview) - Peer-to-peer application platform which allows the creation of applications free of proprietary cloud providers or centralized APIs. ([GitHub](https://github.com/fluencelabs)) ([Examples](https://github.com/fluencelabs/examples))
+- [hypershell](https://github.com/holepunchto/hypershell) - CLI to create and connect to P2P E2E encrypted shells.

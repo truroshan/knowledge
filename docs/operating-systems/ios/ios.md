@@ -7,6 +7,8 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 ## Nice OSS iOS Swift apps
 
 - [Runestone](https://github.com/simonbs/Runestone) - Performant plain text editor for iOS with code editing features. ([Docs](https://docs.runestone.app/documentation/)) ([Docs Code](https://github.com/simonbs/docs.runestone.app))
+- [iOS Swift Chat App](https://github.com/cometchat-pro/ios-swift-chat-app) - Open-source Voice & Video Calling and Text Chat App for Swift.
+- [Notes-App](https://github.com/kwameaj67/Notes-App) - iOS app to help users create short notes as reminders and categorize them into folders.
 - [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen) - Launch screen made with SwiftUI and RealityKit.
 - [BreadBuddy](https://github.com/maxhumber/BreadBuddy) - Open source recipe scheduler for iOS.
 - [Bouncer SMS Filter](https://github.com/afterxleep/Bouncer) - Super simple SMS filtering application for iOS.
@@ -141,6 +143,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Hedvig](https://github.com/HedvigInsurance/ugglan) - Insurance app for iOS.
 - [Pocket Casts iOS app](https://github.com/Automattic/pocket-casts-ios) ([HN](https://news.ycombinator.com/item?id=33269858))
 - [OpenFind](https://open.getfind.app/) - Text Search for Images. ([Code](https://github.com/aheze/OpenFind))
+- [Amazon IVS Player iOS SDK Sample Apps](https://github.com/aws-samples/amazon-ivs-player-ios-sample)
 
 ## Other
 
@@ -529,3 +532,9 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Storages](https://github.com/naru-jpn/Storages) - Browse local storages of your applications.
 - [Azule](https://github.com/Al4ise/Azule) - CLI tool used to inject iOS jailbreak tweaks into jailed iOS apps.
 - [Journey in iOS App Obfuscation (2022)](https://www.romainthomas.fr/post/22-08-ios-obfuscation/)
+- [iOS App Performance Cheatsheet](https://github.com/danielamitay/iOS-App-Performance-Cheatsheet)
+- [What does your iPhone home screen look like? (2022)](https://twitter.com/UltraLinx/status/1590659660356669440)
+- [Design tips to master iOS Design](https://twitter.com/uiuxadrian/status/1591105280175128582)
+- [YMatterType](https://github.com/yml-org/YMatterType) - Opinionated take on Design System Typography for iOS and tvOS.
+- [What was the bad practice that you did not know you were committing until later? (2022)](https://www.reddit.com/r/iOSProgramming/comments/yx7iza/what_was_the_bad_practice_that_you_did_not_know/)
+- [How to master UIKit? (2022)](https://www.reddit.com/r/iOSProgramming/comments/z1e1o2/ic_6_ios_eng_here_how_can_i_master_uikit_my_lack/)

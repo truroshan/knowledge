@@ -6,6 +6,12 @@ title: Reactive programming
 
 [Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) is great read.
 
+Love [Solid](../programming-languages/javascript/js-libraries/solid.md)'s reactivity model. [Voby](https://github.com/vobyjs/voby) is interesting too.
+
+## Notes
+
+- [Event streams (like plain observables) emits values. Signals (and behavior subjects) have values. Queues (channels and some buffered and published observables) hold/store values. For example seminal paper on functional reactive programming defines two primitives- event streams and behaviors. They have different laws and this different capabilities. Queues are even more powerful but provide less guarantees.](https://www.reddit.com/r/reactjs/comments/yk6iy3/react_vdom_vs_preact_signal_performance_flame/)
+
 ## Links
 
 - [Introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -39,3 +45,5 @@ title: Reactive programming
 - [Flimsy](https://github.com/fabiospampinato/flimsy) - Single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
 - [S.js](https://github.com/adamhaile/S) - Simple, Clean, Fast Reactive Programming in JavaScript.
 - [Kefir](https://github.com/kefirjs/kefir) - Reactive Programming library for JavaScript.
+- [ArrowJS](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework. ([Tweet](https://twitter.com/jpschroeder/status/1593326779179073537)) ([Docs](https://www.arrow-js.com/))
+- [Spred](https://github.com/art-bazhin/spred) - Simple and fast JavaScript reactive programming library.

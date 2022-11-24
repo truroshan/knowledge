@@ -15,6 +15,7 @@ title: Godot
 - [Star Engine](https://github.com/mr-pedro-braga/star-engine-core) - Multi-level API for developing RPG-like games in Godot.
 - [ROTA](https://github.com/HarmonyHoney/ROTA) - Made with Godot 3.5 / Gravity Bending Puzzle Platformer.
 - [Builder 2D game](https://github.com/GDQuest/godot-2d-builder) - Simulation game demo made in Godot and inspired by Factorio.
+- [GDTLancer](https://github.com/roalyr/GDTLancer) - Performance-friendly 3D space game inspired by Freelancer, Orbiter and EVE.
 
 ## Links
 
@@ -90,3 +91,8 @@ title: Godot
 - [Godot Egui](https://github.com/setzer22/godot-egui) - Egui backend for godot-rust.
 - [Emulating double precision on the GPU to render large worlds (2022)](https://godotengine.org/article/emulating-double-precision-gpu-render-large-worlds) ([HN](https://news.ycombinator.com/item?id=33237338))
 - [Godot Card Game Framework](https://github.com/db0/godot-card-game-framework)
+- [Rust bindings for GDExtension](https://github.com/godot-rust/gdextension)
+- [Godot Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Godot plugin to help import Aseprite animations to AnimationPlayers, AnimatedSprites and SpriteFrames.
+- [Rust Comes to Godot 4 (2022)](https://www.youtube.com/watch?v=d-hZv5ztr34)
+- [Movie Maker mode in Godot 4.0 (2022)](https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4) ([HN](https://news.ycombinator.com/item?id=33598256))
+- [V-Sekai](https://github.com/V-Sekai/v-sekai-game) - Open source project aiming to bring social VR/VRSNS/metaverse components to the Godot Engine.

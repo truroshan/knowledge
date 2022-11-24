@@ -144,3 +144,7 @@ title: Three.js
 - [Awesome ThreeJS](https://github.com/0xAxiome/awesome-threejs)
 - [Shadow Mapping In Three.js (2022)](https://mofu-dev.com/en/blog/threejs-shadow-map/)
 - [Stable Fluids with three.js (2022)](https://mofu-dev.com/en/blog/stable-fluids)
+- [Geo-Three](https://github.com/tentone/geo-three) - Based geographic world map visualization library for ThreeJS.
+- [The magical world of Particles with React Three Fiber and Shaders (2022)](https://blog.maximeheckel.com/posts/the-magical-world-of-particles-with-react-three-fiber-and-shaders/) ([Tweet](https://twitter.com/MaximeHeckel/status/1590015287633453057))
+- [Linear Vaporwave Three.js scene](https://github.com/MaximeHeckel/linear-vaporwave-react-three-fiber)
+- [Creating mirrors in react-three-fiber & ThreeJS](https://github.com/emmelleppi/codrops-r3f-mirrors)

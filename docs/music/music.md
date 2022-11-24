@@ -230,3 +230,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music Player Daemon](https://www.musicpd.org/) - Daemon for playing music of various formats. ([Code](https://github.com/MusicPlayerDaemon/MPD))
 - [Bandsnatch](https://github.com/Ovyerus/bandsnatch) - CLI batch downloader for your Bandcamp collection.
 - [riffs](https://www.riffs.run/) - Search for a song and select start/end times to create a riff.
+- [Moe](https://github.com/MoeMusic/Moe) - Ultimate tool for managing your music.
+- [Ask HN: Is there a cloud music library that doesn't keep deleting my music? (2022)](https://news.ycombinator.com/item?id=33595879)
+- [songmem](https://github.com/codesoap/songmem) - Remember the songs you heard and analyze your listening patterns.

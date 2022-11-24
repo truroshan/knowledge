@@ -14,6 +14,8 @@ Using Solid for all my web apps and static sites. Love how it takes all the best
 
 My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](https://github.com/learn-anything/learn-anything/) are OSS & built with Solid.
 
+[Solid Dev Tools](https://github.com/thetarnav/solid-devtools) are useful.
+
 ## OSS apps
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
@@ -26,6 +28,7 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [To me the biggest difference between React and Solid is that things that can change are wrapped in signals in Solid, and in dependencies arrays in React.](https://twitter.com/fabiospampinato/status/1528537000504184834)
 - [Components are rendered only once and are there pretty much to organize the code. The built-in components (Show, For) are awesome and should be used instead of following React-type patterns (multiple dynamic returns, map(), etc).](https://www.youtube.com/watch?v=Ilf34WjMBkU)
 - [createResource makes a signal out of a promise](https://discord.com/channels/722131463138705510/722131463889223772/1019343273254465566)
+- [Solid has builtin state management system with stores and context, so you don't need to install a third party state manager. Context is fine grained reactive on SolidJS, in React all the components are re-rendered on a provider update.](https://discord.com/channels/722131463138705510/722131463889223772/1037472137792991323)
 
 ## Links
 
@@ -143,3 +146,12 @@ My [personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](http
 - [Workaround for the '100vh' issue in mobile browsers in Solid](https://github.com/TiagoCavalcante/solidjs-div-100vh)
 - [Reactivity with SolidJS course](https://github.com/ryansolid/solid-course)
 - [Reatom-Solid](https://github.com/skrylnikov/reatom-solid) - Solid bindings package for Reatom store.
+- [SolidJS tRPC](https://github.com/OrJDev/solid-trpc) - tRPC Adapter For SolidJS Using Tanstack Solid Query.
+- [Solid Future Architecture: Hybrid Routing + Minimal Hydration](https://github.com/solidjs/solid-start/issues/400)
+- [Client-side Routing without the JavaScript (2022)](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
+- [Solid-Stripe](https://github.com/wobsoriano/solid-stripe)
+- [Solid URQL](https://github.com/tqwewe/solid-urql)
+- [Finally, the start of something solid? (2022)](https://www.youtube.com/watch?v=DVWu2b7mvFg)
+- [Made in Solid](https://github.com/solidjs-community/made-in-solid) - What have people built with it?
+- [Solid Start Auth](https://github.com/schweden1997/solid-auth) - Extensible library to support different authentication methods.
+- [First look at Solid Start](https://dev.to/ajcwebdev/a-first-look-at-solidstart-2hm7)

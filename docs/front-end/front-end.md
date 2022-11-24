@@ -1,6 +1,6 @@
 # Front End
 
-[Open UI](https://open-ui.org/) & [React Aria](https://react-spectrum.adobe.com/react-aria/) are nice.
+[Open UI](https://open-ui.org/) & [React Aria](https://react-spectrum.adobe.com/react-aria/) are nice. [Histoire](https://github.com/histoire-dev/histoire) is nice to test out components.
 
 ## Notes
 
@@ -122,3 +122,7 @@
 - [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
 - [Фронтенд — это не больно](https://bespoyasov.ru/front-not-pain/) - Пособие для разработчиков и сочувствующих. ([Code](https://github.com/bespoyasov/front-not-pain))
 - [Composition Comparison](https://github.com/TyOverby/composition-comparison) - Collection of UI-framework compsition challenges.
+- [Modern FrontEnds Live](https://www.modernfrontends.live/) ([Twitter](https://twitter.com/ModernFrontends))
+- [Awesome Node-Based UIs](https://github.com/wbkd/awesome-node-based-uis)
+- [CodyHouse](https://codyhouse.co/) - Lightweight front-end framework for building accessible, bespoke interfaces. ([Code](https://github.com/CodyHouse/codyhouse-framework))
+- [OSS Is Out to End the Framework Wars: Jamstack Conf 2022 Opening Keynote](https://www.youtube.com/watch?v=bPTZmUR7z90)

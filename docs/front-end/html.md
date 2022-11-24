@@ -294,3 +294,14 @@ Hi<div>oh no break</div>
 - [Learn HTML](https://web.dev/learn/html/)
 - [Understanding HTML with Large Language Models (2022)](https://arxiv.org/abs/2210.03945) ([HN](https://news.ycombinator.com/item?id=33168043))
 - [domhandler](https://github.com/fb55/domhandler) - DOM handler creates a tree containing all nodes of a page.
+- [Satori HTML](https://github.com/natemoo-re/satori-html) - HTML adapter for Vercel's Satori.
+- [og-img](https://github.com/sozonome/og-img) - Edge service to generate embeddable dynamic OpenGraph image.
+- [HTML Fragments Demo](https://github.com/dgp1130/html-fragments-demo) - Demo for using HTML document fragments as a transfer format between client and server.
+- [Browsers, JSON, and FormData (2022)](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
+- [HTMX Components](https://github.com/reggi/htmx-components)
+- [Bromb](https://github.com/samuelstroschein/bromb) - Feedback widget designed to be simple and customizable.
+- [xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor. ([HN](https://news.ycombinator.com/item?id=33573157))
+- [HTML grammar for the lezer parser system](https://github.com/lezer-parser/html)
+- [Dialogs, modality and popovers seem similar. How are they different? (2022)](https://hidde.blog/dialog-modal-popover-differences/)
+- [What native HTML elements do you wish existed? (2022)](https://www.reddit.com/r/webdev/comments/ywahn3/what_native_html_elements_do_you_wish_existed/)
+- [HTML is all you need to make a website (2022)](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/) ([HN](https://news.ycombinator.com/item?id=33642490))

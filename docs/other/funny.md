@@ -1,5 +1,11 @@
 # Funny
 
+Like a few [standup artists](standup.md).
+
+One thing I observed about more funnier people is that they are more observant of the environment they are in and aren't afraid of using emotions to point light at certain parts of what's happening around them and sharing it.
+
+I try to get better at it and learning as I go. Noting funny moments that happened to you in your Notes app is always a good idea. Many standup routines started as a seed in one of these notes.
+
 ## Reactions
 
 - [crabs dancing](https://twitter.com/TaylorLorenz/status/1347693967446429698) ([Full Clip](https://www.youtube.com/watch?v=LDU_Txk06tM))
@@ -127,3 +133,5 @@
 - [Pretending to suicide guy](https://www.youtube.com/shorts/LHZIc3B4kfE)
 - [Videos that never ceases to make you laugh](https://twitter.com/callmehuie/status/1558986395481407494)
 - [Cunk on Britain - YouTube](https://www.youtube.com/playlist?list=PLCcT_pWlhyK3EVCA62_YZUFnYvIkxUwVq)
+- [Когда твой друг работает в айти и пытается тебя зарекомендовать](https://twitter.com/nyuukke/status/1589745963463102464)
+- [Мопс Мойша умный](https://www.youtube.com/watch?v=Y_6fqQDYTJk)

@@ -266,6 +266,11 @@ title: GitHub actions
 - [Release GitHub Actions](https://github.com/technote-space/release-github-actions) - Automate the release of GitHub Actions.
 - [Validate JSON or YAML against a schema](https://github.com/cardinalby/schema-validator-action)
 - [Markdown Autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - GitHub Action that automatically generates & updates markdown content from external or remote files.
+- [AutoUpdate](https://github.com/chinthakagodawita/autoupdate) - GitHub Action that auto-updates pull requests branches, whenever changes are pushed to their destination branch.
+- [Schedule regularly occurring meetings via GitHub Issue](https://github.com/pkgjs/meet)
+- [Delete Deployments](https://github.com/int128/delete-deployments-action) - Action to clean up outdated GitHub Deployments.
+- [HTTP Request Action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions.
+- [YAML Update Action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values.
 
 ## Go
 
@@ -282,6 +287,7 @@ title: GitHub actions
 - [x](https://github.com/go-faster/x) - Go faster reusable workflows.
 - [coverage-badge-go](https://github.com/tj-actions/coverage-badge-go) - Generate coverage badge for go modules.
 - [actions-goveralls](https://github.com/shogo82148/actions-goveralls) - Coveralls GitHub Action with Go integration powered by mattn/goveralls.
+- [ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, Go CGO cross compiler.
 
 ## Rust
 
@@ -326,6 +332,10 @@ title: GitHub actions
 - [optic-release-automation-action](https://github.com/nearform/optic-release-automation-action) - Automate the release process of your npm modules, apps and actions.
 - [pNPM Setup](https://github.com/DerYeger/pnpm-setup-action) - GitHub Action for setting up a pNPM environment. Caches dependencies for reduced execution times.
 
+## Zig
+
+- [Setup Zig](https://github.com/korandoru/setup-zig) - Set up your GitHub Actions workflow with a specific version of Zig.
+
 ## Web
 
 - [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action) - GitHub Action for creating Cloudflare Pages deployments.
@@ -352,6 +362,10 @@ title: GitHub actions
 ## Clojure
 
 - [setup-clojure](https://github.com/DeLaGuardo/setup-clojure) - Sets up Clojure tools environment for using in GitHub Actions.
+
+## ML
+
+- [FastAI Composite Actions workflows](https://github.com/fastai/workflows)
 
 ## C++
 
@@ -385,6 +399,7 @@ title: GitHub actions
 ## Nix
 
 - [Nix CI Demo](https://github.com/nixbuild/ci-demo)
+- [Nix + GitHub Actions](https://github.com/DeterminateSystems/nix-github-actions) - Example project showing how to use Nix to replace third-party GitHub Actions.
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 - [nix-profile-action](https://github.com/yaxitech/nix-profile-action) - GitHub Action to install an ephemeral Nix profile.
@@ -398,6 +413,7 @@ title: GitHub actions
 - [HLint action](https://github.com/tfausak/hlint-action) - Checks that Haskell files are linted with HLint.
 - [Edit Cabal Version](https://github.com/nikita-volkov/edit-cabal-version.github-action) - GitHub Action for bumping and retrieving the package version in .cabal files for Haskell projects.
 - [Automate Haskell releases](https://github.com/cachix/haskell-release-action)
+- [get-tested](https://github.com/Kleidukos/get-tested) - CLI tool that retrieves the tested-with stanza of a cabal file and formats it in such a way that GitHub Actions can use it.
 
 ## LLVM
 
@@ -600,3 +616,4 @@ title: GitHub actions
 - [gha-trigger](https://github.com/gha-trigger/gha-trigger) - Webhook Server for Secure GitHub Actions.
 - [Terraform Google GitHub Action Runners](https://github.com/terraform-google-modules/terraform-google-github-actions-runners) - Module to create self-hosted GitHub Actions Runners on GCP.
 - [An easier way to install tools for GitHub Actions (2022)](https://blog.alexellis.io/easy-install-tools-github-actions/)
+- [Docker Manifest Create Action](https://github.com/int128/docker-manifest-create-action) - Create a multi-architecture Docker image in GitHub Actions.

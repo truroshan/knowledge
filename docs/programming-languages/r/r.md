@@ -188,3 +188,7 @@
 - [Collection of various algorithms implemented in R](https://github.com/TheAlgorithms/R)
 - [rollRegres](https://github.com/boennecd/rollRegres) - R package for fast rolling and expanding linear regression models.
 - [CRAN/E](https://www.cran-e.com/) - Modern R-packages search engine. ([Code](https://github.com/flaming-codes/crane-app))
+- [Run R CMD check from R and Capture Results](https://github.com/r-lib/rcmdcheck)
+- [Regex in R](https://r4ds.hadley.nz/regexps.html)
+- [tmap](https://github.com/r-tmap/tmap) - Thematic maps in R.
+- [faux](https://github.com/debruine/faux) - R functions for simulating factorial datasets.

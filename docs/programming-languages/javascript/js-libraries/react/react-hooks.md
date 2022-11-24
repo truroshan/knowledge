@@ -13,6 +13,8 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Legend-State](https://github.com/LegendApp/legend-state) - Super fast and powerful state manager for JavaScript apps.
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))
 - [Jotai Signal](https://github.com/jotai-labs/jotai-signal)
+- [Jotai Immer](https://github.com/jotai-labs/jotai-immer) - Jotai integration library for Immer.
+- [Jotai Location](https://github.com/jotai-labs/jotai-location)
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 - [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.
@@ -28,6 +30,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [liquorstore](https://github.com/steveruizok/liquorstore) - Reactive store that is fine, really. It works with React.
 - [mage](https://github.com/barelyhuman/mage) - Stateful + logical abstraction layer for react.
 - [use-zustand](https://github.com/dai-shi/use-zustand) - Custom hook to use Zustand vanilla store.
+- [derive-zustand](https://github.com/dai-shi/derive-zustand) - Function to create a derived Zustand store from stores.
 
 ## DB
 
@@ -320,3 +323,5 @@ useEffect(() => {
 - [Getting Started with React Query (2022)](https://dev.to/nischal_dutt/getting-started-with-react-query-30g7)
 - [React's `use` hook](https://twitter.com/housecor/status/1582358326075043841)
 - [Making React Context FAST (2022)](https://www.youtube.com/watch?v=ZKlXqrcBx88) ([Tweet](https://twitter.com/dai_shi/status/1583014180730175488))
+- [Timeline of a React Component With Hooks (2022)](https://julesblom.com/writing/react-hook-component-timeline) ([Tweet](https://twitter.com/Mega_Jules/status/1591466399536480259))
+- [Working with Zustand (2022)](https://tkdodo.eu/blog/working-with-zustand) ([Tweet](https://twitter.com/TkDodo/status/1594358836147720197))

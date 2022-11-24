@@ -6,6 +6,8 @@ title: gRPC
 
 [Connect](https://github.com/bufbuild/connect-go), [gRPC UI](https://github.com/fullstorydev/grpcui), [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) & [Wombat](https://github.com/rogchap/wombat) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
 
+[Evans](https://github.com/ktr0731/evans) is nice gRPC Go client. [DRPC](https://github.com/storj/drpc) is interesting alternative to gRPC.
+
 ## Links
 
 - [Go gRPC Middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Interceptor chaining, auth, logging, retries and more.
@@ -131,3 +133,9 @@ title: gRPC
 - [Effective gRPC (2018)](https://john-millikin.com/effective-grpc)
 - [Filtering gRPC Messages using Envoy](https://github.com/salrashid123/envoy_grpc_decode)
 - [protoc-gen-grpc-gateway-ts](https://github.com/grpc-ecosystem/protoc-gen-grpc-gateway-ts) - TypeScript client generator for the grpc-gateway project.
+- [gRPC Long-lived Streaming](https://github.com/omri86/longlived-grpc)
+- [ProtoClient](https://github.com/codenothing/proto-client) - Typed gRPC Client with static code generation.
+- [gRPC & protocol buffers with Askhay Shah (2022)](https://changelog.com/gotime/256)
+- [gRPC Demystified](https://github.com/akshayjshah/grpc-demystified) - Build a gRPC server in 7 minutes - using just the Go standard library.
+- [Learn to Build Production-Grade Microservices with gRPC and Go (2022)](https://medium.com/codex/learn-to-build-production-grade-microservices-with-grpc-and-go-b665243a59a8)
+- [gRPC Microservices in Go (2022)](https://www.manning.com/books/grpc-microservices-in-go)

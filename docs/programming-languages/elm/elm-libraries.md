@@ -16,6 +16,10 @@
 - [elm-css](https://github.com/rtfeldman/elm-css) - Typed CSS in Elm.
 - [Elm UI](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again. ([Elm UI Cookbook](https://github.com/rofrol/elm-ui-cookbook))
 
+## GraphQL
+
+- [Write GQL, get Elm](https://github.com/vendrinc/elm-gql)
+
 ## Other
 
 - [HTML](https://github.com/elm/html) - Quickly render HTML in Elm.
@@ -29,6 +33,7 @@
 - [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI-scripts in Elm.
 - [TaskPort](https://github.com/lobanov/elm-taskport) - Elm module allowing to call JavaScript APIs from Elm using the Task abstraction.
 - [Elm Safe Recursion](https://github.com/micahhahn/elm-safe-recursion) - Elegant recursion without blowing the stack.
+- [Parser](https://github.com/elm/parser) - Parsing library, focused on simplicity and great error messages.
 
 ## Links
 

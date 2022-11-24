@@ -421,3 +421,15 @@ Prefer [Google Meet](https://meet.google.com/) for video calls. Love [TikTok vid
 - [imagorvideo](https://github.com/cshum/imagorvideo) - Video thumbnail server using RMSE in Go and ffmpeg C bindings.
 - [Screen Studio](https://www.screen.studio/) - Beautiful screen recordings in minutes.
 - [EVA](https://github.com/georgia-tech-db/eva) - Exploratory Video Analytics System.
+- [Booth](https://booth.video/) - Metadata-Secure Video Conferencing.
+- [GIFs (sane) playback control using WASM and FFmpeg (2022)](https://brunoluiz.net/blog/2022/jan/gif-sane-playback-control-ffmpegwasm/)
+- [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, MJPEG, HomeKit, FFmpeg, etc.
+- [JSMpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video & MP2 Audio Decoder in JavaScript.
+- [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) - FFmpeg Command Generator Web UI. ([Code](https://github.com/alfg/ffmpeg-commander))
+- [openencoder](https://github.com/alfg/openencoder) - Open Source Cloud Encoder for FFmpeg.
+- [FFProbe Wasm](https://github.com/alfg/ffprobe-wasm) - Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly.
+- [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Open Source API and interchange format for editorial timeline information.
+- [OpenTimelineIO YouTube example](https://github.com/OpenTimelineIO/otio-youtube-example)
+- [Video Intelligence](https://ramanlabs.in/static/videointel.html) - Semantic Video Search. ([HN](https://news.ycombinator.com/item?id=33607401))
+- [Cinematic](https://github.com/Simonwep/cinematic) - Ultra tiny library to add cinematics to your HTML5 videos.
+- [YouTube Upload](https://github.com/tokland/youtube-upload) - Upload videos to YouTube from the command line.

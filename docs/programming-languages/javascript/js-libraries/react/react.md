@@ -4,9 +4,9 @@ title: React
 
 # [React](https://reactjs.org)
 
-[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [fresh](https://github.com/lucacasonato/fresh) & [Plasmic](https://www.plasmic.app/) look interesting.
+[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [Preact](https://preactjs.com/), [fresh](https://github.com/lucacasonato/fresh) & [Plasmic](https://www.plasmic.app/) look interesting.
 
-Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464).
+Currently I use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md). [VDOM diffing is wasteful](https://twitter.com/naqvitalha/status/1586396390808510464).
 
 ## OSS React apps
 
@@ -355,3 +355,6 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Streaming React](https://github.com/ascorbic/vanilla-stream) - React streaming with no meta-framework.
 - [React UI Kits](https://github.com/lucianomlima/react-ui-kits)
 - [Creating a VDOM-less Renderer with Preact Signals (2022)](https://www.youtube.com/watch?v=Fp9duJd6Txc)
+- [A love letter to React (2022)](https://fly.io/blog/love-letter-react/)
+- [Vite React Inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser automatically.
+- [Medium Reducers in React (2022)](https://julesblom.com/writing/medium-reducers)

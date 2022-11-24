@@ -210,3 +210,7 @@
 - [Memorial debate in C Eastern Europe](https://twitter.com/derJamesJackson/status/1566767599408582657)
 - [Baltic nations are not ‘former Soviet states’](https://twitter.com/BadBalticTakes/status/1567068576527355904)
 - [The Paranoia That Cost Hitler World War II | Warlords: Hitler vs Stalin | Timeline](https://www.youtube.com/watch?v=E2zrqzvtWio)
+- [The Present Past - YouTube](https://www.youtube.com/c/ThePresentPast_/videos)
+- [How Johnny Harris Rewrites History (2022)](https://www.youtube.com/watch?v=pAeoJVXrZo4)
+- [Good movies about ancient history (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ypad9s/what_are_some_good_movies_about_ancient_history/)
+- [How the Graphical User Interface Was Invented (2022)](https://spectrum.ieee.org/graphical-user-interface)

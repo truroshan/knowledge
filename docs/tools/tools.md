@@ -2,6 +2,8 @@
 
 Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [Toolhunt](https://www.toolhunt.dev/) has a nice tools list. [Uses This](https://usesthis.com/) does nice interviews on tools people use.
 
+One of my favorite things in life is building little tools for solving even the tiniest of frictions I experience in life.
+
 ## Other
 
 - [Ultra](https://ultra.tf/) - Multi-media smart canvas for your mind. ([Tweet](https://twitter.com/raunofreiberg/status/1457710330495356929))
@@ -129,6 +131,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Remotion](https://www.remotion.com/) - Virtual Office For Hybrid Teams.
 - [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
 - [Rize](https://rize.io/) - Intelligent time tracker that improves your focus.
+- [Quick Diff](https://quick-diff.com/) - Privacy-first Diff tool for everyone. Your data never hits our servers. ([Code](https://github.com/ProxymanApp/quick-diff))
 - [Instatus](https://instatus.com/) - Get your status page.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
@@ -154,6 +157,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Flagsmith](https://flagsmith.com/) - Open Source Feature Flag & Remote Config Service. ([Code](https://github.com/Flagsmith/flagsmith)) ([GitHub](https://github.com/Flagsmith))
 - [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools. ([Raycast Script Commands](https://github.com/raycast/script-commands)) ([HN](https://news.ycombinator.com/item?id=24932600)) ([Write Script Commands in Swift to trigger every-day tasks from Raycast](https://raycast.com/blog/automate-your-mac-with-swift/))
+- [ILLA Cloud](https://www.illacloud.com/) - Accelerate your internal tools development. ([Code](https://github.com/illa-family/illa-builder)) ([HN](https://news.ycombinator.com/item?id=33678599))
 - [Quarchive](https://quarchive.com/) - Traditional "Web 2.0" social bookmarking, with small improvements. ([Code](https://github.com/calpaterson/quarchive))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Aquila Network](https://aquila.network/) - Manage, share and discover smart bookmarks online. ([Awesome](https://github.com/Aquila-Network/awesome-aquila-network))
@@ -161,6 +165,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Rallly](https://rallly.co/) - Schedule group meetings. ([Code](https://github.com/lukevella/rallly))
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Snapcode](https://snapcode.vercel.app/) - Code Snippets Manager. ([Code](https://github.com/Kholid060/snapcode))
+- [Ledger](https://www.ledgerteams.com/) - All-in-one team collaboration tool.
 - [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))
 - [Shareup](https://shareup.app/) - Share anything to anyone or any of your devices. ([GitHub](https://github.com/shareup))
 - [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
@@ -169,6 +174,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
 - [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/) ([HN](https://news.ycombinator.com/item?id=31526908))
+- [Pomodoro with Friends](https://pomochat.com/) ([HN](https://news.ycombinator.com/item?id=33628831))
 - [LogSnag](https://logsnag.com/) - Real-time feed of events for your projects.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Miter Meeting Tools](https://miter.co/)
@@ -176,6 +182,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Kukkee](https://www.kukkee.com/) - Open source Doodle alternative. ([Code](https://github.com/Kukkee/Kukkee)
 - [FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government.
 - [SkyOffice](https://sky-office.co/) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. ([Code](https://github.com/kevinshen56714/SkyOffice))
+- [Unclutter](https://unclutter.it/) - Reader Mode for Chrome & Firefox. ([HN](https://news.ycombinator.com/item?id=33718850))
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
 - [ImageKit.io](https://imagekit.io/) - Image & Video CDN | Dynamic Optimizations, Transformations & DAM. ([Rust Client](https://github.com/EstebanBorai/imagekit))
@@ -188,6 +195,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [Upbase](https://upbase.io/) - Project Management and Team Collaboration Tool. ([HN](https://news.ycombinator.com/item?id=33582264))
 - [Remark42](https://github.com/umputun/remark42) - Self-hosted, lightweight and simple (yet functional) comment engine, which doesn't spy on users. ([Web](https://remark42.com/))
 - [Repeat.dev](https://dash.repeat.dev/) - TypeScript programmable webhooks/cronjobs.
 - [Deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
@@ -218,7 +226,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [InvenTree](https://github.com/inventree/InvenTree) - Open-source Inventory Management System which provides powerful low-level stock control and part tracking.
 - [Cerca](https://github.com/cblgh/cerca) - Lean forum software in Go.
 - [image-duplicate-remover](https://github.com/paazmaya/image-duplicate-remover) - Remove duplicate images.
-- [ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464))
+- [Ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464)) ([HN](https://news.ycombinator.com/item?id=33517944))
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) - Password-protect links. ([Code](https://github.com/jstrieb/link-lock))
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [LocateJS](https://locatejs.com/) - Check if your location is actually hidden. ([Code](https://github.com/z0ccc/LocateJS))
@@ -238,7 +246,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [OneModel](https://www.onemodel.app/) - Diagramming Tool for Software Engineers.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Find discussions around the web](https://discussions.xojoc.pw/)
-- [Acapela](https://acapela.com/) - All work notifications in one inbox. ([Twitter](https://twitter.com/tryacapela))
+- [Acapela](https://acapela.com/) - All work notifications in one inbox. ([Twitter](https://twitter.com/tryacapela)) ([Code](https://github.com/acapela/monorepo))
 - [Tailon](https://github.com/gvalkov/tailon) - Web app for looking at and searching through files and streams.
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert. ([Web](https://goalert.me/))
 - [Imperial](https://imperialb.in/) - Code/text sharing site with the user experience in mind, it has feautures such as editing, encryption and integration with github gists and discord. ([Code](https://github.com/imperialbin/imperial))
@@ -450,6 +458,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Budibase](https://www.budibase.com/) - Build internal tools on your own infrastructure. ([Code](https://github.com/Budibase/budibase)) ([HN](https://news.ycombinator.com/item?id=29242466))
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
+- [Openblocks](https://github.com/openblocks-dev/openblocks) - Open-Source Alternative to Retool. ([HN](https://news.ycombinator.com/item?id=33592990))
 - [Flick](https://www.flick.tech/) - Find, manage and analyze Instagram hashtags.
 - [Slite](https://slite.com/) - Bring clarity to your team.
 - [MoonHome](https://moonhome.io/) - Remote Development Environments. ([HN](https://news.ycombinator.com/item?id=28846074))
@@ -555,7 +564,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [FullStory](https://www.fullstory.com/) - Intuitive digital experience analytics.
 - [Air](https://air.inc/) - Bring your team and content together in a space designed for visual work.
 - [Repren](https://github.com/jlevy/repren) - Simple but flexible command-line tool for rewriting file contents according to a set of regular expression patterns.
-- [SILE](https://github.com/sile-typesetter/sile) - Typesetting system; its job is to produce beautiful printed documents.
 - [CozyCal](https://www.cozycal.com) - Delightfully Simple Scheduling.
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 - [kache](https://github.com/kasvith/kache) - Simple in memory cache written using go.
@@ -575,6 +583,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Curabase](https://www.curabase.com/) - Modern browser bookmarking tool for teams, research, or just yourself.
 - [Mix](https://mix.com/) - Personalized discovery platform that unlocks more of the internet you care about.
 - [QR Menu Creator](https://qrmenucreator.com/) - Make Your Restaurant or Bar Menu in a QR Code. ([Tweet](https://twitter.com/levelsio/status/1318890523743182851))
+- [CometChat](https://www.cometchat.com/) - Add Real-Time Text, Voice, & Video Chat to your Application. ([GitHub](https://github.com/cometchat-pro))
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.
 - [Sheety](https://sheety.co/) - Turn your Google Sheet into an API.
 - [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.
@@ -774,3 +783,8 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Commsor](https://www.commsor.com/) - Complete platform for Community-Led companies. ([Twitter](https://twitter.com/Commsor))
 - [Low-code tools to build internal-facing tools](https://twitter.com/GergelyOrosz/status/1582133778478080000)
 - [Framestack](https://www.framestack.net/) - Discover tools & libraries to build your projects. ([Code](https://github.com/swve/framestack))
+- [Starling Developer Resources](https://github.com/starlingbank/developer-resources)
+- [Fast QR](https://fast-qr.com/) - Ultra fast QRCode generation. ([Code](https://github.com/erwanvivien/fast_qr))
+- [Pinboard vs. Raindrop (2022)](https://dsalo.info/pinboard-vs-raindrop-two-bookmark-apps-enter/) ([HN](https://news.ycombinator.com/item?id=33537531))
+- [Desk](https://github.com/frappe/desk) - Easy setup, clean user interface, and automation tools to resolve customer issues efficiently.
+- [Tools for thought as cultural practices, not computational objects](https://maggieappleton.com/tools-for-thought) ([HN](https://news.ycombinator.com/item?id=33666160))

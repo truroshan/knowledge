@@ -8,6 +8,7 @@
 - [A human is 25 orders of magnitude smaller than the whole universe, but 35 orders of magnitude bigger than a Planck length. We're bigger than average.](https://www.reddit.com/r/quantum/comments/n27xx8/question_in_the_scheme_of_the_size_of_the_known/)
 - [Universe & Neurons projections look very similar.](https://www.reddit.com/r/researchchemicals/comments/rcpgze/i_had_a_crazy_realisation_on_lsd/)
 - [In the beginning the Universe was created. This had made many people very angry and has been widely regarded as a bad move.](https://www.goodreads.com/quotes/1-the-story-so-far-in-the-beginning-the-universe-was)
+- [The game of the universe is to appear as strange to itself as it possibly can - Alan Watts](https://www.reddit.com/r/DMT/comments/z05lvy/the_cosmic_joke/)
 
 ## Links
 
@@ -65,3 +66,7 @@
 - [Logarithmic Map of the Entire Observable Universe](https://twitter.com/johncoogan/status/1546921877586604032)
 - [We don't know how the universe began, and we will never know (2022)](http://backreaction.blogspot.com/2022/08/we-dont-know-how-universe-began-and-we.html) ([HN](https://news.ycombinator.com/item?id=32618719))
 - [The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It (2022)](https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/)
+- [Why Does The Universe Look Like This? (2022)](https://www.youtube.com/watch?v=iDqQ9qgTWmg)
+- [Map of the Universe](https://mapoftheuniverse.net/) ([HN](https://news.ycombinator.com/item?id=33655503))
+- [Why this universe? New calculation suggests our cosmos is typical (2022)](https://www.quantamagazine.org/why-this-universe-new-calculation-suggests-our-cosmos-is-typical-20221117/) ([HN](https://news.ycombinator.com/item?id=33653890))
+- [Roger Penrose - "Big Bang was not the beginning"](https://www.youtube.com/watch?v=HFbFat-UhaA)

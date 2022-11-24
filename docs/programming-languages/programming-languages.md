@@ -2,11 +2,15 @@
 
 There is a [great article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
-[Crafting Interpreters](https://craftinginterpreters.com/) is an [amazing book](https://chidiwilliams.com/post/crafting-interpreters-a-review/). [Exercism](https://exercism.org/) is a nice tool for language practice. I think [Execute Program](https://www.executeprogram.com/) is currently the best way to learn your first programming language. The interactiveness of it's teaching is incredible. I used it to teach my smaller brother & sister coding by helping them as they did all the exercises. We then went on to use the knowledge of JS/TS to build games & Minecraft mods together on [Replit](https://replit.com/).
+[Crafting Interpreters](https://craftinginterpreters.com/) is an [amazing book](https://chidiwilliams.com/post/crafting-interpreters-a-review/). [Exercism](https://exercism.org/) is a nice tool for language practice. I think [Execute Program](https://www.executeprogram.com/) is currently the best way to learn your first programming language, currently it targets [TypeScript](typescript/typescript.md). The interactiveness of it's teaching is incredible. I used it to teach my smaller brother & sister coding by helping them as they did all the exercises. We then went on to use the knowledge of JS/TS to build games & Minecraft mods together on [Replit](https://replit.com/).
 
-I dislike languages with semicolons a lot which is why I prefer [Swift](swift/swift.md) (native GUI) / [Go](go/go.md) (servers/CLI) / [TS](typescript/typescript.md) (browsers/scripting) over any other language right now. [Rust](rust/rust.md) is too slow to compile and also too noisy with syntax. I find Go/Swift plenty fast when I need speed although wish Go was less boilerplaity. If I do want to do some embedded code, I'd probably use [Zig](zig/zig.md) as it's much simpler than Rust and has no GC too. Although even there, [TinyGo](https://tinygo.org/) is enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
+I dislike languages with semicolons which is why I prefer [Swift](swift/swift.md) (native GUI) / [Go](go/go.md) (servers/CLI) / [TS](typescript/typescript.md) (browsers/scripting) over any other language right now. Exploring using [Rust](rust/rust.md) more too. I find Go/Swift plenty fast when I need speed although wish Go was less boilerplaity, especially with its error handling.
 
-[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too.
+I do write Rust, but tried out [Zig](zig/zig.md) when I want to write embedded code without GC or target [WASM](../web/webassembly.md). Although even there, [TinyGo](https://tinygo.org/) can be enough I think. [Julia](julia/julia.md) looks nice for any kind of heavy data processing code / ML.
+
+[OCaml](ocaml/ocaml.md) seems interesting as a language to do some [type theory](../math/type-theory/type-theory.md) research in. Has fast compile types and smart inferency type system. Same for [Agda](agda.md)/[Coq](coq/coq.md)/[Idris](idris/idris.md). [Unison](unison.md) has some novel ideas to learn from too. [Vale](vale.md) does novel research in [memory management](../programming/memory-management/memory-management.md). [Gluon](https://github.com/gluon-lang/gluon) is nice embedded functional language.
+
+[Effects bibliography](https://github.com/yallop/effects-bibliography) is a nice read.
 
 ## Notes
 
@@ -403,7 +407,7 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [ipso](https://github.com/LightAndLight/ipso) - Functional scripting language.
 - [Ask HN: How to make a native GUI with a modern language? (2022)](https://news.ycombinator.com/item?id=32398181)
 - [Scopes](https://sr.ht/~duangle/scopes/) - Retargetable programming language & infrastructure. ([Lobsters](https://sr.ht/~duangle/scopes/))
-- [ASTGrep](https://github.com/HerringtonDarkholme/ast-grep) - Fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust.
+- [ASTGrep](https://github.com/HerringtonDarkholme/ast-grep) - Fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust. ([Web](https://ast-grep.github.io/)) ([GitHub](https://github.com/ast-grep))
 - [Awesome Actor Model](https://github.com/GetTech-io/awesome-actor)
 - [Roc](https://github.com/roc-lang/roc) - Language for making delightful software.
 - [KavaScript](https://github.com/maximecb/kavascript) - Minimalistic dynamically-typed programming language for didactic purposes.
@@ -452,3 +456,20 @@ I dislike languages with semicolons a lot which is why I prefer [Swift](swift/sw
 - [Om](http://www.om-language.org/) - Novel, maximally-simple concatenative language. ([HN](https://news.ycombinator.com/item?id=33382397))
 - [Jakt](https://github.com/SerenityOS/jakt) - Memory-safe systems programming language.
 - [Dropcode](https://github.com/egoist/dropcode) - Simple and lightweight code snippet manager.
+- [Amber](https://github.com/nineties/amber) - Language for High-Level Programming with Self-Extension.
+- [Singeli](https://github.com/mlochbaum/Singeli) - Domain-specific language for building SIMD algorithms with flexible abstractions and control over every instruction emitted.
+- [Designing a programming system/language to never break backwards compatibility while allowing the system to evolve](https://twitter.com/abanduk/status/1589767455060426757)
+- [Frank](https://github.com/frank-lang/frank) - Strict functional programming language with a bidirectional effect type system designed from the ground up around a novel variant of Plotkin and Pretnar's effect handler abstraction.
+- [Malbolge](https://github.com/return/malbolge) - Self-modifying programming language that is made to be deliberately difficult to program in and close to impossible to read.
+- [P4 Compiler](https://github.com/oxidecomputer/p4)
+- [Elvish](https://github.com/elves/elvish) - Expressive Programming Language + Versatile Interactive Shell.
+- [The Cost of Exception Handling (2022)](https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/) ([HN](https://news.ycombinator.com/item?id=33557022))
+- [go.vm](https://github.com/skx/go.vm) - Simple virtual machine - compiler & interpreter - written in Go.
+- [Millet](https://github.com/matijapretnar/millet) - ML-like pure functional language that can be used as a template for creating your own language.
+- [Certified Interpreter for ML with Structural Polymorphism](https://github.com/garrigue/certint)
+- [Tamarin](https://github.com/cloudcmds/tamarin) - Fun and pragmatic scripting language written in Go. May be used as a CLI or embedded as a library.
+- [Plunder](https://github.com/plundering/plunder-reference) - Programming model that makes it possible to have programs that "run forever", eliminating the need for a separate storage abstraction.
+- [Buzz](https://github.com/buzz-language/buzz) - Strongly typed scripting language written in Zig. ([HN](https://news.ycombinator.com/item?id=33690989))
+- [Little Languages Are The Future Of Programming (2022)](https://chreke.com/little-languages.html) ([Lobsters](https://lobste.rs/s/tsh7jd/little_languages_are_future_programming)) ([HN](https://news.ycombinator.com/item?id=33693472))
+- [AutoTransform](https://github.com/nathro/AutoTransform) - Framework for large-scale, automated code modification in a production environment.
+- [(Re)writing an interpreter in Rust (2022)](https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/) ([HN](https://news.ycombinator.com/item?id=33704206))

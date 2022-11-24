@@ -6,7 +6,7 @@ title: Nix
 
 [Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/), [nix.dev](https://nix.dev/), [Nix One Pager](https://github.com/tazjin/nix-1p) & [Nix Book](https://github.com/NixOS/nix-book) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
 
-Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix) [deploy-rs](https://github.com/serokell/deploy-rs) are neat.
+Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell), [statix](https://github.com/nerdypepper/statix), [deploy-rs](https://github.com/serokell/deploy-rs) & [devenv](https://devenv.sh/) are neat.
 
 I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to install Nix on my mac.
 
@@ -431,3 +431,23 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Do you use Nix or equivalent to manage projects and/or systems? (2022)](https://lobste.rs/s/j2b4z2/do_you_use_nix_equivalent_manage_projects)
 - [Streamline your GitHub Actions dependencies using Nix (2022)](https://determinate.systems/posts/nix-github-actions)
 - [Collection of meeting notes for the Nixpkgs Architecture Team](https://github.com/nixpkgs-architecture/meetings)
+- [Use cases for Nix (2022)](https://blog.mads-hartmann.com/2022/10/18/use-cases-for-nix.html)
+- [Why Nix is interesting (2022)](https://blog.mads-hartmann.com/2022/11/02/why-nix-is-interesting.html)
+- [Nix (on Nix and Docker and build and packaging systems) (2022)](https://whynowtech.substack.com/p/nix)
+- [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/index.html)
+- [Setting up a private Nix cache for fun and profit (2022)](https://www.channable.com/tech/setting-up-a-private-nix-cache-for-fun-and-profit)
+- [Why isn't Nix more popular? (2022)](https://www.reddit.com/r/NixOS/comments/yozi22/why_isnt_nix_more_popular/)
+- [ml-pkgs](https://github.com/nixvital/ml-pkgs) - Extra package for nix on machine learning and data science.
+- [devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments. ([Web](https://devenv.sh/)) ([HN](https://news.ycombinator.com/item?id=33655542))
+- [Global registry of Nix flakes](https://github.com/NixOS/flake-registry)
+- [Taking off with Nix at FlightAware (2022)](https://flightaware.engineering/taking-off-with-nix-at-flightaware/)
+- [Nix binary cache garbage collector](https://github.com/lheckemann/cache-gc)
+- [Nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix.
+- [Nix community projects](https://nix-community.org/) ([GitHub](https://github.com/nix-community))
+- [Phenix](https://github.com/imsofi/phenix) - Infrastructure as code for Phenix, my personal infrastructue.
+- [Harmonic](https://github.com/DeterminateSystems/harmonic) - Opinionated, experimental Nix installer.
+- [Mini merge DSL for data overlays](https://github.com/divnix/data-merge)
+- [Nix-Lisp](https://github.com/utdemir/nixlisp) - Lisp implementation written in Nix. ([HN](https://news.ycombinator.com/item?id=33670943))
+- [DENOG Routing Guide](https://github.com/denog/routing-guide) - Reference for best practices in Internet backbone routing.
+- [Urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning.
+- [Pluggable contexts in Tvix](https://docs.google.com/document/d/1pz2tRTX5kkS_1wfrZfeHg7MBCSgR1BAktZA2dc42ABk/edit)

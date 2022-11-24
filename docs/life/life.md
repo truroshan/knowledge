@@ -6,11 +6,16 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 
 I love the [lifestyle that Simon Sarris has](https://twitter.com/simonsarris/status/1520430508433461250). [Built their own house](https://simonsarris.medium.com/designing-a-new-old-home-part-1-cf298b58ed41) in nature. Living a [minimal life](https://twitter.com/simonsarris/status/1517251006823866368) working on code and [building things with hands](https://twitter.com/simonsarris/status/1485379943697723394). It's admirable.
 
-I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can. I live a life focused on positivity and [happiness](happiness.md) over complaining and glooming over the future. I try to work on things that give me energy instead of draining it away. [Life is short](http://paulgraham.com/vb.html).
+I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can. I live a life focused on positivity and [happiness](happiness.md) over complaining and glooming over the future. I try to work on things that give me energy instead of draining it away. [Life is short](http://paulgraham.com/vb.html). Let past go. No such thing as wasted time, just [lessons learned](../focusing/rules.md#life).
+
+The hardest part in staying happy I find is forgiving yourself for mistakes you made, learning from every mistake/conversation/event you experience and making [concrete plans](../focusing/goals.md) for the future given what you know. If your plan doesn't workout, change the plan, not the goal.
+
+For me personally the end goal and purpose is ultimate freedom. Doing what I love without being restricted. On the side, I do truly want to [make life nicer for all](../future/future.md).
 
 ## Notes
 
 - [There is basically 4 ways people go about life: 1: hedonist: maximizes pleasure. 2: ascetic: maximizes inner peace. 3: nihilist: maximizes comfort. 4: creativist: makes things.](https://twitter.com/amasad/status/1524262567627042816)
+- [We experience a very small portion of reality. We are limited to the information that our physical systems are able to process. Any other living thing experiences a different sliver of reality. I don't believe in an objective reality because everything is projecting it's own experience onto what it's experiencing.](https://www.reddit.com/r/DMT/comments/yx4qcy/dmt_death/)
 - [We live infinitely; the soul is the energy that cannot be destroyed and the physical body is merely a vesicle.](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
 - [Life is something & yet nothing at the same time. Once you transcend basic levels of consciousness & reach this ‘awakening’ to reality there’s nothing else to do but go ON with THIS reality. Humans tend to respond to this shift of thought drastically & humanely so we over think, & over complicate things that don't need further complication. Once you realize that everything that there is & everything that ever will be along with everything that ever was, IS YOU then there’s nothing else to do but to live this life fully. Alan Watts talks about this a lot & if you have any issues with learning this ‘awakening’ I recommend listening to various lectures & recordings by this man as I think he definitely got “it” & is one of several who explain it all so clearly.](https://www.reddit.com/r/Psychonaut/comments/7whvuf/what_youre_experiencing_is_death_without_the/)
 - Treat people as if they are in a sensitive and malleable emotional state all the time. You have the power to uplift friends and strangers with every interaction, large or small.
@@ -36,6 +41,8 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [The ultimate freedom is living without fear.](https://twitter.com/laserlikemike/status/1476684925478707200)
 - [Be the man your dog thinks you are.](https://www.reddit.com/r/AskMen/comments/slq9wt/what_unwritten_rules_should_all_men_follow/)
 - [We've now found all four "letters" of DNA in meteorites that struck the earth billions of years ago. These nucleobases appear to have formed in space. (They likely formed on earth also). The building blocks of life may be fairly abundant in the universe.](https://twitter.com/ramez/status/1519325646052331520)
+- [Fake it until you make it. Everyone is scared. The hottest girl you know? Terrified and insecure, especially as she begins to age. That jacked football player in high school who never stopped laughing? Probably hiding some sort of abuse, or insecurity we knew nothing about. Most people don't think about you. At all. Even close friends probably don't think about you that often. When they do think about you it's much kinder than your internal monologue. When you make mistakes, public mistakes, it should never be a cause for embarrassment. Mistakes are a necessary part of your journey. No one starts off a master in their chosen craft. We all have to learn from scratch. Embrace your insecurities. It's okay to suck. It's okay to do it publicly, so long as you are working to improve. If you deliberately practice that skill, with the instruction of a mentor, you will quickly shoot past all the people who laughed at you.](https://www.reddit.com/r/AskOldPeople/comments/ypqnjv/what_is_something_philosophical_you_didnt_fully/)
+- [We judge others by their actions and we judge ourselves by our intentions.](https://www.reddit.com/r/AskOldPeople/comments/ypqnjv/what_is_something_philosophical_you_didnt_fully/)
 
 ## Links
 
@@ -142,3 +149,4 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [Ask HN: How can I come to peace with the years I wasted on pointless things? (2022)](https://news.ycombinator.com/item?id=32618163)
 - ["Harsh truth" that was hard to hear at the time but you eventually had to accept (2022)](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
 - [Ask HN: What's Your Biggest Regret? (2022)](https://news.ycombinator.com/item?id=33118584)
+- [Ask HN: What kind of life do you dream about? (2022)](https://news.ycombinator.com/item?id=33573907)

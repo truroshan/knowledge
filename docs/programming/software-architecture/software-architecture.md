@@ -271,3 +271,10 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Solo Dev Stack of 2022?](https://news.ycombinator.com/item?id=33046696)
 - [12 Factor App Revisited (2022)](https://architecturenotes.co/12-factor-app-revisited/)
 - [YAGNI exceptions (2021)](https://lukeplant.me.uk/blog/posts/yagni-exceptions/) ([HN](https://news.ycombinator.com/item?id=33230216))
+- [Bottom-up Design - Karsten Schmidt (2022)](https://www.youtube.com/watch?v=ZSYNML-Yhxo)
+- [System Design Questions](https://github.com/arpitbbhayani/system-design-questions)
+- [Build the Modular Monolith First (2022)](https://www.fearofoblivion.com/build-a-modular-monolith-first) ([HN](https://news.ycombinator.com/item?id=33585104))
+- [arc42](https://github.com/arc42/arc42-template) - Template for effective, practical and pragmatic software architecture documentation and communication. ([Web](https://arc42.org/))
+- [Backend cheats](https://github.com/cheatsnake/backend-cheats)
+- [TALA](https://github.com/terrastruct/TALA) - Diagram layout engine designed specifically for software architecture diagrams.
+- [Text to diagram comparisons](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.

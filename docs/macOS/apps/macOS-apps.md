@@ -21,7 +21,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - MacOS/iOS apps to treat ideas as links of concepts.
 - [HotKey](https://github.com/soffes/HotKey) - Simple global shortcuts in macOS.
-- [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+- [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ([Web](https://max.codes/latest/))
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Ultra-light MacOS utility that helps hide menu bar icons. ([HN](https://news.ycombinator.com/item?id=21794858))
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [macos-key-cast](https://github.com/karaggeorge/macos-key-cast) - Log keys pressed on macOS. Useful for screen recordings and presentations.
@@ -137,7 +137,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Free, open-source code editor for macOS. ([HN](https://news.ycombinator.com/item?id=30747211)) ([Interview with Austin Condiff](https://www.youtube.com/watch?v=mO65s-FRNJY)) ([Web](https://www.codeedit.app/))
 - [Nimble](https://github.com/scade-platform/Nimble) - Lightweight native macOS editor based on everything we love about our favorite editors and IDEs.
-- [Doughnut](https://github.com/dyerc/Doughnut) - Podcast app. For Mac.
+- [Doughnut](https://github.com/dyerc/Doughnut) - Podcast App for macOS.
 - [Collected App](https://github.com/RoyalIcing/CollectedApp)
 - [NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app".
 - [Schemes](https://github.com/helje5/Schemes) - List apps with their registered schemes in macOS Launch Services.
@@ -163,10 +163,14 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [CutBox](https://cutbox.github.io/) - Makes your macOS pasteboard awesome. ([Code](https://github.com/cutbox/CutBox))
 - [Kyan Bar](https://github.com/kyan/kyan_bar) - Demo SwiftUI status bar app for macOS.
 - [UI Browser 4](https://github.com/alldritt/UIBrowser4) - Ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies.
+- [Reminders Menu Bar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+- [Coffee](https://trycoffee.co/) - Tiny time tracker for your next big project.
+- [Assembl](https://assembl.app/) - Effortless window manager for macOS. ([Code](https://github.com/rossmoody/Assembl))
+- [TrueWidget](https://github.com/pqrs-org/TrueWidget) - Displays macOS version, CPU usage and local time at the left bottom of the screen.
 
 ## Other interesting apps
 
-- [Tuple](https://tuple.app/) - Pair Programming Tool for macOS. ([HN](https://news.ycombinator.com/item?id=29641907))
+- [Tuple](https://tuple.app/) - Pair Programming Tool for macOS. ([HN](https://news.ycombinator.com/item?id=29641907)) ([GitHub](https://github.com/tupleapp))
 - [Finicky](https://github.com/johnste/finicky) - MacOS app for customizing which browser to start.
 - [OpenQuickly](https://github.com/lukakerr/OpenQuickly) - Custom 'open quickly' window that imitates macOS' Spotlight.
 - [Flotato](https://flotato.com/) - Turn any web page into a Mac app.
@@ -226,6 +230,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Superlayer](https://apps.apple.com/app/id1601796450) - Widget Engine for macOS. ([Docs](https://github.com/martinlexow/superlayer-support))
 - [PastePal](https://onmyway133.com/pastepal/) - Universal pasteboard manager for Mac, iPhone and iPad. ([Docs](https://github.com/onmyway133/PastePal))
 - [Codelime](https://onmyway133.com/codelime/) - Powerful code snippet manager. ([Docs](https://github.com/onmyway133/Codelime))
+- [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com/) - macOS app to show applications menu shortcuts.
 
 ## Links
 
@@ -284,3 +289,6 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [App Fair](https://appfair.app/) - Catalog browser for discovering & installing macOS apps. ([Code](https://github.com/App-Fair/App))
 - [What's new in AppKit (2022)](https://mackuba.eu/notes/wwdc22/whats-new-in-appkit/)
 - [Planning your macOS app - Apple Developer](https://developer.apple.com/macos/planning/)
+- [Apple Cloud Notes Parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser)
+- [Nice UX from Things mac app (2022)](https://twitter.com/rafahari/status/1592545990829277185)
+- [AirMessage Server](https://github.com/airmessage/airmessage-server) - Lets people use iMessage on the devices they like.

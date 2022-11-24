@@ -9,10 +9,10 @@
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document everything ([thoughts](../life/journaling.md)/[decisions](../psychology/decision-making.md)/[processes](https://twitter.com/dunkhippo33/status/1453604780996132865)/[knowledge](../other/wiki-workflow.md)). Learn/Build in public.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233). Think positively. Be [optimistic](https://twitter.com/patrickc/status/1263482890668503041) about the [future](../future/future.md).
 - Cut out noise (no analytics, likes..). No time wasted. Decide on what matters to me. Focus on it. Maximize impact & growth. Filter consumed information to optimize for signal.
-- Think from first principles. Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply. Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
+- [Think from first principles](../research/solving-problems.md). Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply. Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md). Don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- [Don't compare myself to other people. Never be jealous. Don't obsess over anyone](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Learn from every human I admire/like. Use it to improve my life.
+- [Don't compare myself to other people. Never be jealous. Don't obsess over anyone](https://twitter.com/_Pammy_DS_/status/1387212857016786948). Don't stalk. Learn from every human I admire/like. Use it to improve my life.
 - [Don't listen to haters and nonconstructive feedback. Pay attention to genuine feedback and learn from it](https://twitter.com/EricRWeinstein/status/1387219408645361665).
 - Surround myself with people who inspire me & I can trust to do good. Be my true self. Inspire others. Do things that bring joy and energize me.
 - Create art. Meet people (friendly reach out). See places. Be inspired. Reuse work & ideas. Do what I love. Value myself, my work and freedom to create anything I truly care about from anywhere on Earth.
@@ -31,7 +31,7 @@
 ## Health
 
 - [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 40+ min cardio/weights daily.
-- Eat [whole food plant based nutritious diet](../health/nutrition/nutrition.md).
+- Eat [whole food pescatarian nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & [tea](../health/nutrition/drinks/tea.md). Limit [coffee](../health/nutrition/drinks/coffee.md). No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
@@ -58,6 +58,7 @@
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Notion [Learn page](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
+- Minimize exposure to politics or news that I have no real control over or can actually influence. Focus on what's within my control & is aligned with my goals!
 
 ## Ideas
 
@@ -76,6 +77,7 @@
 - Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.4x + smart speed, Books: ~1.25x).
 - Teach what I know in a clear way [aided by visualization, narrative & interactivity](https://youtu.be/kAoQzTcpkyo?t=12588). Learn and teach in public.
 - [Always have faith in my capability learn new skills, no matter how hard or mystifying the task seems.](https://twitter.com/fchollet/status/1411868747476865025)
+- Archive all digital content of interest to me to [LA](../ideas/learn-anything.md). Links, images. Every network I use, archived. Everything neatly tagged, sorted and indexed how I like. Should be able to find anything within seconds.
 
 ## Write
 
@@ -113,6 +115,7 @@
 - Only make promises I can keep.
 - Don't gaslight. Be empathetic and respect other's feelings.
 - Don't ignore people in conversations. Listen. Ask questions & be genuine.
+- Openly share things unless it's hurtful speech.
 
 ## News
 
@@ -157,6 +160,9 @@
 - [Don't waste time on maintaining one sided relationships.](https://www.reddit.com/r/datingoverthirty/comments/od3aeb/do_you_ever_feel_like_you_date_the_project_but/h3ydwgi/)
 - Don't burn bridges unnecessarily. Try be remembered as a good friend.
 - Set your own [boundaries for what make you feel well](https://twitter.com/titsay/status/1458749929686384647) and have everyone you interact respect them or cut ties with them.
+- If you like/love someone romantically but it's not mutual. Cut it off instantly. Respect your boundaries and move on. Don't emotionally invest in anyone/anything that's of no benefit to you.
+- Unhealthy obsession is destructive. Free your mind. Fill your time and fully focus on [things you love doing](../ideas/ideas.md) as you get over unrequited love. [It will pass](https://www.youtube.com/watch?v=7K3ffDrignk).
+- You don't need anyone, including a partner to live a [happy and fulfilling life](../life/happiness.md). Just be your best, happy self. Whatever happens, happens. Be assertive with your actions/intentions but don't force anything if there is any conflict/resistance. One message is enough.
 
 ## Communication
 
@@ -166,7 +172,8 @@
 
 ## Finance
 
-- Mindfully spend money. Don't support practices I don't agree with.
+- Mindfully spend money. Always cut costs on things I no longer use.
+- Don't support practices I don't agree with.
 - When paying online, check that payments go through.
 - Include personal or company VAT in all business expenses (tech, bigger purchases) to get tax write offs on quarterly tax payments.
 
@@ -257,6 +264,10 @@
 - Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion/tastes](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine. Feel free.
 - Be open to change. But never ignore my principles/rules (respect my boundaries). My personal happiness and mental well being always comes first.
 - [Share things of what I love more than what I dislike/hate.](https://twitter.com/pbrian0206/status/1458972624047026177)
+- Engage in conversations that are beneficial or at least entertaining to me. Mute or simply ignore annoying/hurtful speech. Time is valuable!
+- Just share. Don't care about metrics or who thinks what. If they don't like, it's all good. World is big. Don't cage myself!
+- Best way to learn something is to post the 'wrong thing' on the internet. Don't be afraid to ask questions and be wrong.
+- During meetings, always take notes. And action points. Make meetings as short as possible and have an agenda in mind!
 
 ## Animals
 
@@ -313,6 +324,10 @@
 ## Video
 
 - Add time stamps to videos released on YouTube.
+
+## Hiring
+
+- Hire best people and give them freedom to create. Within bounds of the general company vision.
 
 ## Trello
 

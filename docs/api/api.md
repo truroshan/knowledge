@@ -6,9 +6,11 @@
 
 Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) on macOS for searching docs.
 
+[Mock Service Worker](https://github.com/mswjs/msw) is great for mocking APIs.
+
 ## Other
 
-- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai))
+- [OpenAI API](https://openai.com/api/) ([Go lib](https://github.com/sausheong/openai)) ([Node](https://github.com/openai/openai-node))
 - [Google Drive](https://github.com/prasmussen/gdrive)
 - [GitHub](https://developer.github.com/v3/)
 - [GitHub Go](https://github.com/shurcooL/githubv4) - Client library for accessing GitHub GraphQL API.
@@ -66,7 +68,10 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Cloudflare Rust](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
 - [Cloudflare Node](https://github.com/cloudflare/node-cloudflare)
 - [YouTube Search Python](https://github.com/alexmercerind/youtube-search-python) - Search for YouTube videos, channels & playlists. Get video & playlist information using link. Get search suggestions.
+- [Fast YouTube Search](https://github.com/justfoolingaround/fast-yt-search)
 - [YouTube Transcript/Subtitle API](https://github.com/jdepoix/youtube-transcript-api) - Python API which allows you to get the transcript/subtitles for a given YouTube video.
+- [YouTube Music Node](https://github.com/baptisteArno/node-youtube-music)
+- [YouTube CLI](https://github.com/codesoap/ytools) - Simple tools to interact with YouTube via the terminal.
 - [GIPHY SDKs](https://github.com/Giphy/giphy-js)
 - [OpenAI JS](https://github.com/Njerschow/openai-api) - Tiny client module for the openAI API.
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.
@@ -183,11 +188,13 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Wayback Machine Python](https://github.com/edgi-govdata-archiving/wayback)
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Backblaze Go](https://github.com/kurin/blazer)
+- [Epic Games Python API](https://github.com/SD4RK/epicstore_api)
 - [Paddle Go](https://github.com/Fakerr/go-paddle)
 - [Paddle TS](https://github.com/devoxa/paddle-sdk) - SDK to interface with the API and web hooks from Paddle.
 - [PyTrends](https://github.com/GeneralMills/pytrends) - Unofficial API for Google Trends.
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Typeform JS SDK](https://github.com/Typeform/js-api-client)
+- [Twitch TS](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub.
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
 - [Twitch Rust](https://github.com/Emilgardis/twitch_api2)
 - [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.
@@ -429,3 +436,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API.
 - [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash. ([Web](https://zealdocs.org/))
 - [How we built the Tinder API Gateway (2022)](https://medium.com/tinder/how-we-built-the-tinder-api-gateway-831c6ca5ceca)
+- [Step CI](https://github.com/stepci/stepci) - Automated API Testing and Monitoring.
+- [API Hero](https://github.com/apihero-run/apihero) - Make every API you use faster and more reliable with one line of code.
+- [Metlo](https://github.com/metlo-labs/metlo) - Open-source API security platform. ([Web](https://www.metlo.com/)) ([HN](https://news.ycombinator.com/item?id=33534856))
+- [Nango](https://github.com/NangoHQ/nango) - Easiest way to sync data from external APIs.

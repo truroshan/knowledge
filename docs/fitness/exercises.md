@@ -1,5 +1,7 @@
 # Exercises
 
+I mention exercises I do [here](fitness.md).
+
 ## Back Posture
 
 - [Science Says This 1 Back Exercise is Outstanding](https://www.youtube.com/watch?v=lXQ2V0XfI_M)
@@ -19,3 +21,17 @@
 - [6 Best Mobility Exercises for Longevity](https://www.wellandgood.com/best-mobility-exercises-for-longevity/)
 - [Is there a book about how exercise is awesome without diet culture references? (2022)](https://www.reddit.com/r/suggestmeabook/comments/vfi50j/is_there_a_book_about_how_exercise_is_awesome/)
 - [‘Anti-hunger’ molecule forms after exercise, scientists discover (2022)](https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html) ([HN](https://news.ycombinator.com/item?id=31858063))
+- [#1 Most Overlooked Muscle: Key to a Shredded Core, Back & Healthy Shoulders (2022)](https://www.youtube.com/watch?v=xHdqJvAxY3Y)
+- [Must Do Exercises for a Complete Physique](https://www.youtube.com/watch?v=s0fA0gXqREQ)
+- [The Exercises That Built My Physique (Top 6 That Made a Difference)](https://www.youtube.com/watch?v=qsd3z3xUWhw)
+- [Daily Stuck at Home Training Routine (2020)](https://www.youtube.com/watch?v=5Jth37OywOE)
+- [Wider Shoulders: 4 Mistakes Keeping You Small](https://www.youtube.com/watch?v=TChfFQC0eHs)
+- [Back Exercises Ranked (Best to Worst)](https://www.youtube.com/watch?v=w4vU3tzVM70)
+- [Why I Stopped Squatting and Deadlifting](https://www.youtube.com/watch?v=gso8KF6DiJM)
+- [How far can you go with only isometrics?](https://www.reddit.com/r/bodyweightfitness/comments/yyf4n9/how_far_can_you_go_with_only_isometrics/)
+- [How Many Sets Should You Do for Each Muscle? Beginner vs Advanced](https://www.youtube.com/watch?v=zcyv9-ifjWo)
+- [20 min intense ab workout](https://www.youtube.com/watch?v=S1_C11ovtZc)
+- [Joe Delaney's daily routine (2022)](https://www.youtube.com/watch?v=eTKH5LspM3o)
+- [Bodyweight exercises for back](https://www.reddit.com/r/bodyweightfitness/comments/z237y5/question_about_working_back_with_just_bodyweight/)
+- [14 Calisthenics Exercises on Gymnastics Rings - for every Level](https://www.gornation.com/blogs/news/exercises-gymnastics-rings)
+- [GORNATION](https://www.gornation.com/) - Equipment & Clothing for Calisthenics & Street Workout.

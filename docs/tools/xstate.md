@@ -48,3 +48,8 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [Storz](https://github.com/pedronauck/storz) - Main purpose of this project is make it easy to use XState machines and create global state with it.
 - [XState Ninja](https://github.com/rlaffers/xstate-ninja) - Dev tool for XState state machines.
 - [XState Async Guards](https://github.com/rlaffers/xstate-async-guards) - XState helper for using asynchronous guards.
+- [JSX State](https://github.com/marceloadsj/jsxstate) - Declarative UIs for declarative XState machines.
+- [xstate-to-gherkin](https://github.com/simplystated/xstate-to-gherkin) - Library and cli tool to generate Gherkin test scripts from an XState state chart.
+- [f-of-xstate](https://github.com/simplystated/f-of-xstate) - Tools for operating on XState state machines as data.
+- [Jotai-XState](https://github.com/jotai-labs/jotai-xstate) - Jotai integration library for XState.
+- [Visualize your state management with XState (2022)](https://slides.com/mayashavin/visualize-your-state-management-with-xstate-verona/fullscreen)

@@ -4,6 +4,10 @@ title: Research chemicals
 
 # [Research chemicals](https://psychonautwiki.org/w/index.php?title=Research_chemicals)
 
+Mostly only do occasional trips on [tryptamines](psychedelics/tryptamines/tryptamines.md) and [lysergamides](psychedelics/lysergamides/lysergamides.md). Usually with 2+ month breaks in between.
+
+[Realchems](https://realchems.net/) is great vendor.
+
 ## Interesting
 
 - [3-HO-PCP](https://psychonautwiki.org/wiki/3-HO-PCP)
@@ -66,3 +70,4 @@ title: Research chemicals
 - [Everyone’s favorite chemical? (2022)](https://www.reddit.com/r/researchchemicals/comments/ur3doy/everyones_favorite_chemical/)
 - [Has anyone of you permanent damage?](https://www.reddit.com/r/researchchemicals/comments/uyyny6/has_anyone_of_you_permanent_damage/)
 - [What's your favorite vapeable RC? (2022)](https://www.reddit.com/r/researchchemicals/comments/v6q8c3/whats_your_favorite_vapeable_rc/)
+- [What research chemicals are especially dangerous and must be avoided at all costs? (2022)](https://www.reddit.com/r/researchchemicals/comments/yr5sjd/what_research_chemicals_are_especially_dangerous/)

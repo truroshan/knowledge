@@ -305,3 +305,7 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Ask HN: How to deal with markets down turn? Feeling down (2022)](https://news.ycombinator.com/item?id=33131519)
 - [Gorilla Terminal](https://gorillaterminal.com/) - Bloomberg Terminal for Individuals. ([HN](https://news.ycombinator.com/item?id=33212546))
 - ["I’m going to learn about investing" journey (2022)](https://twitter.com/netcapgirl/status/1582388935862648833)
+- [Nice Portfolio management software](https://twitter.com/HarryStebbings/status/1589656895383818240)
+- [No, You Aren’t Going to Get Rich by Options Trading (2022)](https://jacobin.com/2022/11/options-trading-stock-market-inequality) ([HN](https://news.ycombinator.com/item?id=33547658))
+- [monkeybeat](https://github.com/mr-karan/monkeybeat) - Generate a random stock portfolio and find out if it beats the markets.
+- [Which financial instrument has the highest guaranteed rate of return? (2022)](https://www.reddit.com/r/investing/comments/z1hmit/which_financial_instrument_has_the_highest/)

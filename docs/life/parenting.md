@@ -7,6 +7,7 @@
 - [Parenting practices seem to have little or no impact on children's personalities, contrary to some of the best-known theories in psychology.](https://twitter.com/SteveStuWill/status/1461639134297079809)
 - [It's nice to sometimes print physical books of stories your child tells you.](https://twitter.com/paulg/status/1467461297210105857)
 - [Teach your kids to get comfortable changing their mind in the face of compelling reasoning. It’s a rare superpower.](https://twitter.com/anafabrega11/status/1547973564124389377)
+- [Having a two-year old is like living with a little gnome from a folk tale that you have to trick into doing things because if you ask it directly it will curse you.](https://twitter.com/buttpraxis/status/1593041717917515779)
 
 ## Links
 
@@ -96,3 +97,6 @@
 - [If you could only teach your kids three big concepts of life, what would they be?](https://twitter.com/griswold/status/1583628293382623241)
 - [Bad idea to document lives of your young kids on their behalf on social media](https://twitter.com/LuizaJarovsky/status/1586428167647948800)
 - [What's up with fertility? (2022)](https://twitter.com/Willyintheworld/status/1587243198707023872)
+- [Ask HN: I will become a father tomorrow, what advice could you share with me? (2022)](https://news.ycombinator.com/item?id=33490250)
+- [What's you approach to figuring out if you're on the same page about kids?](https://www.reddit.com/r/datingoverthirty/comments/yqrvzt/whats_you_approach_to_figuring_out_if_youre_on/)
+- [Can you predict what partners will be good parents? (2022)](https://www.reddit.com/r/datingoverthirty/comments/z2n5jt/can_you_predict_what_partners_will_be_good_parents/)

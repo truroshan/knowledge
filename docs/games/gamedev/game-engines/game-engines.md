@@ -1,6 +1,6 @@
 # Game engines
 
-[Unreal Engine](unreal-engine.md), [Rapier](https://github.com/dimforge/rapier), [Ebiten](https://ebiten.org/) & [Mach](https://github.com/hexops/mach) are nice.
+[Bevy](bevy.md), [Unreal Engine](unreal-engine.md), [Rapier](https://github.com/dimforge/rapier), [Ebiten](https://ebiten.org/) & [Mach](https://github.com/hexops/mach) are nice.
 
 ## Interesting Engines
 
@@ -128,6 +128,8 @@
 - [Storm-Engine](https://github.com/storm-devs/storm-engine) - Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
 - [Nebula](https://github.com/gscept/nebula) - Open-source and free-to-use modern C++ game engine.
 - [Tiny physics engine](https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master) - Minimalist 3D C99 single-header physics engine. ([HN](https://news.ycombinator.com/item?id=33181029))
+- [Esoterica](https://github.com/BobbyAnguelov/Esoterica) - Prototype Game Engine.
+- [Chipmunk](https://github.com/slembcke/Chipmunk2D) - Fast and lightweight 2D game physics library.
 
 ## Physics engines
 

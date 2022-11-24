@@ -4,7 +4,7 @@ title: Zero knowledge proofs
 
 # [Zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
-[RISC Zero](https://github.com/risc0/risc0) looks neat.
+[RISC Zero](https://github.com/risc0/risc0) looks neat. [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK) is nice intro.
 
 ## Notes
 
@@ -127,3 +127,9 @@ title: Zero knowledge proofs
 - [How to prove you know a secret without giving it away (2022)](https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/) ([HN](https://news.ycombinator.com/item?id=33171214))
 - [OpenZL](https://github.com/openzklib/openzl) - Zero-Knowledge Cryptography Infrastructure Stack.
 - [What's the deal with zkapps? (2022)](https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/)
+- [Linear A](https://zk-ml.xyz/) - Makes it possible to run neural networks in zero-knowledge settings. ([GitHub](https://github.com/zk-ml))
+- [Noname](https://github.com/mimoo/noname) - Programming language to write zkapps.
+- [Intro to Zero-knowledge & Building zkApps w/Mina Protocol (2022)](https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol)
+- [miniSTARK](https://github.com/andrewmilson/ministark) - GPU accelerated STARK prover and verifier.
+- [RISC Zero](https://www.risczero.com/) - General-Purpose Verifiable Computing.
+- [Zero Knowledge on Ramp](https://github.com/SupremeSingh/Awesome-ZK)

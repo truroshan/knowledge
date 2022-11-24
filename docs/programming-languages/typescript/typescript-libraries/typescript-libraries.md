@@ -38,6 +38,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tusken](https://github.com/alloc/tusken) - Type safe Postgres client.
 - [ElectricSQL TS Client](https://github.com/electric-sql/typescript-client) - Local-first SQL system. It provides active-active cloud sync for embedded SQLite databases and a reactive programming model to bind components to live database queries.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
+- [groqd](https://github.com/FormidableLabs/groqd) - Schema-unaware, runtime and type-safe query builder for GROQ.
+- [strema](https://github.com/alexharri/strema) - Schema builder using TypeScript template strings.
+- [onetyped](https://github.com/sachinraja/onetyped) - Universal way to describe data.
 
 ## Web
 
@@ -47,7 +50,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
-- [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
+- [Voby](https://github.com/vobyjs/voby) - High-performance framework for writing web apps.
 - [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
 - [Deepkit](https://github.com/deepkit/deepkit-framework) - High-Performance TypeScript Framework. ([Web](https://deepkit.io/)) ([HN](https://news.ycombinator.com/item?id=31663298)) ([Deepkit OpenAPI](https://github.com/hanayashiki/deepkit-openapi))
 - [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
@@ -90,11 +93,15 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Mastak](https://github.com/araekiel/mastak) - Automated, in-memory caching package for APIs.
 - [Inclusive Sort](https://github.com/tobyzerner/inclusive-sort) - Drag and drop sorting that just works – for everyone.
 - [itty-fetcher](https://github.com/kwhitley/itty-fetcher) - Even simpler wrapper around native Fetch to strip boilerplate from your fetching code.
+- [H0](https://github.com/noamr/h0) - Minimalistic Model-View library.
+- [Loadeer.js](https://github.com/johannschopplich/loadeer) - Tiny, performant, SEO-friendly lazy loading library.
+- [Hyperstack](https://github.com/hyperstackjs/hyperstack) - Modern Node.js web framework for the pragmatic programmer.
 
 ## GraphQL
 
 - [GraphQL Query Builder](https://github.com/atulmy/gql-query-builder) - Simple helper function to generate GraphQL queries using plain JavaScript Objects (JSON).
 - [Typed GraphQL Builder](https://github.com/typed-graphql-builder/typed-graphql-builder) - GraphQL query builder that replaces gql query strings or .graphql files in your code with pure TypeScript.
+- [dataloader-factory](https://github.com/txstate-etc/dataloader-factory) - DataLoader classes to make it easier to write complex GraphQL resolvers.
 
 ## Test
 
@@ -138,6 +145,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Clii](https://github.com/sigoden/clii) - Write some functions, JSDoc it, clii automatically turns it into a cli.
 - [molt](https://github.com/jasonkuhrt/molt) - CLI building blocks & framework for the TypeScript era.
 - [Zors](https://github.com/sidwebworks/zors) - Next-gen framework for building modern, type-safe command-line applications.
+- [Xterm.js Readline](https://github.com/strtok/xterm-readline) - Library for building command-line interfaces with XtermJS.
 
 ## Crypto
 
@@ -149,6 +157,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Web Crypto Tools](https://github.com/willgm/web-crypto-tools) - Set of tools to facilitate and give good defaults for use of the native Web Crypto API.
 - [zkp-ecdsa](https://github.com/cloudflare/zkp-ecdsa) - Proves knowledge of an ECDSA-P256 signature under one of many public keys that are stored in a list.
 - [hpke-js](https://github.com/dajiaji/hpke-js) - Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API.
+- [iron-webcrypto](https://github.com/brc-dd/iron-webcrypto) - Encapsulated tokens (encrypted and mac'ed objects).
 
 ## Error
 
@@ -656,6 +665,27 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [hkt Toolbet](https://github.com/poteat/hkt-toolbelt) - Functional and composable type utilities.
 - [Derive](https://github.com/shoooe/derive) - Library to derive a TypeScript type from another.
 - [uniorg](https://github.com/rasendubi/uniorg) - Accurate Org-mode parser.
+- [PushIn.js](https://github.com/nateplusplus/pushin) - Lightweight parallax effect, built with JavaScript, that simulates an interactive dolly-in or push-in animation on a webpage.
+- [zap](https://github.com/spaceteams/zap) - Validation-first schema library with a functional API.
+- [bech32](https://github.com/bitcoinjs/bech32) - Bech32 encoding / decoding.
+- [p-forever](https://github.com/sindresorhus/p-forever) - Run promise-returning & async functions repeatedly until you end it.
+- [bhttp-js](https://github.com/dajiaji/bhttp-js) - BHTTP (Binary Representation of HTTP Messages) Encoder and Decoder.
+- [unhead](https://github.com/harlan-zw/unhead) - Universal document tag manager. Tiny, adaptable and full featured.
+- [Externality](https://github.com/unjs/externality) - Utilities for handling identifying whether a given package or path should be considered an external package that can be imported at runtime.
+- [Pixi3D](https://github.com/jnsmalm/pixi3d) - 3D renderer for PixiJS. Seamless integration with 2D applications.
+- [MakeTypes](https://github.com/jvilk/MakeTypes) - Generate TypeScript types and proxy classes from example JSON objects. Type check JSON objects at runtime.
+- [BurstValve](https://github.com/codenothing/burst-valve) - In memory queue for async processes in high concurrency code paths.
+- [JavaScript Stringify](https://github.com/blakeembrey/javascript-stringify) - Stringify is to eval as JSON.stringify is to JSON.parse.
+- [Polymorphic](https://github.com/chakra-ui/polymorphic) - Create polymorphic React/SolidJS components with a customizable styled function.
+- [iter-ops](https://github.com/vitaly-t/iter-ops) - Basic operations on iterables.
+- [parse-favicon](https://github.com/BlackGlory/parse-favicon) - Parse HTML to get icon information.
+- [Beet](https://github.com/metaplex-foundation/beet) - Borsh compatible De/Serializer.
+- [msgpack-ts](https://github.com/samclaus/msgpack-ts) - Fastest TypeScript MessagePack implementation.
+- [IT FSM](https://github.com/pleshevskiy/it-fsm) - Simple full-featured finite state machine for your project.
+- [Magic bytes](https://github.com/LarsKoelpin/magic-bytes) - Library for detecting file types.
+- [Downpour](https://github.com/markmals/downpour-js) - Get TV & Movie info from downloaded file names.
+- [Mela Decoder](https://github.com/markmals/mela-decoder-js) - Parse recipe files exported from the iOS app Mela.
+- [Unplugin-AST](https://github.com/sxzz/unplugin-ast) - Manipulate the AST to transform your code.
 
 ## Links
 
@@ -755,3 +785,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project.
 - [Template for TypeScript backend server](https://github.com/samchon/backend)
 - [TypeScript code generator via OpenAPI scheme](https://github.com/Himenon/openapi-typescript-code-generator)
+- [What TS libs are missing? (2022)](https://twitter.com/mattpocockuk/status/1588217486498996225)
+- [undefined](https://github.com/ThePrimeagen/undefined) - Project to turn a file of JSON responses into TypeScript types.
+- [p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions.
+- [libyear](https://github.com/jdanil/libyear) - Simple measure of software dependency freshness.
+- [Documen.ts](https://github.com/d-fischer/documen.ts) - TypeScript documentation generator.
+- [dets](https://github.com/FlorianRappl/dets) - Generate a single declaration file for your TypeScript project.

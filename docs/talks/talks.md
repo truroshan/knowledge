@@ -2,7 +2,7 @@
 
 I love watching interesting talks on various subjects. I also love making talks and presenting in front of people.
 
-I once made TEDx talk on mindfulness. I only have a transcript of it [here](http://telegra.ph/TED-Talk---Mindfulness-March-2016-03-28). I hope to give more talks of my own soon.
+I once made TEDx talk on [mindfulness](../mindfulness/mindfulness.md). I only have a transcript of it [here](http://telegra.ph/TED-Talk---Mindfulness-March-2016-03-28). I hope to give more talks of my own soon.
 
 I mark talks that I found interesting [here](https://github.com/learn-anything/talks). For tech talks/screencasts I make, I like the format of showing it as pre-made tabs to go through ([example talk](https://youtu.be/zED9ePuht4g?t=24929)).
 
@@ -82,3 +82,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Lessons from taking a speech class](https://twitter.com/coles_nicholas_/status/1511052555995934721)
 - [Public Speaking Resources](https://github.com/vmbrasseur/Public_Speaking)
 - [What’s the most mind blowing presentation / talk you’ve ever seen? (2022)](https://twitter.com/patrick_oshag/status/1532428920808689670)
+- [Notes on Every Strangeloop 2022 Talk I Attended (2022)](https://www.hillelwayne.com/post/strangeloop-22/)

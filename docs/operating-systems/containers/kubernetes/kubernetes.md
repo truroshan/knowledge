@@ -845,3 +845,35 @@ title: Kubernetes
 - [Herd Your Clusters Like Cattle: How We Automated our Clusters (2022)](https://jonnylangefeld.com/blog/herd-your-clusters-like-cattle)
 - [The Kubernetes Discovery Cache: Blessing and Curse (2022)](https://jonnylangefeld.com/blog/the-kubernetes-discovery-cache-blessing-and-curse)
 - [My Simple Kubernetes Setup for Side Projects (2022)](https://bas.codes/posts/simple-kubernetes)
+- [KubeTunnel](https://github.com/we-dcode/kubetunnel) - Develop locally while being connected to Kubernetes.
+- [Solving common problems with Kubernetes (2022)](https://blog.adamchalmers.com/kubernetes-problems/) ([HN](https://blog.adamchalmers.com/kubernetes-problems/))
+- [Argo CD Extensions](https://github.com/argoproj-labs/argocd-extensions) - Support for extending Argo CD.
+- [Argo CD Vault Plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - Retrieve secrets from Secret Management tools and inject them into Kubernetes secrets.
+- [Apply Kubernetes Manifests in Backstage](https://github.com/muvaf/kubernetes-apply)
+- [Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo (2022)](https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale)
+- [NooBaa Operator](https://github.com/noobaa/noobaa-operator) - Object data service for hybrid and multi cloud environments.
+- [Varnish on Kubernetes](https://github.com/mittwald/kube-httpcache)
+- [Kubernetes API definition](https://github.com/kubernetes/api)
+- [Cybozu Kubernetes Engine](https://github.com/cybozu-go/cke) - Distributed service that automates Kubernetes cluster management.
+- [MOCO](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes.
+- [Kubernetes Gateway API bindings in Rust](https://github.com/shaneutt/gateway-api-rs)
+- [Cloud Foundry on Kubernetes](https://github.com/cloudfoundry/korifi)
+- [Mini-Kube-Scheduler](https://github.com/sanposhiho/mini-kube-scheduler) - Scheduler for learning Kubernetes Scheduler.
+- [Hierarchical Namespace Controller (HNC)](https://github.com/kubernetes-sigs/hierarchical-namespaces) - Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. ([User Guide](https://github.com/kubernetes-sigs/hierarchical-namespaces))
+- [kevent](https://github.com/TwiN/kevent) - Simple library for creating Kubernetes events.
+- [CRDs Catalog](https://github.com/datreeio/CRDs-catalog) - Over 100 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
+- [Kubernetes CRDs](https://crd.directory/)
+- [What are Kubernetes CRDs, and should you be bothered about them? (2022)](https://www.cohesive.so/blog/what-are-kubernetes-crds-and-should-you-be-bothered-about-them)
+- [Launchpad](https://github.com/jetpack-io/launchpad) - Build, Publish, and Deploy to Kubernetes with a single command.
+- [Kubernetes Bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) - Extendable framework to set up production grade clusters.
+- [Kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+- [Roadmap to learn Kubernetes from scratch](https://github.com/techiescamp/kubernetes-learning-path)
+- [k8spacket](https://github.com/k8spacket/k8spacket) - Packets traffic visualization for Kubernetes.
+- [Kubernetes Gateway API bindings in Rust](https://github.com/kube-rs/gateway-api-rs)
+- [cnquery](https://github.com/mondoohq/cnquery) - Cloud-native tool for querying your entire fleet. It answers thousands of questions about your infrastructure, and integrates with over 300 resources across cloud accounts, Kubernetes, containers, services, VMs, APIs, and more.
+- [Deploying Nix-built containers to Kubernetes (2022)](https://determinate.systems/posts/nix-to-kubernetes)
+- [Kubernetes Cordon: How It Works and When to Use It (2022)](https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/) ([HN](https://news.ycombinator.com/item?id=33690916))
+- [Kubeshark](https://github.com/kubeshark/kubeshark) - API Traffic Viewer for Kubernetes. ([HN](https://news.ycombinator.com/item?id=33698314))
+- [Learn Kubernetes with Google](https://learnkubernetes.withgoogle.com/) ([HN](https://news.ycombinator.com/item?id=33718496))
+- [kubectl foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel.
+- [KubeBrain](https://github.com/kubewharf/kubebrain) - High Performance Metadata System for Kubernetes.

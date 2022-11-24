@@ -2,9 +2,13 @@
 
 I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/). Playing [Walkabout Mini Golf](https://www.oculus.com/experiences/quest/2462678267173943/) with friends is a great remote social bonding experience.
 
-I do hope another company with humane values takes over VR market so Meta/FB can finally go out of business. It's atrocious [what that company is doing](https://twitter.com/Erfan_khosravi/status/1572837240367370240) for the sake of extra business.
+I find the displays on Oculus still lacking a lot and my eyes get tired very fast of using them. Meta is investing billions into making VR/AR work and I am happy they did take this bet as new hardware will unlock things we simply couldn't do before.
 
-Looking forward to when Apple will unveil their headset so I can start developing some apps for it.
+I do trust Apple to do a better job with their VR/AR headset and am waiting for the release of it to start developing for this new paradigm.
+
+One idea I want to make is a kind of life linter. I set some rules for what I shouldn't do, like buying chocolates in supermarket and it will lint me for this in real time. Like show a red cross next to the chocolate bar as I try pick it up. A true configurable [AR](../augmented-reality/augmented-reality.md) display is actually fascinating in what it can unlock.
+
+I am confident that the advancements in computer vision can let you write your own neural nets that can then run either on device itself or in the cloud and stream the pixels overlaid on your physical reality.
 
 ## Games
 
@@ -92,3 +96,7 @@ Looking forward to when Apple will unveil their headset so I can start developin
 - [Wolvic](https://wolvic.org/en/) - Full-featured browser exclusively for standalone AR and VR headsets. ([Code](https://github.com/Igalia/wolvic))
 - [holovolo](https://holovolo.tv/) - Watch volumetric VR video on Quest 2 or WebVR. ([HN](https://news.ycombinator.com/item?id=33336627))
 - [Obscure technical VRChat knowledge](https://github.com/pema99/shader-knowledge)
+- [Ask HN: Working in a VR Headset? (2022)](https://news.ycombinator.com/item?id=33482215)
+- [Gearchy](https://github.com/devidw/gearchy) - Internet's first Goggles manager.
+- [Zuckerberg's leaked email on VR strategy (2015)](https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION) ([HN](https://news.ycombinator.com/item?id=33538742))
+- [Building a Dynamic VRChat World (2022)](https://blog.natalie.ee/posts/building-dynamic-vrchat-world/)

@@ -58,10 +58,11 @@
 - [MoneySQL](https://github.com/camsaul/moneysql) - Experimental drop-in replacement for HoneySQL.
 - [conman](https://github.com/luminus-framework/conman) - Helper library for managing database connections.
 - [Codax](https://github.com/dscarpetti/codax) - Idiomatic transactional embedded database for clojure.
-- [asami](https://github.com/quoll/asami) - Graph database, for Clojure and ClojureScript.
+- [asami](https://github.com/quoll/asami) - Graph database, for Clojure and ClojureScript. ([HN](https://news.ycombinator.com/item?id=33621939))
 - [flint](https://github.com/yetanalytics/flint) - Clojure(Script) DSL for creating SPARQL query and update strings.
 - [yoltq](https://github.com/ivarref/yoltq) - Opinionated Datomic queue for building (more) reliable systems. Supports retries, backoff, ordering and more.
 - [next.jdbc](https://github.com/seancorfield/next-jdbc) - Modern low-level Clojure wrapper for JDBC-based access to databases.
+- [cozo-clj](https://github.com/cozodb/cozo-clj) - Clojure bindings for CozoDb.
 
 ## ML
 
@@ -257,6 +258,8 @@
 - [Proletarian](https://github.com/msolli/proletarian) - Durable job queuing and worker system for Clojure backed by PostgreSQL.
 - [backtick](https://github.com/brandonbloom/backtick) - Clojure's syntax-quote reader macro as a normal macro.
 - [thrempl](https://github.com/liquidz/thrempl) - Simple template engine using threading macros.
+- [TOML](https://github.com/ilevd/toml) - Clojure TOML wrapper.
+- [Mundaneum](https://github.com/jackrusher/mundaneum) - Clojure wrapper around WikiData.
 
 ## Links
 

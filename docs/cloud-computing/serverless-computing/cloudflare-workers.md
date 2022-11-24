@@ -6,7 +6,7 @@ title: Cloudflare workers
 
 Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [Wrangler](https://github.com/cloudflare/wrangler2) & [Miniflare](https://github.com/cloudflare/miniflare) are useful ([nice template for it](https://github.com/mrbbot/miniflare-typescript-esbuild-jest)).
 
-[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)), [Worktop](https://github.com/lukeed/worktop) & [workers Go lib](https://github.com/syumai/workers) seem like nice web frameworks built on top of Cloudflare workers.
+[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)), [Worktop](https://github.com/lukeed/worktop) & [workers Go lib](https://github.com/syumai/workers) ([template](https://github.com/syumai/worker-template-go)) seem like nice web frameworks built on top of Cloudflare workers.
 
 Exploring building fast web apps with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
 
@@ -21,6 +21,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [End-to-end encrypted chat demo using Cloudflare Workers and Durable Objects](https://github.com/zmxv/cf-e2eechat)
 - [Pastebin Worker](https://github.com/SharzyL/pastebin-worker) - Pastebin based on Cloudflare worker, with friendly CLI usage and rich features. ([Web](https://shz.al/))
 - [Loction Worker](https://github.com/umgefahren/worker-location) - Small cloudflare worker build in Rust to extract the location of the requesting user.
+- [Spotify Currently Playing Cloudflare Worker](https://github.com/djedlajn/spotify-worker)
 
 ## Notes
 
@@ -170,7 +171,7 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Route to Workers, automate your email processing (2022)](https://blog.cloudflare.com/announcing-route-to-workers/)
 - [R2 API](https://github.com/proselog/r2-api) - Cloudflare worker based REST API for your R2 bucket.
 - [Cloudflare Worker to make your R2 bucket public](https://github.com/cmackenzie1/r2-public-worker)
-- [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers.
+- [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers. ([Template](https://github.com/syumai/worker-template-go))
 - [Render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2.
 - [Denoflare ♥️ R2](https://denoflare.dev/r2/)
 - [HyperDurable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction.
@@ -204,3 +205,10 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [KV Utility](https://github.com/adaptive/kv) - Key Value storage solution for Cloudflare Workers.
 - [Workers-qb](https://github.com/G4brym/workers-qb) - Zero dependencies Query Builder for Cloudflare D1 Workers.
 - [Workers Web Experiments](https://github.com/cloudflare/workers-web-experiments)
+- [Fixing empty responses from Cloudflare Workers Sites (2022)](https://simonhearne.com/2022/empty-responses-cloudflare-workers-sites/)
+- [do-taskmanager](https://github.com/evanderkoogh/do-taskmanager) - TaskManager for Durable Objects, simplifying the use of Alarms.
+- [Building Micro-Frontends with Cloudflare Workers (2022)](https://blog.cloudflare.com/better-micro-frontends/)
+- [do-proxy](https://github.com/fisherdarling/do-proxy) - Library for writing type-safe Durable Objects in Rust.
+- [Running Esbuild on the Edge (2022)](https://blog.interactions.rest/blog/esbuild-on-the-edge/) ([Code](https://github.com/Interactions-as-a-Service/esbuild-worker-demo))
+- [D1-ORM](https://github.com/Interactions-as-a-Service/d1-orm) - Simple, strictly typed ORM, to assist you in using Cloudflare's D1 product.
+- [Bootstrapping your D1 Database With D1-ORM (2022)](https://blog.interactions.rest/blog/bootstrapping-d1/)

@@ -10,11 +10,18 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 
 [Ditto](https://www.ditto.live/), [Replicache](https://replicache.dev/) & [Tuple Database](https://github.com/ccorcos/tuple-database) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools. [PlanetScale](planetscale.md) seems awesome too.
 
+Also trying out [Cozo Graph DB](https://github.com/cozodb/cozo), has [many sleek features](https://news.ycombinator.com/item?id=33518320).
+
+[trustfall](https://github.com/obi1kenobi/trustfall) is a great query engine for all kinds of data sources. [Atlas](https://github.com/ariga/atlas) is nice DB tool.
+
+[toyDB](https://github.com/erikgrinaker/toydb) has nice code to study.
+
 ## Interesting
 
+- [PlanetScale](planetscale.md) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
-- [PlanetScale](https://www.planetscale.com/) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
 - [Tuple Database](https://github.com/ccorcos/tuple-database) - Local-first, "end-user database" database. Embedded FoundationDB. Reactive indexable graph database. ([Tweet](https://twitter.com/ccorcos/status/1532185301438738433))
+- [GreptimeDB](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, distributed time-series database. ([Web](https://greptime.com/)) ([Article](https://www.greptime.com/blogs/2022-11-15-this-time-for-real))
 - [LMDB Store](https://github.com/DoctorEvidence/lmdb-store) - Simple, efficient, ultra-fast, scalable data store wrapper for LMDB.
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage. ([Rocksplicator - RocksDB Replication](https://github.com/pinterest/rocksplicator))
@@ -103,7 +110,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [libmdbx](https://github.com/erthink/libmdbx) - Extremely fast, compact, powerful, embedded, transactional key-value store database.
 - [libfpta](https://github.com/erthink/libfpta) - Ultra fast, compact, Embedded Database for tabular and semistructured data.
 - [Realm](https://github.com/realm/realm-core) - Mobile database that runs directly inside phones, tablets or wearables.
-- [HSE](https://github.com/hse-project/hse) - Embeddable key-value store designed for SSDs based on NAND flash or persistent memory.
+- [HSE](https://github.com/hse-project/hse) - Embeddable key-value store designed for SSDs based on NAND flash or persistent memory. ([Docs](https://hse-project.github.io/))
 - [GhostDB](https://github.com/jakekgrog/GhostDB) - Distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. ([HN](https://news.ycombinator.com/item?id=23774174))
 - [Datalevin](https://github.com/juji-io/datalevin) - Port of Datascript in-memory Datalog database to Lightning Memory-Mapped Database (LMDB).
 - [DagDB](https://github.com/mikeal/dagdb) - Syncable database built on IPLD.
@@ -260,6 +267,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [PhotonDB](https://github.com/photondb/photondb) - Storage engine for modern hardware, built from scratch in Rust.
 - [RadonDB](https://github.com/radondb/radon) - Open source, Cloud-native MySQL database for unlimited scalability and performance.
 - [Segment](https://github.com/segment-dev/segment) - Simple and fast in-memory key-value database written in Rust.
+- [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface.
 
 ## Tools
 
@@ -572,7 +580,7 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [Upgrading MySQL at Shopify (2021)](https://shopify.engineering/upgrading-mysql-shopify)
 - [DuckDB quacks Arrow: A zero-copy data integration between Apache Arrow and DuckDB (2021)](https://arrow.apache.org/blog/2021/12/03/arrow-duckdb/)
 - [Some indexing best practices (2021)](https://www.pgmustard.com/blog/indexing-best-practices-postgresql)
-- [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbase/slashbase))
+- [Slashbase](https://slashbase.com/) - Open-source collaborative IDE for your databases. ([Code](https://github.com/slashbaseide/slashbase)) ([HN](https://news.ycombinator.com/item?id=33516533))
 - [Индексируем базу: как делать хорошо и не делать плохо](https://github.com/Envek/saintprubyconf-db-indexes-talk)
 - [Ask HN: How do you manage direct updates to databases in a production system (2021)](https://news.ycombinator.com/item?id=29563226)
 - [Databases in 2021: A Year in Review](https://ottertune.com/blog/2021-databases-retrospective/) ([HN](https://news.ycombinator.com/item?id=29731885))
@@ -709,3 +717,9 @@ I use [SQlite](sqlite.md) for when I need an embedded database for my apps for l
 - [The B-Tree, LSM-Tree, and the Bw-Tree in Between (2022)](https://photondb.io/2022/08/15/bw-tree.html)
 - [Big Data Storage (2022)](https://berthub.eu/articles/posts/big-data-storage/)
 - [Rewriting a high performance vector database in Rust | Pinecone (2022)](https://www.pinecone.io/learn/rust-rewrite/)
+- [Ephemeral DB, a sacrificial database line for high-throughput data (2022)](https://brandur.org/fragments/ephemeral-db)
+- [fake2db](https://github.com/emirozer/fake2db) - Generate fake but valid data filled databases for test purposes using most popular patterns.
+- [Serverless ETL runtime for cloud databases](https://github.com/second-state/MEGA)
+- [Database Review 2021](https://www.bytebase.com/blog/database-review-2021) ([HN](https://news.ycombinator.com/item?id=33558509))
+- [Ask HN: What do you use for a personal database? (2022)](https://news.ycombinator.com/item?id=33627988)
+- ["The Evolution of a Planetary-scale Distributed Database" by Kevin Scaldeferri (2022)](https://www.youtube.com/watch?v=dmCr5Al_ptM)

@@ -397,3 +397,14 @@ title: Reinforcement learning
 - [Hyperbolic Deep Reinforcement Learning (2022)](https://arxiv.org/abs/2210.01542) ([Code](https://github.com/twitter-research/hyperbolic-rl))
 - [Distributed training of language models with Reinforcement Learning via Human Feedback](https://github.com/CarperAI/trlx)
 - [Memory Maze](https://github.com/jurgisp/memory-maze) - Environment for evaluating long-term memory of RL agents.
+- [Awesome Reinforcement Learning Library](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib)
+- [Reinforcement Learning Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) ([Tweet](https://twitter.com/DuaneJRich/status/1587452234127724545))
+- [AI Learns to Play CS:Go via Large-Scale Behavioural Cloning (2021)](https://arxiv.org/abs/2104.04258) ([HN](https://news.ycombinator.com/item?id=33466255))
+- [Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress (2022)](https://github.com/google-research/reincarnating_rl)
+- [Beyond Tabula Rasa: Reincarnating Reinforcement Learning (2022)](https://ai.googleblog.com/2022/11/beyond-tabula-rasa-reincarnating.html)
+- [Scikit-decide](https://github.com/airbus/scikit-decide) - AI framework for Reinforcement Learning, Automated Planning and Scheduling.
+- [Recent Advances in Multi-Agent Reinforcement Learning (MARL)](https://github.com/chrisyrniu/Recent-Advances-in-Multi-Agent-Reinforcement-Learning)
+- [Awesome MARL](https://github.com/instadeepai/awesome-marl) - Categorized list of Multi-Agent Reinforcement Learning (MARL) papers.
+- [Lux Design 2022](https://github.com/Lux-AI-Challenge/Lux-Design-2022)
+- [In-context Reinforcement Learning with Algorithm Distillation (2022)](https://arxiv.org/abs/2210.14215) ([Overview](https://www.youtube.com/watch?v=fG__j5phdgY))
+- [Delta Academy](https://joindeltaacademy.com/) - Learn RL online by building game AIs.

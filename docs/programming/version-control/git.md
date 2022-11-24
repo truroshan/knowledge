@@ -1,8 +1,8 @@
 # Git
 
-I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) is a great read.
+I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) & [What made you finally grok Git?](https://news.ycombinator.com/item?id=33653212) are great reads.
 
-[git-branchless](https://github.com/arxanas/git-branchless) is neat.
+[git-branchless](https://github.com/arxanas/git-branchless), [git absorb](https://github.com/tummychow/git-absorb) & [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) are useful.
 
 ## Notes
 
@@ -15,6 +15,7 @@ I love Git and version control. And I use version control over any project I do.
 - [To me the beauty of git stems from the fact that it is an implementation of a functional data structure. It‘s a tree index that is read-only, and updating it involves creating a complete copy of the tree and giving it a new name. Then the only challenge is to make that copy as cheap as possible - for which the tree lends itself, as only the nodes on the path to the root need to get updated. As a result, you get lock-free transactions (branches) and minimal overhead. It is so beautiful in fact that when I think about systems that need to maintain long-running state in concurrent environments, my first reaction is ”split up the state into files, and maintain it through git“.](https://news.ycombinator.com/item?id=21418033)
 - [PRs with mandatory review within a company are a bit of an antipattern/red flag IMO. Cycle time automatically gets long. Even when pairing, changes can be put up for review if the authors want more feedback, so it's not a binary choice.](https://twitter.com/sanityinc/status/1313206571606978560)
 - [Git commit message tip: Describe what the code does, not what you did to the code.](https://twitter.com/iammerrick/status/1522321689232625664)
+- [Can do "linear revisions" in Git. Push the corresponding revision as a ref (refs/r/$n) back to git. This way, a correctly configured git client (which pulls those refs) can use `git checkout r/1234` to get to that revision. It's also noteworthy that this is effectively stateless, so you can reproduce the exact revisions locally with a single shell command without fetching them from the remote.](https://news.ycombinator.com/item?id=33704798)
 
 ## Code
 
@@ -594,3 +595,12 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [auto-commit](https://github.com/m1guelpf/auto-commit) - CLI tool that automatically writes commit messages for you. ([Tweet](https://twitter.com/m1guelpf/status/1587127315317723136))
 - [GitStoryKit](https://github.com/swve/gitstorykit) - Rich git projects history discovery apps with ease, used by GitStory.
 - [GitStory](https://gitstory.app/) - Internet's Git Time machine. ([Code](https://github.com/swve/gitstory))
+- [Idiot Proof Git (2022)](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html) ([HN](https://news.ycombinator.com/item?id=33532062))
+- [gfh](https://github.com/Ovyerus/gfh) - Git FIDO Helper - Sign your Git commits with multiple resident SSH keys.
+- [What makes Git so hard to use? (2022)](https://www.highflux.io/blog/what-makes-git-hard-to-use) ([HN](https://news.ycombinator.com/item?id=33626284))
+- [Bringing revsets to Git (2022)](https://blog.waleedkhan.name/bringing-revsets-to-git/)
+- [Ask HN: What made you finally grok Git? (2022)](https://news.ycombinator.com/item?id=33653212)
+- [ggman](https://github.com/tkw1536/ggman) - Manage all your local git repositories.
+- [git-theta](https://github.com/r-three/git-theta) - Git extension for {collaborative, communal, continual} model development.
+- [Extremely Linear Git History (2022)](https://westling.dev/b/extremely-linear-git) ([HN](https://news.ycombinator.com/item?id=33704297)) ([Lobsters](https://lobste.rs/s/ydy5vs/extremely_linear_git_history))
+- [git2 Extensions](https://github.com/gitext-rs/git2-ext)

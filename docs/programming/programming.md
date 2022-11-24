@@ -71,6 +71,7 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [In your comments, write what you did and why, record your level of petulance (REALLY) and the StackOverflow link that made you realize something](https://gomakethings.com/how-to-write-good-comments/)
 - [If you want to learn programming better, don't immediately go and search for solution. Try and solve problem yourself given what you know. Then search and compare solutions.](https://www.youtube.com/watch?v=cgXfWo42gig)
 - [Errors compound. Composing 6 such parts into a bigger system results in a system that is broken 50% of the time. Neglecting the error path scales poorly.](https://twitter.com/tomas_mikula/status/1580114997656825856)
+- [Developers are drawn to complexity like moths to a flame, often with the same outcome.](https://twitter.com/nsilnitsky/status/1590633873993388033)
 
 ## Links
 
@@ -272,7 +273,7 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [Signals & Threads Podcast](https://signalsandthreads.com/)
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/) ([Lobsters](https://lobste.rs/s/jyyuhn/decision_table_patterns))
 - [Ask HN: I'm a terrible developer, what now? (2020)](https://news.ycombinator.com/item?id=24444705)
-- [Computer Architecture: A Quantitative Approach (1990)](https://www.goodreads.com/book/show/70135) ([Review](https://graydon2.dreamwidth.org/233585.html))
+- [Computer Architecture: A Quantitative Approach (2017)](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1) ([Review](https://graydon2.dreamwidth.org/233585.html))
 - [Project Oberon](http://www.projectoberon.com/) - Design for a complete desktop computer system from scratch. ([HN](https://news.ycombinator.com/item?id=24468704)) ([HN](https://news.ycombinator.com/item?id=30467122))
 - [Programming Styles (2008)](https://people.inf.ethz.ch/wirth/Miscellaneous/Styles.pdf)
 - [My Principles for Building Software (2020)](http://kevinmahoney.co.uk/articles/my-principles-for-building-software/) ([Lobsters](https://lobste.rs/s/bodvug/my_principles_for_building_software))
@@ -608,3 +609,16 @@ Most useful thing to know when trying to solve problems especially related to pr
 - [On Coordinated Omission (2022)](https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission)
 - [Refactor Like a Superhero Book (2022)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book)
 - [Ask HN: What piece of code/codebase blew your mind when you saw it? (2022)](https://news.ycombinator.com/item?id=33413124)
+- [Ask HN: What are the reasons behind your success as a self-taught programmer? (2022)](https://news.ycombinator.com/item?id=33501929)
+- [Hussein Nasser - YouTube](https://www.youtube.com/c/HusseinNasser-software-engineering)
+- [Tuple's Pair Programming Guide](https://tuple.app/pair-programming-guide/) ([Code](https://github.com/tupleapp/pair-programming-guide))
+- [Programming Cheat Sheets](https://github.com/ThibaultJanBeyer/cheatsheets)
+- [Conbench](https://github.com/conbench/conbench) - Language-independent Continuous Benchmarking (CB) Framework.
+- [ReBenchDB](https://github.com/smarr/ReBenchDB) - Records benchmark results and provides customizable reporting to track and analyze run-time performance of software programs.
+- [16x Engineer](https://16x.engineer/) - Career progression and personal growth for software engineers.
+- [Tips for large-scale codemods (2022)](https://blog.jez.io/codemods-tips/)
+- [QuickRef](https://quickref.me/) - Share quick reference cheat sheet for developers. ([Code](https://github.com/Fechin/reference))
+- [The Principal Engineer's Handbook (2022)](https://ilya.grigorik.com/the-principal-engineers-handbook/)
+- [KAIST CS220: Programming Principles in Rust](https://github.com/kaist-cp/cs220)
+- [Code Explainers](https://codeexplainers.com/) - Community of designers and developers building interactive programming content. ([Code](https://github.com/pomber/code-explainers))
+- [Kodeco](https://www.kodeco.com/) - High quality programming tutorials.

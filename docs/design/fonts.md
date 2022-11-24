@@ -4,7 +4,9 @@ My current favorite font for programming is [JetBrains Mono](https://www.jetbrai
 
 I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I love the default San Francisco Apple font for use in everything else.
 
-[Variable Fonts](https://v-fonts.com/) are neat. [Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
+[Variable Fonts](https://v-fonts.com/) are neat. Like [Mona Sans & Hubot Sans](https://github.com/mona-sans) by GitHub.
+
+[Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
 
 ## Interesting fonts
 
@@ -136,6 +138,9 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Acma](https://twitter.com/PangramPangram_/status/1578445381905838081)
 - [Nabla](https://nabla.typearture.com/) - Isometric Color Font. ([HN](https://news.ycombinator.com/item?id=33276752)) ([Code](https://github.com/justvanrossum/nabla))
 - [Plus Jakarta Sans](https://github.com/tokotype/PlusJakartaSans) - Font family that takes geometric sans serif styles, designed by Gumpita Rahayu from Tokotype.
+- [Hubot Sans](https://github.com/github/hubot-sans) - Variable font from GitHub.
+- [Mona Sans](https://github.com/github/mona-sans) - Variable font from GitHub.
+- [Sofia Sans](https://github.com/lettersoup/Sofia-Sans)
 
 ## Notes
 
@@ -421,3 +426,17 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [COSMIC Text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text shaping and rendering for COSMIC. ([Reddit](https://www.reddit.com/r/rust/comments/yb2q8f/cosmic_text_a_pure_rust_library_no_system/))
 - [ttf-properties-changer](https://github.com/kalashnikovisme/ttf-properties-changer) - Change properties of ttf-fonts.
 - [Tokotype](https://twitter.com/tokotype) - Indonesian company that specializes in digital typeface. ([GitHub](https://github.com/tokotype/PlusJakartaSans))
+- [A few of my favorite typefaces (2021)](https://blog.thea.codes/typefaces-i-love/)
+- [Substitute web fonts with StopTheMadness (2022)](https://underpassapp.com/news/2022-11-3.html) ([HN](https://news.ycombinator.com/item?id=33493540))
+- [Font Collection](https://github.com/chrisbull/font-collection)
+- [Almost monospaced: the perfect fonts for writing (2022)](https://blakewatson.com/journal/almost-monospaced-the-perfect-fonts-for-writing/) ([HN](https://news.ycombinator.com/item?id=33498799))
+- [Typography for Lawyers](https://typographyforlawyers.com/) ([HN](https://news.ycombinator.com/item?id=33510827))
+- [Velvetyne type Foundry](https://www.velvetyne.fr/) ([Twitter](https://twitter.com/velvetype))
+- [Studio Triple](http://studiotriple.fr/) - Berlin based graphic and type design studio.
+- [Norad](https://github.com/linebender/norad) - Rust crate for working with Unified Font Object files.
+- [Mona Sans & Hubot Sans GitHub variable fonts](https://github.com/mona-sans) ([HN](https://news.ycombinator.com/item?id=33553659))
+- [Fontpie](https://github.com/pixel-point/fontpie) - Get your layout shifts optimized with a CLI-generated piece of CSS.
+- [My fav typefaces for UI design](https://twitter.com/jordanphughes/status/1593107714364018688)
+- [UTIF.js](https://github.com/photopea/UTIF.js) - Fast and advanced TIFF decoder.
+- [Glyphance](https://github.com/cupcakearmy/glyphance) - CLI tool for generating font subsets based on unicode ranges.
+- [Lettersoup](https://www.lettersoup.de/) - Retail Fonts.

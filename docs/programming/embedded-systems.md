@@ -219,3 +219,11 @@ Also looking into [Embassy](https://embassy.dev/).
 - [Rust on Espressif chips (2022)](https://mabez.dev/blog/posts/esp-rust-17-10-2022/) ([HN](https://news.ycombinator.com/item?id=33311316))
 - [EspUp](https://github.com/esp-rs/espup) - Tool for installing and maintaining the required toolchains for developing applications in Rust for Espressif SoC's.
 - [Ledcat](https://github.com/polyfloyd/ledcat) - Simple utility that aims to provide a standard interface for driving LED-strips and such.
+- [GyverPortal](https://github.com/GyverLibs/GyverPortal) - Простой конструктор веб интерфейсов для ESP8266 и ESP32.
+- [Trenchcoat](https://github.com/spookyvision/trenchcoat) - Virtual machine for rapid embedded development.
+- [ESP Thread Boarder Router SDK](https://github.com/espressif/esp-thread-br)
+- [Picolibc](https://github.com/picolibc/picolibc) - C library designed for embedded 32- and 64- bit systems.
+- [Understanding the UBI File System in Embedded Devices (2022)](https://serhack.me/articles/understanding-ubi-file-system-embedded-devices-reolink/)
+- [swSIM](https://github.com/tomasz-lisowski/swsim) - SIM card simulator which does not rely on any SIM hardware to work.
+- [USB Cable Tester](https://github.com/alvarop/usb_c_cable_tester) - Simple board to test various USB cables.
+- [TinyLLama](https://github.com/eivindbohler/tinyllama) - Tiny x86 Retrocomputer. ([HN](https://news.ycombinator.com/item?id=33703096))

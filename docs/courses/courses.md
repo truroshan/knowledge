@@ -63,3 +63,5 @@
 - [What college course do you wish you could take today?](https://twitter.com/lachygroom/status/1554181437615509504)
 - [classes.wtf](https://classes.wtf/) - Search Harvard classes.
 - [TigYog](https://tigyog.app/) - Teach and earn by writing interactive stories. Online courses don’t have to be video playlists.
+- [newline](https://www.newline.co/) - Web courses.
+- [Creating a Dedicated Development Environment for Teaching (2022)](https://coder.com/blog/dedicated-development-environment-for-teaching)

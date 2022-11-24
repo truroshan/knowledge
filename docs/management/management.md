@@ -2,7 +2,14 @@
 
 [Linear](https://linear.app/) & [Height](https://height.app/) are nice project management tools. I use GitHub issues for all my project management tasks. Want to build a nice desktop client app for GitHub similar to [Ship](https://www.realartists.com/blog/ship-20.html).
 
-[Basecamp Employee Handbook](https://basecamp.com/handbook) & [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) have nice ideas.
+[The Managers Handbook](https://themanagershandbook.com/), [Basecamp Employee Handbook](https://basecamp.com/handbook), [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) & [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) have nice ideas.
+
+Top things that I think are [must have for productive working environment](https://news.ycombinator.com/item?id=33725516):
+
+1. Psychological safety and trust in engineering to lead.
+2. Coworkers that intrinsically care about their work.
+3. Coworkers that are fantastic people.
+4. Meaningful work.
 
 ## Notes
 
@@ -32,6 +39,8 @@
 - [I'm consistently surprised by how the single act of doing this as an eng manager or product manager makes incredible waves: Send an email explaining what your team did the past 1-2 weeks, what your plans are for the next period, blockers & lessons learned.](https://twitter.com/GergelyOrosz/status/1515394850224549898)
 - [Performance will always fall to the minimum acceptable level](https://twitter.com/austen/status/1543260128727539712)
 - [Weekly standing 1:1's with every direct report are largely a waste of time and create bricked out calendar hell as organizations scale](https://twitter.com/jessegenet/status/1567546179369730050)
+- [Drive home the mission and importance to civilization. Require super high commitment from the team. Be willing to fail publicly and punch back at naysayers.](https://twitter.com/reinpk/status/1594577162702651392)
+- [Still convinced OKRs are the ultimate google psyops to slow down startups](https://twitter.com/CharleyMa/status/1594912857002762243)
 
 ## Links
 
@@ -218,3 +227,7 @@
 - [Valve Employee Handbook (2012)](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf) ([HN](https://news.ycombinator.com/item?id=33170988))
 - [Questions to ask before deciding to be a manager](https://twitter.com/clairejlew/status/1585689438922866707)
 - [Preparing technical feedback for Individual Contributors (2022)](https://terrty.net/2022/preparing-technical-feedback/)
+- [Annual Performance Reviews Ruin Everything (2022)](https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a)
+- [Workday](https://www.workday.com/) - Global HR Management System.
+- [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) ([Tweet](https://twitter.com/lennysan/status/1591470516178948096))
+- [Managing tech debt in teams](https://twitter.com/clairevo/status/1592561009671409664)

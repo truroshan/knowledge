@@ -150,3 +150,8 @@
 - [Crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB.
 - [Ask HN: Is there any beautiful Markdown editor? (2022)](https://news.ycombinator.com/item?id=32797711)
 - [remark-lint-frontmatter-schema](https://github.com/JulianCataldo/remark-lint-frontmatter-schema) - Validate your Markdown frontmatter data against a JSON schema.
+- [Snekdown](https://github.com/Trivernis/snekdown) - Extended markdown parser written in pure rust.
+- [TOC](https://github.com/samoht/toc) - Automatically generate table of contents for Markdown files.
+- [md](https://pkg.go.dev/src.elv.sh/pkg/md@master) - Markdown parser in Go.
+- [Convert Markdown to HTML](https://github.com/jaywcjlove/markdown-to-html)
+- [markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions.

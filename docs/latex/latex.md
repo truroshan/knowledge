@@ -4,9 +4,11 @@ title: LaTeX
 
 # [LaTeX](https://www.latex-project.org/)
 
-LaTeX is an amazing typesetting language that I mostly use to markup various mathematical formulas. I am currently learning more about it and try to use it here in the wiki too with [KaTex](https://plugins.gitbook.com/plugin/katex) plugin.
+LaTeX is a nice typesetting language that I mostly use to markup various mathematical formulas. I use it in some places of this wiki with [KaTex](https://plugins.gitbook.com/plugin/katex) plugin.
 
 For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text.md) and [LateXTools](https://github.com/SublimeText/LaTeXTools) plugin.
+
+[SILE](https://sile-typesetter.org/) seems like a nice alternative to LaTeX.
 
 ## Links
 
@@ -153,3 +155,8 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [Lambda Operator in LaTeX (2022)](https://commutative.xyz/~miguelmurca/blog/x/lambda.html) ([HN](https://news.ycombinator.com/item?id=33259630))
 - [LaPreprint](https://github.com/roaldarbol/LaPreprint) - Nicely formatted LaTeX preprint template.
+- [SILE](https://sile-typesetter.org/) - Modern rewrite of TeX. Typesetting system; its job is to produce beautiful printed documents. ([Code](https://github.com/sile-typesetter/sile)) ([Lobsters](https://lobste.rs/s/95ammp/sile_modern_rewrite_tex))
+- [tt-weave](https://github.com/tectonic-typesetting/tt-weave) - WEAVE-like program targeting Tectonic HTML output.
+- [Fast Typesetting with Incremental Compilation (2022)](https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf) ([HN](https://news.ycombinator.com/item?id=33662534))
+- [Go-LaTeX](https://github.com/go-latex/latex) - Go package for LaTeX.
+- [Pretty-Print LaTeX](https://github.com/stefanhepp/pplatex)

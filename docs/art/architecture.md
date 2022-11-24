@@ -1,6 +1,6 @@
 # Architecture
 
-[Cover](https://buildcover.com/) is an awesome project.
+[Cover](https://buildcover.com/) & [Samara](https://www.samara.com/) are amazing projects.
 
 ## Interesting architects
 
@@ -14,6 +14,7 @@
 
 ## Nice places
 
+- [Hundred year-old cabin](https://twitter.com/linear_magazine/status/1588605562874306560)
 - [Richard Campbell's fancy Portland house](https://twitter.com/yatirkaaren/status/1532424881358491650)
 - [Williamsburg open place](https://twitter.com/madelinebilis/status/1327380099147165697)
 - [Living Lab House / JC Architecture](https://www.archdaily.com/923076/living-lab-house-jc-architecture)
@@ -34,6 +35,8 @@
 - [My Place: Florence Welch](https://www.youtube.com/watch?v=WBPq9BcTIOs)
 - [Corner House designed by Archier](https://twitter.com/ugmonk/status/1526208540674768898)
 - [Lakeside Theatre / Hexia Architects + MADAM](https://www.archdaily.com/988443/lakeside-theatre-hexia-architects-plus-madam)
+- [Inside Sienna Miller's Secluded Country Cottage](https://www.youtube.com/watch?v=w4HmK4JCN2U)
+- [Romee Strijd's new home](https://www.youtube.com/watch?v=_hP6SNX2Xps)
 
 ## Inspiring
 
@@ -113,3 +116,4 @@
 - [Automatic Construction](https://automatic-construction.com/) - Inexpensive concrete buildings. ([Builds Houses by Pumping Concrete Into Inflatable Forms](https://singularityhub.com/2022/10/06/this-startup-builds-houses-by-pumping-concrete-into-inflatable-forms/)) ([HN](https://news.ycombinator.com/item?id=33117180))
 - [Why the world is full of box-shaped buildings with square windows, plain walls, and no ornamentation](https://twitter.com/culturaltutor/status/1584935464590790656)
 - [Things you'd love in a kitchen](https://twitter.com/jlongster/status/1586805696523370496)
+- [An overview of concrete forming technology (2022)](https://constructionphysics.substack.com/p/an-overview-of-concrete-forming-technology) ([HN](https://news.ycombinator.com/item?id=33562660))

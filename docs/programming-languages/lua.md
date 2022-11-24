@@ -144,3 +144,7 @@ title: Lua
 - [Structured concurrency and Lua](https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22) ([HN](https://news.ycombinator.com/item?id=32910719))
 - [Selene](https://github.com/Kampfkarren/selene) - Blazing-fast modern Lua linter written in Rust.
 - [Lua Scripts for Roblox](https://github.com/Kampfkarren/Roblox)
+- [Racket-Lua](https://github.com/Bogdanp/racket-lua) - Implementation of Lua 5.4 for Racket. ([Article](https://defn.io/2022/11/12/ann-racket-lua/)) ([HN](https://news.ycombinator.com/item?id=33577089))
+- [Lua Standard Library](https://github.com/shawnjb/lua-standard-library) - Implement popular data structures & algorithms into your Lua applications.
+- [Building the fastest Lua interpreter automatically (2022)](https://sillycross.github.io/2022/11/22/2022-11-22/index.html) ([HN](https://news.ycombinator.com/item?id=33711583))
+- [LuaJIT Remake](https://github.com/luajit-remake/luajit-remake) - Implement a multi-tier method-JIT for Lua.

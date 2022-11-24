@@ -220,7 +220,7 @@
 - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) ([HN](https://news.ycombinator.com/item?id=30660528))
 - [A flexible, lightweight, spin-lock barrier (2022)](https://nullprogram.com/blog/2022/03/13/)
 - [C Isn't A Programming Language Anymore (2022)](https://gankra.github.io/blah/c-isnt-a-language/) ([Lobsters](https://lobste.rs/s/w9sotc/c_isn_t_programming_language_anymore)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/tg55ow/c_isnt_a_programming_language_anymore_faultlore/)) ([Tweet](https://twitter.com/Gankra_/status/1504208394802061326)) ([Reddit](https://www.reddit.com/r/rust/comments/tp37m4/c_isnt_a_programming_language_anymore_faultlore/))
-- [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
+- [Mildly Interesting Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01) ([HN](https://news.ycombinator.com/item?id=33680239))
 - [SubC](https://github.com/qeedquan/gosubc) - Simple subset of C originally written by Nils Holms for teaching newcomers how to write a compiler.
 - [c2go](https://github.com/goplus/c2go) - Convert C to Go.
 - [Implementing cosine in C from scratch (2020)](https://austinhenley.com/blog/cosine.html) ([HN](https://news.ycombinator.com/item?id=30844872))
@@ -293,3 +293,10 @@
 - [Bringing a dynamic environment to C: My linker project (2022)](https://macoy.me/blog/programming/LinkerLoaderIntro) ([Lobsters](https://lobste.rs/s/rtwvka/bringing_dynamic_environment_c_my_linker)) ([HN](https://news.ycombinator.com/item?id=33368991))
 - [FluenC](https://github.com/Znurre/dz) - Modern, functional-first, C inspired language, with a focus on simplicity.
 - [Come](https://github.com/shuosc/Come) - C like language and its compiler.
+- [C Programming Language 2nd Edition - Solutions](https://github.com/ohkimur/the-c-programming-language-2nd-edition-solutions)
+- [clex](https://github.com/jafarlihi/clex) - Simple lexer generator for C. ([Lobsters](https://lobste.rs/s/lasyib/github_jafarlihi_clex_clex_is_simple))
+- [C Isn't a Programming Language Anymore (2022)](https://faultlore.com/blah/c-isnt-a-language/) ([HN](https://news.ycombinator.com/item?id=33509223))
+- [What tool do you use to document your code in C language? (2022)](https://www.reddit.com/r/embedded/comments/ypktfv/what_tool_do_you_use_to_document_your_code_in_c/)
+- [cparse](https://github.com/jafarlihi/cparse) - LR parser generator for C.
+- [Considering C99 for curl (2022)](https://daniel.haxx.se/blog/2022/11/17/considering-c99-for-curl/) ([HN](https://news.ycombinator.com/item?id=33704054))
+- [C compiler written in Swift](https://github.com/mattjbird/clanger)

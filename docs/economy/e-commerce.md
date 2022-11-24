@@ -1,6 +1,6 @@
 # E-commerce
 
-Love [Italic](https://italic.com/)'s store UX.
+Love [Italic](https://italic.com/) & [Beauty of Joseon](https://beautyofjoseon.com/)'s store UX.
 
 ## Nice shops
 
@@ -11,6 +11,7 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Misc. Goods Co.](https://misc-goods-co.com/) - Custom Playing Cards | Natural Deodorant | Etc. ([Twitter](https://twitter.com/Misc_Goods_Co))
 - [Joom](https://www.joom.com/en) ([GitHub](https://github.com/joomcode))
 - [Baby Shop](https://www.babyshop.com/)
+- [Don't Touch My Skin](https://dtmskin.com/)
 
 ## Links
 
@@ -174,3 +175,17 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Svelsa](https://github.com/Hetarth02/medusa-svelsa) - Starter storefront template in SvelteKit.
 - [parcelLab](https://parcellab.com/) - Solve your Post-Purchase Experience.
 - [Metapack](https://www.metapack.com/) - Ecommerce Delivery Management Software.
+- [Spidey](https://github.com/tinrab/spidey) - Microservices and GraphQL based online store.
+- [Karma](https://www.karmanow.com/) - Best Coupons and Cash Rewards.
+- [Hydrogen UI](https://github.com/Shopify/hydrogen-ui) - Reusable components and utilities for building Shopify-powered custom storefronts.
+- [Nice options to sell digital art](https://twitter.com/Shpigford/status/1591085661481623553)
+- [Tom Ford](https://www.tomford.com/)
+- [Gear In Stock Tracker](https://www.gearinstock.com/)
+- [Saucony](https://www.saucony.com/en/home) - Running Shoes, Clothing, & Accessories.
+- [Cult Beauty](https://www.cultbeauty.com/) - Shop The World's Best Beauty Buys.
+- [Kit](https://kit.co/) - Community of creators sharing the products they swear by.
+- [Acne Studios](https://www.acnestudios.com/eu/en/home)
+- [The Row](https://www.therow.com/)
+- [Jacquemus](https://www.jacquemus.com/en_fr)
+- [Basket](https://www.trybasket.com/) - Save products from anywhere online and get price drop alerts.
+- [Miahcombat](https://miahcombat.com/) - Fun cat related products.

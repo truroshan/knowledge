@@ -23,6 +23,10 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Mujuice - Время](https://www.youtube.com/watch?v=Ly04np1yOYE)
 - [Ólafur Arnalds, Josin - The Bottom Line](https://www.youtube.com/watch?v=2uPnDp-O6pI)
 
+## Hot men
+
+- [Louis Garrel](https://www.youtube.com/watch?v=c2Xf_iXTjXg)
+
 ## Notes
 
 - Specify a pick point for delivery if I won't be home during the delivery time.
@@ -439,7 +443,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What Lived Up to the Hype? (2020)](https://news.ycombinator.com/item?id=25525457)
 - [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
 - [Looking Glass Factory](https://lookingglassfactory.com/) - World's Leading Holographic Display.
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685))
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685)) ([Tweet](https://twitter.com/emollick/status/1588691459741745153))
 - [Dark Mountain Manifesto](https://dark-mountain.net/)
 - [10 significant lies you're told about the world: On startups, writing, and your career (2021)](https://twitter.com/Julian/status/1348001394104537089)
 - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
@@ -688,3 +692,13 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Meme Time Machine](https://meme-time-machine.vercel.app/) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/yg1d5f/i_made_a_website_that_lets_you_browse_memes/))
 - [Catppuccin Wallpapers](https://github.com/catppuccin/wallpapers) - Wallpapers to match your Catppuccin setups.
 - [Ayaka](https://github.com/Uni-Gal/Ayaka) - Visual novel engine written by Rust.
+- [Moco Museum](https://mocomuseum.com/)
+- [Argdown](https://argdown.org/) - Simple syntax for complex argumentation. ([Code](https://github.com/christianvoigt/argdown))
+- [Bubbles](https://oimo.io/works/bubbles/) ([HN](https://news.ycombinator.com/item?id=33566924))
+- [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes)
+- [Building an E-Ink weather display for our home (2022)](https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/) ([HN](https://news.ycombinator.com/item?id=33583326))
+- [Men's Manicure: How To | Grooming Essential](https://www.youtube.com/watch?v=Arybuqd8PW0)
+- [How To Correctly Clip Nails](https://www.youtube.com/watch?v=GF6smAEFbNE)
+- [How to sell tickets fairly (2022)](https://barnabas.me/blog/2022/11/selling-tickets-fairly/) ([HN](https://news.ycombinator.com/item?id=33666013))
+- [Ask HN: What is the thing you've built that you regret the most? (2022)](https://news.ycombinator.com/item?id=33675112)
+- [Literature Clock](https://literature-clock.jenevoldsen.com/) - Clock using time quotes from the literature, based on the work of Jaap Meijers. ([Code](https://github.com/JohannesNE/literature-clock))

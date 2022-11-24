@@ -4,7 +4,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 [cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful. [Command Line Interface Guidelines](https://clig.dev/) are great.
 
-[circumflex](https://github.com/bensadeh/circumflex) is a nicely made CLI written in [Go](../programming-languages/go/go.md) & [Bubble Tea](https://github.com/charmbracelet/bubbletea).
+[nap](https://github.com/maaslalani/nap) & [circumflex](https://github.com/bensadeh/circumflex) are nicely made CLIs written in [Go](../programming-languages/go/go.md) & [Bubble Tea](https://github.com/charmbracelet/bubbletea) (my preferred CLI stack).
 
 ## Favorite
 
@@ -163,3 +163,12 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Bevel](https://github.com/NorfairKing/bevel) - Command line history in an SQLite database for effective re-use.
 - [alt](https://github.com/dotboris/alt) - Simple version manager. Tool for switching between different versions of commands.
 - [Charm VHS](https://github.com/charmbracelet/vhs) - Write terminal GIFs as code for integration testing and demoing your CLI tools.
+- [JC](https://github.com/kellyjonbrazil/jc) - JSONifies the output of many CLI tools. ([HN](https://news.ycombinator.com/item?id=33448204))
+- [Command-line data analytics made easy (2022)](https://danielcmoura.com/blog/2022/spyql-cell-towers/)
+- [CLI Tools Are Not Inherently User-Hostile - Mindy Preston (2022)](https://www.youtube.com/watch?v=IcV9TVb-vF4)
+- [How stdbuf works (2022)](https://hmarr.com/blog/how-stdbuf-works/) ([HN](https://news.ycombinator.com/item?id=33561319))
+- [keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheat sheet with TUI.
+- [GPT3 Powered CLI](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal.
+- [Nap](https://github.com/maaslalani/nap) - Code snippets in your terminal.
+- [chimp](https://github.com/xolvio/chimp) - Tooling that helps you do quality, faster.
+- [llama](https://github.com/antonmedv/llama) - Terminal file manager.

@@ -112,3 +112,7 @@ Match all that don't have notes or twitter in input
 - [On the Intersection of Context-Free and Regular Languages (2022)](https://arxiv.org/abs/2209.06809)
 - [The Typing of the RegEX](https://thetypingoftheregex.com/) ([HN](https://news.ycombinator.com/item?id=33343010))
 - [How Do Regular Expressions Really Work? (2020)](https://www.youtube.com/watch?v=u01jb8YN2Lw)
+- [Ken Thompson's NFA regex patent](https://patents.google.com/patent/US3568156A/en) ([HN](https://news.ycombinator.com/item?id=33566557))
+- [What if regular exercise is the best cognitive exercise? (2022)](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html) ([HN](https://news.ycombinator.com/item?id=33573246))
+- [How Regexes Work](https://perl.plover.com/Regex/article.html) ([HN](https://news.ycombinator.com/item?id=33568887))
+- [qgrep](https://github.com/zeux/qgrep) - Fast regular expression grep for source code with incremental index updates.

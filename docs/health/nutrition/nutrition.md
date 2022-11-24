@@ -1,12 +1,26 @@
 # Nutrition
 
-[This book](https://www.goodreads.com/book/show/25663961-how-not-to-die) contains all the evidence needed to prove that a whole food, plant based diet is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
+[How Not to Die Book](https://nutritionfacts.org/book/how-not-to-die/) contains all the evidence needed to prove that a whole food, [plant based diet](../../environment/veganism.md) is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and [health](../health.md).
 
-Knowing this, I eat [whole food, plant based diet](foods.md) & [supplementing](supplements.md) where necessary.
+Knowing this, I eat [whole food, pescatarian diet](foods.md) with a daily [morning smoothie I make + supplements](supplements.md) after a [morning workout](../../fitness/exercises.md).
 
-I try drink only water/tea with occasional coffee. No added sugar in food/drinks. I love exploring [new and interesting vegan recipes](recipes.md).
+I minimize the days on which I do eat fish to few times a month as to minimize my contributions to [overfishing which is a serious problem](https://www.worldwildlife.org/threats/overfishing).
 
-[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s) is insightful.
+I try drink only water/[tea](drinks/tea.md) with occasional [coffee](drinks/coffee.md). No added sugar in food/drinks. No dairy too. I love exploring [new and interesting pescatarian recipes](recipes.md).
+
+[Rhonda Patrick's interview](https://www.youtube.com/watch?v=XcvhERcZpWw&t=582s), [Diet Habits that Built my Physique](https://www.youtube.com/watch?v=iasekg57V3Y) & [What I Eat in a Week](https://youtu.be/rwhUYaWbVUM?t=100) are insightful videos.
+
+### Common foods
+
+I try to eat a lot of protein rich [foods](foods.md) as I do daily [exercises](../../fitness/exercises.md) and generally try to live an active life style without sitting too much.
+
+Foods I try to eat a lot of and make [recipes](recipes.md) from:
+
+- Avocados (eat with eggs and/or some [whole grain bread](https://www.healthline.com/nutrition/healthiest-bread))
+- Greek yugurt (with frozen blueberries often)
+- Eggs (omelettes, sometimes boiled too)
+- Greek salad
+- Soups (fish/vegetable soups are great, also [garlic soup](https://themodernproper.com/garlic-soup))
 
 ## Notes
 
@@ -39,6 +53,7 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - The main reason for all three high blood pressure , diabetes and obesity seems to be excess glucose intake in our food. Millets seem to work wonders in solving this problem for society at large and also moving towards high fiber vegetables diet plan incontrolling blood pressure and diabetes.
 - [Sugar doesn't make you fat, excess calories do. Honeycomb has a low glycemic index. Glycemic index matters a lot in any discussion about insulin.](https://twitter.com/tautologer/status/1521719972401016832)
 - [Lost weight is exhaled primarily as carbon dioxide and water vapor](https://www.reddit.com/r/NoStupidQuestions/comments/wij32s/i_lost_55_lbs_but_where_is_it/)
+- [Eat eggs, salami, yogurt, butter, fish eggs, sardines, cheeses, the highest quality you can afford. Remove excess folate (folic acid) supplementation from diet.](https://twitter.com/simonsarris/status/1593977228567666690)
 
 ## Links
 
@@ -108,3 +123,18 @@ I try drink only water/tea with occasional coffee. No added sugar in food/drinks
 - [A Chemical Hunger – Part I: Mysteries (2021)](https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/) ([Tweet](https://twitter.com/bigmagicdao/status/1583729984304164864))
 - [How do gland problems stop people from losing weight?](https://www.reddit.com/r/askscience/comments/ydyk2l/how_do_gland_problems_stop_people_from_losing/)
 - [Good podcasts about nutrition (2022)](https://www.reddit.com/r/nutrition/comments/yinixv/any_good_podcasts_about_nutrition/)
+- [Food for hair growth and bear growth](https://www.youtube.com/watch?v=YDN_w08jIDY)
+- [Is algae the new kale? (2022)](https://www.nationalgeographic.com/environment/article/is-it-time-to-start-eating-algae) ([HN](https://news.ycombinator.com/item?id=33562614))
+- [The Diet Habits that Built my Physique (Do's and Don'ts) (2022)](https://www.youtube.com/watch?v=iasekg57V3Y)
+- [Athletic Greens](https://athleticgreens.com/en)
+- [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) ([Guide to Using](https://www.nuzest.co.uk/blogs/nutrition/a-guide-to-using-good-green-vitality))
+- [What to do if You're SKINNY FAT (BULK vs CUT vs RECOMP)](https://www.youtube.com/watch?v=7d5LfASoVf8)
+- [What Joe Delaney eats in a day](https://www.youtube.com/watch?v=-CbcVcc8Mfs)
+- [What I Eat in a Week (All Meals Shown)](https://www.youtube.com/watch?v=rwhUYaWbVUM)
+- [Protein intake: low or high for health and longevity?](https://www.reddit.com/r/nutrition/comments/yxzqia/protein_intake_low_or_high_for_health_and/)
+- [Prebiotics & probiotics](https://www.youtube.com/watch?v=0z47wLZ4-O4)
+- [10 Foods Filled With Probiotics](https://www.youtube.com/watch?v=Z-DfrsyAMTw)
+- [Nutrition Library - YouTube](https://www.youtube.com/c/NutritionLibrary/videos)
+- [Almost Everyone Is Dehydrated | How To Stay Properly Hydrated (2022)](https://www.youtube.com/watch?v=_RRqmF0kRYQ)
+- [Dr. Chris Palmer: Diet & Nutrition for Mental Health (2022)](https://hubermanlab.com/dr-chris-palmer-diet-nutrition-for-mental-health/)
+- [The Smartest Way To Use Protein To Build Muscle (Science Explained)](https://www.youtube.com/watch?v=Pok0Jg2JAkE)

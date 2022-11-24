@@ -401,3 +401,13 @@ Haven't used AWS but did use [GCP](../gcp/gcp.md) which is similar and had horre
 - [AWS MWAA Local Runner](https://github.com/aws/aws-mwaa-local-runner) - Replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.
 - [The State of AWS Security](https://www.datadoghq.com/state-of-aws-security/) ([HN](https://news.ycombinator.com/item?id=33174046))
 - [aws4fetch](https://github.com/mhart/aws4fetch) - Compact AWS client for modern JS environments.
+- [Does anyone else finds AWS and other Amazon services overly complicated? (2022)](https://news.ycombinator.com/item?id=33490314)
+- [AWS EC2 Instance Terraform module](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance)
+- [Terraform AWS Components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem.
+- [Data Engineering with AWS (2021)](https://www.packtpub.com/product/data-engineering-with-aws/9781800560413) ([Code](https://github.com/PacktPublishing/Data-Engineering-with-AWS))
+- [alterNAT](https://github.com/1debit/alternat) - High availability implementation of AWS NAT instances.
+- [AWS IAM Roles, a tale of unnecessary complexity (2022)](https://infosec.rodeo/posts/thoughts-on-aws-iam/) ([HN](https://news.ycombinator.com/item?id=33566419))
+- [Empire](https://github.com/remind101/empire) - PaaS built on top of Amazon EC2 Container Service (ECS).
+- [Now Go Build with Werner Vogels | AWS - YouTube](https://www.youtube.com/playlist?list=PLhr1KZpdzukdIpgzSSCkNsnRAwDz6Xx5B)
+- [AWS Policy Simulator](https://github.com/tonygoold/awspolicy) - Offline tool for parsing and evaluating AWS IAM policies.
+- [RioFS](https://github.com/skoobe/riofs) - Userspace filesystem for Amazon S3 buckets for servers that run on Linux and macOS.

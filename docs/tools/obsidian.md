@@ -44,6 +44,8 @@ div.CodeMirror-cursor,
 ## Plugins
 
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
+- [Ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian.
+- [Semantic Search](https://github.com/louis030195/obsidian-search)
 - [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Sample plugin for Obsidian.
 - [Hover Editor](https://github.com/nothingislost/obsidian-hover-editor) - Transform the Page Preview hover into a working editor instance.
 - [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve & note aging by reviewing notes using spaced repetition on Obsidian.md.
@@ -199,6 +201,11 @@ div.CodeMirror-cursor,
 - [Strange New Worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault.
 - [Text Generator Plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [Grammarly Plugin](https://github.com/simonpacis/obsidian-grammarly-plugin) - Add Grammarly spellchecking to Obsidian.
+- [Daily Notes Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - Plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
+- [Custom Sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian.
+- [LanguageTool Plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - Integrates LanguageTool to provide advanced Grammar and Spell Checking.
+- [PlantUML Support](https://github.com/joethei/obsidian-plantuml) - Render PlantUML Diagrams in Obsidian.
+- [Graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz) - Render Graphviz Diagrams in Obsidian.
 
 ## Themes
 
@@ -261,3 +268,4 @@ div.CodeMirror-cursor,
 - [Obsidian Plugin Developer Docs](https://github.com/marcusolsson/obsidian-plugin-docs)
 - [Obsidian for Raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
 - [HN: Obsidian 1.0 (2022)](https://news.ycombinator.com/item?id=33190433)
+- [Writing down what I do – in Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/) ([HN](https://news.ycombinator.com/item?id=33527296))

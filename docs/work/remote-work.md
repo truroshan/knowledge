@@ -21,6 +21,7 @@
 - [The eight hour work day and two day weekend is obsolete. We should expect at most a six hour work day and at least three days off for every four days of work.](https://twitter.com/stevanzetti/status/1520974703820742658)
 - [Quickest way to increase workplace culture in remote world. 1: Quickest way to increase workplace culture in remote world. 2. Each person at some point in the day, has to send their "Highlight of the Day" as a picture. 3. Creates bonding, jokes, affinity.](https://twitter.com/HarryStebbings/status/1566828649394982913)
 - [Ideal commute is a 15-30 minute walk, not rolling out of bed to the computer. This is possible to intentionally build while WFH but I don’t think most people are sufficiently intentional.](https://twitter.com/morgantepell/status/1583874905937891328)
+- [You have no idea how depressing and fatiguing it is to live in the same house where you work.](https://twitter.com/zebulgar/status/1593263444408549377)
 
 ## Links
 
@@ -165,3 +166,5 @@
 - [Where can I live on $300 a week? (2022)](https://www.reddit.com/r/digitalnomad/comments/y1iqxy/where_can_i_live_on_300_a_week/)
 - [How to do async communication well](https://twitter.com/amix3k/status/1580108423378919425)
 - [Ask HN: Why don't I see gold at the end of the remote working rainbow? (2022)](https://news.ycombinator.com/item?id=33259351)
+- [Making remote company culture more lively](https://twitter.com/ShaanVP/status/1588589924072443904)
+- [Ask HN: Why isn't remote work advertised as a pro environment initiative? (2022)](https://news.ycombinator.com/item?id=33690719)

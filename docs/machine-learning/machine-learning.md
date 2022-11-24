@@ -126,7 +126,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- [Papers with Code](https://paperswithcode.com/) - The latest in machine learning. ([HN](https://news.ycombinator.com/item?id=29688214))
+- [Papers with Code](https://paperswithcode.com/) - The latest in machine learning. ([HN](https://news.ycombinator.com/item?id=29688214)) ([GitHub](https://github.com/paperswithcode))
 - [Gradient Descent Derivation (2014)](https://mccormickml.com/2014/03/04/gradient-descent-derivation/)
 - [Best of Machine Learning Newsletter](https://bestofml.com/)
 - [TASO](https://github.com/jiazhihao/taso) - Tensor Algebra SuperOptimizer for Deep Learning.
@@ -840,7 +840,7 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [envd](https://github.com/tensorchord/envd) - Development environment for machine learning.
 - [Awesome Open Source MLOps](https://github.com/gaocegege/awesome-open-source-mlops)
 - [Generalised Implicit Neural Representations (2022)](https://arxiv.org/abs/2205.15674) ([Code](https://github.com/danielegrattarola/GINR))
-- [Diffusers](https://github.com/huggingface/diffusers) - Provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models.
+- [Diffusers](https://github.com/huggingface/diffusers) - Provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models. ([Fork](https://github.com/ShivamShrirao/diffusers))
 - [Lightning AI](https://lightning.ai/) - Use Lightning Apps to build everything from production-ready, multi-cloud ML systems to simple research demos.
 - [Latent World Models For Intrinsically Motivated Exploration (2020)](https://arxiv.org/abs/2010.02302) ([Code](https://github.com/htdt/lwm))
 - [Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt (2022)](https://arxiv.org/abs/2206.07137) ([Code](https://github.com/OATML/RHO-Loss))
@@ -968,3 +968,21 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Deep Generalized Schrödinger Bridge (2022)](https://arxiv.org/abs/2209.09893) ([Code](https://github.com/ghliu/DeepGSB))
 - [Awesome Full Stack Machine Learning Engineering Courses](https://github.com/leehanchung/awesome-full-stack-machine-courses)
 - [Monolith: Real Time Recommendation System With Collisionless Embedding Table (2022)](https://arxiv.org/abs/2209.07663) ([Tweet](https://twitter.com/xamat/status/1587124786487906304))
+- [GENIE: Higher-Order Denoising Diffusion Solvers (2022)](https://arxiv.org/abs/2210.05475) ([Web](https://nv-tlabs.github.io/GENIE/))
+- [PDEBENCH: An Extensive Benchmark for Scientific Machine Learning (2022)](https://arxiv.org/abs/2210.07182) ([Code](https://github.com/pdebench/PDEBench))
+- [Broken Neural Scaling Laws (2022)](https://arxiv.org/abs/2210.14891) ([Code](https://github.com/ethancaballero/broken_neural_scaling_laws))
+- [Failed Machine Learning](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects.
+- [Thoughts on my first machine learning project (2022)](https://www.holovaty.com/writing/machine-learning-thoughts/)
+- [Are You A Cat? ML learning project](https://github.com/MarinaWyss/are-you-a-cat)
+- [The gap between theory and practice in function approximation with deep neural networks (2020)](https://arxiv.org/abs/2001.07523) ([Code](https://github.com/ndexter/MLFA))
+- [Bayesian neural network papers](https://github.com/ssydasheng/Bayesian_neural_network_papers)
+- [Understanding Bayesian Deep Learning](https://github.com/sjchoi86/bayes-nn)
+- [Disentangled Image Colorization via Global Anchors](https://github.com/MenghanXia/DisentangledColorization)
+- [Estimating High Order Gradients of the Data Distribution by Denoising (2021)](https://arxiv.org/abs/2111.04726) ([Code](https://github.com/chenlin9/high_order_dsm))
+- [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/google-research/sam))
+- [Closed-form Continuous-time Neural Models (2021)](https://arxiv.org/abs/2106.13898) ([Code](https://github.com/raminmh/CfC))
+- [Creative AI](https://github.com/sony/creativeai)
+- [ZenBytes](https://github.com/zenml-io/zenbytes) - Simple guide to MLOps through ZenML and its various integrations.
+- [Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting (2022)](https://arxiv.org/abs/2205.14415) ([Code](https://github.com/thuml/Nonstationary_Transformers))
+- [Deep Image Processing](https://github.com/t-kuha/deep-image-processing)
+- [Uni-Perceiver models](https://github.com/fundamentalvision/Uni-Perceiver)

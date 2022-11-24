@@ -247,3 +247,11 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Allbase](https://github.com/TimothyStiles/allbase) - Database for engineering organisms. Go REST API to replace Genbank, Uniprot, Rhea, and CHEMBL.
 - [MICAN](https://github.com/ShintaroMinami/mican) - Non-sequential structural alignment program for protein structure.
 - [Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures (2022)](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v5.abstract) ([Code](https://github.com/luost26/diffab))
+- [List of papers about Proteins Design using Deep Learning](https://github.com/Peldom/papers_for_protein_design_using_DL)
+- [ManyFold](https://github.com/instadeepai/manyfold) - Efficient and flexible library for training and validating protein folding models.
+- [AlphaFold’s new rival? Meta AI predicts shape of 600M proteins (2022)](https://www.nature.com/articles/d41586-022-03539-1) ([HN](https://news.ycombinator.com/item?id=33433583))
+- [biogo](https://github.com/biogo/biogo) - Bioinformatics library for Go. ([Examples](https://github.com/biogo/examples))
+- [Rust-Bio-Tools](https://github.com/rust-bio/rust-bio-tools) - Set of ultra fast and robust command line utilities for bioinformatics tasks based on Rust-Bio.
+- [fastqc-rs](https://github.com/fastqc-rs/fastqc-rs) - Quality control tool for FASTQ files written in rust.
+- [This is biology's century. We're not ready for it (2022)](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
+- [Foresight Institute](https://foresight.org/) - Catalyzing Transformative Technologies. ([Twitter](https://twitter.com/foresightinst))

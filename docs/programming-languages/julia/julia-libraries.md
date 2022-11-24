@@ -124,6 +124,10 @@
 - [GenericTensorNetworks](https://github.com/QuEraComputing/GenericTensorNetworks.jl) - Generic tensor networks for solution space properties.
 - [DifferentiableFactorizations](https://github.com/mohamed82008/DifferentiableFactorizations.jl) - Differentiable matrix factorizations using ImplicitDifferentiation.jl.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) - Fast tensor operations using a convenient Einstein index notation.
+- [MarkovKernels.jl](https://github.com/filtron/MarkovKernels.jl) - Marginal distributions and Markov kernels that play nice with each other for the purpose of Bayesian state estimation.
+- [ProbNumDiffEq.jl](https://github.com/nathanaelbosch/ProbNumDiffEq.jl) - Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing.
+- [Conductor.jl](https://github.com/wsphillips/Conductor.jl) - Platform for quickly and flexibly building high-performance, multi-scale neuronal network models in Julia.
+- [Fluxperimental.jl](https://github.com/FluxML/Fluxperimental.jl) - Experimental features for Flux.jl.
 
 ## Math
 
@@ -761,6 +765,16 @@
 - [PkgCacheInspector](https://github.com/timholy/PkgCacheInspector.jl) - Inspect the contents of Julia package cache files.
 - [Ümlaut](https://github.com/dfdx/Umlaut.jl) - Code tracer for Julia. Trace the function execution, recording all primitive operations onto a linearized tape.
 - [Spark.jl](https://github.com/dfdx/Spark.jl) - Julia interface to Apache Spark.
+- [AVRCompiler.jl](https://github.com/Seelengrab/AVRCompiler.jl) - Used for compiling Julia source code to AVR assembly.
+- [Bessels.jl](https://github.com/JuliaMath/Bessels.jl) - Numerical routines for computing Bessel, Airy, and Hankel functions for real arguments.
+- [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) - Plotting extension library for CImGui.jl.
+- [Bumper.jl](https://github.com/MasonProtter/Bumper.jl) - Make working with bump allocators easy and safe-ish.
+- [Classes.jl](https://github.com/rjplevin/Classes.jl) - Simple, Julian approach to inheritance of structure and methods.
+- [PProf.jl](https://github.com/JuliaPerf/PProf.jl) - Export Julia profiles to the pprof format.
+- [FourierFlows.jl](https://github.com/FourierFlows/FourierFlows.jl) - Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains.
+- [Preferences](https://github.com/JuliaPackaging/Preferences.jl) - Convenient, integrated way for packages to store configuration switches to persistent TOML files.
+- [StructHelpers](https://github.com/jw3126/StructHelpers.jl) - Automate common struct definition boilerplate.
+- [AdvancedHMC.jl](https://github.com/TuringLang/AdvancedHMC.jl) - Robust, modular and efficient implementation of advanced Hamiltonian Monte Carlo algorithms.
 
 ## Links
 
@@ -794,3 +808,4 @@
 - [JNumPy](https://github.com/Suzhou-Tongyuan/jnumpy) - Writing high-performance C extensions for Python in minutes. ([HN](https://news.ycombinator.com/item?id=32407451))
 - [PkgDependency](https://github.com/peng1999/PkgDependency.jl) - Show dependency tree of Julia project.
 - [PlutoSliderServer](https://github.com/JuliaPluto/PlutoSliderServer.jl) - Web server to run just the @bind parts of a Pluto.jl notebook.
+- [InteractiveCodeSearch.jl](https://github.com/tkf/InteractiveCodeSearch.jl) - Interactively search Julia code from terminal.

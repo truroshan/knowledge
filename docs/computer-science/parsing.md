@@ -1,6 +1,8 @@
 # Parsing
 
-[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat. [participle](https://github.com/alecthomas/participle) is great go lib I use for parsing.
+[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat. [participle](https://github.com/alecthomas/participle) is great [Go](../programming-languages/go/go.md) lib I use for parsing. [nom](https://github.com/Geal/nom) & [combine](https://github.com/Marwes/combine) are great for parsing in [Rust](../programming-languages/rust/rust.md).
+
+[Intro to Parsing with Parsec in Haskell](https://github.com/JakeWheat/intro_to_parsing) is nice read.
 
 ## Links
 
@@ -125,3 +127,6 @@
 - [Let's write a JSON parser in Rust](https://github.com/ericseppanen/json-parser-toy)
 - [Katydid](https://github.com/katydid/katydid) - Encoding Agnostic Validation (Validation Language, Parsers and Encoders).
 - [Practical Parsing in Rust with nom (2022)](https://naiveai.hashnode.dev/practical-parsing-nom) ([Lobsters](https://lobste.rs/s/mj8smd/practical_parsing_rust_with_nom))
+- [lexgen](https://github.com/osa1/lexgen) - Fully-featured lexer generator, implemented as a proc macro.
+- [parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust.
+- [Parsing Programming Languages with FParsec (2020)](https://rosalogia.me/posts/functional-parsing/)

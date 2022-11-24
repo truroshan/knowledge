@@ -1,10 +1,8 @@
 # Writing
 
-I love writing. It is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing.
+I love [simple](https://twitter.com/jasoncwarner/status/1593677724027326464), effective writing. It is incredibly empowering. It's the best way aside of video to snapshot knowledge in time for others to learn.
 
 Paul Graham wrote a wonderful article titled [_Write like you talk_](http://www.paulgraham.com/talk.html) and I agree with it wholeheartedly. In my opinion these are the main pillars on which I try to build my writing skills upon.
-
-Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great.
 
 ## Honesty
 
@@ -32,16 +30,19 @@ Replace words like `really like` with `love` or other more appropriate words tha
 
 ## My writing process
 
-I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
+I stopped writing articles after starting [this wiki](../other/wiki-workflow.md).  For reasons I mention [here](../sharing/my-articles.md).
+
+When I did write articles, I started writing all my articles by jotting down notes/ideas as dashed points below the title. Here is how that looks:
 
 ![](https://i.imgur.com/Tl92zCL.png)
 
-I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
+I then started writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 
-I write all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use an [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through this wiki & my blog.
+I wrote all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and used an [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through this wiki & my blog.
 
 ![](https://i.imgur.com/J7vMVjA.png)
 
+Nowadays I mostly use [Obsidan](../tools/obsidian.md) for everything. 
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 
 - Focus
@@ -98,6 +99,14 @@ Having 0 frictions in starting to write & publishing is incredibly empowering to
 Quick notes interlinked are amazing. But when combined with proper researched and well done articles such as ones by [Bartosz Ciechanowski](https://ciechanow.ski/cameras-and-lenses/) backed by visualizations and data. It's even more incredible.
 
 I personally have been focusing on growing this wiki for way too long, I want to write more long term pieces, properly researched and well done. Web canvas is so powerful in the kinds of stories you can tell. Or maybe make more photographical stories like ones seen on [Exposure](https://www.exposure.co/publications).
+
+Tools like [Lex](https://lex.page/) or [Careful Words](https://carefulwords.com/) are great.
+
+## Nice pieces of effective writing
+
+I love writing of [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine). Also:
+
+- [CEO Patrick Collison's email to Stripe employees](https://stripe.com/en-gb-es/newsroom/news/ceo-patrick-collisons-email-to-stripe-employees) ([HN](https://news.ycombinator.com/item?id=33450753))
 
 ## Notes
 
@@ -301,3 +310,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Screenplays for Movies and TV Shows](https://screenplays.io/) ([HN](https://news.ycombinator.com/item?id=33228533))
 - [Moonbeam](https://www.gomoonbeam.com/) - Moonbeam's AI will give you everything you need to write killer long form content.
 - [Write Like You Talk (2015)](http://paulgraham.com/talk.html) ([HN](https://news.ycombinator.com/item?id=33308393))
+- [Just Don’t (2022)](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont) ([HN](https://news.ycombinator.com/item?id=33518496))
+- [Dev Writer's Workshop](https://github.com/Nutlope/devwriting)
+- [Lesson writing structure. Write music.](https://twitter.com/nathanbaugh27/status/1591442834053529601)
+- [Prefer simpler language](https://twitter.com/jasoncwarner/status/1593677724027326464)

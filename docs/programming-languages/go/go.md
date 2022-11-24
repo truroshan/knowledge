@@ -16,6 +16,10 @@ Go promotes composition over inheritance.
 
 Only thing I dislike about Go is it's verbosity especially with respect to errors. But that decision was made so all programmers are forced to not only consider the happy paths of their code & write proper error logging.
 
+That said, I am exploring writing more code in [Rust](../rust/rust.md) specifically because of [Tauri](../rust/rust-libraries/tauri.md).
+
+It's useful to setup linters like [GolangCI-Lint](https://github.com/golangci/golangci-lint) or commands from [Go Recipes](https://github.com/nikolaydubina/go-recipes).
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.
@@ -234,7 +238,7 @@ if *boolArgPtr != false {
 - [go: observing stack grow and shrink (2020)](https://ops.tips/notes/go-observing-stack-grow-and-shrink/)
 - [Readiness notifications in Go (2020)](https://michael.stapelberg.ch/posts/2020-02-02-readiness-notifications-in-golang/)
 - [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible. ([Example](https://github.com/goreleaser/example))
-- [Zen of Go](https://the-zen-of-go.netlify.com/) - Ten engineering values for writing simple, readable, maintainable Go code. ([Code](https://github.com/davecheney/the-zen-of-go)) ([HN](https://news.ycombinator.com/item?id=22396405))
+- [Zen of Go](https://the-zen-of-go.netlify.com/) - Ten engineering values for writing simple, readable, maintainable Go code. ([Code](https://github.com/davecheney/the-zen-of-go)) ([HN](https://news.ycombinator.com/item?id=22396405)) ([Talk](https://www.youtube.com/watch?v=yd_rtwYaXps))
 - [go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go Clean Architecture based on Reading Uncle Bob's Clean Architecture.
 - [Why Discord is switching from Go to Rust (2020)](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) ([HN](https://news.ycombinator.com/item?id=22238335)) ([Reddit](https://www.reddit.com/r/programming/comments/eyuebc/why_discord_is_switching_from_go_to_rust/)) ([Lobsters](https://lobste.rs/s/34sse3/why_discord_is_switching_from_go_rust))
 - [Running Go CLI programs in the browser (2020)](https://www.arp242.net/wasm-cli.html) ([Lobsters](https://lobste.rs/s/5r1h5r/running_go_cli_programs_browser))
@@ -531,7 +535,7 @@ if *boolArgPtr != false {
 - [Useful bootstrap checklist for Go Projects](https://boyter.org/posts/useful-bootstrap-for-go-projects/)
 - [Building a Hotwired web app with Go and Templ (2021)](https://adrianhesketh.com/2021/06/04/hotwired-go-with-templ/)
 - [Go 1.17 is deprecating the traditional use of 'go get' (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet) ([HN](https://news.ycombinator.com/item?id=27630625)) ([Reddit](https://www.reddit.com/r/golang/comments/o7ejdv/go_117_is_deprecating_the_traditional_use_of_go/)) ([Lobsters](https://lobste.rs/s/jb9mho/go_1_17_is_deprecating_traditional_use_go))
-- [Go recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects.
+- [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Handy commands to run in Go projects.
 - [Deploy a Go app with Dokku (HTTPS and auto-deployment) (2021)](https://shellbear.me/blog/go-dokku-deployment)
 - [Go Concurrency - Worker Pool Pattern](https://github.com/godoylucase/workers-pool)
 - [Awesome Go Workshops](https://github.com/amit-davidson/awesome-golang-workshops)
@@ -865,7 +869,7 @@ if *boolArgPtr != false {
 - [Michael Knyszek - Respecting Memory Limits In Go (2022)](https://www.youtube.com/watch?v=07wduWyWx8M)
 - [Bitmap Indexes in Go: Search Speed (2019)](https://habr.com/en/company/badoo/blog/455608/) ([HN](https://news.ycombinator.com/item?id=32937930))
 - [Go Watch](https://github.com/mitranim/gow) - Missing watch mode for the go command. It's invoked exactly like go, but also watches Go files and reruns on changes.
-- [Maps and Memory Leaks in Go (2022)](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69)
+- [Maps and Memory Leaks in Go (2022)](https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69) ([HN](https://news.ycombinator.com/item?id=33516297))
 - [Path to OOD with Go - Workshop](https://github.com/ronna-s/go-ood/)
 - [Gobra](https://github.com/viperproject/gobra) - Automated, modular verifier for Go programs, based on the Viper verification infrastructure.
 - [Redefining for Loop Variable Semantics](https://github.com/golang/go/discussions/56010) ([Lobsters](https://lobste.rs/s/dekhpe/redefining_for_loop_variable_semantics))
@@ -887,3 +891,20 @@ if *boolArgPtr != false {
 - [Using Go's runtime/cgo to pass values between C and Go (2022)](https://www.arsenm.dev/blog/runtime-cgo/)
 - [Golang Aha! Moments: Generics (2022)](https://openziti.io/golang-aha-moments-generics)
 - [Size visualization of Go executables using D3](https://github.com/knz/go-binsize-viz)
+- [The Problem with Go (2022)](https://vanitynotes.com/posts/20221101-the-real-problem-with-go) ([HN](https://news.ycombinator.com/item?id=33439021))
+- [Thread-Local State in Go (2022)](https://puzpuzpuz.dev/thread-local-state-in-go-huh)
+- [alphavet](https://github.com/skx/alphavet) - Go linter to detect functions not in alphabetical order. ([HN](https://news.ycombinator.com/item?id=33461952))
+- [Thoughts on the "Guard" Proposal for Go's Error Handling (2022)](https://wagslane.dev/posts/guard-keyword-error-handling-golang/) ([Reddit](https://www.reddit.com/r/golang/comments/yn3p1u/thoughts_on_the_guard_proposal_for_gos_error/))
+- [Go Concurrency Patterns: Pipelines and cancellation (2014)](https://go.dev/blog/pipelines)
+- [How I write offline API tests in Go (2022)](https://www.youtube.com/watch?v=DjNERjqzILQ)
+- [A GC-Friendly Go Interning Cache (2022)](https://words.filippo.io/dispatches/certificate-interning/)
+- [Thirteen Years of Go (2022)](https://go.dev/blog/13years) ([HN](https://news.ycombinator.com/item?id=33557611))
+- [go-mutesting](https://github.com/avito-tech/go-mutesting) - Framework for performing mutation testing on Go source code.
+- [Making a Go program 70% faster with a one character change (2022)](https://hmarr.com/blog/go-allocation-hunting/) ([HN](https://news.ycombinator.com/item?id=33594676))
+- [Google’s Go Style Guide](https://google.github.io/styleguide/go/) ([HN](https://news.ycombinator.com/item?id=33652343)) ([Reddit](https://www.reddit.com/r/golang/comments/yy8edb/googles_internal_go_style_guide/)) ([Lobsters](https://lobste.rs/s/vhxxjj/google_s_go_styleguide))
+- [Google Go Style Best Practices](https://google.github.io/styleguide/go/best-practices)
+- [Most modern Go books (2022)](https://www.reddit.com/r/golang/comments/z03gvg/most_modern_go_book/)
+- [Why is Go's Garbage Collection so criticized? (2022)](https://www.reddit.com/r/golang/comments/z1o2oe/why_is_gos_garbage_collection_so_criticized/)
+- [From Service to Platform: A Ranking System in Go (2022)](https://www.reddit.com/r/RedditEng/comments/z137m3/from_service_to_platform_a_ranking_system_in_go/)
+- [The Carcinization of Go Programs (2022)](https://xeiaso.net/blog/carcinization-golang) ([Lobsters](https://lobste.rs/s/oeinpb/carcinization_go_programs)) ([HN](https://news.ycombinator.com/item?id=33713717))
+- [musttag](https://github.com/junk1tm/musttag) - Go linter that enforces field tags in (un)marshaled structs.

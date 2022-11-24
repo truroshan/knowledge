@@ -14,6 +14,8 @@ I visualize topics and their relations as an [interactive mind map](https://my.m
 
 More recently I am using [Excalidraw & Obsidian](https://www.zsolt.blog/2021/09/mind-mapping-with-excalidraw-in-obsidian.html) for making mind maps.
 
+At some point, I used MindNode as a way to [break down problems into smaller parts](../../research/solving-problems.md).
+
 ## Notes
 
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch.

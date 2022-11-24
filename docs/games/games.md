@@ -66,6 +66,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Kittens Game](https://kittensgame.com/web/) - Dark Souls of incremental gaming.
 - [Wikipedia Speedruns](https://wikispeedruns.com/) - Go from one wiki article to another as fast as possible.
 - [Elevator Saga](https://play.elevatorsaga.com/) - Elevator programming game. ([Lobsters](https://lobste.rs/s/w1dac5/elevator_saga_elevator_programming_game))
+- [Rotaboxes](https://rotaboxes.com/) - Daily image puzzle game. ([HN](https://news.ycombinator.com/item?id=33718124))
 
 ## Awesome OSS games
 
@@ -181,6 +182,7 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Thyme](https://github.com/TheAssemblyArmada/Thyme) - Open source re-implementation of Generals : Zero Hour written in C++.
 - [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce)
 - [Industry Idle](https://github.com/fishpondstudio/IndustryIdle) - Idle game that combines factory building, resource management and market trading.
+- [Counter-Strike JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter-Strike 1.6 implementation in TypeScript utilizing state of the art browser APIs.
 
 ## Awesome games (other)
 
@@ -248,6 +250,8 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Do you know any good programming games? (2022)](https://lobste.rs/s/i6e0xg/do_you_know_any_good_programming_games)
 - [What is a game you were told was bad/boring/awful but ended up enjoying when you played it? (2022)](https://www.reddit.com/r/patientgamers/comments/ybovs1/what_is_a_game_you_were_told_was_badboringawful/)
 - [Nice cooperative games on PS5 (2022)](https://twitter.com/TkDodo/status/1586636367597027329)
+- [Which game nails both the gameplay and the story? (2022)](https://www.reddit.com/r/patientgamers/comments/yrngnm/which_game_nails_both_the_gameplay_and_the_story/)
+- [Whats your favorite PS5 game currently on sale? (2022)](https://www.reddit.com/r/PS5/comments/z16brw/whats_your_favorite_ps5_game_thats_currently_on/)
 
 ## Links
 
@@ -370,3 +374,8 @@ Recently I mostly play [chess](chess.md) on the phone, [Wild Rift](https://wildr
 - [Modmapper: Putting every Skyrim mod on a map with Rust (2022)](https://www.hallada.net/2022/10/05/modmapper-putting-every-skyrim-mod-on-a-map-with-rust.html)
 - [I solved the Dandelions paper-and-pencil game (2022)](https://nullprogram.com/blog/2022/10/12/)
 - [Medal.tv](https://medal.tv/) - Clip, edit & share the memories you create while gaming.
+- [Unexpected games which are making ton of money (2022)](https://www.reddit.com/r/gamedev/comments/yrhj79/unexpected_games_which_are_making_ton_of_money/)
+- [Rare](https://github.com/Dummerle/Rare) - GUI for legendary. An Epic Games Launcher open source alternative.
+- [Dark Souls 3 - Reverse Engineering](https://github.com/garyttierney/ds3-open-re)
+- [BOIII](https://github.com/momo5502/boiii) - Reverse engineering and analysis of Call of Duty: Black Ops III.
+- [Valve Introduces Proton Next (2022)](https://linuxgamingcentral.com/posts/valve-introduces-proton-next/) ([HN](https://news.ycombinator.com/item?id=33722282))

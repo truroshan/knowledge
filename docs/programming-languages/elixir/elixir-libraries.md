@@ -35,6 +35,7 @@
 - [EasyHTML](https://github.com/wojtekmach/easyhtml) - Makes it easy to work with HTML in Elixir.
 - [Riptide](https://github.com/ironbay/riptide) - Elixir framework for creating real time applications.
 - [LetMe](https://github.com/woylie/let_me) - Authorization library for Elixir.
+- [RemoteIp](https://github.com/ajvondrak/remote_ip) - Plug to rewrite the Plug.Conn's remote_ip based on forwarding headers.
 
 ## DB
 
@@ -69,6 +70,11 @@
 - [Fly Postgres](https://github.com/superfly/fly_postgres_elixir) - Library for working with local read-replica postgres databases and performing writes through RPC calls to other nodes in the primary Fly.io region.
 - [MyXQL](https://github.com/elixir-ecto/myxql) - MySQL 5.5+ driver for Elixir.
 - [Apq](https://github.com/maartenvanvliet/apq) - Support for Automatic Persisted Queries in Absinthe.
+- [Timescale](https://github.com/bitfo/timescale) - TimescaleDB made easy with Ecto.
+- [AshPostgres](https://github.com/ash-project/ash_postgres) - PostgreSQL data layer for the Ash Framework.
+- [DataLoader](https://github.com/absinthe-graphql/dataloader) - Easy way efficiently load data in batches.
+- [Ecto.DevLogger](https://github.com/fuelen/ecto_dev_logger) - Alternative logger for Ecto queries.
+- [Ecto.ERD](https://github.com/fuelen/ecto_erd) - Mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.
 
 ## Test
 
@@ -86,6 +92,7 @@
 - [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks. ([HN](https://news.ycombinator.com/item?id=26737956))
 - [Scholar](https://github.com/elixir-nx/scholar) - Machine learning tools built on top of Nx.
 - [Tensor](https://github.com/Qqwy/elixir-tensor) - Adds support for Vectors, Matrixes and higher-dimension Tensors to Elixir.
+- [Evision](https://github.com/cocoa-xu/evision) - OpenCV-Erlang/Elixir binding.
 
 ## CLI
 
@@ -116,6 +123,8 @@
 - [GQL](https://github.com/balexand/gql) - Simple GraphQL client for Elixir.
 - [Absinthe ErrorPayload](https://github.com/mirego/absinthe_error_payload) - Bridges the gap between Ecto and Absinthe for mutation payload.
 - [AbsintheClient](https://github.com/CargoSense/absinthe_client) - GraphQL client designed for Elixir Absinthe.
+- [AshGraphql](https://github.com/ash-project/ash_graphql) - Absinthe backed graphql API extension for the Ash Framework.
+- [AshThrift](https://github.com/arisechurch/ash_thrift) - Thrift extension for the Ash framework.
 
 ## Other
 
@@ -256,6 +265,9 @@
 - [ExCmd](https://github.com/akash-akya/ex_cmd) - Elixir library to run external programs and to communicate with back pressure.
 - [Exile](https://github.com/akash-akya/exile) - Alternative to ports for running external programs. It provides back-pressure, non-blocking io, and tries to fix ports issues.
 - [Exq Scheduler](https://github.com/activesphere/exq-scheduler) - Cron like job scheduler for Exq, it's also compatible with Sidekiq and Resque.
+- [Make](https://github.com/elixir-lang/elixir_make) - Make compiler for Mix.
+- [Benchee](https://github.com/bencheeorg/benchee) - Easy and extensible benchmarking in Elixir providing you with lots of statistics.
+- [Zigler](https://github.com/ityonemo/zigler) - Inline NIF support for Zig.
 
 ## Links
 
@@ -271,3 +283,4 @@
 - [Safe Ecto Migrations](https://github.com/fly-apps/safe-ecto-migrations) - Non-exhaustive guide on common migration recipes and how to avoid trouble.
 - [GitHooks](https://github.com/qgadrian/elixir_git_hooks) - Add git hooks to Elixir projects.
 - [Introduction to Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+- [Deploying Oban Pro/Web with Docker and Fly.io (2022)](https://davelucia.com/blog/deploying-oban-pro-with-docker-and-fly)

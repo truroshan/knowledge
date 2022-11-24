@@ -6,7 +6,7 @@ It's unfortunate that a lot of people/projects use these distributed ledgers as 
 
 I hold few coins only as a way to build unique apps, not for investment purposes (I think there are [better investments](../economy/investing.md) to be made that help move us to a [better future](../future/future.md)). I don't know what the world, that at least partly, starts to rely on passing state in decentralized way without any reversal of transactions. It seems hard to imagine how this can work well. But I am optimistic. I do think having powerful open source protocols is very powerful compared to the current status quo of opaque systems that only few humans have control of.
 
-From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the cheapest way to trade coins for FIAT but I maybe wrong. Ideally everyone moves to completely P2P marketplaces where fees are minimal and no one can block your ability to transact.
+From my research, [Binance](https://www.binance.com/en-GB) seemed to be the cheapest way to trade coins for FIAT but I maybe wrong. Ideally everyone moves to completely P2P marketplaces where fees are minimal and no one can block your ability to transact.
 
 I do hope someone builds a [true decentralized ramp up](https://news.ycombinator.com/item?id=32240404) to a true privacy coin like [Monero](monero.md). So you can go from FIAT to private anonymous transactions at any time and escape the traditional financial systems that use your money to wage war or do other silly things like is the case with [Russia](../travel/visited/russia.md)/[China](../travel/visited/china.md) and to a lesser extent most other countries. The way I see it happening now is we have FIAT to [Solana](../databases/blockchain/solana.md) already via traditional marketplaces. Then you can have smart DEX that swaps Solana for Monero. You transact privately there and swap back to Solana then to FIAT whenever you need to do something that is not yet ready for this brave new world. I do hope and think it would be possible to have private transactions for citizens yet still enforce some kind of donations to the public so governments can function. Just things should be transparent so the money is traced publicly as to what it gets spent on whether its education / better cities / roads / etc.
 
@@ -51,6 +51,7 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [It’s difficult for me to see a future where poorly regulated technology with built-in perverse financial incentives will magically result in fairer, more accessible systems.](https://twitter.com/Carnage4Life/status/1524512164240797696)
 - [Focus on: Public goods funding. Social recovery / multisig wallets. Reputation systems (could help a lot to fight scams!). PoS (solves energy issues). Scaling (reduces fees, makes non-financial apps viable).](https://twitter.com/VitalikButerin/status/1532369277000437761)
 - [If your project is using token incentives, you should probably try removing them and see what happens. If your response is "but we're worried users wouldn't stick around"... then you should DEFINITELY try removing them.](https://twitter.com/danrobinson/status/1577448127514103809)
+- [NFTs & airdrops are a distraction from the true, holy purpose of crypto — the ability to Do Crime online. If you're not evading authoritarian surveillance, dipping sanctions, avoiding property seizure etc, just trade stocks.](https://twitter.com/gbrl_dick/status/1590248219250167813)
 
 ## Links
 
@@ -302,3 +303,8 @@ I do hope someone builds a [true decentralized ramp up](https://news.ycombinator
 - [Cairo implementation of Gradual Dutch Auctions](https://github.com/cartridge-gg/cairo-gda)
 - [a16z crypto](https://a16zcrypto.com/) - Venture capital fund that invests in crypto and web3 startups.
 - [The Only Crypto Story You Need, by Matt Levine (2022)](https://www.bloomberg.com/features/2022-the-crypto-story/)
+- [FTX filing Chapter 11 in US explained (2022)](https://twitter.com/wassielawyer/status/1591099947461799936)
+- [97.7% of tokens launched on Uniswap were scams and rug pulls (2022)](https://arxiv.org/abs/2201.07220) ([HN](https://news.ycombinator.com/item?id=33572361))
+- [What Happened at Alameda Research (2022)](https://milkyeggs.com/?p=175) ([HN](https://news.ycombinator.com/item?id=33606740))
+- [Go HFT Order Book](https://github.com/alexey-ernest/go-hft-orderbook) - Go implementation of a Limit Order Book (LOB) for high frequency trading in crypto exchanges.
+- [Proof of solvency and beyond (2022)](https://vitalik.ca/general/2022/11/19/proof_of_solvency.html) ([HN](https://news.ycombinator.com/item?id=33689411))

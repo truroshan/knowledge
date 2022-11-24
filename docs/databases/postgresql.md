@@ -596,3 +596,16 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Push-based outbox pattern with Postgres logical replication (2022)](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/) ([HN](https://news.ycombinator.com/item?id=33370649))
 - [Building full-text-search over multiple tables in Postgres (2022)](https://twitter.com/kevcodez/status/1586681213242462208)
 - [Forcing Sequential Scans on PostgreSQL Using Large Integers (2022)](https://code.jeremyevans.net/2022-11-01-forcing-sequential-scans-on-postgresql.html)
+- [Data Loading in Postgres for Newbies (2022)](https://www.crunchydata.com/blog/data-loading-in-postgres-for-newbies)
+- [Postgres Databases and Schemas (2022)](https://www.crunchydata.com/blog/postgres-databases-and-schemas)
+- [pisk](https://github.com/patrkris/pisk) - PostgreSQL Sessions in Vim. ([HN](https://news.ycombinator.com/item?id=33449475))
+- [Things I learned at PGConf.EU 2022](https://domm.plix.at/perl/2022_10_things_i_learned_at_pgconfeu.html)
+- [Postgres Insider Terminology (2022)](https://www.crunchydata.com/blog/challenging-postgres-terminology) ([HN](https://news.ycombinator.com/item?id=33462983))
+- [Opening Old Wounds - Why Uber Engineering Switched from Postgres to MySQL (2020)](https://www.youtube.com/watch?v=_E43l5EbNI4)
+- [Scaling PostgresML to 1 Million Requests per Second (2022)](https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/) ([HN](https://news.ycombinator.com/item?id=33518443))
+- [pg](https://github.com/ferama/pg) - Alternative CLI tool for PostgreSQL.
+- [Decile](https://decile.app/) - Simple, open-source analytics tool for any Postgres database. ([Code](https://github.com/decileapp/decile))
+- [Reducing replication lag with IO concurrency in Postgres 15 (2022)](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/reducing-replication-lag-with-io-concurrency-in-postgres-15/ba-p/3673169)
+- [pg_hexedit](https://github.com/petergeoghegan/pg_hexedit) - Open PostgreSQL relation files in a hex editor with tags and annotations.
+- [PostgreSQL ERROR: permission denied for schema public (2022)](https://www.cybertec-postgresql.com/en/error-permission-denied-schema-public/)
+- [Gonymizer](https://github.com/smithoss/gonymizer) - Tool to Anonymize Sensitive PostgreSQL Data Tables for Use in QA and Testing.

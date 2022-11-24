@@ -626,3 +626,15 @@ title: Linux
 - [SadServers - Troubleshooting Linux Servers](https://sadservers.com/) ([HN](https://news.ycombinator.com/item?id=33344142))
 - [Writing systemd units that stop gracefully before shutdown (2022)](https://www.psdn.io/posts/systemd-shutdown-unit/) ([HN](https://news.ycombinator.com/item?id=33345867))
 - [LURE](https://github.com/Arsen6331/lure) - Intended to bring the AUR to all distros.
+- [Flexo](https://github.com/nroi/flexo) - Caching proxy for pacman, the package manager of Arch Linux.
+- [Ultimate list of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)
+- [eBPF – Adding functionality to OS at runtime](https://ebpf.io/what-is-ebpf/) ([HN](https://news.ycombinator.com/item?id=33489935))
+- [Hermit](https://github.com/facebookexperimental/hermit) - Reproducible Linux container.
+- [State of Intel SGX in Linux - Jarkko Sakkinen & Roman Volosatovs, Profian Inc (2022)](https://www.youtube.com/watch?v=VeD_eSPFxV0)
+- [Ask HN: How ready for daily driving is Asahi Linux? (2022)](https://news.ycombinator.com/item?id=33607994)
+- [How the Linux kernel runs a program](https://0xax.gitbooks.io/linux-insides/content/SysCall/linux-syscall-4.html)
+- [Nix flake for Linux kernel module development](https://github.com/jordanisaacs/kernel-module-flake)
+- [Rust in the 6.2 kernel (2022)](https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/) ([HN](https://news.ycombinator.com/item?id=33653409))
+- [Tiniest x86-64-Linux emulator](https://github.com/jart/blink) ([HN](https://news.ycombinator.com/item?id=33675462))
+- [Deterministic Linux for controlled testing and software bug-finding (2022)](https://developers.facebook.com/blog/post/2022/11/22/hermit-deterministic-linux-testing/) ([HN](https://news.ycombinator.com/item?id=33708867))
+- [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue (2022)](https://tigerbeetle.com/blog/a-friendly-abstraction-over-iouring-and-kqueue/) ([HN](https://news.ycombinator.com/item?id=33721075))

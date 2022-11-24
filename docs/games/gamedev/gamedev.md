@@ -1,6 +1,6 @@
 # Game development
 
-[3D Math Primer for Graphics and Game Development](https://gamemath.com/) is great.
+[3D Math Primer for Graphics and Game Development](https://gamemath.com/) is great. [Nano](https://github.com/lonng/nano) is great for building networked game servers.
 
 ## Studios
 
@@ -298,3 +298,6 @@
 - [Multiplayer Matchmaker](https://github.com/penberg/multiplayer-matchmaker) - Implements a multiplayer matchmaking server for games with ChiselStrike.
 - [What are some underrated tools every game developer should know? (2022)](https://www.reddit.com/r/gamedev/comments/yely22/what_are_some_underrated_tools_every_game/)
 - [Books to read for game dev](https://twitter.com/FreyaHolmer/status/1586737169619623938)
+- [Hack Club Sprig](https://github.com/hackclub/sprig) - Learn to code by making games in a JavaScript web-based game editor.
+- [Code Poetry: Easing Tutorial & Optimizations](https://github.com/Michaelangel007/easing)
+- [Lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS.

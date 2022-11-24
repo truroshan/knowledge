@@ -184,3 +184,8 @@ Use [NetNewsWire](https://netnewswire.com/) for reading/managing my RSS feeds. P
 - [Get RSS feed URL for iTunes Podcast ID](https://www.deanishe.net/post/2022/10/get-rss-feed-url-for-itunes-podcast-id/)
 - [RSS Feed Roll](https://feed-roll.vercel.app/) - RSS Feed of Engineering Blogs Inspired by Feedly. ([Code](https://github.com/mystica2000/feed-roll))
 - [Fiddle](https://github.com/octomation/fiddle) - Public RSS builder for Feedly and others.
+- [Use RSS for privacy and efficiency (2021)](https://rsapkf.org/weblog/q2z) ([HN](https://news.ycombinator.com/item?id=33469271))
+- [NewsBlur](https://www.newsblur.com/) - Personal news reader that brings people together to talk about the world. ([Code](https://github.com/samuelclay/NewsBlur))
+- [Medium Feed](https://github.com/haydenbleasel/medium-feed) - Handy RSS to JSON parser for Medium.
+- [Feedle](https://feedle.world/) - Search engine for blogs and podcasts with RSS.
+- [RSS Nix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader. ([HN](https://news.ycombinator.com/item?id=33675361))

@@ -270,3 +270,10 @@ Try to [avoid using Docker](https://twitter.com/iansu/status/1555255026666258432
 - [Introducing the Docker+Wasm Technical Preview (2022)](https://www.docker.com/blog/docker-wasm-technical-preview/)
 - [docker-host](https://github.com/qoomon/docker-host) - Docker sidecar container to forward all traffic to local docker host or any other host.
 - [Docker in the browser using x86-to-WASM recompilation](http://copy.sh/v86/?profile=archlinux&c=cat%20docker.sh;./docker.sh) ([HN](https://news.ycombinator.com/item?id=33424299))
+- [Docker WASM](https://github.com/thiskevinwang/docker-wasm) - Proof of concept of running WASM w/ Docker.
+- [Dive In](https://github.com/prakhar1989/dive-in) - Docker extension that helps you explore a docker image, layer contents, and discover ways to shrink the size of your Docker/OCI image.
+- [Podman Desktop](https://podman-desktop.io/) - Free OSS Alternative to Docker Desktop. ([HN](https://news.ycombinator.com/item?id=33536978))
+- [Deterministic source-based docker image checksum](https://github.com/dpc/docker-source-checksum)
+- [Beefs with Docker (2019)](https://morepablo.com/2019/08/beefs-with-docker.html)
+- [Depot](https://depot.dev/) - Build Docker images fast, in the cloud. ([CLI](https://github.com/depot/cli))
+- [Docker Extension Ideas](https://github.com/docker/extension-ideas)

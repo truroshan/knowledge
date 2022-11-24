@@ -88,6 +88,7 @@
 - [rocksdb](https://github.com/Level/rocksdb) - Pure C++ Node.js RocksDB binding. An abstract-leveldown compliant store.
 - [KVDK](https://github.com/pmem/kvdk) - Key-value store library implemented in C++ language.
 - [silicondb](https://github.com/solidstatedb/silicondb) - Concurrent key-value store, column-oriented database and more.
+- [Speedb](https://github.com/speedb-io/speedb) - Library that provides an embedded, persistent key-value store.
 
 ## Crypto
 
@@ -444,6 +445,20 @@
 - [tiny::optional](https://github.com/Sedeniono/tiny-optional) - Replacement for std::optional that does not unnecessarily waste memory.
 - [Terathon-Container-Library](https://github.com/EricLengyel/Terathon-Container-Library) - C++ containers for arrays, lists, maps, hash tables, trees, and graphs.
 - [STXXL](https://github.com/stxxl/stxxl) - Standard Template Library for Extra Large Data Sets.
+- [fast_log](https://github.com/nadavrot/fast_log) - Fast implementation of the natural logarithmic function.
+- [C++ Predefined Macros](https://github.com/xeerx/cpp-predefined)
+- [pika](https://github.com/pika-org/pika) - C++ library for concurrency and parallelism.
+- [Benchmark](https://github.com/google/benchmark) - Microbenchmark support library.
+- [BzTree](https://github.com/sfu-dis/bztree) - Open-source BzTree implementation.
+- [function2](https://github.com/Naios/function2) - Improved and configurable drop-in replacement to std::function that supports move only types, multiple overloads and more.
+- [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
+- [libhal](https://github.com/libhal/libhal) - Collection of interfaces and abstractions for embedded peripherals and devices using modern C++.
+- [GeoArrow](https://github.com/geoarrow/geoarrow-cpp) - Experimental C and C++ implementation of the GeoArrow specification.
+- [Sonic-Cpp](https://github.com/bytedance/sonic-cpp) - Fast JSON serializing & deserializing library, accelerated by SIMD.
+- [Outcome](https://github.com/ned14/outcome) - Lightweight outcome\<T\> and result\<T\> (non-Boost edition).
+- [Realtime Math](https://github.com/nfrechette/rtm) - Geared towards real time applications that require their math to be as fast as possible.
+- [Animation Compression Library](https://github.com/nfrechette/acl) - Animation compression is a fundamental aspect of modern video game engines.
+- [mz::type_list](https://github.com/marzer/type_list) - Compiler-friendly variadic type list for C++.
 
 ## Links
 

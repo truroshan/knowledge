@@ -33,6 +33,7 @@ title: React Native
 - [Animated Cards](https://github.com/naraB/AnimatedCards)
 - [React Native animated app with reanimated + expo](https://github.com/lklima/rn-flight-animation)
 - [Choosy](https://github.com/ChoosyApp/Choosy) - Mobile application that allows users to create photo polls that others can vote on.
+- [Inkdrop mobile inspired by Gmail](https://github.com/craftzdog/inkdrop-ui-mockup-react-native)
 
 ## Notes
 
@@ -312,3 +313,13 @@ title: React Native
 - [Preact-Native](https://github.com/barelyhuman/preact-native) - Experimental renderer for preact to work with react-native.
 - [Rive React Native](https://github.com/rive-app/rive-react-native) - React Native runtime library for Rive.
 - [Rust + React Native](https://github.com/osdnk/react-native-jsi-meets-rust)
+- [Open Native](https://github.com/OpenNative/open-native) - Vendor-unlock React Native. Use React Native native modules with other cross-platform frameworks.
+- [React Native Three Column Layout](https://github.com/craftzdog/react-native-three-column-layout)
+- [ReactNative Purchases](https://github.com/RevenueCat/react-native-purchases) - In-App Subscriptions Made Easy.
+- [Portalize](https://github.com/jeremybarbet/react-native-portalize) - Simplest way to render anything on top of the rest.
+- [React Native made me give up a project today (2022)](https://news.ycombinator.com/item?id=33609943)
+- [React Native Use File Upload](https://github.com/rossmartin/react-native-use-file-upload) - Hook for uploading files using multipart form data with React Native.
+- [Burnt](https://github.com/nandorojo/burnt) - Cross-platform toasts for React Native, powered by native elements.
+- [React Native Releases Working Group](https://github.com/reactwg/react-native-releases)
+- [React Native Payments](https://github.com/ExodusMovement/react-native-payments) - Accept Payments with Apple Pay and Android Pay using the Payment Request API.
+- [React Native Database · RxDB](https://rxdb.info/react-native-database.html)

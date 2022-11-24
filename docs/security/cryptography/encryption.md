@@ -96,3 +96,8 @@
 - [age and Authenticated Encryption (2022)](https://words.filippo.io/dispatches/age-authentication/) ([Lobsters](https://lobste.rs/s/rg8chp/age_authenticated_encryption))
 - [Dexios](https://github.com/brxken128/dexios) - Secure file encryption utility, written in Rust.
 - [Image Steganography Tool](https://github.com/7thSamurai/steganography) - Encrypt and hide files inside images. ([HN](https://news.ycombinator.com/item?id=33336920))
+- [yage](https://github.com/sylr/yage) - age with YAML support.
+- [Multi-ciphertext security degradation for lattices (2022)](https://cr.yp.to/papers/lprrr-20221114.pdf)
+- [Reed-Solomon Error Correcting Codes from the Bottom Up (2022)](https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html)
+- [Spiral’s Homomorphic Encryption – Is This the Future of Privacy? (2022)](https://www.21analytics.ch/blog/spirals-homomorphic-encryption-is-this-the-future-of-privacy/) ([HN](https://news.ycombinator.com/item?id=33690736))
+- [Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - Compiler for the BFV fully homomorphic encryption scheme.

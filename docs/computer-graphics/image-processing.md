@@ -31,7 +31,7 @@
 - [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved.
 - [dechroma (2020)](https://flak.tedunangst.com/post/dechroma)
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
-- [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image. ([Code](https://github.com/woltapp/blurhash))
+- [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image. ([Code](https://github.com/woltapp/blurhash)) ([HN](https://news.ycombinator.com/item?id=33460670))
 - [imgproxy](https://imgproxy.net/) - Fast and secure on-the-fly image processing. ([[Code](https://github.com/imgproxy/imgproxy)])
 - [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
@@ -210,3 +210,15 @@
 - [AV1 Image File Format (AVIF) Spec](https://aomediacodec.github.io/av1-avif/) ([Code](https://github.com/AOMediaCodec/av1-avif))
 - [Remove Image Background using Python](https://www.youtube.com/watch?v=RkdFkhfMK2k)
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - Node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
+- [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image/video deep learning upscaling for any GPU in PyTorch. ([HN](https://news.ycombinator.com/item?id=33485830))
+- [The Case for JPEG XL (2022)](https://cloudinary.com/blog/the-case-for-jpeg-xl) ([HN](https://news.ycombinator.com/item?id=33442281))
+- [ImageWand: privacy-first image conversion experiment with Go & WASM (2022)](https://brunoluiz.net/blog/2022/aug/imagewand-privacy-first-image-conversion-experiment-with-golang-and-wasm/)
+- [Cactus Image Viewer](https://github.com/Wassimulator/CactusViewer) - Small handmade image viewer written in C/C++.
+- [Fast PNG Encoder](https://github.com/veluca93/fpnge) - Fast PNG encoder that uses AVX2 and a special Huffman table to encode images faster.
+- [image-compare](https://github.com/ChrisRega/image-compare) - Simple image comparison in rust based on the image crate.
+- [imageinfo-rs](https://github.com/xiaozhuai/imageinfo-rs) - Rust library to get image size and format without loading/decoding.
+- [Jimp Compact](https://github.com/unjs/jimp-compact) - Lightweight version of Jimp compiled with vercel/ncc.
+- [Photo2Pixel](https://github.com/Jzou44/photo2pixel) - Algorithm converting photo into pixel art.
+- [TransformImgs](https://github.com/Pixboost/transformimgs) - Open Source Image CDN that provides image transformation API and supports the latest image formats, such as WebP, AVIF and network client hints.
+- [JXL.js](https://github.com/niutech/jxl.js) - JPEG XL decoder in JavaScript using WebAssembly (WASM). ([HN](https://news.ycombinator.com/item?id=33705087))
+- [easyraw](https://github.com/gennyble/easyraw) - User friendly raw image processing program.

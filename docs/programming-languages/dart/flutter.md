@@ -6,6 +6,7 @@ title: Flutter
 
 ## Nice Flutter apps
 
+- [Lichess Mobile](https://github.com/lichess-org/mobile)
 - [I/O Pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase.
 - [Hacki](https://github.com/Livinglist/Hacki) - Simple Hacker News reader made with Flutter.
 - [Lemmur](https://github.com/krawieck/lemmur) - Mobile Client for Lemmy. Federated Reddit alternative.
@@ -104,3 +105,4 @@ title: Flutter
 - [sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter. Supports iOS, Android and MacOS.
 - [Flutter 3 (2022)](https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release) ([HN](https://news.ycombinator.com/item?id=31344863))
 - [Isar Database](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter.
+- [Honey](https://github.com/clickup/honey) - End-to-end test framework for Flutter apps.

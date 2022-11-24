@@ -1,6 +1,6 @@
 # DevOps
 
-I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter) & [Backstage](https://backstage.io/) are nice too.
+I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter), [Backstage](https://backstage.io/) & [Gaia](https://github.com/gaia-pipeline/gaia) are nice too.
 
 [Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great. [Airplane](https://www.airplane.dev/) is nice for exposing common commands for all in team to use.
 
@@ -157,7 +157,7 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Site Reliability Engineering University](https://github.com/andrealmar/sre-university)
 - [EaseProbe](https://github.com/megaease/easeprobe) - Simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
 - [Porter](https://porter.sh/) - Enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command. ([Code](https://github.com/getporter/porter))
-- [Fiberplane](https://fiberplane.dev/) - Collaborative notebooks for debugging your incidents. ([GitHub](https://github.com/fiberplane))
+- [Fiberplane](https://fiberplane.dev/) - Collaborative notebooks for debugging your incidents. ([GitHub](https://github.com/fiberplane)) ([Twitter](https://twitter.com/fiberplane))
 - [Fundamentals & Deployment (2022)](https://underjord.io/fundamentals-and-deployment.html) ([HN](https://news.ycombinator.com/item?id=30756854))
 - [Entropy](https://github.com/odpf/entropy) - Framework to safely and predictably create, change, and improve modern cloud applications and infrastructure using familiar languages, tools, and engineering practices.
 - [Firefly](https://www.gofirefly.io/) - Bring your cloud up-to-code. ([GitHub](https://github.com/gofireflyio))
@@ -218,3 +218,10 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Bucketeer](https://bucketeer.io/) - Feature Flag Management and A/B Testing platform. ([Code](https://github.com/bucketeer-io/bucketeer))
 - [How to Build Software Like an SRE (2022)](https://www.willett.io/posts/precepts/) ([HN](https://news.ycombinator.com/item?id=33230402)) ([Lobsters](https://lobste.rs/s/gpzy80/how_build_software_like_sre))
 - [DevOps has devolved (2022)](https://blog.massdriver.cloud/devops-is-bullshit) ([HN](https://news.ycombinator.com/item?id=33274988))
+- [Gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
+- [Damon](https://github.com/hashicorp/damon) - Terminal Dashboard for HashiCorp Nomad.
+- [Waterwheel](https://github.com/sphenlee/waterwheel) - Job scheduler similar to Airflow but with a very different design.
+- [Retool Workflows: Cron, but Better (2022)](https://retool.com/blog/introducing-retool-workflows/) ([HN](https://news.ycombinator.com/item?id=33610962))
+- [Hadmean](https://github.com/hadmean/hadmean) - Generate powerful, fully functional, ready-to-be-deployed admin apps in seconds. ([Web](https://hadmean.com/))
+- [Sidekiq Server](https://github.com/pganalyze/sidekiq_server.rs) - Sidekiq server implemented in Rust.
+- [Eventline](https://eventline.net/) - Job scheduling and execution platform. ([Code](https://github.com/exograd/eventline))

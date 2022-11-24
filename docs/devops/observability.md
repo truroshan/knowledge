@@ -4,7 +4,7 @@ title: Observability
 
 # [Observability](https://en.wikipedia.org/wiki/Observability)
 
-[ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
+[Axiom](https://www.axiom.co/), [ArcticDB](https://github.com/polarsignals/arcticdb) & [New Relic](https://newrelic.com) seem useful.
 
 ## Notes
 
@@ -67,3 +67,11 @@ title: Observability
 - ["Building Observability for 99% Developers" by Jean Yang (2022)](https://www.youtube.com/watch?v=UJA4PGKny2k)
 - [Open Data Discovery](https://opendatadiscovery.org/) - Open source data discovery and observability platform. ([HN](https://news.ycombinator.com/item?id=33297641))
 - [Best Practices for Observability, Metrics, Logging (2022)](https://www.reddit.com/r/ExperiencedDevs/comments/yb3cng/best_practices_for_observability_metrics_logging/)
+- [Orb](https://github.com/ns1labs/orb) - Cloud native orchestration platform for dynamic network observability. ([Web](https://orb.community/))
+- [Kosli](https://www.kosli.com/) - Track and query every change from commit through to production. ([GitHub](https://github.com/kosli-dev/)) ([CLI](https://github.com/kosli-dev/cli))
+- [Dave Lucia on Observability at Bitfo (2022)](https://share.fireside.fm/episode/IAs5ixts+87YV43bE)
+- [Elixir Observability: OpenTelemetry, Lightstep, Honeycomb (2022)](https://davelucia.com/blog/observing-elixir-with-lightstep)
+- [Glean SDK Docs](https://mozilla.github.io/glean/book/index.html) - Modern cross-platform telemetry client libraries. ([Glean Dictionary](https://github.com/mozilla/glean-dictionary))
+- [Cito](https://www.citodata.com/) - Snowflake Observability Software.
+- [A beginner’s guide to OpenTelemetry (2022)](https://faun.pub/opentelemetry-d71d369c83d7)
+- [The Modern Observability Problem](https://failingfast.io/opentelemetry-observability/) ([HN](https://news.ycombinator.com/item?id=33684045))

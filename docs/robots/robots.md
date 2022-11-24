@@ -1,5 +1,7 @@
 # Robots
 
+[Stanford Introduction to Robotics](https://see.stanford.edu/course/cs223a) is nice ([videos here](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF)).
+
 ## Links
 
 - [Can A Thousand Tiny Swarming Robots Outsmart Nature?](https://www.youtube.com/watch?v=dDsmbwOrHJs)
@@ -186,3 +188,7 @@
 - [Write fast robotics code: transcendental footguns (2022)](https://jingnanshi.com/blog/transcendental_robotics_coding.html)
 - [Awesome LLM Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - [Holo-Dex: Teaching Dexterity with Immersive Mixed Reality (2022)](https://arxiv.org/abs/2210.06463) ([Code](https://github.com/SridharPandian/Holo-Dex))
+- [Masked Visual Pre-training for Robotics](https://github.com/ir413/mvp)
+- [Neural Grasp Distance Fields for Robot Manipulation (2022)](https://arxiv.org/abs/2211.02647) ([Code](https://github.com/facebookresearch/NGDF))
+- [Stanford Introduction to Robotics (2022)](https://see.stanford.edu/course/cs223a) ([Videos](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF))
+- [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation (2022)](https://arxiv.org/abs/2209.05451) ([Code](https://github.com/peract/peract))

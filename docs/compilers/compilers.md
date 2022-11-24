@@ -6,6 +6,7 @@
 
 - [Lessons learned on compiler development: 1. Group functions by AST node, not by pass. 2. Have a formal theory for checking types worked out in advance. 3. Don't dump the metadata for each pass directly into AST nodes.](https://twitter.com/spakhm/status/1283672210050125824)
 - [When you compile a program into an object binary, it contains references to external symbols. a linker takes all your objects (& any libraries you want to statically link) and creates a combined executable, resolving those references (by rewriting some machine code!) References to dynamic libraries are only resolved when an executable is loaded in memory to be executed, so the operating system's loader also has to modify some machine code.](https://twitter.com/typeswitch/status/1530973163517104135)
+- [Book about compilers written as a playground/notebook/whatever would be really cool, so you can play with live visualizations of the data structures and algorithms involved in type checking and optimization.](https://twitter.com/slava_pestov/status/1590736752339140608)
 
 ## Links
 
@@ -256,3 +257,10 @@
 - [A look across the pond: a comparison between GHC and Racket compilation models (2022)](https://www.youtube.com/watch?v=H0ATppFmt2o)
 - [Allocation Removal in the Toy Optimizer (2022)](https://www.pypy.org/posts/2022/10/toy-optimizer-allocation-removal.html)
 - [Compilers and IRs: LLVM IR, SPIR-V, and MLIR (2021)](https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/) ([HN](https://news.ycombinator.com/item?id=33387149))
+- [Writing a symbolizer for the Cinder JIT (2022)](https://bernsteinbear.com/blog/cinder-jit-symbolizer/)
+- [Lady Deirdre](https://github.com/Eliah-Lakhin/lady-deirdre) - Compiler front-end foundation technology.
+- [cexpl](https://github.com/xfgusta/cexpl) - Command-line tool to interact with Compiler Explorer.
+- [crossbuild](https://github.com/multiarch/crossbuild) - Multiarch cross compiling environments.
+- [Lightning Creations Compiler Collection](https://github.com/LightningCreations/lccc) - Compiler framework written in pure rust, that is intended to eventually be fully usable in place of existing toolchains.
+- [The downsides of compile time evaluation (2022)](https://c3.handmade.network/blog/p/8590-the_downsides_of_compile_time_evaluation) ([Lobsters](https://www.reddit.com/r/ProgrammingLanguages/comments/z0bhn3/the_downsides_of_compile_time_evaluation/))
+- [Course Webpage for Compilers (2020)](https://github.com/IUCompilerCourse/IU-P423-P523-E313-E513-Fall-2020)

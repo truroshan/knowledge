@@ -8,6 +8,7 @@
 - [mibu](https://github.com/xyaman/mibu) - Pure Zig library for low-level terminal manipulation.
 - [zig-cli](https://github.com/sam701/zig-cli) - Simple package for building command line apps in Zig.
 - [zig-arg](https://github.com/PrajwalCH/zig-arg) - clap-rs inspired arg parser library for zig that supports both subcommand, nested subcommand and flag.
+- [ansi-term](https://github.com/ziglibs/ansi-term) - Zig library for dealing with ANSI terminals.
 
 ## Web
 
@@ -21,6 +22,7 @@
 - [zfetch](https://github.com/truemedian/zfetch) - HTTP request library for Zig with HTTPS support.
 - [HTTP](https://github.com/ducdetronquito/http) - HTTP core types for Zig.
 - [Zelda](https://github.com/haze/zelda) - Simple HTTP client library for Zig.
+- [ziget](https://github.com/marler8997/ziget) - Zig library/tool to request network assets.
 
 ## DB
 
@@ -142,6 +144,10 @@
 - [Zig-LibreSSL](https://github.com/haze/zig-libressl) - LibreSSL stream wrappers for Zig.
 - [zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) parser in Zig.
 - [protobruh](https://github.com/zigtools/protobruh) - Protobuf for Zig.
+- [ziguid](https://github.com/goto-bus-stop/ziguid) - GUIDs for Zig.
+- [BYOL](https://github.com/hmusgrave/byol) - Bring Your Own Loop -- A memory-efficient, straggler-avoiding, cache-friendly scheduler.
+- [zcirc](https://github.com/hmusgrave/zcirc) - Dynamic circular buffer allocator for zig.
+- [poolalloc](https://github.com/hmusgrave/poolalloc) - Arena allocator with object re-use.
 
 ## Links
 

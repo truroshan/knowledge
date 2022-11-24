@@ -4,6 +4,8 @@ title: Bevy Engine
 
 # [Bevy Engine](https://bevyengine.org/)
 
+Love [this Bevy template](https://github.com/NiklasEi/bevy_game_template).
+
 ## OSS Bevy apps
 
 - [Country Slice](https://github.com/anopara/country-slice) - Toy project, written in Rust language with Bevy's ECS and OpenGL (gl-rs and glutin).
@@ -12,6 +14,9 @@ title: Bevy Engine
 - [Gardum](https://github.com/gardum-game/gardum) - Battle arena made with Bevy.
 - [Snake Game in Bevy](https://github.com/marcusbuffett/bevy_snake)
 - [Digital Extinction](https://github.com/DigitalExtinction/Game) - 3D RTS game implemented in Rust.
+- [Logic Voxels](https://github.com/mwbryant/logic_voxels) - Personal game project created with Bevy.
+- [Bevy Tower Defense Tutorial Game](https://github.com/mwbryant/bevy-tower-defense-tutorial)
+- [Oicana](https://github.com/NiklasEi/oicana) - Tower defence game with some puzzling.
 
 ## Links
 
@@ -66,3 +71,13 @@ title: Bevy Engine
 - [Bevy Game Jam 2022](https://github.com/DGriffin91/BevyJam2022)
 - [bevy_egui](https://github.com/mvlabat/bevy_egui) - Provides a Egui integration for the Bevy game engine.
 - [GGRS and Rapier working together in Bevy engine](https://github.com/cscorley/bevy_ggrs_rapier_example)
+- [Networking in Bevy/Rust: Bevy Renet Showcase (2022)](https://www.youtube.com/watch?v=fBHO0yptg1Y)
+- [Bevy 0.9 (2022)](https://bevyengine.org/news/bevy-0-9/) ([HN](https://news.ycombinator.com/item?id=33577284)) ([Reddit](https://www.reddit.com/r/rust/comments/ytiv2a/bevy_09/))
+- [Bevy Smud](https://github.com/johanhelsing/bevy_smud) - Sdf 2d shape renderer for Bevy.
+- [Extreme Bevy](https://github.com/johanhelsing/extreme_bevy) - Low-latency multiplayer action game, showcasing how to implement p2p connections and rollback networking in a web browser.
+- [Bevy Web Asset](https://github.com/johanhelsing/bevy_web_asset) - Bevy asset loader that transparently supports loading over http(s).
+- [Bevy asset loader](https://github.com/NiklasEi/bevy_asset_loader) - Bevy plugin helping with asset loading and organization.
+- [Bevy game template](https://github.com/NiklasEi/bevy_game_template)
+- [Bevy Kira audio](https://github.com/NiklasEi/bevy_kira_audio) - Bevy plugin to use Kira for game audio.
+- [Bevy common assets](https://github.com/NiklasEi/bevy_common_assets) - Collection of asset loaders for common file formats.
+- [Bevy Magic Light 2D](https://github.com/zaycev/bevy-magic-light-2d) - Experimental dynamic 2D global illumination system.

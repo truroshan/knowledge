@@ -176,3 +176,9 @@ title: Quantum computing
 - [SQIR](https://github.com/inQWIRE/SQIR) - Small Quantum Intermediate Representation.
 - [scikit-qulacs](https://github.com/Qulacs-Osaka/scikit-qulacs) - Library for quantum neural network. This library is based on qulacs and named after scikit-learn.
 - [2022 Qiskit global summer school on quantum simulation](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022/)
+- [PanQEC](https://github.com/panqec/panqec) - Simulation and visualization of quantum error correcting codes.
+- [Covalent](https://github.com/AgnostiqHQ/covalent) - Pythonic tool for running data-science/high performance/quantum-computing workflows in heterogenous environments.
+- [Open source quantum development with Codespaces](https://github.com/crazy4pi314/universe-qir-demo)
+- [Formalizing quantum circuit an a bit of kindergarten quantum mechanics in Coq/mathcomp](https://github.com/t6s/qecc)
+- [QML-Lightning](https://github.com/nickjbrowning/qml-lightning) - GPU-Accelerated Approximate Kernel Methods and Representations for Quantum Machine Learning.
+- [Braket.jl](https://github.com/awslabs/Braket.jl) - Julia implementation of the Amazon Braket SDK.

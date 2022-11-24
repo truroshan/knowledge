@@ -1,6 +1,8 @@
 # Functional programming
 
-[Effekt](https://github.com/effekt-lang/effekt) seems like a neat language. [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) is a nice read.
+[Haskell](../../programming-languages/haskell/haskell.md), [Eff](https://github.com/matijapretnar/eff), [Effekt](https://github.com/effekt-lang/effekt) & [Kind2](https://github.com/Kindelia/Kind2) seem like neat functional languages. [High-order Virtual Machine in Rust](https://github.com/Kindelia/HVM) is neat too.
+
+[The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) is a nice read.
 
 ## Notes
 
@@ -154,7 +156,7 @@
 - [Provably space-efficient parallel functional programming (2022)](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/) ([HN](https://news.ycombinator.com/item?id=29925513))
 - [Foundations of Functional Programming/The λ-cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube) ([HN](https://news.ycombinator.com/item?id=29948843))
 - [Functional Programming Papers Notes](https://github.com/i-am-tom/papers)
-- [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) - Pure functional compile target that is lazy, non-garbage-collected and massively parallel. ([Reddit](https://www.reddit.com/r/haskell/comments/shewq7/hvm_a_nextgen_massively_parallel_betaoptimal/)) ([HN](https://news.ycombinator.com/item?id=30152714)) ([HN](https://news.ycombinator.com/item?id=30219452)) ([Lobsters](https://lobste.rs/s/zw8pgr/kindelia_hvm_massively_parallel_optimal))
+- [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) - Pure functional compile target that is lazy, non-garbage-collected and massively parallel. ([Reddit](https://www.reddit.com/r/haskell/comments/shewq7/hvm_a_nextgen_massively_parallel_betaoptimal/)) ([HN](https://news.ycombinator.com/item?id=30152714)) ([HN](https://news.ycombinator.com/item?id=30219452)) ([Lobsters](https://lobste.rs/s/zw8pgr/kindelia_hvm_massively_parallel_optimal)) ([HVM on JavaScript](https://github.com/Kindelia/hvm-js))
 - [Eric Normand - Grokking Simplicity](https://freecontent.manning.com/eric-normand-grokking-simplicity/)
 - [What Color Is Your Monad (2022)](https://patrickthebold.github.io/posts/what-color-is-your-monad/) ([HN](https://news.ycombinator.com/item?id=30330909))
 - [Async/Await is really just a subset of monads and do-notation for imperative languages](https://www.reddit.com/r/haskell/comments/t3wumj/asyncawait_is_really_just_a_subset_of_monads_and/)
@@ -196,6 +198,11 @@
 - [Application-as-a-Function Thinking (2022)](https://doridori.github.io/Architecture-Application-as-a-Function/) ([HN](https://news.ycombinator.com/item?id=33221780))
 - [Encapsulation in Functional Programming (2022)](https://blog.ploeh.dk/2022/10/24/encapsulation-in-functional-programming/) ([Lobsters](https://lobste.rs/s/bsd0ys/encapsulation_functional_programming))
 - [fp](https://github.com/japiirainen/fp) - Programming language inspired by the `fp` language described in the 1977 Turing Award lecture by John Backus. ([HN](https://news.ycombinator.com/item?id=33407830))
+- [Functional Programming Should Be the Future of Software Development (2022)](https://spectrum.ieee.org/functional-programming) ([HN](https://news.ycombinator.com/item?id=33433783))
+- [Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming)
+- [What’s so great about functional programming anyway? (2022)](https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/) ([HN](https://news.ycombinator.com/item?id=33620439)) ([Lobsters](https://lobste.rs/s/dvi2gq/what_s_so_great_about_functional))
+- [Demystifying monads (2021)](https://vm.codes/blog/demystifying-monads)
+- [Lumina](https://github.com/luminalang/lumina) - High-Level Compiled Functional Programming Language.
 
 ## Images
 

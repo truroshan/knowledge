@@ -4,6 +4,8 @@ I define a set of [rules](rules.md) (with [6 daily habits](habits.md)), [process
 
 [Motivation is a byproduct of action, not the catalyst for it. When you just can’t bring yourself to start, that’s when it’s most important to just do it — it always completely fixes how you're feeling.](https://twitter.com/adamwathan/status/1520153298023636993)
 
+[Focus often means sacrifice](https://www.youtube.com/watch?v=2oksetv3i90) in that you have to choose something that is truly impactful/important despite having many choices that you consider more fun/enjoyable to do.
+
 ## Focusing on what's important
 
 I use [2Do](../macOS/apps/2do.md) as my personal task manager. I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
@@ -126,3 +128,7 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Everyone doesn't work best at the same times](https://twitter.com/mar15sa/status/1570140430066675714)
 - [5-step exercise for week planning](https://twitter.com/adcock_brett/status/1573719801536471041)
 - [How to plan? (2022)](https://kellanem.com/notes/how-to-plan)
+- [Day in the life of Andrej Karpathy (2022)](https://www.youtube.com/watch?v=iu3LJY8N_9s)
+- [Ask HN: How to regain focus when you feel overwhelmed? (2022)](https://news.ycombinator.com/item?id=33464989)
+- [Ask HN: How do you focus on work for long periods of time? (2022)](https://news.ycombinator.com/item?id=33557338)
+- [My ADHD founder toolbox (2022)](https://hypatia.ca/2022/03/03/my-adhd-founder-toolbox/) ([HN](https://news.ycombinator.com/item?id=33633512))

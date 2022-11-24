@@ -81,3 +81,5 @@ title: JAX
 - [DeepMind JAX Ecosystem](https://github.com/deepmind/jax)
 - [JAX Tutorial](https://github.com/pierreglaser/jax-tutorial)
 - [SBX: Stable Baselines Jax (SB3 + Jax)](https://github.com/araffin/sbx)
+- [Ciclo](https://github.com/cgarciae/ciclo) - Training loop utilities and abstractions for JAX.
+- [DYNAMAX](https://github.com/probml/dynamax) - State Space Models library in JAX.

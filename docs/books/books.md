@@ -8,7 +8,7 @@ I also have bookshelves of books I [liked](https://www.goodreads.com/review/list
 
 Below are books I read (or listened) sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
-More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/).
+More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/). Love [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)'s writing a lot.
 
 ### 2019
 
@@ -338,6 +338,11 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Weird sci-fi and/or fantasy recommendations (2022)](https://www.reddit.com/r/WeirdLit/comments/ydkdo6/any_weird_scifi_andor_fantasy_recommendations/)
 - [Ask HN: What are some of the best books you have read in 2022?](https://news.ycombinator.com/item?id=33381791)
 - [Interesting books on culture and society](https://twitter.com/pmarca/status/1577365972469489665)
+- [Books with a very escapist immersive world. Like Harry Potter or LOTR (2022)](https://www.reddit.com/r/suggestmeabook/comments/yntrmc/a_book_with_a_very_escapist_immersive_world_like/)
+- [Must read book series of all time (2022)](https://www.reddit.com/r/suggestmeabook/comments/ytmass/must_read_book_series_of_all_time/)
+- [What's a good dystopian read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/yulsn4/whats_a_good_dystopian_read/)
+- [Creepy unsettling sci-fi books (2022)](https://www.reddit.com/r/suggestmeabook/comments/yw5xs2/creepy_unsettling_scifi_books/)
+- [Ask HN: Are there any books that changed your life during college or school? (2022)](https://news.ycombinator.com/item?id=33670126)
 
 ## Interesting Prose Books
 
@@ -453,7 +458,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [BookDark](https://bookdark.com/) - Read over 56000 Free Books Online.
 - [Books Search with Typesense](https://books-search.typesense.org/) - Instantly search 28M books from OpenLibrary (by Internet Archive). ([HN](https://news.ycombinator.com/item?id=25414389)) ([Code](https://github.com/typesense/showcase-books-search))
 - [A Book Like Foo](https://abooklikefoo.com/escape/) - Powerful Book Recommendations. ([HN](https://news.ycombinator.com/item?id=25405259))
-- [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary)) ([Open Library Data Dumps](https://openlibrary.org/developers/dumps))
+- [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary)) ([Open Library Data Dumps](https://openlibrary.org/developers/dumps)) ([HN](https://news.ycombinator.com/item?id=33655429))
 - [Packt](https://www.packtpub.com/) - Programming Books, eBooks & Videos for Developers. ([GitHub](https://github.com/PacktPublishing))
 - [Paged.js](https://github.com/pagedjs/pagedjs) - Open-source library to display paginated content in the browser and to generate print books using web technology.
 - [Verso Books](https://www.versobooks.com/) - Largest independent, radical publishing house in the English-speaking world, publishing one hundred books a year.
@@ -556,7 +561,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Useful Books](https://www.usefulbooks.com/) - Community, process, and tools to help you write great nonfiction, from first idea to first edition.
 - [Indie bookshelves](https://macwright.com/2022/02/24/indie-bookshelves.html)
 - [SQL-Powered Reading List (2022)](https://charlieharrington.com/sql-powered-reading-list/)
-- [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf)) ([HN](https://news.ycombinator.com/item?id=31727114))
+- [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf)) ([HN](https://news.ycombinator.com/item?id=31727114)) ([Mobile Code](https://github.com/advplyr/audiobookshelf-app))
 - [A Good Used Book](https://agoodusedbook.com/)
 - [ZLibrary Books](https://b-ok.xyz/)
 - [Litnerd](https://litnerd.com/) - Bringing Books to Life.
@@ -595,3 +600,8 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Cheap Books](https://www.pagesonpages.com/) - Finds the cheapest place to buy a book. ([HN](https://news.ycombinator.com/item?id=33147079))
 - [Where Is All the Book Data? (2022)](https://www.publicbooks.org/where-is-all-the-book-data/)
 - [Nice fiction authors](https://twitter.com/ankurnagpal/status/1586761840821997571)
+- [BookWyrm](https://joinbookwyrm.com/) - Social Reading and Reviewing.
+- [Awesome Bookmarking](https://github.com/dogancelik/awesome-bookmarking)
+- [Videobook](https://github.com/danielgross/videobook)
+- [Putting Z-Library on IPFS (2022)](http://annas-blog.org/putting-5,998,794-books-on-ipfs.html) ([HN](https://news.ycombinator.com/item?id=33675224))
+- [Flow](https://www.flowoss.com/) - Online EPUB reader. ([Code](https://github.com/pacexy/flow))

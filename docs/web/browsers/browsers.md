@@ -6,6 +6,8 @@
 
 Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-template) template to build extensions.
 
+And my main browser on both [iOS](../../operating-systems/ios/ios.md) & [macOS](../../macOS/macOS.md) is [Safari](safari.md). I do find ideas from [Arc Browser](https://thebrowser.company/) interesting though.
+
 ## Notes
 
 - `document.querySelector("video").playbackRate = 1.4` will [increase video playback](https://mjtsai.com/blog/2018/06/25/speeding-up-wwdc-videos/).
@@ -257,3 +259,9 @@ Use this [Solid/Vite](https://github.com/fuyutarow/solid-chrome-extension-templa
 - [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation. ([GitHub](https://github.com/microlinkhq))
 - [Modern for Wikipedia](https://www.modernwiki.app/) - Modern web UI for Wikipedia. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/xx36o3/i_made_a_modern_web_ui_for_wikipedia/))
 - [Time to Stable](https://time-to-stable.deno.dev/) - For a given set of browsers, what APIs are in all of them and how many days it take for the API to land in the first browser to the last.
+- [Shortkeys](https://www.shortkeys.app/) - Custom keyboard shortcuts for your browser. ([Code](https://github.com/crittermike/shortkeys))
+- [Thoughts on Arc Browser (2022)](https://chrishannah.me/arc-browser/) ([HN](https://news.ycombinator.com/item?id=33539549))
+- [Building a Web Browser With SDL in C++](https://devtails.xyz/@adam/building-a-web-browser-with-sdl-in-c++)
+- [Horse Browser](https://browser.horse/) - Browser for research.
+- [Browser History and Bookmarks Search](https://github.com/Acidham/chromium-hist-bookmarks)
+- [WebExtension Toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for creating cross-browser WebExtensions.

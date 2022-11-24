@@ -1,5 +1,9 @@
 # Pricing
 
+Like tools that [let you try the app without being forced to pay first](https://twitter.com/ben_issen/status/1588842302919045121). [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) is a good read.
+
+Don't be afraid to charge more for good products as they get better. Especially if there is not much competition for what you provide of quality. Just [sell the features ](../psychology/marketing.md) and future vision well.
+
 ## Nice pricing pages
 
 - [Fathom](https://app.usefathom.com/register)
@@ -93,8 +97,13 @@
 - [Superwall](https://superwall.com/) - Build the best mobile paywalls. ([Twitter](https://twitter.com/superwall))
 - [Lago](https://www.getlago.com/) - Open Source Billing API for Product-Led SaaS. ([Code](https://github.com/getlago/lago))
 - [How to offer effective free trials](https://upollo.ai/blog/effective-trials) ([HN](https://news.ycombinator.com/item?id=32658926))
-- [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus))
+- [Lotus](https://www.uselotus.io/) - Open Source Pricing and Billing Engine for SaaS. ([Code](https://github.com/uselotus/lotus)) ([HN](https://news.ycombinator.com/item?id=33494284))
 - [Ask HN: Why is everything a SaaS product? (2022)](https://news.ycombinator.com/item?id=32856779)
 - [Stripe Subscription Upsells Docs](https://stripe.com/docs/payments/checkout/upsells) ([Tweet](https://twitter.com/monicalent/status/1573225232948928512))
 - [Rules for SaaS Pricing (2022)](https://earlygtm.substack.com/p/rules-for-saas-pricing)
 - [Ask HN: “Contact Us” Pricing (2022)](https://news.ycombinator.com/item?id=33425443)
+- [Purchasing Power Parity: fair pricing for your SaaS product (2021)](https://scastiel.dev/implement-ppp-fair-pricing-for-your-product) ([HN](https://news.ycombinator.com/item?id=33509258))
+- [The Principles of Pricing](https://www.principlesofpricing.com/) ([HN](https://news.ycombinator.com/item?id=33502567))
+- [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
+- [Ask HN: What's a good business model for selling standalone software (2022)](https://news.ycombinator.com/item?id=33645489)
+- [Alternatives to doing discounts for software](https://twitter.com/ankurnagpal/status/1594719317081444354)

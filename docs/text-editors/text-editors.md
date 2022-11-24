@@ -4,7 +4,9 @@
 
 Vim for its text editing and the _vim language_ and VS code for giving me the best of both worlds. The awesome [Vim plugin](https://github.com/VSCodeVim/Vim) and the amazing IDE like features. And Sublime Text for its speed and the awesome [vim emulation](https://github.com/guillermooo/Six).
 
-[Tiptap](https://tiptap.dev/) & [ProseMirror](https://prosemirror.net/) are nice web editors. [Zed](https://zed.dev/) seems promising.
+[CodeMirror](codemirror.md), [Tiptap](https://tiptap.dev/) & [ProseMirror](https://prosemirror.net/) are nice web editors. [Zed](https://zed.dev/) seems promising.
+
+[Lezer Parser System](https://lezer.codemirror.net/) seems powerful.
 
 ## Interesting editors
 
@@ -52,7 +54,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Amp](https://amp.rs/) - Complete text editor for your terminal. ([Code](https://github.com/jmacdonald/amp))
 - [Atlas](http://atlasengineering.io/) - Hopefully better engineering IDE. ([HN](https://news.ycombinator.com/item?id=27112529))
 - [Noto](https://github.com/brunophilipe/Noto) - Beautiful and simple plain text editor for macOS written in Swift.
-- [Helix](https://github.com/helix-editor/helix) - Post-modern modal text editor. ([Web](https://helix-editor.com/)) ([HN](https://news.ycombinator.com/item?id=27358479)) ([HN](https://news.ycombinator.com/item?id=33147270))
+- [Helix](https://github.com/helix-editor/helix) - Post-modern modal text editor. ([Web](https://helix-editor.com/)) ([HN](https://news.ycombinator.com/item?id=27358479)) ([HN](https://news.ycombinator.com/item?id=33147270)) ([HN](https://news.ycombinator.com/item?id=33494840))
 - [Tofu](https://tofu.is/) - Exploration in fluid code editing. ([Code](https://github.com/Gregoor/tofu))
 - [ReVi](https://github.com/revi-editor/revi) - Vim inspired text editor.
 - [vis](https://github.com/martanne/vis) - Vi-like editor based on Plan 9's structural regular expressions.
@@ -90,11 +92,12 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [CudaText](https://github.com/Alexey-T/CudaText) - Open-source, cross-platform text editor, written in Lazarus. ([HN](https://news.ycombinator.com/item?id=32360341))
 - [Editor](https://github.com/mattDavo/Editor) - Custom language grammar tokenizer and theming/syntax highlighter with integrated editor written in Swift, designed for use in both macOS and iOS.
 - [aretext](https://aretext.org/) - Minimalist text editor with vim-compatible key bindings. ([Code](https://github.com/aretext/aretext))
+- [Klonk](https://github.com/zaboople/klonk) - Text editor with an sort-of-unusual undo/redo algorithm.
 
 ## Web
 
 - [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils)) ([prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown)) ([ProseMirror Examples](https://github.com/ccorcos/prosemirror-examples)) ([ProseMirror now a TS project](https://discuss.prosemirror.net/t/prosemirror-is-now-a-typescript-project/4624))
-- [CodeMirror Interact](https://github.com/replit/codemirror-interact) - CodeMirror extension that lets you interact with different values (clicking, dragging, etc).
+- [Typist](https://github.com/Doist/typist) - Mighty Tiptap-based rich-text editor that powers Doist products.
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)
 - [rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - React and Prosemirror based editor that powers Outline and can also be used for displaying content in a read-only fashion.
 - [Remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React. ([Web](https://remirror.io/))
@@ -148,6 +151,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Blocky Editor](https://github.com/vincentdchan/blocky-editor) - Editor which supports the concept of blocks. Can help you to build an editor like Notion.
 - [Monaco Collaborative Extensions](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor.
 - [Dante](https://github.com/michelson/Dante) - Medium clone built on top of ProseMirror's / TipTap.
+- [monaco-unified](https://github.com/remcohaszing/monaco-unified) - Get warnings and error messages in monaco editor based on a unified processor.
+- [notitap](https://github.com/sereneinserenade/notitap) - Pro version of Notion like editor built on top of Tiptap.
 
 ## Notes
 
@@ -159,7 +164,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Open source collaborative text editors (2019)](https://juretriglav.si/open-source-collaborative-text-editors/) ([HN](https://news.ycombinator.com/item?id=19845776))
 - [Vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend.
 - [Hecto: Build your own text editor in Rust (2019)](https://www.philippflenker.com/hecto/) ([HN](https://news.ycombinator.com/item?id=25809288))
-- [Kite](https://www.kite.com/) - AI assistant giving developers superpowers. ([VS Code plugin](https://github.com/kiteco/vscode-plugin))
+- [Kite](https://www.kite.com/) - AI assistant giving developers superpowers. ([VS Code plugin](https://github.com/kiteco/vscode-plugin)) ([Going OSS](https://www.kite.com/blog/product/kite-is-saying-farewell/)) ([HN](https://news.ycombinator.com/item?id=33685209))
 - [Diff Match and Patch libraries](https://github.com/google/diff-match-patch) - Offer robust algorithms to perform the operations required for synchronizing plain text.
 - [Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/) - Defines a common protocol for debug adapters. ([Code](https://github.com/microsoft/debug-adapter-protocol))
 - [Linenoise](https://github.com/antirez/linenoise) - Small self-contained alternative to readline and libedit.
@@ -240,3 +245,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [LiveCodes](https://livecodes.io/) - Code playground that runs in the browser. ([Code](https://github.com/live-codes/livecodes))
 - [Template for Catppuccin ports](https://github.com/catppuccin/template)
 - [Catppuccin Palettes](https://github.com/catppuccin/palette) - Soothing pastel theme to use within your projects.
+- [Bike: Innovative Rich Text Editing (2022)](https://www.hogbaysoftware.com/posts/bike-rich-text/) ([HN](https://news.ycombinator.com/item?id=33489123))

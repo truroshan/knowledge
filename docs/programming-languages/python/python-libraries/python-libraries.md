@@ -2,8 +2,12 @@
 
 [atoti](https://github.com/atoti/project-template), [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) & [AllenAI](https://github.com/allenai/python-package-template) templates seem nice. [Robyn](https://github.com/sansyrox/robyn) seems like a nice web library.
 
+Like idea of using Python as glue language for compiled modules like [Rust](https://github.com/sansyrox/robyn) or [Zig](https://github.com/adamserafini/zaml).
+
 ## Web
 
+- [Granian](https://github.com/emmett-framework/granian) - Rust HTTP server for Python applications.
+- [Emmett](https://github.com/emmett-framework/emmett) - Full-stack Python web framework designed with simplicity in mind.
 - [Quart](https://github.com/pallets/quart) - Async Python micro framework for building web applications.
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
 - [Xpresso](https://github.com/adriangb/xpresso) - Composable Python ASGI web framework.
@@ -68,6 +72,13 @@
 - [waiter](https://github.com/coady/waiter) - Delayed iteration for polling and retries.
 - [Clients](https://github.com/coady/clients) - High-level HTTP clients for Python.
 - [stamina](https://github.com/hynek/stamina) - Composable toolkit for handling retries.
+- [httparse](https://github.com/adriangb/httparse) - Python wrapper for Rust's httparse HTTP parser.
+- [aiosignal](https://github.com/aio-libs/aiosignal) - List of registered asynchronous callbacks.
+- [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module.
+- [nTorque](https://github.com/thruflo/ntorque) - Web hook task queue.
+- [HStream](https://github.com/conradbez/hstream) - Quick Python web apps. Streamlit alternative using htmx. ([HN](https://news.ycombinator.com/item?id=33547813))
+- [pyxl4](https://github.com/pyxl4/pyxl4) - Extend Python syntax with HTML.
+- [terminado](https://github.com/jupyter/terminado) - Tornado websocket backend for the Xterm.js JavaScript terminal emulator library.
 
 ## ML
 
@@ -134,6 +145,7 @@
 
 ## CLI
 
+- [Cleo](https://github.com/python-poetry/cleo) - Create beautiful and testable command-line interfaces.
 - [tyro](https://github.com/brentyi/tyro) - Strongly typed, zero-effort CLI interfaces & config objects.
 - [Tap](https://github.com/swansonk14/typed-argument-parser) - Typed modernization of Python's argparse library.
 - [Appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
@@ -214,6 +226,11 @@
 - [redis-pydict](https://github.com/Narasimha1997/redis-pydict) - Python dictionary that uses Redis as in-memory storage backend to facilitate distributed computing applications development.
 - [Redis OM](https://github.com/redis/redis-om-python) - Objecting mapping, and more, for Redis and Python.
 - [Inline SQL](https://github.com/ekzhang/inline-sql) - Inline SQL in any Python program.
+- [μSQLite](https://github.com/spatialdude/usqlite) - SQLite module for MicroPython.
+
+## WebSocket
+
+- [httpx-ws](https://github.com/frankie567/httpx-ws) - WebSockets support for HTTPX.
 
 ## GUI
 
@@ -227,7 +244,7 @@
 - [Flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python.
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module for human beings.
 - [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Beautiful Tkinter GUIs by Drag and Drop.
-- [Textual](https://github.com/willmcgugan/textual) - TUI (Text User Interface) framework for Python inspired by modern web development. ([0.2 release](https://www.textualize.io/blog/posts/textual-0-point-2-point-0))
+- [Textual](https://github.com/willmcgugan/textual) - TUI (Text User Interface) framework for Python inspired by modern web development. ([0.2 release](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)) ([Building TUIs with textual: first impressions](https://learnbyexample.github.io/textual-first-impressions/))
 - [tuilwindcss](https://github.com/koaning/tuilwindcss) - Like Tailwind, but for TUI frameworks in Textual.
 - [Briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application. ([Briefcase macOS App Template](https://github.com/beeware/briefcase-macOS-app-template))
 
@@ -277,6 +294,7 @@
 ## Linux
 
 - [packet](https://github.com/mdlayher/packet) - Provides access to Linux packet sockets (AF_PACKET).
+- [rsyscall](https://github.com/catern/rsyscall) - Process-independent interface to Linux system calls.
 
 ## Test
 
@@ -322,6 +340,7 @@
 - [Pytest-parametrized](https://github.com/coady/pytest-parametrized) - Pytest decorator for parametrizing tests with default iterables.
 - [pytestify](https://github.com/dannysepler/pytestify) - Automatically convert unittests to pytest.
 - [HypoFuzz](https://github.com/Zac-HD/hypofuzz) - Adaptive fuzzing of Hypothesis tests.
+- [Cosmic Ray](https://github.com/sixty-north/cosmic-ray) - Mutation testing for Python.
 
 ## Error
 
@@ -799,7 +818,7 @@
 - [python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [Pebble](https://github.com/noxdafox/pebble) - Provides a neat API to manage threads and processes within an application.
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio by using an ambient event loop, or executing in separate threads or processes.
-- [ctparse](https://github.com/comtravo/ctparse) - Parse natural language time expressions in python.
+- [quickadd](https://github.com/Acreom/quickadd) - Natural language date & time parser written in python.
 - [madbg](https://github.com/kmaork/madbg) - Fully-featured remote debugger for python.
 - [Class Resolver](https://github.com/cthoyt/class-resolver) - Lookup classes and instantiate them with style.
 - [Notifiers](https://github.com/liiight/notifiers) - Easy way to send notifications.
@@ -1034,6 +1053,25 @@
 - [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python.
 - [TLViz](https://github.com/tensorly/viz) - Easy visualization and evaluation of matrix and tensor factorization models.
 - [MatCoupLy](https://github.com/MarieRoald/matcouply) - Learning coupled matrix factorizations in Python.
+- [DynaPyt](https://github.com/sola-st/DynaPyt) - Dynamic analysis framework for Python.
+- [Slice Map](https://github.com/gahaalt/slicemap) - Tiny package containing a dict-like data structure with numeric slices as keys.
+- [Discrete Optimization](https://github.com/airbus/discrete-optimization) - Python library to ease the definition and re-use of discrete optimization problems and solvers.
+- [ducks](https://github.com/manimino/ducks) - Indexes your Python objects for fast lookup by their attributes.
+- [bistring](https://github.com/microsoft/bistring) - Bidirectionally transformed strings.
+- [stqdm](https://github.com/Wirg/stqdm) - Simplest way to handle a progress bar in streamlit app.
+- [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for spatial data manipulation.
+- [Slicerator](https://github.com/soft-matter/slicerator) - Lazy-loading, fancy-slicable iterable.
+- [jschon](https://github.com/marksparkza/jschon) - Pythonic, extensible JSON Schema implementation.
+- [Taskiq](https://github.com/taskiq-python/taskiq) - Asynchronous distributed task queue for python. ([Docs](https://taskiq-python.github.io/guide/getting-started.html))
+- [aspectlib](https://github.com/ionelmc/python-aspectlib) - Aspect-oriented programming, monkey-patch and decorators library.
+- [zaml](https://github.com/adamserafini/zaml) - Fast YAML 1.2 parsing library for Python 3. Written in Zig.
+- [Madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
+- [ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3 and rust-msgpack.
+- [FFX](https://github.com/natekupp/ffx) - Fast Function Extraction.
+- [StaticFrame](https://github.com/static-frame/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.
+- [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
+- [PyAV](https://github.com/PyAV-Org/PyAV) - Pythonic bindings for FFmpeg's libraries.
+- [PEX](https://github.com/pantsbuild/pex) - Library and tool for generating .pex (Python EXecutable) files.
 
 ## Notes
 
@@ -1119,7 +1157,7 @@
 - [Python Project Setup – Virtual Environments and Package Management (2022)](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
 - [Python on Nix](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix.
 - [Python template for nix flakes](https://github.com/Quoteme/mach-nix-template) - Simple and straight-forward way to create python environments using PyPi in nix. ([Reddit](https://www.reddit.com/r/NixOS/comments/szm4nh/i_created_a_super_simple_flakenix_template_so_you/))
-- [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator.
+- [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator. ([Code](https://github.com/sphinx-doc/sphinx))
 - [Python Context Managers in 10 Minutes — using the ‘with’ keyword (2022)](https://towardsdatascience.com/python-context-managers-in-10-minutes-using-the-with-keyword-51eb254c1b89)
 - [Sphinx, MyST, and Python Docs in 2022](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
 - [Quetz](https://github.com/mamba-org/quetz) - Open-Source Server for Conda Packages.
@@ -1219,3 +1257,10 @@
 - [Musings on Python Type Hints (2022)](https://samgeo.codes/blog/python-types/)
 - [How to set up Python in 2022](https://gist.github.com/eyeseast/548fddcfd0df24e589375af6a926ef7e)
 - [nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions.
+- [conda-store](https://github.com/Quansight/conda-store) - Serve identical conda environments in as many ways as possible to users and services.
+- [Devpy](https://github.com/scientific-python/devpy) - Developer tool for scientific Python libraries.
+- [Typing Extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python.
+- [rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python.
+- [ABI compatibility in Python: How hard could it be? (2022)](https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/)
+- [PyCAPI](https://github.com/brandtbucher/pycapi) - Over 600 fast Python bindings to the CPython C API.
+- [optpy](https://github.com/kenkoooo/optpy) - Transpiler to generate a Rust file from a Python file.

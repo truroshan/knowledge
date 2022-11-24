@@ -1,6 +1,6 @@
 # Data processing
 
-[Ibis](https://github.com/ibis-project/ibis) & [Orchest](https://github.com/orchest/orchest) are nice.
+[Ibis](https://github.com/ibis-project/ibis) & [Orchest](https://github.com/orchest/orchest) are nice. [Greptime](https://www.greptime.com/) is interesting OSS DB for time series data processing.
 
 ## Notes
 
@@ -130,3 +130,10 @@
 - [Kuma-san's toolbox for data analysis](https://github.com/analokmaus/kuma_utils)
 - [Byzer](https://github.com/byzer-org/byzer-lang) - Low-code, open-sourced and distributed programming language for data pipeline, analytics and AI in cloud native way. ([Web](https://www.byzer.org/home))
 - [Data Analysis at the Command Line (2022)](https://lucytalksdata.com/data-analysis-at-the-command-line/)
+- [Data Pipeline in Rust](https://github.com/DataPsycho/data-pipelines-in-rust) - Data pipeline example written in Rust with Polars and DataFusion DataFrame package.
+- [Memphis](https://github.com/memphisdev/memphis-broker) - Real-Time Data Processing Platform. ([Web](https://memphis.dev/))
+- [dedup](https://github.com/deepinthebuild/dedup) - Command-line tool for deduplicating entries in a file or stream.
+- [parquet-tools](https://github.com/ktrueda/parquet-tools) - Easy install parquet-tools.
+- [BitSail](https://github.com/bytedance/bitsail) - ByteDance's open source data integration engine which is based on distributed architecture and provides high performance.
+- [thisthat](https://github.com/timClicks/thisthat) - Data format conversion utility.
+- [Boring Data Tool (bdt)](https://github.com/andygrove/bdt) - Command-line tool for viewing, querying, and converting between various file formats. Powered by DataFusion.

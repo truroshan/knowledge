@@ -34,6 +34,7 @@
 - [Nice Photon](https://nicephoton.com/) - Make iOS apps. ([GitHub](https://github.com/nicephoton))
 - [Xmartlabs](https://xmartlabs.com/) ([GitHub](https://github.com/xmartlabs))
 - [Windmill](http://madebywindmill.com/)
+- [3 Sided Cube](https://3sidedcube.com/) ([GitHub](https://github.com/3sidedcube))
 
 ## Node
 
@@ -246,6 +247,7 @@
 - [Ubik](https://ubik.sh/)
 - [Charlie Tango](https://www.charlietango.dk/) ([GitHub](https://github.com/charlie-tango))
 - [Collabora](https://www.collabora.com/) - Open Source Software Consulting.
+- [Spaceteams](https://www.spaceteams.de/) ([GitHub](https://github.com/spaceteams))
 
 ## Notes
 

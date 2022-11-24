@@ -2,6 +2,8 @@
 
 [SICP](http://sarabander.github.io/sicp/html/index.xhtml) and [Practical Common Lisp](http://www.gigamonkeys.com/book/) are great books. [Intuition for Lisp Syntax](https://stopa.io/post/265) is a nice read too.
 
+[bass](https://bass-lang.org/) is interesting.
+
 ## Notes
 
 - [What did Alan Kay mean by, "Lisp is the greatest single programming language ever designed"?](https://www.quora.com/What-did-Alan-Kay-mean-by-Lisp-is-the-greatest-single-programming-language-ever-designed/answer/Alan-Kay-11)
@@ -216,3 +218,9 @@
 - [They Called It LISP for a Reason: List Processing (2005)](https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html) ([HN](https://news.ycombinator.com/item?id=33162318))
 - [Text Generation LispE with a Grammar](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)
 - [Lisp implementation of Lurk](https://github.com/lurk-lang/lurk)
+- [Why Lisp?](https://github.com/naver/lispe/wiki/6.16-Why-Lisp) ([HN](https://news.ycombinator.com/item?id=33462454)) ([Lobsters](https://lobste.rs/s/1nzold/why_lisp))
+- [x7](https://github.com/dpbriggs/x7) - Speedy self-documenting lisp in Rust.
+- [Lisp as the Maxwell’s Equations of Software (2012)](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/) ([HN](https://news.ycombinator.com/item?id=33516422))
+- [The one about Lisp interactivity (2022)](http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/) ([HN](https://news.ycombinator.com/item?id=33559198))
+- [The German School of Lisp (2011)](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
+- [Lisp written in Nix](https://github.com/utdemir/nixlisp)

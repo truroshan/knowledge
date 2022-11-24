@@ -571,3 +571,15 @@ all: unset
 - [Let's Make One of Those Fancy Scrolling Animations Used on Apple Product Pages (2020)](https://css-tricks.com/lets-make-one-of-those-fancy-scrolling-animations-used-on-apple-product-pages/) ([Reddit](https://www.reddit.com/r/webdev/comments/y6b0av/how_is_this_animated_scrolling_behavior_made_what/))
 - [CSS reset for 2022 and beyond](https://github.com/mayank99/reset.css) ([Tweet](https://twitter.com/hi__mayank/status/1583948221587390464))
 - [CSS checkbox examples](https://getcssscan.com/css-checkboxes-examples) ([HN](https://news.ycombinator.com/item?id=33418445))
+- [typed-scss-modules](https://github.com/skovy/typed-scss-modules) - Generate type definitions (.d.ts) for CSS Modules using SCSS.
+- [The New CSS Media Query Range Syntax (2022)](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+- [Xess 2: CSS variable edition (2022)](https://xeiaso.net/blog/xess-css-variables)
+- [Making Tables Responsive With Minimal CSS (2019)](https://bt.ht/tables/)
+- [Is there too much CSS now? (2022)](https://css-tricks.com/is-there-too-much-css-now/) ([HN](https://news.ycombinator.com/item?id=33507817))
+- [SpinKit](https://tobiasahlin.com/spinkit/) - Simple CSS Spinners. ([Code](https://github.com/tobiasahlin/SpinKit))
+- [The evolution of scalable CSS (2022)](https://frontendmastery.com/posts/the-evolution-of-scalable-css/) ([HN](https://news.ycombinator.com/item?id=33572264))
+- [BlurHash to CSS](https://github.com/JamieMason/blurhash-to-css) - Converts a BlurHash to a CSS Object using TypeScript, Rust, and WebAssembly.
+- [Styling form states without JS](https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js)
+- [Tree views in CSS](https://iamkate.com/code/tree-views/) ([HN](https://news.ycombinator.com/item?id=33667270))
+- [Terminal CSS](https://terminalcss.xyz/) - Modern and minimal CSS framework for terminal lovers. ([Code](https://github.com/Gioni06/terminal.css))
+- [CSS Analyzer](https://github.com/projectwallace/css-analyzer) - Goes through your CSS to find all kinds of relevant statistics.

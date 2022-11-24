@@ -2,6 +2,7 @@
 
 ## Web
 
+- [Okapi](https://github.com/monadicsystems/okapi) - Micro web framework for Haskell. ([Web](https://www.okapi.wiki/)) ([HN](https://news.ycombinator.com/item?id=33654192))
 - [scotty](https://github.com/scotty-web/scotty)
 - [servant](https://github.com/haskell-servant/servant) - DSL for describing, serving, querying, mocking, documenting web applications and more.
 - [WAI](https://github.com/yesodweb/wai) - Interface between Haskell web frameworks and web servers.
@@ -47,6 +48,7 @@
 - [hedis](https://github.com/informatikr/hedis) - Redis client library for Haskell.
 - [orville](https://github.com/flipstone/orville) - Yet another ORM for haskell.
 - [PLHaskell](https://github.com/ed-o-saurus/PLHaskell) - Haskell extension for PostgreSQL that allows embedded Haskell code.
+- [MongoDB](https://github.com/mongodb-haskell/mongodb) - MongoDB driver for Haskell.
 
 ## Test
 
@@ -95,6 +97,7 @@
 - [Easytensor](https://github.com/achirkin/easytensor) - Many-dimensional type-safe numeric ops.
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning.
 - [Vehicle](https://github.com/vehicle-lang/vehicle) - Toolkit for enforcing logical specifications on neural networks.
+- [Tensor Safe](https://github.com/leopiney/tensor-safe) - Haskell framework to define valid deep learning models and export them to other frameworks like TensorFlow JS or Keras.
 
 ## Math
 
@@ -381,6 +384,11 @@
 - [mld](https://github.com/plt-amy/mld) - Experiment in compositional typings.
 - [tomland](https://github.com/kowainik/tomland) - Bidirectional TOML serialization.
 - [pqueue](https://github.com/lspitzner/pqueue) - Haskell priority queue package.
+- [Benign](https://github.com/aspiwack/haskell-benign) - Library for benign effects in Haskell.
+- [exceptions](https://github.com/ekmett/exceptions) - Extensible exceptions that are compatible with the monad transformer library.
+- [resource-pool](https://github.com/scrive/pool) - High-performance striped resource pooling implementation for Haskell.
+- [Open Games](https://github.com/jules-hedges/open-games-hs) - Mathematical structure allowing you to describe game-theoretical games.
+- [incremental-parser](https://github.com/blamario/incremental-parser) - Haskell parsing combinator liibrary that can be fed the input and emit the parsed output incrementally.
 
 ## Notes
 

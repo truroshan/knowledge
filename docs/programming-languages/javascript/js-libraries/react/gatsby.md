@@ -8,6 +8,7 @@ title: Gatsby JS
 
 ## Nice example sites
 
+- [Valhalla Pet site](https://github.com/gatsby-inc/valhalla-examples) - Gatsby Pet Snuggles site, powered by WordPress, Contentful, Shopify, and Valhalla.
 - [Juliette's personal website](https://github.com/juliettepretot/juliette.sh)
 - [Overreacted by Dan Abramov](https://github.com/gaearon/overreacted.io)
 - [Digital Garden](https://github.com/johno/digital-garden) - Content-first project meant to make it easier to write and curate content on the web.
@@ -94,3 +95,4 @@ title: Gatsby JS
 - [Gatsby Discord](https://discord.com/invite/gatsby)
 - [Using Deferred Static Generation with Analytics Tools (2021)](https://www.gatsbyjs.com/blog/using-deferred-static-generation-with-analytics-tools/)
 - [How to Migrate Your Blog from Gatsby to Next.js (2022)](https://blog.appsignal.com/2022/01/12/how-to-migrate-your-blog-from-gatsby-to-nextjs.html)
+- [Gatsby Themes](https://github.com/LekoArts/gatsby-themes) - High-quality and customizable Gatsby themes.

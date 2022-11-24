@@ -109,3 +109,8 @@ title: Agda
 - [Total parser combinators and parsing of mixfix operators in Agda](https://github.com/nad/parser-combinators)
 - [ucat](https://github.com/elpinal/ucat) - Univalent categories, displayed categories, and fibrations.
 - [STLC-related snippets in Agda](https://github.com/gergoerdi/stlc-agda)
+- [Agda2Dedukti](https://github.com/Deducteam/Agda2Dedukti) - Agda proof assistant to an encoding of its logic in the lambda-pi calculus modulo rewriting, implemented in Dedukti and Lambdapi.
+- [Experiments with preordered set models of (directed) type theories](https://github.com/AndrasKovacs/preordertt)
+- [Formalization of Regular Languages in Agda](https://github.com/desi-ivanov/agda-regexp-automata)
+- [Improving Agda Interaction](https://github.com/phijor/agda-mode-ng)
+- [Formalization of 2LTT in Agda](https://github.com/UnivalencePrinciple/2LTT-Agda)

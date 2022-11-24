@@ -10,6 +10,8 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/status/1528861135717683201) is an example of a good one.
 
+[Listmonk](https://listmonk.app/) is great self-hosted newsletter and mailing list manager.
+
 ## Notes
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)
@@ -161,7 +163,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Email explained from first principles](https://explained-from-first-principles.com/email/)
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. ([Code](https://github.com/hteumeuleu/caniemail))
 - [Just Use Email](https://www.justuseemail.com/) - How to use Email for Everything. ([HN](https://news.ycombinator.com/item?id=27123389))
-- [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch)) ([afew - tagging script](https://github.com/afewmail/afew))
+- [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch)) ([afew - tagging script](https://github.com/afewmail/afew)) ([HN](https://news.ycombinator.com/item?id=33568388))
 - [Big Mail](https://getbigmail.com/) - Upgrade your inbox.
 - [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
 - [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
@@ -283,3 +285,10 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Himalaya](https://git.sr.ht/~soywod/himalaya-lib) - Rust library for email management. ([Lobsters](https://lobste.rs/s/8duj58/rust_library_manage_emails))
 - [MailPace](https://mailpace.com/) - Transactional Email Provider and API. ([GitHub](https://github.com/mailpace))
 - [MailPace Email Templates](https://github.com/mailpace/templates) - Gorgeous Transactional HTML Email Templates built on TailwindCSS.
+- [go-notify](https://github.com/Harry-027/go-notify) - Email automation solution written in Go. It facilitate users to register, send & schedule custom HTML mails for their clients.
+- [MOSINT](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool.
+- [letterman](https://github.com/gzbakku/letterman) - Rust mail server.
+- [email-verifier](https://github.com/AfterShip/email-verifier) - Go library for email verification without sending any emails.
+- [Use a custom domain to send emails with Gmail using Cloudflare email routing (2022)](https://jay.gooby.org/2022/05/06/use-a-basic-gmail-account-to-send-mail-as-with-a-domain-that-uses-cloudflare-email-routing) ([HN](https://news.ycombinator.com/item?id=33660185))
+- [Nanomail](https://github.com/alexwennerberg/nanomail) - Ultra-lightwight internet mail protocol, inspired by email. Unlike email, it is designed to be radically simple and easy to host yourself.
+- [sail](https://github.com/mademast/sail) - Strictly standards compliant SMTP server in Rust.

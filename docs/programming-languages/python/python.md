@@ -6,6 +6,8 @@ title: Python
 
 [Memray](https://github.com/bloomberg/memray) is useful python memory profiler. [Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/) is a good overview.
 
+[Ruff](https://github.com/charliermarsh/ruff) is nice linter.
+
 ## Notes
 
 - [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)
@@ -550,3 +552,9 @@ for i, _ in enumerate(nums):
 - [Buffers on the Edge: Python and Rust (2022)](https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/) ([HN](https://news.ycombinator.com/item?id=33312508))
 - [Python CLI Tricks That Don't Require Any Code Whatsoever (2022)](https://martinheinz.dev/blog/83)
 - [Python 3.11.0 (2022)](https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291) ([HN](https://news.ycombinator.com/item?id=33327896)) ([Tweet](https://twitter.com/marktenenholtz/status/1584927749168250881))
+- [Better Python code grepping with pyastgrep (2022)](https://lukeplant.me.uk/blog/posts/grep-python-syntax-using-ast-pyastgrep/)
+- [Inline caches in the Skybison Python runtime (2022)](https://bernsteinbear.com/blog/inline-caches-in-skybison/)
+- [Python Asyncio: The Complete Guide (2022)](https://superfastpython.com/python-asyncio/) ([HN](https://news.ycombinator.com/item?id=33547323))
+- [Trie in Python (2022)](https://softwaremaniacs.org/blog/2022/11/10/python-trie/en/) ([Lobsters](https://lobste.rs/s/cb4oqs/trie_python))
+- [shira](https://github.com/darrenburns/shira) - Python inspector.
+- [Python Type Hints: case study on parsy (2022)](https://lukeplant.me.uk/blog/posts/python-type-hints-parsy-case-study/)

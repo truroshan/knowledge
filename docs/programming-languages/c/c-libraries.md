@@ -71,6 +71,7 @@
 - [libmongocrypt](https://github.com/mongodb/libmongocrypt) - C library for Client Side Encryption.
 - [SipHash](https://github.com/veorq/SipHash) - Family of pseudorandom functions (PRFs) optimized for speed on short messages.
 - [curve25519](https://github.com/msotoodeh/curve25519) - Highly efficient implementation of elliptic curve 25519.
+- [libp11](https://github.com/OpenSC/libp11) - Abstract API to perform operations on cryptographic objects such as private keys, without requiring access to the objects themselves.
 
 ## Other
 
@@ -180,3 +181,4 @@
 - [jc_voronoi](https://github.com/JCash/voronoi) - Fast C/C++ header only implementation for creating 2D Voronoi diagrams from a point set.
 - [coroutine](https://github.com/cloudwu/coroutine) - Asymmetric coroutine library for C.
 - [YAJL](https://github.com/lloyd/yajl) - Fast streaming JSON parsing library in C.
+- [libbloom](https://github.com/jvirkki/libbloom) - Simple and small bloom filter implementation in plain C.

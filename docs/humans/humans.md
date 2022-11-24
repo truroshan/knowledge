@@ -6,6 +6,8 @@ I have many interests and I find studying and looking into people who have spent
 
 I maintain a list of [awesome humans](https://github.com/learn-anything/humans) across different disciplines.
 
+I am trying to meet as many people I find interesting as possible to get to know them more. I find what many [podcasters](../podcasts/podcasts.md) are doing with publishing open interviews like the famoux [Lex Friedman](https://www.youtube.com/c/lexfridman/videos) fascinating. Reaching out cold to people you admire is nearly always a good idea especially if you have something actionable in mind, like advice or opportunity to discuss. And if you don't, a simple compliment goes a long way. In the end of the day, [people will never forget how you made them feel](https://www.compass-usa.com/how-you-made-them-feel/).
+
 ## Interesting interviews
 
 - [Tools & Craft Podcast: Andy Matuschak](https://www.youtube.com/watch?v=bcrcaTuvpBk)
@@ -51,6 +53,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/) ([HN](https://news.ycombinator.com/item?id=31482116))
 - [Olivia Cooke : What you don't know about me](https://www.youtube.com/watch?v=RRxEI8uucTo)
 - [Marc Andreessen on Elon Musk, how to think for yourself, good startup ideas and finding a co-founder (2022)](https://www.youtube.com/watch?v=Lp619Sl38eo)
+- [Jeremy Strong On "Armageddon Time," And What "Succession" Says About America (2022)](https://www.youtube.com/watch?v=hLfBNDyNyX4)
 
 ## Interesting bios
 
@@ -104,3 +107,5 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Biographics - YouTube](https://www.youtube.com/c/Biographics/videos)
 - [Map with the most famous people from every city](https://tjukanovt.github.io/notable-people) ([HN](https://news.ycombinator.com/item?id=32274077))
 - [The Steve Jobs Archive](https://stevejobsarchive.com/) ([HN](https://news.ycombinator.com/item?id=32760695))
+- [The World Is Run By People No Smarter Than You (2022)](https://www.swyx.io/no-smarter/) ([HN](https://news.ycombinator.com/item?id=33562204)) ([Tweet](https://twitter.com/jeanqasaur/status/1591171248825909248))
+- [Elon Musk has lied for 27 years about his credentials](https://twitter.com/capitolhunters/status/1593307541932474368)

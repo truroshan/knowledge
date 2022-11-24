@@ -4,6 +4,10 @@ title: ActivityPub
 
 # [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)
 
+[Mastodon](../social-networks/mastodon.md) & [GoToSocial](https://github.com/superseriousbusiness/gotosocial) are neat.
+
+[This guide](https://tinysubversions.com/notes/reading-activitypub/) is nice intro.
+
 ## Links
 
 - [A highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
@@ -14,7 +18,7 @@ title: ActivityPub
 - [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine, based on ActivityPub. ([Web](https://joinplu.me/))
 - [Guide for new ActivityPub implementers (2020)](https://socialhub.activitypub.rocks/t/guide-for-new-activitypub-implementers/479)
 - [Epicyon](https://epicyon.net/) - ActivityPub protocol compliant federated social network server.
-- [Lemmy](https://join-lemmy.org/) - Link aggregator for the fediverse. Alternative to Reddit. ([Code](https://github.com/LemmyNet/lemmy)) ([HN](https://news.ycombinator.com/item?id=23664067)) ([Communities](https://dev.lemmy.ml/communities)) ([Lemmy UI code](https://github.com/LemmyNet/lemmy-ui)) ([HN](https://news.ycombinator.com/item?id=28453165)) ([HN](https://news.ycombinator.com/item?id=29266003)) ([HN](https://news.ycombinator.com/item?id=31712332))
+- [Lemmy](https://join-lemmy.org/) - Link aggregator for the fediverse. Alternative to Reddit. ([Code](https://github.com/LemmyNet/lemmy)) ([HN](https://news.ycombinator.com/item?id=23664067)) ([Communities](https://dev.lemmy.ml/communities)) ([Lemmy UI code](https://github.com/LemmyNet/lemmy-ui)) ([HN](https://news.ycombinator.com/item?id=28453165)) ([HN](https://news.ycombinator.com/item?id=29266003)) ([HN](https://news.ycombinator.com/item?id=31712332)) ([HN](https://news.ycombinator.com/item?id=33615058))
 - [ForgeFed](https://github.com/forgefed/forgefed) - Extension to ActivityPub for web-based Git services federation. ([Web](https://forgefed.org/)) ([Lobsters](https://lobste.rs/s/2dpmxy/forgefed_federation_protocol_for))
 - [ActivityPub spec](https://w3c.github.io/activitypub/) ([Code](https://github.com/w3c/activitypub))
 - [Issues with ActivityPub (2020)](https://lobste.rs/s/ig0vsd/ask_does_lobster_have_any_plan_join#c_p6gfj9)
@@ -42,3 +46,26 @@ title: ActivityPub
 - [openEngiadina: From ActivityPub to XMPP (2021)](https://inqlab.net/2021-11-12-openengiadina-from-activitypub-to-xmpp.html)
 - [General Python ActivityPub library](https://github.com/dsblank/activitypub)
 - [ActivityPub JS/TS models](https://github.com/activitypub-js/activitypub-models)
+- [Ask HN: ActivityPub or Mastodon? (2022)](https://news.ycombinator.com/item?id=33491684)
+- [Ask HN: Which ActivityPub software to use for a personal server? (2022)](https://news.ycombinator.com/item?id=33482516)
+- [The many branches of the Fediverse (2022)](https://axbom.com/fediverse/)
+- [The Fediverse, and Custom Domains](https://aeracode.org/2022/11/01/fediverse-custom-domains/) ([HN](https://news.ycombinator.com/item?id=33503511))
+- [ActivityPub Spec](https://www.w3.org/TR/activitypub/) ([HN](https://news.ycombinator.com/item?id=33513421))
+- [Highly opinionated guide to learning about ActivityPub (2019)](https://tinysubversions.com/notes/reading-activitypub/)
+- [RustyPub](https://github.com/hachyserve/rustypub) - ActivityPub in Rust.
+- [The Fediverse is inefficient but that's a good trade-off (2022)](https://berk.es/2022/11/08/fediverse-inefficiencies/) ([HN](https://news.ycombinator.com/item?id=33543376))
+- [RSS to ActivityPub Converter](https://github.com/dariusk/rss-to-activitypub)
+- [Sorted list of ActivityPub relays for Mastodon or Pleroma](https://github.com/brodi1/activitypub-relays)
+- [API server for rustypub](https://github.com/hachyserve/actiserve)
+- [Epicyon](https://github.com/bashrc2/epicyon) - ActivityPub server without JavaScript, designed for simplicity and accessibility. Includes calendar, news and sharing economy features to empower your federated community.
+- [Twitter, ActivityPub and The Future (2022)](https://aeracode.org/2022/11/15/twitter-activitypub-future/)
+- [Takahe](https://github.com/andrewgodwin/takahe) - ActivityPub/Fediverse server.
+- [Self-hosting GoToSocial on NixOS (2022)](https://notes.abhinavsarkar.net/2022/gotosocial-on-nixos) ([Lobsters](https://lobste.rs/s/lfyi9e/self_hosting_gotosocial_on_nixos))
+- [Pubgate](https://github.com/autogestion/pubgate) - Asyncronous Lightweight ActivityPub API / CMS.
+- [FedBOX](https://github.com/go-ap/fedbox) - Reference implementation of ActivityPub service.
+- [Go Littr](https://github.com/mariusor/go-littr) - Link aggregator inspired by (old)reddit using ActivityPub federation.
+- [ActivityPub Four Years Later: The Good, the Bad, and the Fedi (2022)](https://www.youtube.com/watch?v=vnciCz83t70)
+- [Some thoughts about ActivityPub](https://gist.github.com/jdarcy/60107fe4e653819138396257df302eef)
+- [Towards End-to-End Encryption for Direct Messages in the Fediverse (2022)](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/) ([Lobsters](https://lobste.rs/s/9uvaqs/towards_end_end_encryption_for_direct))
+- [Big List of ActivityPub Projects](https://github.com/shleeable/Big-List-of-ActivityPub)
+- [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - Connects the IndieWeb with federated social networks using ActivityPub and OStatus.

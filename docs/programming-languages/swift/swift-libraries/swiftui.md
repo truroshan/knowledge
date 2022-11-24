@@ -260,3 +260,7 @@ title: SwiftUI
 - [Embracing Core Data In Swiftui (2022)](https://azamsharp.com/2022/10/11/embracing-core-data-in-swiftui.html)
 - [SwiftUI PropertyWrapper Talk](https://github.com/donnywals/SwiftUIPropertyWrapperTalk)
 - [UIKit Custom Annotation with Callout in SwiftUI (2022)](https://www.devtechie.com/community/public/posts/153857-uikit-custom-annotation-with-callout-in-swiftui)
+- [tundsdev - YouTube](https://www.youtube.com/c/tundsdev/videos) ([Code](https://github.com/tunds/YouTubeResources))
+- [Pin a view to the bottom of safe area in SwiftUI (2022)](https://nilcoalescing.com/blog/PinAViewToTheBottomOfSafeArea/)
+- [SwiftUI Layout Inspector](https://github.com/ole/SwiftUI-LayoutInspector) - Tool for learning how the SwiftUI layout system works, and for debugging your own layout code.
+- [SwiftUI Animations by Tutorials (2022)](https://www.kodeco.com/books/swiftui-animations-by-tutorials)

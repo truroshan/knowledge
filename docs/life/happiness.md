@@ -28,6 +28,14 @@ I love to [live minimally](../minimalism/minimalism.md) and only use what I need
 
 I practice this art of minimizing and focusing on what's important to me & removing everything that is not every single day.
 
+I also try very hard to simply not have the things that I cannot change, affect me in any meaningful way. I focus on love (giving and receiving) and appreciation (being grateful for things I have now) over hate (arguing) and being annoyed by things (not being in the moment).
+
+It's harder to be [truly happy in modern online society](https://twitter.com/startingfromnix/status/1592212465747922945) as no one can go at their own pace and feel settled/good about it because there are too many avenues for comparison. There are too many people doing better, performing more, with more visibility.
+
+Just because you're going at your own pace, don't be led to think you're "under performing".
+
+[Huberman](https://hubermanlab.com/) did a [nice episode on science behind happiness](https://hubermanlab.com/science-based-tools-for-increasing-happiness/). Loved the part about synthetic happiness.
+
 ## Other things that help
 
 - Maintaining a social support network (and having a dog).
@@ -44,6 +52,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 
 ## Notes
 
+- [If you have a safe place to live, food on the table and someone that loves you, you have it all. Easy to forget.](https://twitter.com/NWischoff/status/1591889687861403649)
 - [I agree with you that happiness is peace. And it is a state of mind irregardless of what you experience, you can be in this peaceful state detached from emotions and feelings, only attaching yourself to things that matter to you. Mindfully observing your experience.](https://www.reddit.com/r/Psychonaut/comments/8f52lr/my_thoughts_on_happiness/)
   - As for its relation to neurochemistry, I most certainly agree that it plays a major role. That's why things like exercise, proper nutrition and plentiful sleep plays such a huge role in achieving and maintaining this state of happiness. Without those three things, or in other words, without you taking care of your body, reaching these states of being is simply much harder if not impossible.
 - Happiness is the absence of striving for happiness.
@@ -115,3 +124,5 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Ask HN: Has anyone managed to find enjoyment in their work after burnout? (2022)](https://news.ycombinator.com/item?id=33260525)
 - [Ask HN: What mindset change made the biggest positive change for you? (2022)](https://news.ycombinator.com/item?id=33385750)
 - [Ask HN: How did you find joy in life? (2022)](https://news.ycombinator.com/item?id=33398063)
+- [Self-care tips that helped restore my confidence](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ytr3dn/tip_selfcare_tips_that_helped_restore_my/)
+- [Science-Based Tools for Increasing Happiness - Huberman (2022)](https://hubermanlab.com/science-based-tools-for-increasing-happiness/)

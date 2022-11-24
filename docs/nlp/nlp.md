@@ -1,6 +1,6 @@
 # Natural language processing
 
-[spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
+[spaCy](https://spacy.io/) (with their [NLP course](https://github.com/explosion/spacy-course)) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
 [DALL·E 2](https://openai.com/dall-e-2/) is fascinating. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
 
@@ -10,6 +10,7 @@
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
 - [GPT-3 was created by mining a human-written internet that will never again exist thanks to the creation of GPT-3](https://twitter.com/alexhern/status/1455439743165124608)
+- [Creating a delightful AI assistant is not anymore a problem of getting smarter models. It is a now product problem. Better models will help but the main blocker is 100% a product problem at this point.](https://twitter.com/spolu/status/1589977540177072135)
 
 ## Links
 
@@ -423,6 +424,7 @@
 - [Knover](https://github.com/PaddlePaddle/Knover) - Toolkit for knowledge grounded dialogue generation based on PaddlePaddle.
 - [Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval | DeepMind (2021)](https://deepmind.com/blog/article/language-modelling-at-scale) ([HN](https://news.ycombinator.com/item?id=29486607))
 - [CMU Advanced NLP 2021 - YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+- [CMU Advanced NLP 2022 - YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z) ([Tweet](https://twitter.com/Jeande_d/status/1590784789350522880))
 - [whatlies](https://github.com/RasaHQ/whatlies) - Toolkit to help understand "what lies" in word embeddings. Also benchmarking.
 - [CLIP-Guided-Diffusion](https://github.com/nerdyrodent/CLIP-Guided-Diffusion)
 - [Factual Probing Is [MASK]: Learning vs. Learning to Recall (2021)](https://arxiv.org/abs/2104.05240) ([Code](https://github.com/princeton-nlp/OptiPrompt))
@@ -673,9 +675,23 @@
 - [AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab.
 - [CrossRE: A Cross-Domain Dataset for Relation Extraction (2022)](https://arxiv.org/abs/2210.09345) ([Code](https://github.com/mainlp/CrossRE))
 - [Scaling Instruction-Finetuned Language Models (2022)](https://arxiv.org/abs/2210.11416) ([Tweet](https://twitter.com/quocleix/status/1583523186376785921)) ([Tweet](https://twitter.com/SamuelAlbanie/status/1584257440891416576))
-- [Large Language Models Can Self-Improve (2022)](https://arxiv.org/abs/2210.11610)
+- [Large Language Models Can Self-Improve (2022)](https://arxiv.org/abs/2210.11610) ([Tweet](https://twitter.com/I_are/status/1589004453637926912))
 - [Everyprompt](https://www.everyprompt.com/) - Playground for GPT-3. ([Tweet](https://twitter.com/evanjconrad/status/1583538660489588737))
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (2021)](https://arxiv.org/abs/2107.13586) ([Tweet](https://twitter.com/DynamicWebPaige/status/1586745834787348480))
 - [Composable Text Controls in Latent Space with ODEs (2022)](https://arxiv.org/abs/2208.00638) ([Code](https://github.com/guangyliu/LatentOps))
 - [flashgeotext](https://github.com/iwpnd/flashgeotext) - Extract city and country mentions from Text like GeoText without regex, but FlashText, a Aho-Corasick implementation.
 - [lm-scorer](https://github.com/simonepri/lm-scorer) - Language Model based sentences scoring library.
+- [CodeT: Code Generation with Generated Tests](https://github.com/microsoft/CodeT)
+- [Bloom](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model. ([Tweet](https://twitter.com/jackclarkSF/status/1588973690838188033))
+- [Prompts](https://github.com/semiosis/prompts) - Free and open-source (FOSS) curation of prompts for OpenAI’s GPT-3, EleutherAI’s GPT-j, and other LMs.
+- [FSNER](https://github.com/sayef/fsner) - Few-shot Named Entity Recognition.
+- [Ilya Sutskever (OpenAI): What's Next for Large Language Models (LLMs) (2022)](https://www.youtube.com/watch?v=UHSkjro-VbE)
+- [Galactica](https://galactica.org/) - General-purpose scientific language model. It is trained on a large corpus of scientific text and data. ([Code](https://github.com/paperswithcode/galai)) ([Tweet](https://twitter.com/Michael_J_Black/status/1593133722316189696))
+- [Three-level Hierarchical Transformer Networks for Long-sequence and Multiple Clinical Documents Classification (2021)](https://arxiv.org/abs/2104.08444) ([Code](https://github.com/nbroad1881/strideformer))
+- [WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models (2022)](https://arxiv.org/abs/2112.06598) ([Code](https://github.com/CPJKU/wechsel))
+- [Convenient Text-to-Text Training for Transformers](https://github.com/tlkh/t2t-tuner)
+- [Homophone Reveals the Truth: A Reality Check for Speech2Vec (2022)](https://arxiv.org/abs/2209.10791) ([Code](https://github.com/my-yy/s2v_rc))
+- [RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder (2022)](https://arxiv.org/abs/2205.12035) ([Code](https://github.com/staoxiao/RetroMAE))
+- [Generate conversation starters given two personalities using AI](https://github.com/langa-me/chat-example)
+- [MetaICL: Learning to Learn In Context (2021)](https://arxiv.org/abs/2110.15943) ([Code](https://github.com/facebookresearch/MetaICL))
+- [PAL: Program-aided Language Models (2022)](https://arxiv.org/abs/2211.10435) ([Code](https://github.com/reasoning-machines/pal))

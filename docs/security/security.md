@@ -324,3 +324,7 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [feroxbuster](https://github.com/epi052/feroxbuster) - Fast, simple, recursive content discovery tool written in Rust.
 - [Transparent Release](https://github.com/project-oak/transparent-release) - Builds on the idea of binary transparency and extends it in a few directions.
 - [Apple Security Research](https://security.apple.com/)
+- [Phylum](https://www.phylum.io/) - Automate software supply chain security to block new risks, prioritize existing issues and only use open-source code that you trust. ([CLI](https://github.com/phylum-dev/cli))
+- [We sign code now (2022)](https://blog.trailofbits.com/2022/11/08/sigstore-code-signing-verification-software-supply-chain/)
+- [Awesome Software Supply Chain Security](https://github.com/bureado/awesome-software-supply-chain-security)
+- [InfoSec Black Friday Deals](https://github.com/0x90n/InfoSec-Black-Friday)

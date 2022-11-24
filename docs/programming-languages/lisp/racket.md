@@ -98,7 +98,7 @@ title: Racket
 - [Parallelizing the Racket Web Server (2021)](https://defn.io/2021/12/30/parallel-racket-web-server/)
 - [curly-fn](https://github.com/lexi-lambda/racket-curly-fn) - Meta-language for adding Clojure-style shorthand function literals to arbitrary Racket languages.
 - [functional](https://github.com/lexi-lambda/functional) - Functional interfaces and datatypes for Racket.
-- [Zuo](https://github.com/mflatt/zuo) - Tiny Racket for Scripting.
+- [Zuo](https://github.com/mflatt/zuo) - Tiny Racket for Scripting. ([Docs](https://docs.racket-lang.org/zuo/index.html)) ([HN](https://news.ycombinator.com/item?id=33560492))
 - [Why learn Racket? A student's perspective (2022)](https://www.micahcantor.com/blog/why-learn-racket/)
 - [Typed Racket: the good and the bad (2021)](https://www.micahcantor.com/blog/thoughts-typed-racket/) ([HN](https://news.ycombinator.com/item?id=30402408))
 - [How to Organize Your Racket Library (2022)](https://countvajhula.com/2022/02/22/how-to-organize-your-racket-library/) ([Reddit](https://www.reddit.com/r/Racket/comments/sz0uhe/how_to_organize_your_racket_library_blog/))
@@ -147,3 +147,12 @@ title: Racket
 - [gann](https://github.com/massung/gann) - Genetic Algorithm based Neural Networks for Racket.
 - [Corpse Reviver](https://github.com/camoy/corpse-reviver) - Sound and efficient gradual typing via contract verification.
 - [Redex Parameters](https://github.com/camoy/redex-parameter) - Parameters for extensions in Redex.
+- [Awesome Racket and Scheme](https://github.com/caocao485/awesome-racket-and-scheme)
+- [lens](https://github.com/jackfirth/lens) - Racket package for creating and composing pure functional lenses.
+- [Fractalide](https://github.com/fractalide/fractalide) - Reusable Reproducible Composable Software.
+- [R-cade](https://github.com/massung/r-cade) - Retro Game Engine for Racket.
+- [raco-run](https://github.com/samdphillips/raco-run) - Easier running Racket submodules on the command line.
+- [Racket Static Web](https://github.com/samdphillips/raco-static-web) - Little raco command to serve some files on the web.
+- [disassemble](https://github.com/samth/disassemble) - Disassembler for Racket.
+- [fancy-app](https://github.com/samth/fancy-app) - Scala-style magic function application form.
+- [Pict3D](https://github.com/jeapostrophe/pict3d) - 3D engine with a purely functional API.

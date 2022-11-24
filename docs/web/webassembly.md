@@ -10,6 +10,8 @@ title: WebAssembly
 
 [Fermyon](https://www.fermyon.dev/)'s [Spin framework](https://spin.fermyon.dev/) is great way to run WASM on servers. [Enarx](https://enarx.dev/) is great too.
 
+[Luna](https://github.com/thomscoder/luna) is nice code to study to understand WASM.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -20,7 +22,7 @@ title: WebAssembly
 - [WebAssembly Demystified](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
 - [Life](https://github.com/perlin-network/life) - Secure WebAssembly VM catered for decentralized applications.
 - [Calls between JavaScript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
-- [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter. ([Wasmer 1.0](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)) ([HN](https://news.ycombinator.com/item?id=25649476))
+- [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter. ([Wasmer 1.0](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)) ([HN](https://news.ycombinator.com/item?id=25649476)) ([3.0](https://wasmer.io/posts/announcing-wasmer-3.0)) ([HN](https://news.ycombinator.com/item?id=33721685))
 - [wac](https://github.com/kanaka/wac) - WebAssembly in C.
 - [Wasmjit](https://github.com/rianhunter/wasmjit) - Kernel Mode WebAssembly Runtime for Linux.
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler. ([Web](https://www.assemblyscript.org/))
@@ -383,4 +385,18 @@ title: WebAssembly
 - [Wasm Workers Server](https://github.com/vmware-labs/wasm-workers-server) - HTTP server that runs applications with WebAssembly.
 - [How We Built an In-Browser Language Server Using WASM (2022)](https://www.hiro.so/blog/write-clarity-smart-contracts-with-zero-installations-how-we-built-an-in-browser-language-server-using-wasm)
 - [CoWasm](https://github.com/sagemathinc/cowasm) - Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy. ([Web](https://cowasm.org/))
-- [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go.
+- [Luna](https://github.com/thomscoder/luna) - Tiny WebAssembly compiler in Go. ([Demo](https://luna-demo.vercel.app/)) ([HN](https://news.ycombinator.com/item?id=33584337))
+- [Minimal WASI Interpreter in Zig](https://github.com/andrewrk/zig-wasi)
+- [Silly WAT Linker](https://github.com/surma/silly-wat-linker) - Tool that makes writing WebAssembly Text files easier.
+- [WebAssembly Component Builder](https://wasmbuilder.app/) - Website for building WebAssembly components. ([Code](https://github.com/peterhuene/wasmbuilder.app))
+- [Root Scanning WASM Spec](https://github.com/WebAssembly/root-scanning) - Spec proposal for scanning/marking of linear memory GC roots.
+- [uvwasi](https://github.com/nodejs/uvwasi) - WASI syscall API built atop libuv.
+- [WebAssembly and Docker - Better Together](https://github.com/collabnix/wasm-docker-better-together)
+- [Web Assembly (on the server) (2022)](https://www.slideshare.net/mreferre/web-assembly-on-the-server)
+- [Introducing SpiderLightning - A Cloud System Interface with WebAssembly (2022)](https://deislabs.io/posts/introducing-spiderlightning-and-slight/)
+- [Aeon](https://github.com/thomscoder/aeon) - Extremely tiny WebAssembly runtime for demonstration and educational purposes.
+- [History of WebAssembly (2022)](https://evacchi.github.io/wasm/compilers/history/2022/11/23/a-history-of-webassembly.html)
+- [Coredump Format for WebAssembly](https://github.com/xtuc/wasm-coredump-format)
+- [WasmEdge Hyper Demo](https://github.com/WasmEdge/wasmedge_hyper_demo)
+- [cjwasm](https://github.com/jeaiii/cjwasm) - Fast, zero dependency, single-header WebAssembly interpreter.
+- [WASM Registry Prototype](https://github.com/bytecodealliance/registry)

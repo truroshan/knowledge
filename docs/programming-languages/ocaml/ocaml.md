@@ -152,3 +152,8 @@ title: OCaml
 - [Practical OCaml, Multicore Edition (2022)](https://dev.to/yawaramin/practical-ocaml-multicore-edition-3gf2)
 - [OCaml 5 is perfect prototyping language](https://twitter.com/Horusiath/status/1578991843161038853)
 - [Necro ML: Generating OCaml Interpreters (2022)](https://louis.noizet.fr/laboro/ML_ICFP_preprint.pdf)
+- [Introduction to OCaml for Program Analysis](https://github.com/mjambon/ocaml-for-pa)
+- [OCaml: What's Your Development Workflow? (2022)](https://discuss.ocaml.org/t/whats-your-development-workflow/10358)
+- [Bytecode compiler of a variant of Caml](https://github.com/MaskRay/CamlFeatherweight)
+- [Reverse-mode algorithmic differentiation using effect handlers in OCaml 5](https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml) ([HN](https://news.ycombinator.com/item?id=33666694))
+- [OCaml behind the scenes: exceptions (2022)](https://github.com/fabbing/obts_exn)

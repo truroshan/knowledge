@@ -338,6 +338,12 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [daisyUI React](https://github.com/daisyui/react-daisyui) - daisyUI components built with React, Typescript and TailwindCSS.
 - [React Modern Audio Player](https://github.com/slash9494/react-modern-audio-player) - Simple, accessible and flexible audio player. ([HN](https://news.ycombinator.com/item?id=33111389))
 - [Conform](https://github.com/edmundhung/conform) - Form validation library built on top of the Constraint Validation API.
+- [react-responsive](https://github.com/bloczjs/react-responsive) - Only displays some contents for particular screen sizes.
+- [React-Disable](https://github.com/kitze/react-disable) - React component for disabling a section of an app.
+- [reablocks](https://github.com/reaviz/reablocks) - Low Level Component Library for React.
+- [Remotion Animated](https://github.com/stefanwittwer/remotion-animated) - Delightful way to animate objects in Remotion.
+- [ILLA Design](https://github.com/illacloud/illa-design) - Fully responsive UI Library for React.
+- [React/NextJS Audio Player](https://github.com/madzadev/audio-player)
 
 ## Links
 
@@ -388,3 +394,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Placeholder components](https://cards.jordanscales.com/placeholders)
 - [reforest](https://github.com/souporserious/reforest) - Collect and compute React props seamlessly across the server and client.
 - [react-benchmark](https://github.com/Rowno/react-benchmark) - Tool for benchmarking the render performance of React components.
+- [(Lazy) Components Maps (2022)](https://julesblom.com/writing/lazy-component-maps)

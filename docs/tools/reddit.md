@@ -91,3 +91,8 @@ title: Reddit
 - [Related Subreddits By User/Redditor Overlap](https://subredditstats.com/subreddit-user-overlaps)
 - [Programming language subreddits and their choice of words](https://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words)
 - [RedditLattice](https://redditlattice.netlify.app/) - Reddit viewer for image based subreddits. Lays out the images in a tight lattice. ([Code](https://github.com/vanillacode314/redditlattice))
+- [Hide some app banners on Reddit (2022)](https://underpassapp.com/news/2022-11-4.html)
+- [Metadocs](https://metadocs8.com/) - Kinda like Reddit, but built into every documentation. ([HN](https://news.ycombinator.com/item?id=33518828))
+- [Gert](https://github.com/mcdallas/gert) - Command line tool to download media from Reddit.
+- [Reddit Monitoring with Python (2022)](https://segue.co/blog/reddit-monitoring-python/)
+- [Reddit moderator bot](https://github.com/gc-plp/reddit-moderator-bot) - Monitor subreddits and trigger custom actions through plugins.

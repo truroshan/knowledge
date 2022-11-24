@@ -53,3 +53,5 @@ Use [Wipr](https://giorgiocalderolla.com/wipr.html) on [iOS](../operating-system
 - [donutdns](https://github.com/shoenig/donutdns) - Block online ads by intercepting DNS queries. Simple alternative to Pi-hole.
 - [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads and trackers blocking DNS server. ([HN](https://news.ycombinator.com/item?id=33387678))
+- [SponsorBlock Server](https://github.com/ajayyy/SponsorBlockServer) - Skip YouTube video sponsors (server side portion).
+- [Spotify Ad Block](https://github.com/abba23/spotify-adblock)

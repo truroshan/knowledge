@@ -1,14 +1,36 @@
 # Fitness
 
-I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio usually by [cycling](../travel/transportation/cycling.md).
+I try to do some daily [bodyweight exercises](strength-training.md) in form of squats, pushups, pull ups, dips, leg raises and sit-ups. Dips, leg raises and pull ups being my favorite. I also do cardio usually by [cycling](../travel/transportation/cycling.md) or prolonged walking and sometimes [running](running.md).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
 
-I try to not sit for prolonged times (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
+I try to [not sit for prolonged times](../health/ergonomics.md) (by using a standing desk and taking physical breaks). Going on walks or cycling for a bit always [resets my mind](https://twitter.com/emollick/status/1590785568929382401).
 
-[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
+### Daily routine
 
-[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great.
+I use [Strong app](https://www.strong.app/) to track workouts/progress. [Fitbod](https://fitbod.me/) is nice too as it generates workouts for you based on muscle areas you want to target.
+
+I currently don't go to the gym so do workouts at home without any special gear but do plan to change it. My current daily routine I repeat 2-3 times daily. Everything done until failure. And with [proper strict form](https://youtu.be/5Jth37OywOE?t=522).
+
+1. [Push ups](https://www.youtube.com/watch?v=IODxDxX7oi4) (2 reps maxing out each rep)
+2. [Deep squats](https://www.youtube.com/watch?v=gsNoPYwWXeM) (2 reps maxing out each rep)
+3. [Downward dog to cobra pose](https://www.youtube.com/shorts/ZH7HFPIWILk) (2 reps maxing out each rep)
+
+Mostly taken as inspiration from this [daily home training routine](https://www.youtube.com/watch?v=5Jth37OywOE) & [morning routine](https://www.youtube.com/watch?v=pc2xlLuCp4Y) videos. The way [Joe](https://www.youtube.com/user/JoeDelaneyy/videos) lays out the [plan with reps](https://youtu.be/5Jth37OywOE?t=571) is interesting, I currently try to just push each rep until failure.
+
+Videos on [6 things i do every day to stay in shape](https://www.youtube.com/watch?v=T5reu3R55kM), [essential exercises](https://www.youtube.com/watch?v=s0fA0gXqREQ), [golden rules to build muscle](https://www.youtube.com/watch?v=ti7j2yyVF6E), [beginner mistakes to avoid](https://www.youtube.com/watch?v=thV6p47dhaU) & [how to setup the perfect bulk up](https://www.youtube.com/watch?v=kE2XioeBDGI) are a must watch. Sadly most of the exercises on the list require some gear. I will update the routine once I get into position where I have access to such gear.
+
+### Other tips
+
+[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) & [Joe Delaney](https://www.instagram.com/shredbundy/) have ideal body types in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
+
+[Andy Galpin's interview](https://www.youtube.com/watch?v=IAnhFUUCq6c&t=500s) is insightful. [Huberman's fitness program](https://twitter.com/hubermanlab/status/1584198119083810816) is great. And I love [Joe Delaney](https://www.youtube.com/user/JoeDelaneyy/videos)'s videos.
+
+The biggest thing to keep in mind when doing workouts is to train until muscle failure and doing it in good form (so as to not get injuries or imbalances of muscle groups trained). That's why I prefer [calisthenics](https://en.wikipedia.org/wiki/Calisthenics) over any kind of exercise as full body weight exercises train many parts of your body at once.
+
+Most importantly I try to keep my [back muscles](https://www.youtube.com/watch?v=XxSgdX7lX6E) in shape as due to nature of my work, I do sit for prolonged times even when I try to minimize it. Better back muscles means less slouching. [Yoga](yoga.md) is great for making back muscles stronger too.
+
+When I get a chance, I will setup [gymnastics rings](https://www.gornation.com/blogs/news/exercises-gymnastics-rings) in my home gym. Don't yet own a place for this.
 
 ## Notes
 
@@ -27,6 +49,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Hiking is a great brain workout. Your brain needs blood and lots of it, so a healthy cardiovascular system (especially clean carotid arteries) is vital to brain health. In addition the act of navigating uneven terrain forces your smaller stabilizing muscles and your brain to work harder, planning for and reacting to what's under your feet and what's coming up. there are also mental benefits to being out in nature and to navigating unfamiliar terrain.](https://www.reddit.com/r/askscience/comments/w9ba6y/why_is_the_brain_not_damaged_by_impact_from/)
 - [Accountability coach for health and fitness stuff can be very useful](https://twitter.com/adamwathan/status/1527695253595103233)
 - [In a new paper in Nature, scientists looked at candidates for reversing dysregulated gene expression in Alzheimer's disease and guess what outperformed all tested drugs? Exercise.](https://twitter.com/maxlugavere/status/1581338154736328704)
+- [You need more calories than you think when trying to gain muscle. Best to count so you have some understanding of how many calories are in foods you eat. Then have proper routine with structure, optimized for muscle growth. Take proper rest days.](https://www.youtube.com/watch?v=f5x8igkdiYk)
 
 ## Links
 
@@ -79,3 +102,21 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [70 Pages of Fitness Notes - A Collection](https://docsend.com/view/t2mth9ew87b8fixa) ([Reddit](https://www.reddit.com/r/Fitness/comments/w8nq4y/heres_70_pages_of_notes_ive_taken_from_20/))
 - [Fitness tips](https://twitter.com/chrisboettcher9/status/1579804058461753344)
 - [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](https://hubermanlab.com/fitness-toolkit-protocol-and-tools-to-optimize-physical-health/) ([Tweet](https://twitter.com/hubermanlab/status/1584198119083810816))
+- [Ask HN: Stay fit as a time-poor remote worker (2022)](https://news.ycombinator.com/item?id=33528976)
+- [Calisthenicmovement - YouTube](https://www.youtube.com/user/Calisthenicmovement/videos)
+- [Do These 3 Things Every Morning!](https://www.youtube.com/watch?v=pc2xlLuCp4Y)
+- [Dr. Gains - YouTube](https://www.youtube.com/c/DrGains/videos)
+- [Joe Delaney - YouTube](https://www.youtube.com/user/JoeDelaneyy/videos)
+- [The 5 Golden rules for Building Muscle! (95% of your gains come from these) (2021)](https://www.youtube.com/watch?v=ti7j2yyVF6E)
+- [How Long Until You Can See Your Abs? (If You Start Now) (2022)](https://www.youtube.com/watch?v=8JxTK_3rEII)
+- [How I'd Train if I Started Over with Zero Gains - mistakes to avoid (2022)](https://www.youtube.com/watch?v=thV6p47dhaU)
+- [The Perfect Mobility Routine (Based On Your Body)](https://www.youtube.com/watch?v=TSIbzfcnv_8)
+- [Calisthenics Bodyweight Workout Pull Push Squat Hinge No Equipment (2022)](https://www.youtube.com/watch?v=QTAQuceq5bU)
+- [The Best Science-Based Minimalist Workout (Under 45 Mins) (2022)](https://www.youtube.com/watch?v=eMjyvIQbn9M)
+- [The Smartest Push Pull Legs Routine 2022 (Fully Explained)](https://www.youtube.com/watch?v=qVek72z3F1U)
+- [A Very Typical Day in my Life... (Eat/Train/Work)](https://www.youtube.com/watch?v=cR9G6H7GrG0)
+- [6 Things I Do Every Day to Stay in Shape](https://www.youtube.com/watch?v=T5reu3R55kM)
+- [Insane Garage Gym Transformation 2022 | Complete Build](https://www.youtube.com/watch?v=3-3aJEnn3Aw)
+- [How to setup the perfect bulk up (step by step) (2019)](https://www.youtube.com/watch?v=kE2XioeBDGI)
+- [Fix Bad Posture in 22 Days](https://www.youtube.com/watch?v=XxSgdX7lX6E)
+- [The Cheapest Way to Build Muscle & Lose Fat](https://www.youtube.com/watch?v=B-RpGm77loI)

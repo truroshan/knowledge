@@ -477,3 +477,9 @@ if (
 - [The power of JS generators](https://observablehq.com/@anjana/the-power-of-js-generators)
 - [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 - [JavaScript's promised convenience (2022)](https://www.gregroz.me/article/javascript-promised-convenience)
+- [ShadowRealms – an ECMAScript proposal for a better `eval()` (2022)](https://2ality.com/2022/04/shadow-realms.html)
+- [Why would anyone need JavaScript generator functions? (2022)](https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/) ([HN](https://news.ycombinator.com/item?id=33504700))
+- [Number.range & BigInt.range JS Proposal](https://github.com/tc39/proposal-Number.range)
+- [QuickJS Running in WebAssembly](https://github.com/justjake/quickjs-emscripten) ([HN](https://news.ycombinator.com/item?id=33678641))
+- [Jitar](https://github.com/MaskingTechnology/jitar) - Full-stack JavaScript runtime for small to large web applications.
+- [This Month in JavaScript (2022)](https://www.youtube.com/watch?v=ijKULkvSaAU)

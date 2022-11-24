@@ -1,18 +1,16 @@
 # Foods
 
-I eat a whole food, plant based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
+I eat a whole food, [pescatarian diet](../../environment/veganism.md) and experiment by trying out new [pescatarian recipes](recipes.md). I try exclude all unhealthy food. Specifically sugar. And dairy.
 
-Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados. I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day.
+I start every morning with some [exercise](../../fitness/fitness.md) and a [morning smoothie](supplements.md) to cover all my micro & macro nutrient needs and get enough protein to grow/maintain muscle. After the smoothie, I usually don't eat for a while.
 
-I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md) where necessary. I sometimes make little smoothies.
+I love Indian, Japanese & Georgian cuisine the most. Can eat ramen, sushi or hummus all day. I also like eating various nuts ([almonds, walnuts](https://www.youtube.com/watch?v=K8HuhaKObZs)), blueberries, bananas and avocados when I am too lazy or want a quick snack.
 
-I nearly always keep nuts & fruits at hand as they make for healthy quick snacks.
+I use [Mela](https://mela.recipes/) & [Paprika](https://www.paprikaapp.com/) apps to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
 
-I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
+My goto recipe is a simple omelette with tomatoes and Greek salad. I mention common foods I eat [here](nutrition.md).
 
-My goto recipe is a simple omelette with tomatoes and Greek salad.
-
-Here is a list of various plant based foods that I use to experiment and cook with. It helps to sometimes pick some ingredients and search recipes you can make with them.
+Here is a list of various pescatarian foods that I use to experiment and cook with. It helps to sometimes pick some ingredients and search recipes you can make with them.
 
 ![](https://i.imgur.com/a9lMUh7.png)
 
@@ -46,6 +44,7 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 ## Vegetables (other)
 
 - Arugula
+- Tarragon
 
 ## Fruits (other)
 
@@ -168,3 +167,8 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Bluetooth Low Energy soil moisture sensor](https://github.com/rbaron/b-parasite) ([HN](https://news.ycombinator.com/item?id=33281310))
 - [Bourdain's World Map](https://www.anthonybourdainworldmap.com/)
 - [How food powers the body's metabolism](https://www.newyorker.com/science/elements/how-food-powers-your-body-metabolism-calories) ([HN](https://news.ycombinator.com/item?id=33369896))
+- [Only 1% of Japan's Soy Sauce Is Made This Way](https://www.youtube.com/watch?v=MKbRu3_Ynpk)
+- [Robot treats 500k plants per hour with 95% less chemicals (2022)](https://www.youtube.com/watch?v=sV0cR_Nhac0) ([HN](https://news.ycombinator.com/item?id=33630179))
+- [Nutrition Tier Lists: Nuts](https://www.youtube.com/watch?v=K8HuhaKObZs)
+- [Apple Rankings](https://applerankings.com/) ([HN](https://news.ycombinator.com/item?id=33639206))
+- [At which point is a food considered processed?](https://www.reddit.com/r/nutrition/comments/z21csd/at_which_point_is_a_food_considered_processed/)

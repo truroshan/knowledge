@@ -2,6 +2,8 @@
 
 [Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read. [David Buss's interview on Sex, Dating, Relationships, and Sex Differences](https://www.youtube.com/watch?v=sndW9hzX-wA) was fascinating.
 
+[Come as You Are](https://www.goodreads.com/en/book/show/22609341) is great book.
+
 ## Notes
 
 - [Don't have PIV sex immediately as it can be painful and unpleasant. Foreplay is important. Be gentle. Can give her an orgasm without any PIV involved easily.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
@@ -14,6 +16,8 @@
 - [Always satisfy your partner first before finishing yourself.](https://www.reddit.com/r/sex/comments/x70vpz/my_boyfriend_doesnt_satisfy_me_after_he_finishes/)
 - [You don’t have to deposit to a sperm bank for IVF. If a person wanted to do IVF after a vasectomy they can extract the sperm from your testicles and do it that way.](https://www.reddit.com/r/sexover30/comments/y1ck83/disagreement_on_vasectomy/)
 - [Move sideways, not up and down](https://www.tiktok.com/@msjessicagarner/video/7143072375746202885)
+- [Prone bone or missionary with a pillow are top positions that can hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
+- [Always use condoms before both been tested for STD's and both sides are aware of the pregnancy risks and willing to take them (if that happens) or use female contraception consistently.](https://www.reddit.com/r/AskMen/comments/yw8mea/at_what_point_do_you_stop_wearing_condoms/)
 
 ## Links
 
@@ -129,3 +133,16 @@
 - [How in vitro fertilization (IVF) works](https://www.youtube.com/watch?v=P27waC05Hdk)
 - [Vasectomy Reversal vs Frozen - Feedback](https://www.reddit.com/r/Vasectomy/comments/xqe6lh/vasectomy_reversal_vs_frozen_feedback/)
 - [Ideas on foreplay hours before sex](https://www.reddit.com/r/sexover30/comments/y89snd/ideas_on_foreplay_hours_before_sex/)
+- [Vasectomies Wiki](https://www.reddit.com/r/sexover30/wiki/sexual_health/vasectomies/)
+- [Why, in the last two centuries, have women become to be considered less sexual than men, if, throughout history, they were believed to have a much higher libido?](https://www.reddit.com/r/AskHistorians/comments/yl0uta/why_in_the_last_two_centuries_have_women_become/)
+- [The guide on how to give girls great oral sex](https://www.reddit.com/r/sexover30/comments/ylh26w/the_guide_on_how_to_give_girls_great_oral_sex/)
+- [Top sex positions for women's orgasms](https://www.youtube.com/watch?v=94xGVsYSdDk)
+- [Recommendations for "Books About Sex" + Erotica (2022)](https://www.reddit.com/r/sexover30/comments/ytki4g/metathread_recommendations_for_books_about_sex/)
+- [Positions to hit the g spot](https://www.reddit.com/r/sexover30/comments/yudhu1/positions_to_hit_the_g_spot/)
+- [Sex Positions - AskMen](https://www.askmen.com/sex/sex_positions/)
+- [Some thoughts on sex and intimacy](https://twitter.com/liminal_warmth/status/1592542553668481025)
+- [At what point do you stop wearing condoms?](https://www.reddit.com/r/AskMen/comments/yw8mea/at_what_point_do_you_stop_wearing_condoms/)
+- [What's something that's not supposed to be sexual that turns you on?](https://www.reddit.com/r/sex/comments/ywc22i/whats_something_thats_not_supposed_to_be_sexual/)
+- [NuvaRing](https://www.nuvaring.com/) - Small, flexible vaginal ring used to prevent pregnancy. ([Review](https://www.youtube.com/watch?v=NS0tXmdQv5g&t=285s))
+- [Birth Control Reddit](https://www.reddit.com/r/birthcontrol/)
+- [О контрацепции с гинекологом Кариной Бондаренко (2021)](https://www.youtube.com/watch?v=9ngpK8qWTJc)

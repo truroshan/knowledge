@@ -165,7 +165,7 @@ Below is a list of extensions I use.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
 - [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
-- [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
+- [VS Code Neovim Integration](https://github.com/vscode-neovim/vscode-neovim) ([HN](https://news.ycombinator.com/item?id=33709013))
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
 - [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - Spacemacs' like keybindings. ([Code](https://github.com/VSpaceCode/VSpacecode))
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support, with built-in Kubernetes syntax support. ([Code](https://github.com/redhat-developer/vscode-yaml))
@@ -199,6 +199,8 @@ Below is a list of extensions I use.
 - [Toggle VS Code](https://github.com/rebornix/vscode-toggle) - Toggle any VS Code setting by your favorite keybindings.
 - [Sequential Input Sequence](https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence) ([Code](https://github.com/tomoki1207/vscode-input-sequence))
 - [VS Code Makefile Tools](https://github.com/microsoft/vscode-makefile-tools)
+- [Direnv VSCode](https://github.com/direnv/direnv-vscode)
+- [AWK Language Server](https://github.com/Beaglefoot/awk-language-server)
 
 ## Shell
 
@@ -226,6 +228,8 @@ Below is a list of extensions I use.
 - [pylens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-pylens) - Shows the latest version of a dependency in pyproject.toml or requirements.txt. ([Code](https://github.com/ninoseki/vscode-pylens))
 - [PyPI Assistant](https://marketplace.visualstudio.com/items?itemName=twixes.pypi-assistant) - Enables CodeLens + handy hover tooltips with PyPI package information in pip requirements. ([Code](https://github.com/Twixes/pypi-assistant))
 - [Python Web WASM](https://github.com/microsoft/vscode-python-web-wasm) - Run Python code in a Web browser using WebAssembly technology.
+- [Ruff](https://github.com/charliermarsh/vscode-ruff) - Support for the Ruff linter.
+- [PyScript extension](https://github.com/Hardeepsingh980/pyscript) - Beautiful syntax and scoped snippets for PyScript.
 
 ## Git
 
@@ -263,11 +267,15 @@ Below is a list of extensions I use.
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support. ([Code](https://github.com/microsoft/vscode-typescript-next))
 - [Twoslash-Queries](https://github.com/orta/vscode-twoslash-queries) - VS Code extension which adds support for twoslash queries into typescript projects.
 - [TS QuickFixes](https://marketplace.visualstudio.com/items?itemName=tamj0rd2.ts-quickfixes-extension) ([Code](https://github.com/tamj0rd2/ts-quickfixes)) ([Tweet](https://twitter.com/wesbos/status/1582803702225989637))
+- [EffectTS LSP](https://github.com/Effect-TS/language-service)
+- [TS Extract Interface](https://github.com/luthfianto/ts-extract-interface) - VSCode extension to extract an interface from a TypeScript class.
 
 ## DB
 
 - [VS Code SQL Notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files in the VS Code Notebook interface. Execute query blocks and view output interactively.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history..
+- [Wingmate](https://marketplace.visualstudio.com/items?itemName=chrismwendt.wingmate) - SQL syntax highlighting and syntax error detection within strings in Go code. ([Code](https://github.com/chrismwendt/wingmate))
+- [SQL tagged template literals](https://marketplace.visualstudio.com/items?itemName=frigus02.vscode-sql-tagged-template-literals) ([Code](https://github.com/frigus02/vscode-sql-tagged-template-literals))
 
 ## React
 
@@ -578,3 +586,8 @@ Below is a list of extensions I use.
 - [VSCode WASI](https://github.com/microsoft/vscode-wasi) - WASI implementation that uses VS Code's extension host as the implementing API.
 - [Complete Guide to VS Code Extension Testing (2022)](https://www.stateful.com/blog/a-complete-guide-to-vs-code-extension-testing)
 - [Modal Keybindings in VS Code](https://github.com/haberdashPI/vscode-modal-keys) - Extension for defining modal keybindings in VSCode.
+- [How to add Rust WASM to a VSCode web extension](https://github.com/SonOfLilit/vscode-web-wasm-rust)
+- [Running a private VS Code Extension Marketplace (2022)](https://coder.com/blog/running-a-private-vs-code-extension-marketplace)
+- [VSCode Textmate grammar test](https://github.com/PanAeon/vscode-tmgrammar-test)
+- [VS Code Notebook APIs](https://code.visualstudio.com/api/extension-guides/notebook)
+- [VSCode Extension Tester](https://github.com/redhat-developer/vscode-extension-tester) - Framework for simulating user interactions with VS Code and its extensions via Webdriver.

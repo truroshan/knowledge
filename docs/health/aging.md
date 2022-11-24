@@ -2,9 +2,11 @@
 
 Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
-I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my life experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain especially chronic so best try avoid that (that includes prisons, diseases..).
+I personally don't plan to live for long once my body starts truly breaking down of age. I maximize the quality of my [life](../life/life.md) experience through proper [sleep](../sleep/sleep.md), [exercise](../fitness/exercises.md) and having [no stress](../mindfulness/mindfulness.md) optimistic outlook. I don't have any negative thoughts about [death](../life/death.md) as all things end, including [our universe](https://www.youtube.com/watch?v=uD4izuDMUQA). Only thing that's annoying is pain. Especially chronic. So best try avoid that (that includes prisons, [diseases](../medicine/diseases/diseases.md)..).
 
 One way to solve aging sooner is to work on getting closer to [AGI](../machine-learning/artificial-intelligence.md) and have it solve it.
+
+Like the advice of: [try everything, figure out what you do best, make money from it. Stop caring what people think about you early](https://www.tiktok.com/@_notesformen/video/7167063418308971781). I try define these kind of [rules and more for myself](../focusing/rules.md).
 
 ## Notes
 
@@ -19,6 +21,7 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 - [At 40, I've done some of the best work I've ever done and my pay has been better than ever. I'm 52 now and the trend has only gotten better. Why? Its because at 40, I had a much deeper understanding of the tech, I understood of the whole business process and I had the maturity to deal with people in a productive way. You won't find all of those in a 25 year old developer. The only way that age becomes a detriment is if you do not grow. I worked with someone my age who only strong skills are a large enterprise storage system. He is a dinosaur and his future is limited. That's not his age, its the way he chose to build is CV. Age is just number guys. Stay current, keep learning and stay strong.](https://news.ycombinator.com/item?id=28757964)
 - [One challenge of people living longer: they cling to power longer, remaining in control of the most important institutions far past peak competency.](https://twitter.com/benhamner/status/1474456394426241029)
 - [Over the years, I have become convinced that much of the observed age-correlated cognitive decline in people younger than ~70 results from voluntary life choices, such as settling into fixed behavioral patterns (e.g. doing the same thing over and over for decades) and lack of exposure to new stimuli. It's the case for some physical activities as well: almost all people's actual performance degrades way, way faster, than their potential peak performance.](https://news.ycombinator.com/item?id=31068388)
+- [Aging look is essentially your body fighting gravity for many years.](https://twitter.com/fasc1nate/status/1589388558237941761)
 
 ## Links
 
@@ -114,3 +117,6 @@ One way to solve aging sooner is to work on getting closer to [AGI](../machine-l
 - [What are best things you can start in your 30's to promote health and longevity? (2022)](https://www.reddit.com/r/AskMenOver30/comments/xbefta/what_are_best_things_you_can_start_in_your_30s_to/)
 - [Aging programmer (2022)](https://world.hey.com/jorge/aging-programmer-d448bdec) ([HN](https://news.ycombinator.com/item?id=32961933))
 - [Small molecule cognitive enhancer reverses age-related memory decline in mice (2022)](https://pubmed.ncbi.nlm.nih.gov/33258451/) ([HN](https://news.ycombinator.com/item?id=33215597))
+- [Data on how we spend our time as we age](https://twitter.com/SahilBloom/status/1591424548280610816)
+- [Collin Ewald | Aging & The Extracellular Matrix (2022)](https://www.youtube.com/watch?v=ohd3bwjySlU) ([Web](https://foresight.org/summary/collin-ewald-aging-the-extracellular-matrix/)G)
+- [Bryan Johnson's anti aging routine](https://twitter.com/maxhertan/status/1595213398358171649)

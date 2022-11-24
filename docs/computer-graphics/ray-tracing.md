@@ -127,3 +127,6 @@ title: Ray tracing
 - [How Ray Tracing works and how to do it faster (2022)](https://www.youtube.com/watch?v=gsZiJeaMO48) ([HN](https://news.ycombinator.com/item?id=33128495))
 - [Ray tracing Voxels made out of Glass](https://voxelchain.app/previewer/Glass.html) ([HN](https://news.ycombinator.com/item?id=33308281))
 - [Ray Tracing In Vulkan](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
+- [A pure-meson ray tracer (2022)](https://mochiro.moe/posts/09-meson-raytracer/)
+- [Radeon Ray tracing Analyzer](https://github.com/GPUOpen-Tools/radeon_raytracing_analyzer) - Tool to visualize and inspect Bounding Volume Hierarchies (BVH) for ray tracing applications.
+- [Aurora](https://github.com/Autodesk/Aurora) - Real-time path tracing renderer that leverages GPU hardware ray tracing.

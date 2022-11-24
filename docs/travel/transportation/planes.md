@@ -1,5 +1,7 @@
 # Planes
 
+Supersonic planes like ones from [Hermeus](https://www.hermeus.com/) are exciting. So as electric planes like [Midnight](https://twitter.com/adcock_brett/status/1593254813608730626).
+
 ## Links
 
 - [Private Pilot Ground School](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/) ([HN](https://news.ycombinator.com/item?id=23588760))
@@ -15,3 +17,4 @@
 - [Engine makers sound downbeat on supersonic, leaving Boom in a bind (2022)](https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article) ([HN](https://news.ycombinator.com/item?id=32937736))
 - [Lilium Jet](https://lilium.com/jet) - First electric vertical take-off and landing jet. ([HN](https://news.ycombinator.com/item?id=33044753))
 - [Starlink Aviation](https://www.starlink.com/aviation) ([HN](https://news.ycombinator.com/item?id=33256378))
+- [Midnight - Fully electric aircraft](https://twitter.com/adcock_brett/status/1593254813608730626)

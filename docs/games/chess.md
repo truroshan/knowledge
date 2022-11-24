@@ -1,13 +1,14 @@
 # Chess
 
-Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) (desktop) & [Chess.com](https://www.chess.com/play/apps) on phone (puzzles / blitz games). [Lichess has cleaner UI](https://www.reddit.com/r/chess/comments/uh2409/as_an_experiment_i_told_myself_id_use_nothing_but/).
+Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) and analyze games I played after. Want to build a dedicated chess app for analysis retrieval as Lichess and [Chess.com](https://www.chess.com/) aren't cutting it. Chess.com does have nicer puzzles I do at times but I do love [Lichess's cleaner UI](https://www.reddit.com/r/chess/comments/uh2409/as_an_experiment_i_told_myself_id_use_nothing_but/) and that it's [OSS](https://github.com/lichess-org).
 
-I enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen), [Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi), [Shakhriyar Mamedyarov](https://www.chess.com/member/azerichess), [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
-[Teimour Radjabov](https://www.youtube.com/c/TeimourRadjabovChess/videos) games are joy to watch.
+I enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos). [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen), [Ian Nepomniachtchi](https://www.chess.com/players/ian-nepomniachtchi), [Shakhriyar Mamedyarov](https://www.chess.com/member/azerichess), [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) & [Teimour Radjabov](https://www.youtube.com/c/TeimourRadjabovChess/videos) games are joy to watch.
 
-[Gotham Chess](https://www.youtube.com/c/GothamChess/videos), [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) and [Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos) have lots of videos to learn Chess from + enjoyable commentary.
+[Daniel Naroditsky](https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw/videos), [Gotham Chess](https://www.youtube.com/c/GothamChess/videos) & [Eric Rosen](https://www.youtube.com/user/RosenChess/videos) have lots of videos to learn Chess from + enjoyable commentary.
 
-The way I am trying to improve aside from watching/analyzing some high rated chess games is to analyze my own games with [latest version of Stockfish](https://www.reddit.com/r/chess/comments/vp5kbu/psa_you_can_use_an_external_engine_with_lichess/). Use [ChessRetriever.com](https://www.chessretriever.com/) to transfer my Chess.com games to Lichess for deeper analysis.
+The way I am trying to improve aside from watching/analyzing some high rated chess games is to analyze my own games with [latest version of Stockfish](https://www.reddit.com/r/chess/comments/vp5kbu/psa_you_can_use_an_external_engine_with_lichess/).
+
+Can use [ChessRetriever.com](https://www.chessretriever.com/) to transfer Chess.com games to Lichess for deeper analysis as neither Lichess nor Chess.com use latest Stockfish.
 
 ## Nice players
 
@@ -32,12 +33,15 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Crazy game](https://www.youtube.com/watch?v=3-OE9q7Nz8Y)
 - [Hans vs Max](https://lichess.org/broadcast/prague-chess-festival--challengers/round-3/KhCtM1cT/eDZxYhYI) ([Reddit](https://www.reddit.com/r/chess/comments/xsaw7o/max_warmerdam_about_his_2022_prague_challengers/))
 - [Shakhriyar Mamedyarov 2022 game](https://www.reddit.com/r/chess/comments/y4uxnx/shakhriyar_mamedyarov_just_delivered_one_of_the/) ([Analysis](https://www.youtube.com/watch?v=tv4bPUaoISA))
+- [Insane Move Crushed Stockfish](https://www.youtube.com/watch?v=hxzBPJ0vdlU)
 
 ## Interesting openings
 
 - [Ruy Lopez](https://www.reddit.com/r/chess/comments/r8qdqq/can_someone_explain_why_the_ruy_lopez_is_so/)
 - [Danish Gambit](https://en.wikipedia.org/wiki/Danish_Gambit)
 - [Anna Cramling Asks The Candidates ”What Is The Most Fun Chess Opening”](https://www.youtube.com/watch?v=cTMnKiA5BTs)
+- [Sveshnikov Sicilian](https://chesspathways.com/chess-openings/sveshnikov-sicilian/) ([In action](https://youtu.be/37KQuu3P4pw?t=952))
+- [Trompowsky Attack](https://www.chess.com/openings/Trompowsky-Attack) ([In action](https://www.youtube.com/watch?v=VSK3XWFkZGk))
 
 ## Notes
 
@@ -246,3 +250,8 @@ The way I am trying to improve aside from watching/analyzing some high rated che
 - [Perpetual Chess Podcast](https://www.youtube.com/channel/UCtcudElmRsQYTwULtd_gnFw/videos)
 - [Levitov Chess - YouTube](https://www.youtube.com/c/LevitovChess/videos)
 - [Hikaru Nakamura: Chess, Magnus, Kasparov, and the Psychology of Greatness (2022)](https://www.youtube.com/watch?v=oJNvxYEcVAY)
+- [Lichess Mobile Code](https://github.com/lichess-org/mobile)
+- [Do any GMs exclusively play one specific opening?](https://www.reddit.com/r/chess/comments/n9wusq/do_any_gms_exclusively_play_one_specific_opening/)
+- [Rust rewrite of the sunfish simple chess engine](https://github.com/Recursing/sunfish_rs)
+- [Acquisition of Chess Knowledge in AlphaZero (2022)](https://www.pnas.org/doi/10.1073/pnas.2206625119) ([HN](https://news.ycombinator.com/item?id=33681795))
+- [Noctie](https://noctie.ai/rate-me) - Chess AI that predicts your rating. ([HN](https://news.ycombinator.com/item?id=33718600))

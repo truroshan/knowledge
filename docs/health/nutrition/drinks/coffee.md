@@ -1,5 +1,9 @@
 # Coffee
 
+Drink coffee on occasions, try not to do it daily as to get actual effects from the caffeine. Also make sure to not drink past afternoon so as to not disrupt my sleep.
+
+[Tea](tea.md) is my daily drink of choice and I try to always have it by my side.
+
 ## Interesting
 
 - [Raf Coffee](https://www.baristainstitute.com/blog/oksana-shaposhnikova/september-2020/raf-coffee-what-it-and-how-make-it)
@@ -74,3 +78,7 @@
 - [Cold-brewing of coffee by picosecond-pulsed laser extraction (2022)](https://www.nature.com/articles/s41538-022-00134-6) ([HN](https://news.ycombinator.com/item?id=32190966))
 - [Systematically Improving Espresso (2020)](<https://www.cell.com/matter/pdf/S2590-2385(19)30410-2.pdf>) ([HN](https://news.ycombinator.com/item?id=32992128))
 - [Coffee & Muslim culture](https://twitter.com/BaytAlFann/status/1576145854515146753)
+- [The Science of Coffee — Examining extraction](https://tylercipriani.com/coffee-extract/)
+- [James Hoffmann Answers Coffee Questions From Twitter (2022)](https://www.youtube.com/watch?v=pjJqOgFyCxI)
+- [I don't like coffee. Can James Hoffmann change that? (2021)](https://www.youtube.com/watch?v=Z-iNAyu-ejo)
+- [Beanconqueror](https://github.com/graphefruit/Beanconqueror) - Open source project for coffee enthusiasts.

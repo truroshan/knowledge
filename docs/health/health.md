@@ -2,12 +2,12 @@
 
 I try to maximize my [happiness](../life/happiness.md) and quality of life through proper [nutrition](nutrition/nutrition.md), [exercise](../fitness/fitness.md) and stress free outlook on life with [mindfulness](../mindfulness/mindfulness.md).
 
-- [Nutrition](nutrition/nutrition.md) - Eat whole food plant based nutritious diet. Optionally [supplementing](nutrition/supplements.md) when necessary.
-- [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022) & accelerates aging. Practice [mindfulness](../mindfulness/mindfulness.md) & be calm.
-- [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm and wake up without alarm getting as much sleep as my body needs.
+- [Nutrition](nutrition/nutrition.md) - Eat whole food pescatarian nutritious diet. With [essential supplements](nutrition/supplements.md).
+- [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022) & accelerates aging. Practice being in moment, being stoic & calm.
+- [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm ideally and wake up without alarm getting as much sleep as my body needs.
 - [Exercise](../fitness/fitness.md) - Start every morning with some exercise. Go on walks or do exercise throughout the day when possible.
-- Dental care - Brush my teeth daily with occasional flossing.
-- [Skin care](skin-care.md) - Clean & moisturize my skin every morning/evening. Apply occasional deep pore cleansing face masks. Apply sunscreen when going out for long time.
+- [Dental care](teeth.md) - Brush my teeth daily with occasional flossing.
+- [Skin care](skin-care.md) - Cleanse, moisturize and apply serums to my skin every morning/evening. Together with applying sunscreen in mornings.
 - [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouch my back and sit for long times. Take breaks. Use good chair & desk.
 
 These health focuses are part of my [life rules](../focusing/rules.md).
@@ -19,6 +19,8 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [Great comment on staying healthy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
 - [Health and longevity in 3 bullets: 1. Sleep >8h. 2. HIIT + strength training. 3. Intermittent fasting + no glucose spikes.](https://twitter.com/m_franceschetti/status/1396540139195834374)
 - [Get a CO2 meter & improve air quality. It's important.](https://twitter.com/iamtrask/status/1443181527815364616)
+- [Get your sleep & daytime energy and mood right: Get sunlight in your eyes as early in your day as possible. Especially on cloudy days. Extra time outside if you wake up late. Sunglasses off if you safely can. Eye glasses and contacts fine. Lights bright by day, sun-off at night.](https://twitter.com/hubermanlab/status/1591837967009845248)
+- [Mental health is more impacted by the gut than the brain.](https://twitter.com/_ali_taylor/status/1592991086326460416)
 
 ## Links
 
@@ -83,3 +85,4 @@ Like listening to [Andrew Huberman](https://www.youtube.com/c/AndrewHubermanLab/
 - [NHS](https://www.nhs.uk/)
 - [The Optimal Morning Routine - Andrew Huberman](https://www.youtube.com/watch?v=gR_f-iwUGY4)
 - [Sauna use as a lifestyle practice to extend healthspan (2022)](https://www.sciencedirect.com/science/article/pii/S0531556521002916) ([HN](https://news.ycombinator.com/item?id=33056743))
+- [Medplum](https://www.medplum.com/) - Open-Source Firebase for Healthcare. ([HN](https://news.ycombinator.com/item?id=33521560))

@@ -4,6 +4,8 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 
 In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/)'s style, although maybe a bit more casual than that. [Alex Rivière](https://www.instagram.com/ariviere/)'s style is great too so as her [clothing line's IG photos](https://www.instagram.com/alexrivierestudio/).
 
+Still exploring different kinds of clothing styles. But for now, I can say [Björn Borg](https://www.bjornborg.com/en/) has great underwear.
+
 ## Interesting
 
 - [Cat Cardigan](https://www.etsy.com/listing/855368476/cat-cardigan-vintage-christine-foley)
@@ -81,3 +83,9 @@ In general, I love [Christian Sieber](https://www.instagram.com/christiansieber/
 - [The technology behind Bella Hadid’s spray-on dress (2022)](https://wired.me/technology/all-you-need-to-know-about-the-technology-behind-bella-hadids-spray-on-dress/) ([HN](https://news.ycombinator.com/item?id=33071055))
 - [Good cold weather gear](https://twitter.com/sweatystartup/status/1579119398727856129)
 - [How to find great clothes (2022)](https://twitter.com/marty/status/1585251432999321600)
+- [Tom Ford Gives a 29-Year-Old a Makeover](https://www.youtube.com/watch?v=bP4Jz2kUpes)
+- [Hoss Intropia](https://hossintropia.com/)
+- [Diemme Footwear](https://diemme.com/)
+- [BN3TH](https://www.bn3th.com/) - Mens Performance Underwear with Pouch.
+- [My Favorite Men's Underwear](https://www.youtube.com/watch?v=PRj3dSyIgxg)
+- [Björn Borg](https://www.bjornborg.com/en/) - Underwear and training clothes.

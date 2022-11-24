@@ -4,6 +4,8 @@ title: Shaders
 
 # [Shaders](https://en.wikipedia.org/wiki/Shader)
 
+[ShaderFrog](https://shaderfrog.com/app) is neat.
+
 ## Links
 
 - [Shader Toy](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get inspired.
@@ -102,3 +104,9 @@ title: Shaders
 - [Shaderworlds](https://shaderworlds.com/) - Collection of VR-ready shader worlds. ([Code](https://github.com/jure/shaderworlds))
 - [Offline ShaderToy](https://github.com/tdhooper/offline-shadertoy)
 - [Shady](https://github.com/polyfloyd/shady) - CLI tool to render GLSL shaders.
+- [TextShader](https://textshader.com/) ([HN](https://news.ycombinator.com/item?id=33501177))
+- [Shader graph renderer](https://github.com/edeetee/render-graph)
+- [GLSL Sandbox Gallery](https://glslsandbox.com/) ([Code](https://github.com/mrdoob/glsl-sandbox))
+- [SPIR-T](https://github.com/EmbarkStudios/spirt) - Shader-focused IR to target, transform and translate from Rust.
+- [Shaderfrog GLSL Compiler](https://github.com/ShaderFrog/glsl-parser) - GLSL ES 1.0 and 3.0 parser that can preserve whitespace and comments.
+- [ShaderFrog](https://shaderfrog.com/app) - WebGL shader editor that lets you design shaders without writing code.

@@ -310,3 +310,9 @@ title: Svelte
 - [Svelte-TailwindCSS UI](https://stwui.vercel.app/) - Opinionated yet customizable Svelte-TailwindCSS component library. ([Code](https://github.com/N00nDay/stwui))
 - [svelte-navlink-action](https://github.com/kwhitley/svelte-navlink-action) - Minimalist Svelte action to inject .active class in route-matched links.
 - [SvelteKit Cookie Manager](https://github.com/boxfish-studio/sveltekit-cookie-manager) - Easy-use Svelte package to help control the visitor's cookie consent.
+- [svelte-table](https://github.com/dasDaniel/svelte-table) - Minimal table component. Allows sorting and filtering based on column values, and row selection/expanding.
+- [SvelteKit-Search-Params](https://github.com/paoloricciuti/sveltekit-search-params) - Fastest way to read and write from query search params.
+- [Svelte Meet](https://svelte-meet.herokuapp.com/) - Video calling web app build with SvelteKit and SocketIO.
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization for Svelte.
+- [Svelte Headless-UI](https://github.com/CaptainCodeman/svelte-headlessui)
+- [Svelte Simple Data tables](https://github.com/vincjo/svelte-simple-datatables) - Datatable component for Svelte.

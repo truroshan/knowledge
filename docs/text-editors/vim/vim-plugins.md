@@ -49,6 +49,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua.
 - [Goto Preview](https://github.com/rmagatti/goto-preview) - Small Neovim plugin for previewing definitions using floating windows.
 - [Zen Mode](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
+- [ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Structural search and replace for Neovim.
 - [Trouble](https://github.com/folke/trouble.nvim) - Pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [nvim-surround](https://github.com/kylechui/nvim-surround) - Surround selections, stylishly.
 - [mapx.lua](https://github.com/b0o/mapx.lua) - Neovim lua plugin to make mapping more manageable.
@@ -197,6 +198,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers.
 - [Noice](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - Fast and asynchronous auto-completion plugin for Neovim, focused on LSP.
+- [inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - Neovim support for LSP Inlay Hints.
+- [hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim.
 
 ## Looks
 

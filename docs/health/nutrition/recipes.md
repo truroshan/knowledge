@@ -1,15 +1,23 @@
 # Recipes
 
-## Regular Breakfast smoothie
+Use [Mela](https://mela.recipes/) to store my recipes. [Crouton](https://crouton.app/) is nice too.
 
-Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM)).
+## Favorite
 
-## Rhonda’s micronutrient smoothie
+- Greek yogurt with frozen blueberries
+- Sushi of all kinds
+- [Garlic soup](https://themodernproper.com/garlic-soup)
+- [Fish cakes](https://www.bbcgoodfood.com/recipes/ultimate-fish-cakes)
+- [Carrot Cutlets](https://www.bawarchi.com/recipe/carrot-cutlet-oetuBkeechece.html)
 
-[Recipe](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
+## Smoothies
+
+- [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/1sgtbqVnotvY1Ir2S60J9m62yGPVkm2nRmbwrfZAoc6Y/htmlview) ([Video](https://www.youtube.com/watch?v=fyyKrMeNPBM))
 
 ## Interesting
 
+- [Lemon and Blueberry Plant-based Protein Pancakes](https://www.nuzest.co.uk/blogs/recipes/lemon-and-blueberry-protein-pancakes)
+- [Rhonda’s micronutrient smoothie](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
 - [Curried Butternut Squash Soup](https://minimalistbaker.com/curried-butternut-squash-soup/#wprm-recipe-container-35467)
 - [Garlic bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
 - [Bhel Puri](https://www.vegrecipesofindia.com/bhel-puri-mumbai-bhel-puri/)
@@ -34,6 +42,8 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [World’s Best Pancake Recipe](https://kottke.org/09/10/the-worlds-best-pancake-recipe)
 - [The Best French Onion Soup](https://andrewzimmern.com/recipes/the-best-french-onion-soup/)
 - [Ajapsandali](https://nofrillskitchen.com/ajapsandali-recipe/) - Georgian Eggplant Stew.
+- [Old garlic soup in bread](https://www.youtube.com/watch?v=rSpHokFp7Js)
+- [Vegetable salad](https://www.reddit.com/r/PlantBasedDiet/comments/yyp19l/where_did_our_lunch_go/)
 
 ## Links
 
@@ -116,3 +126,10 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Tacohuaco](https://tacohuaco.co/) - Favorite recipes of a Mexican-Russian couple. ([Code](https://github.com/tacohuaco/tacohuaco))
 - [The Fresh Loaf](https://www.thefreshloaf.com/) - Community of Amateur Bakers and Artisan Bread Enthusiasts.
 - [Andrew Zimmern](https://andrewzimmern.com/)
+- [Crouton](https://crouton.app/) - Meal Plan & Recipe Organiser.
+- [Felu - Fit by cooking - YouTube](https://www.youtube.com/c/FeluFitbycooking/videos)
+- [Healthy Recipes - YouTube](https://www.youtube.com/@GesundeRezepteDE/videos)
+- [My Go-To High Protein Meals for Winter Bulking](https://www.youtube.com/watch?v=9S1p0BWXEJI)
+- [My Simple Go-To High Protein Meals (for building muscle)](https://www.youtube.com/watch?v=jvvAP7UVxIs)
+- [4 Simple High Protein Breakfast Ideas for building muscle](https://www.youtube.com/watch?v=ZcYM6Dfh4oY)
+- [Analyzing All Recipes (2022)](https://wcedmisten.fyi/post/analyzing-all-recipes/)

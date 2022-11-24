@@ -1,26 +1,43 @@
 # Supplements
 
-Supplements I try take daily are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
+Every [morning](../../focusing/processes.md#morning), after I do a [workout](../../fitness/fitness.md), I make a [smoothie](https://www.youtube.com/watch?v=OUGQBV5B2S4). I mix:
 
-- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (1 capsule)
-- [Vitamin D3 + K2](https://www.amazon.com/Bronson-Vitamin-Supplement-Support-Capsules/dp/B0792Z6434) (1 capsule)
-- [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule)
+- 2 scoops of [Clean Lean Protein (Just Natural taste)](https://www.nuzest.co.uk/products/clean-lean-protein) (~ 25g)
+- 1 scoop of [Good Green Vitality](https://www.nuzest.co.uk/products/good-green-vitality) (~ 10g)
+- 1 table spoon of [Organic MyComplex Mushroom Powder](https://mushrooms4life.com/shop/mushroom-complex-powder-60g/)
+- 1 table spoon of [Organic Lion’s Mane Mushroom Powder](https://mushrooms4life.com/shop/lions-mane-mushroom-powder-60g/)
+- 2 raw eggs
+- Spinach (for extra fiber)
+- Frozen blueberries (for better taste + healthy)
+- Plain greek yugurt (for texture)
+- Fill with [Alpro Unsweetened Almond Milk](https://www.alpro.com/uk/products/drinks/almond-drinks/almond-roasted-no-sugars/) (fill the blender glass)
+- Chia, hemp and flax seeds with walnuts on top (not much)
 
-I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any other supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely, usually by just skipping breakfast.
+After drinking the smoothie, I also take these supplements, inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/):
 
-And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite.
+- [Vegan Omega 3 DHA & EPA via Algal oil](https://www.uganutraceuticals.com/product/omegor-veg) (3 capsules)
+- [Vitamin D3 + K2 + C](https://nootropicsdepot.com/vitamin-d3-k2-c-supplement/) (1 capsule)
+- [Magnesium](https://nootropicsdepot.com/magtein-magnesium-l-threonate-capsules/) (1 capsule morning & 2 before sleep)
+- [B12 Sublingual](https://nootropicsdepot.com/super-b12-sublingual-solution/) (0.5mL drop)
+
+That's often enough to get me going until afternoon at which point, I will either make some cooked food or eat out ([healthy](nutrition.md)).
+
+I don't try to manage my eating of generally healthy natural whole food pescatarian food. Especially as I try to lead a more active lifestyle already.
+
+I generally strictly avoid sugary foods, snacks and drinks. Makes me appreciate the finer tastes of non processed foods and ways you can cook them. I try to experiment with various [pescatarian recipes](recipes.md) often too.
+
+I sometimes don't eat during evenings so as to [fast](fasting.md) just a little before I take my morning smoothie on following day.
+
+Also whilst not strictly supplements, I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) with breaks of at least 2+ months. [Tryptamines](../../drugs/psychedelics/tryptamines/tryptamines.md) being my favorite, usually consumed through actual home grown psilocybin mushrooms & not some [research chemical](../../drugs/research-chemicals.md) like [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT).
 
 ## Interesting
 
-Some maybe interesting supplements I don't take routinely but tried.
+Some maybe interesting supplements. Some I tried but stopped.
 
 - [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS) (1 capsule)
 - [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule)
 - [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
 - [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
-
-## Didn't try but have interesting nutrients
-
 - [Daily Thyroid Care Supplement](https://www.palomahealth.com/product/thyroid-supplements)
 
 ## Notes
@@ -73,3 +90,14 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Nootropics Depot](https://nootropicsdepot.com/)
 - [Best magnesium supplement](https://www.reddit.com/r/Supplements/comments/v6yqpc/best_magnesium_supplement/)
 - [Best D3 supplement](https://www.reddit.com/r/Supplements/comments/px6a1u/everyone_please_list_which_brand_of_vitamin_d3/)
+- [Athletic Greens](https://athleticgreens.com/en)
+- [Why You Should Avoid Athletic Greens (AG1)](https://www.youtube.com/watch?v=ecy8JrM5KFI)
+- [Garden of Life](https://www.gardenoflife.com/) - Clean Vitamins and Supplements.
+- [Nuzest](https://www.nuzest.co.uk/) - Premium plant based nutrition.
+- [Respect Food Recipe: Egg Smoothie](https://www.youtube.com/watch?v=nar26GBesSU)
+- [What do you supplement as a vegan? (2022)](https://www.reddit.com/r/vegan/comments/yympis/do_you_supplement_or_do_you_get_everything_you/)
+- [Supplements that worked amazingly for you (2022)](https://www.reddit.com/r/Nootropics/comments/ypc66w/is_there_any_supplements_that_work_amazingly_for/)
+- [Omega-3's beneficial effects](https://www.foundmyfitness.com/topics/omega-3) ([Reddit](https://www.reddit.com/r/Nootropics/comments/yijz07/omega3_has_beneficial_effects_on_cognitive/))
+- [B12 was the missing link I've been looking for](https://www.reddit.com/r/Nootropics/comments/yblu6q/b12_was_the_missing_link_for_what_ive_been/)
+- [B12 supplement is crucial](https://twitter.com/simonsarris/status/1593973699241205760)
+- [The FDA Has Banned NMN Supplements (2022)](https://www.youtube.com/watch?v=aalylAdIxS4)

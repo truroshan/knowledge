@@ -147,3 +147,11 @@ title: Speech recognition
 - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 - [Real-time speech recognition using next-gen Kaldi with ncnn](https://github.com/k2-fsa/sherpa-ncnn)
 - [Gecko](https://github.com/gong-io/gecko) - Tool for Effective Annotation of Human Conversations. ([Web](https://gong-io.github.io/gecko/))
+- [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu) - Improving transcription performance of OpenAI Whisper for CPU based deployment.
+- [Whispering](https://github.com/shirayu/whispering) - Streaming transcriber with whisper.
+- [Buzz](https://github.com/chidiwilliams/buzz) - Transcribe and translate audio offline on your personal computer. Powered by OpenAI's Whisper.
+- [FastWhisper](https://github.com/FamousDirector/FastWhisper) - Optimized implementation of OpenAI's Whisper for multilingual transcription.
+- [I record myself on audio 24x7 and use an AI to process the information (2022)](https://roberdam.com/en/wisper.html) ([HN](https://news.ycombinator.com/item?id=33608437))
+- [Transcribe File](https://freesubtitles.ai/) - Free transcription service powered by Whisper AI. ([HN](https://news.ycombinator.com/item?id=33663486))
+- [SpeechRecognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
+- [TransFusion: Transcribing Speech with Multinomial Diffusion](https://github.com/RF5/transfusion-asr)

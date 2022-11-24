@@ -1,5 +1,7 @@
 # Standup
 
+Quite like [Bill Burr](https://billburr.com/).
+
 ## Interesting
 
 - [Andrew Schulz](https://www.youtube.com/user/TheAndrewSchulz)
@@ -11,6 +13,7 @@
 
 ## Funny
 
+- [Bill Burr destroyed Steve Jobs](https://www.youtube.com/watch?v=E3s-qZsjK8I)
 - [Romesh Ranganathan's Controversial Opinions](https://www.youtube.com/watch?v=tv7QNtzUqbw)
 - [Romesh Ranganathan's Reveals his Real Name](https://www.youtube.com/watch?v=5vSaEMXtXEY)
 - [The Difficulty of Choosing Ice Cream - Romesh Ranganathan](https://www.youtube.com/watch?v=B6oBioC44ds)

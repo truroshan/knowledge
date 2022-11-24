@@ -2,7 +2,7 @@
 
 [Gradients](https://meshy.uxie.io/), [Hypercolor](https://hypercolor.dev/), [Huetone](https://huetone.ardov.me/) & [Prism](https://primer.style/prism/) are useful.
 
-[Color and Contrast](https://colorandcontrast.com/#/) is a good read.
+[Color and Contrast](https://colorandcontrast.com/#/) is a good read. [Mixbox](https://github.com/scrtwpns/mixbox) is nice library for color mixing.
 
 ## Nice gradients
 
@@ -201,3 +201,12 @@
 - [CSS mesh gradients generator](https://csshero.org/mesher/)
 - [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP) ([HN](https://news.ycombinator.com/item?id=33292199))
 - [OKLCH in CSS: why we moved from RGB and HSL (2022)](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+- [glasbey](https://github.com/taketwo/glasbey) - Generate maximally distinct sets of colors.
+- [Whimsical Watercolors](https://brushify.art/) ([HN](https://news.ycombinator.com/item?id=33561232))
+- [Glasbey Categorical Color Palette Tools](https://github.com/lmcinnes/glasbey)
+- [A 900-Page Pre-Pantone Guide to Color from 1692: A Complete Digital Scan](https://www.openculture.com/2019/10/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-digital-scan.html)
+- [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/) ([HN](https://news.ycombinator.com/item?id=33651724))
+- [271 years before Pantone, every color imaginable in an 800-page book (2014)](https://www.thisiscolossal.com/2014/05/color-book/) ([HN](https://news.ycombinator.com/item?id=33675579))
+- [Named Colors Wheel](https://arantius.github.io/web-color-wheel/) ([HN](https://news.ycombinator.com/item?id=33693411))
+- [Mixbox](https://github.com/scrtwpns/mixbox) - Library for natural color mixing based on real pigments.
+- [Color Pals](https://ronikaufman.github.io/color_pals/) - Collection of curated color palettes. ([Code](https://github.com/ronikaufman/color_pals))

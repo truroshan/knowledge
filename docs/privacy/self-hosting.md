@@ -46,3 +46,8 @@
 - [Ask HN: Where do you host images for your blog or landing pages? (2022)](https://news.ycombinator.com/item?id=33232705)
 - [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 - [Why I use Jellyfin for my home media library (2022)](https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library) ([HN](https://news.ycombinator.com/item?id=33362416))
+- [Indieweb and self-hosting my own space (2022)](https://axbom.com/indieweb/)
+- [HamsterBase](https://hamsterbase.com/) - Self-hosted, local-first web archive application. ([Code](https://github.com/hamsterbase/hamsterbase))
+- [From Plex to Jellyfin Media Server (2021)](https://www.ctrl.blog/entry/jellyfin-vs-plex.html) ([HN](https://news.ycombinator.com/item?id=33579209))
+- [Ask HN: What services/apps are you self-hosting? (2022)](https://news.ycombinator.com/item?id=33657947)
+- [Serve self hosted media efficiently (2022)](https://www.reddit.com/r/selfhosted/comments/z0hq5w/im_using_cloudflare_tunnels_and_love_them_now_i/)

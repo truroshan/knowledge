@@ -6,7 +6,15 @@ title: Twitter
 
 [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great. I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for working with Twitter.
 
-One thing I worry a bit about is how social networks can start [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
+I also find it [frustrating that Twitter iOS client doesn't have the ability to long press `like` icon to bookmark](https://twitter.com/nikitavoloboev/status/1590403314264334338).
+
+[How does Twitter work](https://www.youtube.com/watch?v=z6xslDMimME) is nice overview of [Twitter tech](https://twitter.com/_dml/status/1592619959947243520).
+
+I am honestly not happy with Twitter being ruled by one person who can [ban accounts on a whim](https://twitter.com/dmoren/status/1595490311513509900). Trying to get [Mastodon](../social-networks/mastodon.md) working smoother with better onboarding. But also partly trying to build a Twitter alternative with [LA](../ideas/learn-anything.md). The key thing is that it will be open source.
+
+I can't imagine Twitter competing when an alternative with all same features (+ more) and ability to scale to millions of users but most importantly is open source and with non dictatorial ruling policy. In case of LA, I plan to tackle overtaking Twitter in some ways by making a tool that is an extension of your knowledge base where you can partly share parts of your thoughts/notes/ideas and stream it to feeds of your followers. The followers can then be able to filter out for kinds of things they want to see too, only ideas or only notes or general thoughts or photos.
+
+This in my mind is much nicer than the current model of just typing into a box. Contents of which then get appended chronologically as part of your profile. This model is nice and simple but makes 'building on' knowledge impossible. If you want to build a digital global brain, it firstly **must** be open source. But also **must** be an extension of your digital brain. Your entire knowledge corpus online with ability to interact on any piece of information. With the ability of having a chatter like one we get on Twitter/Mastodon now.
 
 ## Interesting hash tags
 
@@ -229,3 +237,40 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Ask HN: What social media site could replace Twitter? (2022)](https://news.ycombinator.com/item?id=33416498)
 - [Ask HN: How would you design an alternative Twitter (2022)](https://news.ycombinator.com/item?id=33419574)
 - [Tell HN: The issues of Twitter are not a technical problem to solve (2022)](https://news.ycombinator.com/item?id=33421489)
+- [From Google to Twitter (2022)](https://ma.nu/blog/from-google-to-twitter) ([HN](https://news.ycombinator.com/item?id=33473249))
+- [Twittoons](https://twittoons.com/) - Cartoons about life at Twitter.
+- [Publish Twitter Archive Site](https://github.com/siakaramalegos/pesos-tweets-11ty)
+- [Git as a janky Twitter replacement](https://github.com/diracdeltas/tweets) ([Tweet](https://twitter.com/bcrypt/status/1588416861552582657)) ([HN](https://news.ycombinator.com/item?id=33488996))
+- [Ask HN: Do you believe there's really an alternative to Twitter? (2022)](https://news.ycombinator.com/item?id=33490217)
+- [TwitterHD](https://github.com/DavidBuchanan314/TwitterHD) - Userscript that forces twitter to always load images and videos in full resolution.
+- [Veryfied](https://github.com/evilsocket/veryfied) - Browser extension for Twitter that will mark pre-Musk era verified accounts.
+- [Twitter's Birdwatch archived docs](https://github.com/twitter/new-repo)
+- [Twitter Open Source](https://opensource.twitter.dev/) - Identifying projects we've released, organizations we support, and the work we do to support open source. ([Code](https://github.com/twitter/opensource-website))
+- [TwitterOSS Metrics](https://github.com/twitter/metrics) - Generates periodic reports based on the health of Twitter Open Source projects.
+- [All verified users on Twitter as of Nov 1st, 2022](https://github.com/IntiDC/twitter-verified)
+- [Elon asking for what Twitter users find annoying on Twitter now (2022)](https://twitter.com/elonmusk/status/1590383937284870145)
+- [Python code to parse a Twitter archive and output in various ways](https://github.com/timhutton/twitter-archive-parser)
+- [Eight Dollars](https://github.com/wseagar/eight-dollars) - Browser extension that shows twitter blue vs real verified users.
+- [twdl](https://github.com/dogancelik/twdl) - Tool for downloading media of individual tweets.
+- [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)
+- [How to Search Your Entire Twitter Archive With One Line of jq (2022)](https://www.ianwootten.co.uk/2022/11/14/how-to-search-your-entire-twitter-archive-with-one-line-of-jq/)
+- [Why Dave LaMacchia stayed at Twitter for 9+ years (2022)](https://twitter.com/_dml/status/1592619959947243520)
+- [Twitter's amazing engineering work over years (2022)](https://twitter.com/danluu/status/1592774269733601281)
+- [George Hotz | Programming | so how does twitter work? | API | GraphQL | requests | Backend | Scala (2022)](https://www.youtube.com/watch?v=z6xslDMimME) ([Tweet](https://twitter.com/realGeorgeHotz/status/1593109753579786240))
+- [The Infrastructure Behind Twitter: Scale (2017)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
+- [Twitter Favorites(Likes) Archive](https://github.com/15cm/twitter-favorites-archive) - Series of scripts to archive metadata and medias of your Twitter Favorites(Likes).
+- [stweet](https://github.com/markowanga/stweet) - Advanced python library to scrap Twitter (tweets, users) from unofficial API.
+- [Backup Twitter data now](https://www.reddit.com/r/DataHoarder/comments/yy7tig/backup_twitter_now_multiple_critical_infra_teams/)
+- [Converting Your Twitter Archive to Markdown (2022)](https://matthiasott.com/notes/converting-your-twitter-archive-to-markdown)
+- [How Twitter might play out, the ramifications, and what Elon’s calculus might be](https://twitter.com/LBacaj/status/1593705261939802112)
+- [unflwrs](https://github.com/Syfaro/unflwrs) - Tool to track Twitter followers.
+- [Twitter Architecture 2022 vs 2012](https://twitter.com/alexxubyte/status/1594008281340530688)
+- [Things Twitter should improve](https://twitter.com/growing_daniel/status/1594365574850654210)
+- [tweetback Twitter Archive](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data.
+- [Why Twitter Didn’t Go Down: From a Real Twitter SRE (2022)](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a) ([HN](https://news.ycombinator.com/item?id=33701371)) ([Lobsters](https://lobste.rs/s/4mupjz/why_twitter_didn_t_go_down_from_real)) ([Reddit](https://www.reddit.com/r/programming/comments/z24gya/why_twitter_didnt_go_down_from_a_real_twitter_sre/))
+- [Twitter Clone in Vue](https://github.com/madebyfabian/twitter-clone)
+- [Save Your Threads](https://github.com/harvard-lil/archive.social) - High-fidelity capture of Twitter threads as sealed PDFs.
+- [Improving Twitter Search ideas](https://twitter.com/realGeorgeHotz/status/1594790788168294404)
+- [Tool to backup your twitter likes](https://yodapunk.gumroad.com/l/twitter-backup) ([Tweet](https://twitter.com/YodaPunk/status/1595418496762105856))
+- [dewey](https://getdewey.co/) - Organize & Share Twitter Bookmarks.
+- [Tweet Admin](https://tweetadmin.com/) - Do more with Twitter.

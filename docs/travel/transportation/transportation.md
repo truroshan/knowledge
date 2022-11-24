@@ -2,9 +2,9 @@
 
 [Flexport](https://www.flexport.com/) is a great logistics company.
 
-Personally would love to own [Porsche](https://www.porsche.com/) one day. They make truly [gorgeous cars](https://www.youtube.com/watch?v=mmzn77xOCe0). [Carrera S](https://www.reddit.com/r/Porsche/comments/ob8jjs/992_carrera_s/) or [992 GT3](https://www.youtube.com/watch?v=da5x-__kvGY) seem nice.
+Personally would love to own electric [Porsche](https://www.porsche.com/) one day, probably [Taycan 4S](https://www.porsche.com/international/models/taycan/taycan-models/taycan-4s/). They make truly [gorgeous cars](https://www.youtube.com/watch?v=mmzn77xOCe0). [Carrera S](https://www.reddit.com/r/Porsche/comments/ob8jjs/992_carrera_s/) or [992 GT3](https://www.youtube.com/watch?v=da5x-__kvGY) are pretty too. But not electric and it's silly to buy combustion cars at this point.
 
-I wish there were more electric superchargers in EU.
+I wish there were more electric superchargers in EU. Tesla cars seem nice too. Curious when [autonomy](../../machine-learning/autonomous-driving.md) will be solved.
 
 ## Interesting cars
 
@@ -64,3 +64,6 @@ I wish there were more electric superchargers in EU.
 - [Prometheus: Fuel from the Air](https://prometheusfuels.com/technology) ([HN](https://news.ycombinator.com/item?id=32487430))
 - [Telematica](https://www.telematica.so/) - APIs for EVs. ([HN](https://news.ycombinator.com/item?id=33021069))
 - [Students break acceleration world record (2022)](https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/) ([HN](https://news.ycombinator.com/item?id=33181112))
+- [Porsche Taycan Production in Germany (2022)](https://www.youtube.com/watch?v=rR9It4tYcH8)
+- [Вастрик.Бус :: Год второй. Внешка и оффроуд (2022)](https://vas3k.ru/blog/bus_2022/)
+- [Map with all the electric vehicle chargers](https://map.electromaps.com/en/)

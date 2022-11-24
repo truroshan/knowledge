@@ -6,6 +6,8 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Favorite artists
 
+- [0010](https://www.instagram.com/dhjs_0010/) ([Twitter](https://twitter.com/dhjs_0010))
+- [Guillermo Lorca](https://www.instagram.com/guillermolorcagarcia/) ([Web](https://www.guillermolorca.com/))
 - [James Jean](https://www.instagram.com/jamesjeanart/) ([Artsy](https://www.artsy.net/artist/james-jean)) ([Twitter](https://twitter.com/jamesjeanart)) ([Web](http://www.jamesjean.com/))
 - [gemi333](https://www.instagram.com/gemi333/) ([Twitter](https://twitter.com/gemi333))
 - [Darek Zabrocki](https://www.darekzabrocki.com/)
@@ -121,6 +123,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [lauren myers](https://www.instagram.com/laurenjmyers/)
 - [Miguel Membreno](https://www.artstation.com/miguelmembre)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
+- [Syd Mead](https://sydmead.com/)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Elvin Aliyev](https://www.behance.net/surferdude)
 - [Ben Nicholas](https://www.artstation.com/belgianboolean)
@@ -315,6 +318,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Photography
 
+- [Mariam Sitchinava](https://www.instagram.com/mariamsitchinava/)
 - [Emilio Morenatti](https://www.instagram.com/emilio_morenatti/) ([Twitter](https://twitter.com/EmilioMorenatti))
 - [Koleso Sobaki](https://www.instagram.com/koleso_sobaki/)
 - [Bruce Weber](https://www.instagram.com/bruce_weber/)
@@ -396,6 +400,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Andrea Mete](http://andreamete.com/) ([IG](https://www.instagram.com/andreamete/))
 - [Dan Otis](https://www.instagram.com/danotis/)
 - [Chantal Convertini](https://www.instagram.com/paeulini/)
+- [David Ignaz](https://www.instagram.com/davidignaz/) ([Web](https://www.davidignaz.com/))
 - [Evgeny Feldman](https://www.feldmanphotography.com/) ([IG](https://www.instagram.com/evgenyfeldman/))
 - [Tyler Mitchell](https://www.instagram.com/tylersphotos/)
 - [Petros Koublis](http://petroskoublis.com/main.html)

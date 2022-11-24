@@ -4,7 +4,9 @@ title: Tauri
 
 # [Tauri](https://tauri.studio/)
 
-[Dropcode](https://github.com/egoist/dropcode) is great OSS app built with Tauri and [Solid](../../javascript/js-libraries/solid.md).
+[Dropcode](https://github.com/egoist/dropcode) is great OSS app built with Tauri and [Solid](../../javascript/js-libraries/solid.md). Perfect stack in my eyes.
+
+[Wails](../../go/go-libraries/wails.md) is nice alternative to Tauri that uses [Go](../../go/go.md) instead of [Rust](../rust.md).
 
 ## OSS Tauri apps
 
@@ -15,6 +17,14 @@ title: Tauri
 - [Tauri Solid Example with Vite](https://github.com/lukethacoder/tauri-solid-example)
 - [Tauri + Vanilla](https://github.com/joepio/tauri-launcher)
 - [Tauri + ReScript + React](https://github.com/JonasKruckenberg/tauri-rescript-template)
+- [Tauri Tray App](https://github.com/jondot/tauri-tray-app) - Template should help get you started developing a Tauri tray app with an app window and full communication between the JS and Rust side.
+- [Taurine](https://github.com/Perfect7M/taurine) - Tauri + Node.js stater.
+- [Mediarepo](https://github.com/Trivernis/mediarepo) - Tool for managing media files.
+
+## Notes
+
+- [You can make use of Go or any other language by making HTTP server in them. Then deploying the Tauri app with local server running. Latency into calling HTTP server is negligible. Even faster than built-in ipc.](https://discord.com/channels/616186924390023171/731495028677148753/1040040229626716230)
+- [Setting up WebSocket connection between Tauri & Front End is valid option for faster frontend to backend communication than the current IPC allows when you use commands.](https://discord.com/channels/616186924390023171/731495028677148753/1040752725719253032)
 
 ## Links
 
@@ -36,3 +46,5 @@ title: Tauri
 - [Build a cross platform app with Tauri (2022)](https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/)
 - [tauri-egui](https://github.com/tauri-apps/tauri-egui) - Tauri plugin for using the egui library in a Tauri application.
 - [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
+- [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) - Completely type safe Tauri commands.
+- [tauri-bindgen](https://github.com/JonasKruckenberg/tauri-bindgen) - Typesafe language bindings generator for the Tauri IPC bridge.

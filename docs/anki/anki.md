@@ -12,6 +12,8 @@ The reason I am not currently using it is because I find the philosophy of `Know
 
 > A language isn’t something you learn so much as something you join.
 
+[genanki](https://github.com/kerrickstaley/genanki) is nice tool for generating Anki cards.
+
 ## Tips
 
 - Review all cards every day, not just one topic. Ensure that you're not hitting the "Review limit" on a deck.
@@ -82,3 +84,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Learn Exponentially](https://saveall.ai/blog/learn-exponentially) ([HN](https://news.ycombinator.com/item?id=33140527))
 - [Speki](https://github.com/TBS1996/speki) - Flashcards for your terminal.
 - [Anki-English](https://github.com/wesselb/anki-english)
+- [Spaced inbox](https://github.com/riceissa/spaced-inbox) - Minimal spaced writing inbox.

@@ -4,6 +4,8 @@ title: SQL
 
 # [SQL](http://en.wikipedia.org/wiki/SQL)
 
+[SQL Teaching](https://www.sqlteaching.com/) is great SQL intro.
+
 [dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [PRQL](https://prql-lang.org/) & [GlueSQL](https://github.com/gluesql/gluesql) seem nice too.
 
 [Arctype](https://arctype.com/) is a nice tool.
@@ -221,3 +223,5 @@ title: SQL
 - [Future Proofing SQL with Carefully Placed Errors (2022)](https://hakibenita.com/future-proof-sql)
 - [What SQL database isolation level do you run at?](https://lobste.rs/s/pngfnl/what_sql_database_isolation_level_do_you)
 - [TAPEX: Table Pre-training via Learning a Neural SQL Executor (2022)](https://table-pretraining.github.io/) ([Code](https://github.com/microsoft/Table-Pretraining))
+- [SQL Format](https://github.com/shssoichiro/sqlformat-rs) - SQL Formatter written in Rust.
+- [SQL Teaching](https://www.sqlteaching.com/) - Easiest tutorial to learn SQL.

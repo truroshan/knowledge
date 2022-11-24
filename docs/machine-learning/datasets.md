@@ -46,7 +46,7 @@
 - [Books in .txt format for AI training purposes](https://twitter.com/theshawwn/status/1320282149329784833) ([HN](https://news.ycombinator.com/item?id=24884789))
 - [Sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [SuperAnnotate](https://superannotate.com/) - Fastest annotation platform for training AI.
-- [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow. ([Web](https://www.activeloop.ai/)) ([Docs](https://docs.activeloop.ai/)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/u5rnss/n_p_access_100_image_video_audio_datasets_in/))
+- [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow. ([Web](https://www.activeloop.ai/)) ([Docs](https://docs.activeloop.ai/)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/u5rnss/n_p_access_100_image_video_audio_datasets_in/)) ([HN](https://news.ycombinator.com/item?id=33610834))
 - [Objectron Dataset](https://github.com/google-research-datasets/Objectron) - Dataset of short object centeric video clips with pose annotations.
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.
@@ -209,3 +209,8 @@
 - [Online Language Modelling Dataset Pipeline](https://github.com/huggingface/olm-datasets)
 - [What should I do if a dataset is too large to store in my local computer? (2022)](https://www.reddit.com/r/learnmachinelearning/comments/y5ijth/what_should_i_do_if_a_dataset_is_too_large_to/)
 - [Recommendations thread: Your favorite sources of raw data (of any type) | Lobsters (2022)](https://lobste.rs/s/5guoty/recommendations_thread_your_favorite)
+- [Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation)
+- [Waste datasets review](https://github.com/AgaMiko/waste-datasets-review) - List of image datasets with any kind of litter, garbage, waste and trash.
+- [TACO](https://github.com/pedropro/TACO) - Trash Annotations in Context Dataset Toolkit.
+- [Kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale.
+- [FIB Benchmark](https://github.com/r-three/fib)

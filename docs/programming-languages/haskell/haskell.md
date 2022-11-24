@@ -122,7 +122,7 @@ title: Haskell
 - [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book) ([Solutions 2](https://github.com/yingw787/thehaskellbook))
 - [Runtime Support for Multicore Haskell](https://simonmar.github.io/bib/papers/multicore-ghc.pdf)
 - [GHC exercises](https://github.com/i-am-tom/haskell-exercises) - Little course to learn about some of the more obscure GHC extensions.
-- [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview)
+- [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=33438726))
 - [Aelve Guide | Haskell](https://guide.aelve.com/haskell) - Wiki-like guide to Haskell ecosystem and community.
 - [rien](https://github.com/mrkgnao/rien) - Predictable Haskell development environments with Cabal and Nix.
 - [Confessions of a Used Programming Language Salesman Getting the Masses Hooked on Haskell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.868&rep=rep1&type=pdf)
@@ -470,3 +470,14 @@ title: Haskell
 - [Haskell Error Index](https://errors.haskell.org/) - Community-driven web site for improving the documentation of Haskell tooling. ([Announce](https://discourse.haskell.org/t/announcing-the-haskell-error-index/5195))
 - [ghc-nix](https://github.com/matthewbauer/ghc-nix) - Exploring the options for incremental Haskell builds using Nix.
 - [Data validation in Haskell with newtypes, smart constructors, and aeson (2022)](https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html)
+- [Binary Packet Parsing (2022)](https://mmhaskell.com/blog/2022/10/31/binary-packet-parsing)
+- [Monday Morning Haskell](https://mmhaskell.com/) ([YouTube](https://www.youtube.com/channel/UChXjh9JgFQMQQPf4u5hFgiA/videos))
+- [Break Gently with Pattern Synonyms (2022)](https://www.parsonsmatt.org/2022/11/02/break-gently-pattern-syn.html)
+- [Spooky Masks and Async Exceptions (2022)](https://www.parsonsmatt.org/2022/10/29/spooky_masks_and_async_exceptions.html)
+- [Haskell rules for Bazel](https://github.com/tweag/rules_haskell)
+- [Improving the experience of JSON in Haskell with autodocodec and bifunctors (2022)](https://www.dylanamartin.com/2022/11/08/improving-the-aeson-experience.html)
+- [Staged programming with typeclasses (2022)](https://www.tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
+- [Haskell Notebooks with HLS and VS Code](https://github.com/tittoassini/notebook)
+- [FizzBuzz in Haskell (2014)](https://themonadreader.files.wordpress.com/2014/04/fizzbuzz.pdf) ([HN](https://news.ycombinator.com/item?id=33697905))
+- [WebAssembly backend merged into GHC (2022)](https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc/)
+- [Blog: Haskell in Production](https://serokell.io/blog/haskell-in-production)

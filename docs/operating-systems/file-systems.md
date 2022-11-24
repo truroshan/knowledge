@@ -1,5 +1,7 @@
 # File systems
 
+[Spacedrive](https://github.com/spacedriveapp/spacedrive) looks neat.
+
 ## Links
 
 - [TMFS](https://github.com/abique/tmfs) - Apple's Time Machine fuse read only file system.
@@ -114,7 +116,7 @@
 - [Merged FS: Compose Multiple Go Filesystems](https://github.com/yalue/merged_fs)
 - [composefs - a file system for container images (2021)](https://www.scrivano.org/posts/2021-10-26-compose-fs/)
 - [Rust FAT FS](https://github.com/rafalh/rust-fatfs) - FAT file system library implemented in Rust.
-- [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Open source cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust. ([HN](https://news.ycombinator.com/item?id=31186313))
+- [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Open source cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust. ([HN](https://news.ycombinator.com/item?id=31186313)) ([Web](https://www.spacedrive.com/))
 - [CharybdeFS](https://github.com/scylladb/charybdefs) - ScyllaDB fault injection filesystem.
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your file system.
 - [memfs](https://github.com/andrewhalle/memfs) - In-memory file system in Rust.
@@ -137,3 +139,13 @@
 - [Linux NILFS file system: automatic continuous snapshots (2022)](https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html) ([HN](https://news.ycombinator.com/item?id=33162259))
 - [filesystem-rs](https://github.com/iredelmeier/filesystem-rs) - Real, fake, and mock implementations of file system operations.
 - [WebNative FileSystem (WNFS)](https://github.com/wnfs-wg/rs-wnfs) - Versioned content-addressable distributed filesystem with private and public sub systems.
+- [Webnative SDK](https://github.com/fission-codes/webnative) - SDK for building apps with decentralized identity and storage.
+- [Fission](https://fission.codes/) - Build the future of web apps at the edge.
+- [dutree](https://github.com/nachoparker/dutree) - Tool to analyze file system usage written in Rust.
+- [shinydir](https://github.com/Unoqwy/shinydir) - CLI tool to enforce clean directories by setting rules.
+- [Shufflecake](https://shufflecake.net/) - Tool for Linux that allows to create multiple hidden volumes on a storage device.
+- [Alist](https://github.com/alist-org/alist) - File list program that supports multiple storage, powered by Gin and SolidJS.
+- [scaffdog](https://github.com/scaffdog/scaffdog) - Markdown driven scaffolding tool.
+- [s3-sync](https://github.com/mflatt/s3-sync) - Sync a local filesystem with a S3 bucket.
+- [MemProcFS](https://github.com/ufrisk/MemProcFS) - Memory Process File System.
+- [ntfs Rust crate](https://github.com/ColinFinck/ntfs) - Low-level NTFS filesystem library implemented in Rust.

@@ -161,7 +161,7 @@ title: PyTorch
 - [PyTorch Loss Functions: Guide (2020)](https://neptune.ai/blog/pytorch-loss-functions)
 - [David's Tips on How to Read PyTorch](https://github.com/davidbau/how-to-read-pytorch)
 - [MeshCNN in PyTorch](https://github.com/ranahanocka/MeshCNN) - General-purpose deep neural network for 3D triangular meshes, which can be used for tasks such as 3D shape classification or segmentation.
-- [tinygrad](https://github.com/geohot/tinygrad) - Something in between a PyTorch and a karpathy/micrograd. ([tinygrad: tiny efficientnet is recognize cat?](https://www.youtube.com/watch?v=BFqQpBlkX74)) ([HN](https://news.ycombinator.com/item?id=30909719))
+- [Tinygrad](https://github.com/geohot/tinygrad) - Simple and powerful neural network framework. ([tinygrad: tiny efficientnet is recognize cat?](https://www.youtube.com/watch?v=BFqQpBlkX74)) ([HN](https://news.ycombinator.com/item?id=30909719)) ([Web](https://tinygrad.org/)) ([HN](https://news.ycombinator.com/item?id=33462337))
 - [Lucent](https://github.com/greentfrapp/lucent) - Lucid library adapted for PyTorch.
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch.
 - [PyHessian](https://github.com/amirgholami/PyHessian) - PyTorch library for second-order based analysis and training of Neural Networks.
@@ -465,3 +465,18 @@ title: PyTorch
 - [Open MatSci ML Toolkit](https://github.com/IntelLabs/matsciml) - Single framework for prototyping and scaling out deep learning models for materials discovery, built on top of OpenCatalyst, PyTorch Lightning, and the Deep Graph Library.
 - [Torch-DCT](https://github.com/zh217/torch-dct) - DCT (discrete cosine transform) functions for PyTorch.
 - [MultiPy](https://github.com/pytorch/multipy) - C++ library that enables you to run eager mode PyTorch models in production without any modifications to your model to support tracing.
+- [Video Swin Transformer in PyTorch](https://github.com/haofanwang/video-swin-transformer-pytorch)
+- [PyTorch Fundamentals Learning Path](https://github.com/MicrosoftDocs/pytorchfundamentals)
+- [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch.
+- [Auto-Tuning Hyperparameters with Optuna and PyTorch (2020)](https://www.youtube.com/watch?v=P6NwZVl8ttc)
+- [PyTorch Symbolic](https://github.com/gahaalt/pytorch-symbolic) - Provides symbolic API for model creation in PyTorch.
+- [PyTorch 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation](https://github.com/ellisdg/3DUnetCNN)
+- [torchnnprofiler](https://github.com/kshitij12345/torchnnprofiler) - Context Manager to profile the forward and backward times of PyTorch's nn.Module.
+- [Minimal IK PyTorch](https://github.com/windingwind/minimal-IK-pytorch)
+- [Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP (2022)](https://arxiv.org/abs/2210.04150) ([Code](https://github.com/facebookresearch/ov-seg))
+- [Torchview](https://github.com/mert-kurttutan/torchview) - Visualize PyTorch models.
+- [LAMPE](https://github.com/francois-rozet/lampe) - Likelihood-free AMortized Posterior Estimation with PyTorch.
+- [Plan2Vec: Unsupervised Representation Learning by Latent Plans in PyTorch](https://github.com/geyang/plan2vec)
+- [BackPACK](https://github.com/f-dangel/backpack) - Backpropagation package built on top of PyTorch which efficiently computes quantities other than the gradient.
+- [TrueGrad](https://github.com/ClashLuke/TrueGrad) - PyTorch interface for TrueGrad-AdamW.
+- [torchplate](https://github.com/rosikand/torchplate) - Minimal Experiment Workflows in PyTorch.

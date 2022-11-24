@@ -2,9 +2,23 @@
 
 [How to run a small social network site for your friends](https://runyourown.social/) is a neat guide.
 
-Many companies put business over human values but [Meta/FB is the worst of it all](https://twitter.com/Erfan_khosravi/status/1572837240367370240). It's actually sickening how bad some humans with power can get. Will never develop anything for their platforms and hope their VR experiments with Oculus get fully copied and perfected by likes of Apple or some other company with sane values.
+It's hard to appreciate just how bad it is to centralize the common people's town square where anyone can voice their opinion is. Right now, the most popular options for such a place are all governed by a set of rules that can be changed on a whim by few people only, sometimes only one. More often, what's written in the rules is not being followed too and there is no way to argument against your account being deleted or shadow banned by the network.
 
-I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pretty neat and hope it succeeds.
+One other thing such centralization of authority brings, is that social networks can start [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
+
+The only way you can have a social network that works for everyone is for it to be [decentralized](../networking/decentralization.md). Something akin to [Mastodon](mastodon.md) where each instance has its own rules and pays for its own compute. You can [federate](../networking/activitypub.md) with any server you like and can't be blocked out of a service with all the history deleted just on a whim.
+
+Decentralization has [big challenges to solve](https://news.ycombinator.com/item?id=33486497) before it can compete with likes of [Twitter](../tools/twitter.md). Compute has to be paid off by users using the network. UX should abstract the notion of servers and federation so the experience is like on Twitter, create account, start creating posts. On Mastodon, you have to first choose a server and most just choose the official server for obvious reasons.
+
+I am personally trying to make Mastodon work whilst still staying on Twitter as that's where the conversation is still happening.
+
+[Farcaster](https://www.farcaster.xyz/) & [Bluesky](https://blueskyweb.xyz/) seem promising too.
+
+Whatever the new social network is, it has to be open source and be a protocol with a viable plan for moderating and customizing your experience on the network.
+
+All valuable data posted on any of the networks is ultimately transferred and linked in [my knowledge base](../other/wiki-workflow.md).
+
+Starting social networks is hard. I liked steps [Gas](https://gasapp.co/) app took too [reach virality](https://twitter.com/lukesophinos/status/1593268198064824320).
 
 ## Notes
 
@@ -25,6 +39,8 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [Instead of asking “how will you make money?” Or with NFTs “how much money are you making right now buying and selling into the hype?”, please ask “how does this lead to deep habitual usage?”](https://twitter.com/joshelman/status/1458466576449953799)
 - [Social networks usage destroy attention span for many](https://www.youtube.com/watch?v=kw_nY-tMuHE)
 - [The greatest business you can build is one that helps people feel loved and doing so in a financially sustainable way.](https://twitter.com/nikitabier/status/1586042045826621440)
+- [WhatsApp communication being blocked in Iran as protests against oppressive regime take place.](https://twitter.com/Erfan_khosravi/status/1572837240367370240)
+- [The key to the internet is to fully own what you love, regardless of what it is, and share it without shame.](https://twitter.com/nibrasibn/status/1591364149703237634)
 
 ## Links
 
@@ -46,7 +62,7 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [Planetary](https://planetary.social/) - Building an open and humane alternative to Facebook.
 - [Twitterverse](https://twitterverse.net/) - Interactively explore visualizations of Twitter networks. ([Tweet](https://twitter.com/MenanderSoter/status/1234650368182771717))
 - [Opportunities in consumer social (2020)](https://twitter.com/eriktorenberg/status/1236860724430790659)
-- [Pleroma](https://pleroma.social/) - Free, federated social networking server built on open protocols. ([Article](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/)) ([HN](https://news.ycombinator.com/item?id=22519209)) ([Lobsters](https://lobste.rs/s/ukg62c/releasing_pleroma_2_1_0)) ([Deploy a Pleroma Server](https://10minutepleroma.com/))
+- [Pleroma](https://pleroma.social/) - Free, federated social networking server built on open protocols. ([Article](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/)) ([HN](https://news.ycombinator.com/item?id=22519209)) ([Lobsters](https://lobste.rs/s/ukg62c/releasing_pleroma_2_1_0)) ([Deploy a Pleroma Server](https://10minutepleroma.com/)) ([Docker Code](https://github.com/angristan/docker-pleroma))
 - [Moa](https://github.com/foozmeat/moa) - Mastodon, Twitter, and Instagram Cross-poster.
 - [Lessons I've Learned After Gaining 100,000 Twitter Followers (2020)](https://compiled.blog/blog/lessons-ive-learned-after-gaining-100000-twitter-followers)
 - [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.
@@ -168,7 +184,7 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [Ourspace](https://github.com/ZeroDAO/ourspace) - Decentralized social networks and reputation systems.
 - [Tim Urban on political discourse + Keith Rabois on early-stage investing in 2022](https://www.youtube.com/watch?v=ivDwzBYsED4)
 - [instantgram](https://github.com/theus/instantgram) - Bookmarklet for download photos in Instagram.
-- [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster)) ([Farcaster Search](https://searchcaster.xyz/)) ([Farcaster Search Code](https://github.com/gskril/farcaster-search)) ([Article](https://danromero.org/farcaster/)) ([Protocol](https://github.com/farcasterxyz/protocol)) ([Hub Code](https://github.com/farcasterxyz/hub)) ([Rust client](https://github.com/TheLDB/farcaster-rs))
+- [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster)) ([Farcaster Search](https://searchcaster.xyz/)) ([Farcaster Search Code](https://github.com/gskril/farcaster-search)) ([Article](https://danromero.org/farcaster/)) ([Protocol](https://github.com/farcasterxyz/protocol)) ([Hub Code](https://github.com/farcasterxyz/hub)) ([Rust client](https://github.com/TheLDB/farcaster-rs)) ([JS client](https://github.com/standard-crypto/farcaster-js))
 - [retrospring](https://retrospring.net/) - Q/A based social network. ([Code](https://github.com/Retrospring/retrospring))
 - [Movim](https://movim.eu/) - Social and chat platform that act as a web frontend for the XMPP protocol. ([Code](https://github.com/movim/movim))
 - [cohost](https://cohost.org/rc/welcome) - New social media platform built from the ground up. ([Twitter](https://twitter.com/cohost_org))
@@ -178,3 +194,6 @@ I think what Twitter is doing with [Bluesky](https://twitter.com/bluesky) is pre
 - [Due to social media people no longer want to go through the stages of life](https://twitter.com/NonhleBeryl/status/1579571242914713600)
 - [The AT Protocol - Bluesky](https://atproto.com/) - Networking technology created by Bluesky to power the next generation of social applications. ([Tweet](https://twitter.com/bluesky/status/1582437529969917953)) ([Article](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)) ([HN](https://news.ycombinator.com/item?id=33252108))
 - [Facebook was not originally created to be a company](https://twitter.com/amasad/status/1586757362114625538)
+- [Meower: Social Network for Cats](https://github.com/tinrab/meower) - Code for the Building a Microservices Application in Go Following the CQRS Pattern article.
+- [Moderation is different from censorship (2022)](https://astralcodexten.substack.com/p/moderation-is-different-from-censorship) ([HN](https://news.ycombinator.com/item?id=33446064))
+- [CommunityRule](https://communityrule.info/) - Governance toolkit for great communities. ([HN](https://news.ycombinator.com/item?id=33584360))

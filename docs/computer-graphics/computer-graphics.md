@@ -1,6 +1,6 @@
 # Computer graphics
 
-[Vulkan](vulkan.md) and [Metal](https://developer.apple.com/metal/) seem great.
+[Vulkan](vulkan.md) and [Metal](metal.md) seem great.
 
 ## Notes
 
@@ -15,7 +15,7 @@
 - [Writing to the framebuffer (2018)](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [Spectrum](https://github.com/facebookincubator/spectrum) - Client-side image transcoding library.
 - [Computer Graphics Topics](https://github.com/melling/ComputerGraphics)
-- [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course. ([In Rust](https://github.com/Mierdin/rustyrender)) ([HN](https://news.ycombinator.com/item?id=30686163))
+- [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course. ([In Rust](https://github.com/Mierdin/rustyrender)) ([HN](https://news.ycombinator.com/item?id=30686163)) ([Getting started](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started))
 - [Looperepool](https://github.com/spite/looper) - Tool to create looperinos.
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom) - Brief computer graphics / rendering course.
 - [imutils](https://github.com/jrosebr1/imutils) - Series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
@@ -254,3 +254,6 @@
 - [FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - Fastest and most memory efficient lattice Boltzmann CFD software, running on any GPU via OpenCL.
 - [Metaballs (2017)](https://varun.ca/metaballs/) ([Lobsters](https://lobste.rs/s/flinr6/metaballs))
 - [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-performance cross-platform computing framework for graphics and beyond.
+- [Sparse Voxel Octrees](https://github.com/tunabrain/sparse-voxel-octrees) - CPU Sparse Voxel Octree Implementation.
+- [Rust Sloth](https://github.com/ecumene/rust-sloth) - 3D software rasterizer for the terminal.
+- [Irradiance Caching – Part 1](http://www.ludicon.com/castano/blog/articles/irradiance-caching-part-1/)

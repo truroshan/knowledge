@@ -1,6 +1,6 @@
 # ML Models
 
-[Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml) & [ZenML](https://zenml.io/home) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
+[Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml), [ZenML](https://zenml.io/home) & [Merlin](https://github.com/gojek/merlin) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
 
 ## Links
 
@@ -124,3 +124,7 @@
 - [Stochastic](https://www.stochastic.ai/) - AI Acceleration Platform. ([GitHub](https://github.com/stochasticai))
 - [voltaML](https://github.com/VoltaML/voltaML) - Lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
 - [AWS Deep Learning Containers](https://github.com/aws/deep-learning-containers) - Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
+- [Spotty](https://github.com/spotty-cloud/spotty) - Training deep learning models on AWS and GCP instances.
+- [FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - Accessible and efficient deployment Development Toolkit.
+- [explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
+- [MatxScript](https://github.com/bytedance/matxscript) - Model pre- and post-processing framework.

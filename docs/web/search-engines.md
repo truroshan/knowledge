@@ -4,6 +4,8 @@
 
 Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [classes.wtf](https://github.com/ekzhang/classes.wtf) is great implementation of fast search.
 
+[Spyglass](https://github.com/a5huynh/spyglass) is nice too for crawling & indexing various web services.
+
 ## Notes
 
 - [If you’re implementing search please understand that using quotes means “find this literal text”.](https://twitter.com/davidfowl/status/1574138778129944576)
@@ -275,3 +277,15 @@ Use [Lyra](https://github.com/nearform/lyra) for doing browser side searches. [c
 - [Reverse Image Search Using Perceptual Hashes and DynamoDB (2022)](https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934)
 - [Swurl](https://swurl.com/) - Search engine with nice column UX. ([HN](https://news.ycombinator.com/item?id=33251954))
 - [Rust wrapper for the Meilisearch API](https://github.com/meilisearch/meilisearch-rust)
+- [Summa](https://github.com/izihawa/summa) - Full-text search server written in Rust with Python and GRPC API.
+- [CrowdView](https://crew-rho.vercel.app/) - Discussions Search Engine (stop adding “Reddit” on Google). ([HN](https://news.ycombinator.com/item?id=33438991))
+- [Feep! search](https://search.feep.dev/) - Web search engine for programmers. ([HN](https://news.ycombinator.com/item?id=33494221))
+- [How to build a Semantic Search Engine in Rust (2022)](https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9) ([HN](https://news.ycombinator.com/item?id=33532158)) ([Code](https://github.com/sachaarbonel/semantic-search))
+- [The Age of PageRank Is Over (2022)](https://blog.kagi.com/age-pagerank-over) ([HN](https://news.ycombinator.com/item?id=33537513))
+- [Fuzzy Substring Matching: On-device Fuzzy Friend Search at Snapchat (2022)](https://arxiv.org/abs/2211.02767) ([HN](https://news.ycombinator.com/item?id=33521571))
+- [Metaphor](https://metaphor.systems/) - Search engine based on generative AI. ([Tweet](https://twitter.com/sharifshameem/status/1590771354483437571)) ([HN](https://news.ycombinator.com/item?id=33551131))
+- [Similarity search and deduplication at scale (2022)](https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html) ([HN](https://news.ycombinator.com/item?id=33567123))
+- [ImgOps](https://github.com/dogancelik/imgops) - CLI tool for reverse searching images through ImgOps website. It supports files and URLs.
+- [Semantic Code Search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer.
+- [txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications. ([Docs](https://neuml.github.io/txtai/)) ([HN](https://news.ycombinator.com/item?id=33692546))
+- [Building a custom code search index in Go (2022)](https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/) ([HN](https://news.ycombinator.com/item?id=33717323))

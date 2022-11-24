@@ -6,6 +6,8 @@ title: Swift
 
 [Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great. [Advanced Swift Book](https://www.objc.io/books/advanced-swift/) together with [other books by objc.io](https://www.objc.io/books/) are amazing too. [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices) is a nice read.
 
+[SwiftLint](https://github.com/realm/SwiftLint) is great.
+
 ## OSS Swift CLI tools
 
 - [timeui](https://github.com/icanzilb/timeui) - Command line profiling tool with stopwatch, cpu and memory usage.
@@ -312,3 +314,9 @@ title: Swift
 - [A possible vision for macros in Swift (2022)](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71)
 - [Compiling Swift Generics (2022)](https://download.swift.org/docs/assets/generics.pdf) ([HN](https://news.ycombinator.com/item?id=33237002))
 - [Swift concurrency – things they don’t tell you (2022)](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you) ([HN](https://news.ycombinator.com/item?id=33379414))
+- [Swift Source Compatibility Suite](https://github.com/apple/swift-source-compat-suite)
+- [An Informal Introduction to Move-Only Types (2022)](https://forums.swift.org/t/an-informal-introduction-to-move-only-types/61358)
+- [CloudKit 101 (2020)](https://rambo.codes/posts/2020-02-25-cloudkit-101) ([Code](https://github.com/insidegui/CloudKitchenSink20))
+- [Ask HN: What is the future of Swift on the server-side? (2022)](https://news.ycombinator.com/item?id=33608804)
+- [Swift project in 2023](https://www.swift.org/blog/focus-areas-2023/) ([HN](https://news.ycombinator.com/item?id=33658376))
+- [Modern Concurrency on Apple Platforms - Using async/await with Swift (2022)](https://link.springer.com/book/10.1007/978-1-4842-8695-1?sap-outbound-id=40D2BBEF5833C4436B139778F496A0F535B4D5EC)

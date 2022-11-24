@@ -6,6 +6,8 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 
 Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md). [Borax](https://www.reddit.com/user/Borax/) is a fun user to follow on Reddit.
 
+Always [know your substance, have good set (mindset) and setting (environment)](https://www.reddit.com/r/DMT/comments/yzxhlv/comment/ix38i6o/) before consuming any drug.
+
 ## Notes
 
 - [The drug isn't the issue its our relationship with them.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)
@@ -85,3 +87,6 @@ Only 'hard' drugs I partake in are [psychedelics](psychedelics/psychedelics.md).
 - [Drugs that feel new and unique](https://www.reddit.com/r/researchchemicals/comments/y6h7cf/drugs_that_feel_new_and_unique/)
 - [Most people on antidepressants don’t need them (2022)](https://www.economist.com/leaders/2022/10/19/most-people-on-antidepressants-dont-need-them) ([HN](https://news.ycombinator.com/item?id=33272760))
 - [DiffSBDD: Structure-based Drug Design with Equivariant Diffusion Models](https://github.com/arneschneuing/DiffSBDD)
+- [Any good chem forums besides Bluelight or Erowid? (2022)](https://www.reddit.com/r/researchchemicals/comments/ytih0i/any_good_chem_forums_besides_bluelight_or_erowid/)
+- [Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design (2022)](https://arxiv.org/abs/2210.05274) ([Code](https://github.com/igashov/DiffLinker))
+- [r/Drugs Official Discord](https://discord.com/invite/rdrugs-official)

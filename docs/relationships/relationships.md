@@ -1,8 +1,8 @@
 # Relationships
 
-Below is what I think is a nice overview of my thoughts on what I think makes for successful and happy relationships of any kind but especially romantic.
+Below is what I think it takes to have successful and happy relationships of any kind but especially romantic.
 
-I am 27 now so I have a lot to learn still but I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
+I am 27 now so I have a lot to learn still and I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
 
 > At the end of the day people won't remember what you said or did, they will remember how you made them feel.
 
@@ -24,7 +24,7 @@ Everyone has some personal boundary. For some it could be cheating in whatever f
 
 **4. Don't be narcissistic. Us, not just you.**
 
-If you do make a mistake. Genuinely apologize and learn from it so as to not repeat it again. Never be cruel. And always treat your partner with respect. Speaking of narcissistic abuse, this [testimony by Johnny Depp](https://www.youtube.com/watch?v=4JTpvORujak) portraying alleged abuse of Amber Heard is a good read of how being with a narcissist can be catastrophic to your own self worth. It's best to detect narcissistic behavior early from either side of the relationship. Talk it out and try to fix it and become a better person not just for your partner but for yourself. I personally was narcissistic in many ways in my relationship. For example when I felt sad or depressed, I would ignore my partner and not listen to her because I 'have bigger problems' or I want to show my unhappiness to get comfort. This applied when I had depression ([from uni days, hated many of uni courses, being super poor and not believing in myself or my ability to actually earn money in this world](../education/university.md)), now I don't do this. Don't ignore the feelings and hurt of your partner.
+If you do make a mistake. Genuinely apologize and learn from it so as to not repeat it again. Never be cruel. And always treat your partner with respect. Speaking of narcissistic abuse, this [testimony by Johnny Depp](https://www.youtube.com/watch?v=4JTpvORujak) portraying alleged abuse of Amber Heard is a good read of how being with a narcissist can be catastrophic to your own self worth. It's best to detect [narcissistic behavior](https://twitter.com/babygravy9/status/1593280303849693185) early from either side of the relationship. Talk it out and try to fix it and become a better person not just for your partner but for yourself. I personally was narcissistic in many ways in my relationship. For example when I felt sad or depressed, I would ignore my partner and not listen to her because I 'have bigger problems' or I want to show my unhappiness to get comfort. This applied when I had depression ([from uni days, hated many of uni courses, being super poor and not believing in myself or my ability to actually earn money in this world](../education/university.md)), now I don't do this. Don't ignore the feelings and hurt of your partner.
 
 If your partner wants comfort, show it. If your partner wants to talk, talk it out. Show love.
 
@@ -52,10 +52,24 @@ With respect to talking to new people and continuing and maintaining interest in
 
 I also share [my thoughts on finding romantic partners](seduction.md). One fun thing to do with your partner is to do a [fictional character test and guess who got who for a show](https://twitter.com/dan_abramov/status/1523104608973103104).
 
-[The grass is greener where you water it](https://www.reddit.com/r/Divorce/comments/qsdymo/the_grass_is_greener_where_you_water_it/). Say and show love to people you love. Sometimes, you have to know when to let go and quit.
+[The grass is greener where you water it](https://www.reddit.com/r/Divorce/comments/qsdymo/the_grass_is_greener_where_you_water_it/). Say and show love to people you love. However if you don't feel amazing when spending time with your partner and/or you fight for same reasons, it's time to move on. People and interests change. It will be better for both of you in the end. Let past go. No such thing as wasted time, just [lessons learned](../focusing/rules.md#life). Just never burn your bridges! Try leave on good terms, as much as possible.
+
+[The Proust Questionnaire](https://www.vanityfair.com/magazine/2000/01/proust-questionnaire) has nice questions to get to know a person.
+
+For long time relationships I think key things to look for are:
+
+1. Actually living together.
+2. See how they handle setbacks/failure.
+3. How attentive they are especially long distance.
+4. How you feel together and how you feel separate. Good relationship should make you feel better.
+
+There’s many more points like how they treat others [including animals](../environment/veganism.md) but I think that’s more ‘good/bad person’ qualities rather than can you vibe together.
+
+Once in a relationship, it's important to have some kind of [date nights once a week where you spend time together with the goal of doing nothing but enjoying time in each other’s company](https://www.reddit.com/r/sex/comments/yw0jl5/women_and_sex_in_longterm_relationships/).
 
 ## Notes
 
+- [You can't love someone into loving you.](https://www.reddit.com/r/datingoverthirty/comments/z1igzj/he_had_a_stronger_connection_with_someone_else/)
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
 - [The best way to make relationships is to do work together. All kinds of relationships, all kinds of work.](https://twitter.com/simonsarris/status/1525893480601604097)
 - [Dr. Ramani is amazing](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/)
@@ -149,6 +163,13 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [There are people you love with all of your heart but who are also just broken people despite anything you do or can do, say or can say. And broken people will break you. Learning to accept that for what it is and find a balance to help them/be in their life and protect yourself is one of the hardest things to do and accept.](https://www.reddit.com/r/AskOldPeople/comments/x5a066/do_you_have_a_harsh_truth_that_was_hard_to_hear/)
 - [Love that wants only to get, to possess, is a monstrous thing.](https://twitter.com/UrsulaBot/status/1573530826205122561)
 - [Love isn't a measurable thing, there's no "love her more", instead it's "love her, too". No one could ever love anyone equally, instead you love them all individually. Like, just because I love the way a partner squeaks in the morning while stretching doesn't mean I love another partner any less for the way they do a little happy dance when they're about to eat - I don't love one of those things more than the other, I love both of those things about them.](https://www.reddit.com/r/polyamory/comments/y21di5/what_if_he_loves_her_more/)
+- [Toxic monogamy does exist. Thinking true love means never lusting for others, thinking jealousy is awful, thinking we own partners, thinking you don't need other friends and positive adult relationships, that you should have sex you don't want sometimes, those are all really unhealthy things that our world tends to promote. But monogamy is just knowing you want to commit and focus your relationship intimacy and resources on one person, regardless of feelings to others. Perfectly awesome.](https://www.reddit.com/r/polyamory/comments/yndeh3/do_any_of_you_believe_monogamy_is_toxic/)
+- [A spark is the thing you say is missing when you want to end things.](https://www.reddit.com/r/datingoverthirty/comments/yoxmii/what_is_a_spark_to_you/)
+- [I’ve always thought of the spark as an internal experience. Some people make you feel like the best version of yourself, when you’re around them you feel smarter, funnier, more energetic etc and that’s the spark. The goal is to leave a date feeling good about yourself in addition to feeling good about the other person.](https://www.reddit.com/r/datingoverthirty/comments/yoxmii/what_is_a_spark_to_you/)
+- [Just broke up with my boyfriend on really mutual terms and this is such a weird experience lmaoo this is my first time not having a really toxic and messy breakup, we’re still gonna be besties.](https://twitter.com/fayemikah/status/1591285147856703488)
+- [Dating in 40s has increased complications: 1: Kids in the picture - you have to have a relationship with them too. If the kids don't like you it's over. Also logistics with or because of the kids. 2: Trauma from prior relationships or divorce. So many people are broken in some way by that.](https://www.reddit.com/r/datingoverthirty/comments/yw1mlx/not_excited_about_dating/)
+- [Go into dates with good attitude. Give people chances. I go in to every date with an attitude of - "I'm going to try my best to show this person a good time. This person has chosen to give some of their time for me, I'm going to make the best of it." I try to leave every date having taken note of at least one positive attribute I noticed about them or heard from what they told me. I try to think less about what this person does for me or how they make me feel, and rather, find something good they bring to the table. A green flag. Some have few, but this approach still leaves me with a good attitude coming out the other side. Listen to them. Then ask good follow up questions. Then listen again. I suppose these are skills I do in my day to day job and take for granted not everyone does this well. Something else I try to do is branch out from the coffee/drinks/meal interview. Those are like job interviews & it's no wonder they are awkward. So are job interviews. Some activities that worked well for me are choosing a place within close walking distance to a bookstore or arcade, or park to just walk around. Talking while walking around in my experience makes a HUGE difference. As a result I have very rarely had a bad date. Met some crazy people, yes. But few where I felt I wasted my time. Even the ones where I didn't attracted, I feel good about sharing a good time even if it was just a couple hours. My 1st dates almost always want 2nd dates. If I don't feel attraction for them I tell them pretty quick & use this line - "Thank you for sharing your time with me. I'm afraid, though, that I did not feel a romantic connection." That leaves it open to be friends and I have a couple residual friends from using that. Many don't want relationships though which is another story, the part that I struggle with.](https://www.reddit.com/r/datingoverthirty/comments/yw1mlx/not_excited_about_dating/)
+- [We should forgive each other for stupid things we've said in the past.](https://twitter.com/lexfridman/status/1595454065802108930)
 
 ## Links
 
@@ -290,3 +311,13 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [The Mono/Poly Paradox (2018)](https://www.multiamory.com/podcast/180-mono-poly)
 - [РАССТАВАНИЕ. Как решиться и как прожить боль, если меня бросили. Дружба между мужчиной и женщиной (2022)](https://www.youtube.com/watch?v=thNdT5dt4Xg)
 - [The Social Recession: By the Numbers (2022)](https://novum.substack.com/p/social-recession-by-the-numbers)
+- [Про расставания](https://www.instagram.com/tv/CkjAEM5Kk0m/)
+- [Men of Reddit, what do you dislike about today's dating culture?](https://www.reddit.com/r/AskMen/comments/yndzqu/men_of_reddit_what_do_you_dislike_about_todays/)
+- [Books, preferably written my women, that teach men how to be better lovers (2022)](https://www.reddit.com/r/suggestmeabook/comments/ypowj9/books_preferably_written_my_women_that_teach_men/)
+- [Ask HN: How do you deal with the human ability to never take responsibility (2022)](https://news.ycombinator.com/item?id=33573118)
+- [Are the 30s the hardest age to be dating? (2022)](https://www.reddit.com/r/datingoverthirty/comments/ytpw5r/are_the_30s_the_hardest_age_to_be_dating/)
+- [Что для вас red flags (в других людях/в отношениях/где угодно)](https://twitter.com/leria1030pm/status/1593147268211019776)
+- [Don’t ask, don’t tell non monogamous relationship rules](https://www.reddit.com/r/nonmonogamy/comments/yzmoyx/couples_who_have_a_dont_ask_dont_tell_policy_with/)
+- [‘Why am I talking to 10 guys?’ The rise and fall of dating apps (2022)](https://www.theguardian.com/lifeandstyle/2022/nov/20/the-rise-and-fall-of-dating-apps) ([HN](https://news.ycombinator.com/item?id=33679643))
+- [Измена - чему она меня научила (2022)](https://www.youtube.com/watch?v=qSweC0eKeqM)
+- [Best break-up films (2022)](https://www.reddit.com/r/Letterboxd/comments/z1u13r/going_through_a_seperation_best_breakup_films/)

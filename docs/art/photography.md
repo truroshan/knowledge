@@ -1,14 +1,18 @@
 # Photography
 
-Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/), [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/) & [Bruce Weber](https://www.instagram.com/bruce_weber/) are inspiring.
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/), [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/), [Bruce Weber](https://www.instagram.com/bruce_weber/) & [Mariam Sitchinava](https://www.instagram.com/mariamsitchinava/) are inspiring [amongst others](art.md#photography).
 
-[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
+[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica Q2](https://leica-camera.com/en-int/photography/cameras/q/q2-black). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
+
+Want to build a page [like this](https://johannschopplich.com/en/photography) for my photos.
 
 ## Interesting cameras
 
-- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black)
-- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0))
+- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0)) ([Leica Q2 VS Fuji X100V](https://www.youtube.com/watch?v=O_Go5wc-s74)) ([4.0 update](https://www.youtube.com/watch?v=WqI6Q-qLknw)) ([Review](https://www.youtube.com/watch?v=GDIEy1CIlxg))
+- [Fujifilm X100V](https://fujifilm-x.com/en-us/products/cameras/x100v/) ([Review](https://www.youtube.com/watch?v=b_Smp1bEXlY))
+- [Sony Alpha 7 III](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m3-b)
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
+- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black) ([Review](https://www.youtube.com/watch?v=RSdLAiDb8dQ))
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)
 
@@ -243,3 +247,15 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photopea](https://www.photopea.com/) - Online Photo Editor. ([HN](https://news.ycombinator.com/item?id=33334521))
 - [Classic 50mm “Normal” Lens (2022)](https://www.garyvoth.com/the-forgotten-lens/) ([HN](https://news.ycombinator.com/item?id=33394891))
 - [iPhone 14 Pro Camera Review: A Small Step, a Leap (2022)](https://lux.camera/iphone-14-pro-camera-review-a-small-step-a-huge-leap/) ([HN](https://news.ycombinator.com/item?id=33425182))
+- [What was the best move you made for your photography? (2022)](https://www.reddit.com/r/photography/comments/ymbafu/what_was_the_best_move_you_made_for_your/)
+- [GxAce - YouTube](https://www.youtube.com/c/GxAce/videos)
+- [The rabbit hole of adding grain to digital photos is deeper than you think (2022)](https://vmoldo.com/grain-deepdive/)
+- [A better way to use presets in Lightroom (2022)](https://vmoldo.com/a-better-way-to-use-presets-in-lightroom/)
+- [What makes a photo cinematic? (2022)](https://vmoldo.com/what-makes-a-photo-cinematic/)
+- [A Photographer's Favorite Workstation and YouTube Gear (2022)](https://www.youtube.com/watch?v=YnWm8t6MyY4)
+- [Simple but tough advice for all photographers (2022)](https://www.youtube.com/watch?v=8ESkefZOrM0)
+- [Don't Waste Your Money On This Gear (2022)](https://www.youtube.com/watch?v=48AU0echwPc)
+- [Just Mott's favorite photography gear](https://www.justinmott.com/my-photography-gear)
+- [Tips on How to Pose Men](https://www.youtube.com/watch?v=g7fIhkFY_jo)
+- [Is Leica Worth The $$$$ (2021)](https://www.youtube.com/watch?v=rkPmLlow3O4)
+- [Digital Leica users! What’s everyone’s ‘go-to’ for settings? (2022)](https://www.reddit.com/r/Leica/comments/z2fvpp/digital_leica_users_whats_everyones_goto_for/)

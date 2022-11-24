@@ -475,3 +475,15 @@ Awesome List
 - [Export (your) GitHub stars to a CSV file](https://github.com/JeffCarpenter/export-stars)
 - [GitHub Scraper](https://github.com/nelsonic/github-scraper) - Crawl GitHub web pages for insights we can't GET from the API.
 - [GitHub WebSocket API](https://github.com/Hacksore/github-websocket-api) - Reverse engineering the GitHub WebSocket API.
+- [GitHub code search](https://github.com/features/code-search) ([Tweet](https://twitter.com/MaximeDeGreve/status/1590415616921698305))
+- [Hub Next | Hey, GitHub!](https://githubnext.com/projects/hey-github/) - Use your voice to code with GitHub Copilot. ([HN](https://news.ycombinator.com/item?id=33543946))
+- [GitHub Blocks](https://blocks.githubnext.com/) - Extend your codebase with custom, interactive blocks. ([Tweet](https://twitter.com/Wattenberger/status/1590763294775988229))
+- [GitHub Next | Visualizing a Codebase](https://githubnext.com/projects/repo-visualization/)
+- [Credit](https://github.com/fosskers/credit) - Fast tool for measuring GitHub repository contributions.
+- [GitHub Next | AI for Pull Requests](https://githubnext.com/projects/ai-for-pull-requests/) ([Tweet](https://twitter.com/dmvaldman/status/1590901866493530112))
+- [UNGH](https://github.com/unjs/ungh) - Unlimited access to GitHub API.
+- [How GitHub builds GitHub (2022)](https://www.youtube.com/watch?v=R6iRccrJ_jg)
+- [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki)
+- [GitHub Deploy Track](https://github.com/numtide/github-deploy) - Track deployments on GitHub PRs.
+- [GitHub Blocks Template](https://github.com/mattrothenberg/duckb-browser-block)
+- [GitCLI](https://github.com/ldakhoa/GitCLI-Swift) - GitHub CLI written in Swift.

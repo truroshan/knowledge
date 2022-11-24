@@ -429,3 +429,8 @@ I use [Bun](../../programming-languages/javascript/bun.md) now instead of node.
 - [NodeConf EU 2022](https://nodeconf22.vercel.app/) ([Videos](https://www.youtube.com/playlist?list=PL0CdgOSSGlBaULAdbribJiENfXxPW0aLQ)) ([Notes](https://github.com/lmammino/nodeconfeu2022-notes))
 - [jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [Making Fetch Happen - Ethan Arrowood (2022)](https://www.youtube.com/watch?v=Koy8XkDSf30)
+- [Learning WebAssembly, Rust, and Node.js](https://github.com/second-state/wasm-learning)
+- [TS-Evaluator](https://github.com/wessberg/ts-evaluator) - Interpreter for Typescript that can evaluate an arbitrary Node within a Typescript AST.
+- [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for Node and V8.
+- [Walker](https://github.com/JackThomson2/walker) - Node HTTP server with a rust backend.
+- [httpx/exception](https://github.com/belgattitude/httpx) - Delightful http exceptions for node, edge & browser. Serialization/SSR and logging in mind.

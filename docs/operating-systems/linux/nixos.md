@@ -79,6 +79,11 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Matthew Toohey](https://github.com/mtoohey31/infra)
 - [Ben Wolsieffer](https://github.com/lopsided98/nixos-config)
 - [Sam Horvath-Hunt](https://github.com/samhh/dotfiles)
+- [Cabia Rangris](https://github.com/cab404/home)
+- [Aaron Bieber](https://github.com/qbit/xin)
+- [Vasiliy Yorkin](https://github.com/vyorkin/nixos-config)
+- [Pleshevskiy's NixOS](https://git.pleshevski.ru/mynix/system)
+- [David Wood](https://github.com/davidtwco/veritas)
 
 ## Nix configs (macOS)
 
@@ -259,3 +264,6 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Allowing NixOS VM's to be run on macOS](https://github.com/NixOS/nixpkgs/issues/108984) ([Tweet](https://twitter.com/GabriellaG439/status/1571116853912825858))
 - [Best way to manage multiple home manager configs for both NixOS and non-NixOS systems using flakes? (2022)](https://www.reddit.com/r/NixOS/comments/xtq2tb/best_way_to_manage_multiple_home_manager_configs/)
 - [Worry-free NixOS refactors (2022)](https://www.tweag.io/blog/2022-10-11-stable-narhashes/)
+- [Hard user separation with NixOS (2022)](https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/) ([HN](https://news.ycombinator.com/item?id=33418788))
+- [Proxy server + NixOS](https://github.com/hackclub/proxyparty)
+- [Lollypops](https://github.com/pinpox/lollypops) - NixOS Deployment Tool.

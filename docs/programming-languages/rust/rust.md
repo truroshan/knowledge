@@ -4,7 +4,15 @@ title: Rust
 
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) ([good notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/)) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
+[Rust Book](https://doc.rust-lang.org/book/) ([interactive version](https://rust-book.cs.brown.edu/)) & [rustlings](https://github.com/rust-lang/rustlings) is best intro into Rust. Together with [rust cheat sheet](https://cheats.rs/).
+
+[Rust in Action](https://www.manning.com/books/rust-in-action), [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) ([good notes](https://bitemyapp.com/blog/notes-on-zero2prod-rust/)) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
+
+I use Rust to build desktop apps with [Tauri](rust-libraries/tauri.md). But try to use it for more things. I also like [Go](../go/go.md) & [TS](../typescript/typescript.md) for scripting / browser code.
+
+[David Tolnay](https://github.com/dtolnay) writes nice Rust code.
+
+[Xilem: an architecture for UI in Rust](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html) is nice read for [making UI in Rust](https://www.reddit.com/r/rust/comments/yuxb8a/serenityos_author_rust_is_a_neat_language_but/).
 
 ## Templates
 
@@ -13,6 +21,12 @@ title: Rust
 ## OSS Rust websites
 
 - [emojied](https://github.com/sekunho/emojied) - Fast URL shortener that uses emojis, only emojis. ([What I learned](https://blog.sekun.dev/posts/what-i-learned-from-building-a-rust-emoji-url-shortener/))
+
+## Code
+
+```shell
+cargo watch -q -x "run -q" # watch for Rust files and run on changes
+```
 
 ## Notes
 
@@ -74,7 +88,7 @@ title: Rust
 - [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust)
-- [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions))
+- [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions)) ([Solutions](https://github.com/wh5a/rustlings-solutions))
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) ([Lobsters](https://lobste.rs/s/td0qze/learning_rust_with_entirely_too_many)) ([HN](https://news.ycombinator.com/item?id=30326130))
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
@@ -928,3 +942,29 @@ title: Rust
 - [Boxes, Heaps, and Stacks - Tim McNamara - Rust Linz (2022)](https://www.youtube.com/watch?v=DEE1GKMbtgw)
 - [MacroKata](https://tfpk.github.io/macrokata/) - Set of exercises which you can use to learn how to write macros in Rust. ([Code](https://github.com/tfpk/macrokata))
 - [Ownership as explained in the Rust book](https://www.reddit.com/r/rust/comments/yibdpi/ownership_as_explained_in_the_rust_book/)
+- [Rust Debugging Extensions](https://github.com/rust-lang/rust-dbg-ext)
+- [Rust language book interactive](https://rust-book.cs.brown.edu/)
+- [Rust 1.65.0 (2022)](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html) ([HN](https://news.ycombinator.com/item?id=33451359)) ([Lobsters](https://lobste.rs/s/qojcz4/announcing_rust_1_65_0))
+- [New diagram-based explanation of Rust/C++20 atomic orderings](https://sabrinajewson.org/rust-nomicon/atomics/atomics.html)
+- [Scoped threads in Rust, and why its async counterpart would be unsound (2022)](https://wishawa.github.io/posts/thread-scoped-async/)
+- [2 years of fiddling with Rust (2022)](https://n-eq.github.io/blog/2022/11/01/rust-fiddling-2-years) ([HN](https://news.ycombinator.com/item?id=33497051))
+- [Explain the GATs like I was 5 (2022)](https://www.reddit.com/r/rust/comments/ynvm8a/could_someone_explain_the_gats_like_i_was_5/) ([HN](https://news.ycombinator.com/item?id=33504650))
+- [promote-release](https://github.com/rust-lang/promote-release) - Tool used by the Rust project to publish new releases of the Rust toolchain.
+- [Creating a priority queue with a custom sort order using a binary heap in Rust (2022)](https://dev.to/timclicks/creating-a-priority-queue-with-a-custom-sort-order-using-a-binary-heap-in-rust-3oab)
+- [Guide to Error Handling in Rust](https://nrc.github.io/error-docs/) ([HN](https://news.ycombinator.com/item?id=33529147))
+- [Property-Based Testing in Rust with Arbitrary (2021)](https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/) ([HN](https://news.ycombinator.com/item?id=33552816))
+- [Debugging a Core Dump with MDB (2022)](https://ry.goodwu.net/tinkering/debugging-a-core-dump-with-mdb/)
+- [Stop writing Rust linked list libraries (2022)](https://diziet.dreamwidth.org/13476.html)
+- [Carefully exploring Rust as a Python developer (2022)](https://karimjedda.com/carefully-exploring-rust/) ([HN](https://news.ycombinator.com/item?id=33581901))
+- [Tell HN: Rust Is Complex (2022)](https://news.ycombinator.com/item?id=33587473)
+- [Introduction to Rust Programming Language (2022)](https://www.youtube.com/watch?v=QY62Ms0aI78)
+- [Is Rust Stack-Efficient Yet?](https://arewestackefficientyet.com/) ([HN](https://news.ycombinator.com/item?id=33637092))
+- [What are Rust’s biggest weaknesses? (2022)](https://www.reddit.com/r/rust/comments/yxtjdc/what_are_rusts_biggest_weaknesses/)
+- [Stable MIR Librarification Project Group](https://github.com/rust-lang/project-stable-mir)
+- [Patterns for not fighting Rust burrow checker](https://twitter.com/jntrnr/status/1593312432851542016)
+- [If a Tree Falls in a Forest, Does It Overflow the Stack? (2022)](https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html)
+- [How to read complicated Rust types](https://www.youtube.com/watch?v=uh9i3be2wIE)
+- [Slice patterns in Rust (2022)](https://vm.codes/blog/slice-patterns-in-rust)
+- [Using Rust at a startup: A cautionary tale (2022)](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454) ([HN](https://news.ycombinator.com/item?id=33714007)) ([Reddit](https://www.reddit.com/r/rust/comments/z2c7pq/using_rust_at_a_startup_a_cautionary_tale/)) ([Reddit](https://www.reddit.com/r/programming/comments/z2i2wn/using_rust_at_a_startup_a_cautionary_tale/))
+- [A Better Way to Borrow in Rust: Stack Tokens (2022)](https://lucumr.pocoo.org/2022/11/23/stack-tokens/) ([Reddit](https://www.reddit.com/r/rust/comments/z2jk23/a_better_way_to_borrow_in_rust_stack_tokens/)) ([Code](https://github.com/mitsuhiko/stack-tokens))
+- [Safely writing code that isn't thread-safe (2022)](http://cliffle.com/blog/not-thread-safe/) ([HN](https://news.ycombinator.com/item?id=33713612))

@@ -537,3 +537,17 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [CloudFront vs. Cloudflare, and how to reduce response times for both by ~35%+ (2022)](https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/) ([HN](https://news.ycombinator.com/item?id=33275500))
 - [Wiring my home with fiber (2022)](https://sschueller.github.io/posts/wiring-a-home-with-fiber/) ([HN](https://news.ycombinator.com/item?id=33393540))
 - [hyperglass](https://hyperglass.dev/) - Network looking glass that tries to make the internet better. ([Code](https://github.com/thatmattlove/hyperglass))
+- [Blip](https://github.com/apenwarr/blip) - Tool for seeing your internet latency. ([HN](https://news.ycombinator.com/item?id=33445178))
+- [IP2Location Node.js Module](https://github.com/ip2location/ip2location-nodejs) - Knowing where your visitors from.
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [Ask HN: How many of you prefer to use Ethernet? (2022)](https://news.ycombinator.com/item?id=33444078)
+- [Apex](https://github.com/redhat-et/apex) - Provide connectivity between nodes deployed across heterogeneous environments.
+- [Higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway.
+- [Sabakan](https://github.com/cybozu-go/sabakan) - Versatile network boot server designed for large on-premise data centers.
+- [A Day in the Life of an IPv6 Packet on illumos (2022)](https://ry.goodwu.net/tinkering/day-in-the-life-of-a-v6-packet-on-illumos/)
+- [F-Stack](https://github.com/F-Stack/f-stack) - User space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API. ([Web](http://www.f-stack.org/))
+- [The Effectiveness of Checksums for Embedded Control Networks (2009)](https://users.ece.cmu.edu/~koopman/pubs/maxino09_checksums.pdf)
+- [mighty-snitch](https://github.com/nathants/mighty-snitch) - Noticing and preventing network requests should be easy.
+- [mapCIDR](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges.
+- [SocketHub](https://github.com/sockethub/sockethub) - Multi-protocol gateway for the Web using ActivityStream messages.
+- [Exploiting Protocols for Fun (2022)](https://matt-rickard.com/exploiting-protocols-for-fun)

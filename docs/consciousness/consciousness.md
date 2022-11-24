@@ -2,7 +2,7 @@
 
 Consciousness is fascinating. [Joscha Bach](https://www.youtube.com/results?search_query=joscha+bach+consciousness) & [Stanislav Grof](https://www.youtube.com/results?search_query=Stanislav+Grof+) had some interesting things to say about it.
 
-I practice self reflection (via journaling) & meditation (walks in nature) to get a deeper awareness of myself and my surroundings.
+I practice self reflection (via [journaling](../life/journaling.md)) & [meditation](../mindfulness/meditation.md) (walks in nature) to get a deeper awareness of myself and my surroundings.
 
 ## Notes
 
@@ -89,3 +89,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [What is it like to have a brain? Ways of looking at consciousness (2022)](https://lareviewofbooks.org/article/what-is-it-like-to-have-a-brain-on-patrick-houses-nineteen-ways-of-looking-at-consciousness/) ([HN](https://news.ycombinator.com/item?id=33169040))
 - [The "Hard Problem" of Consciousness with David Chalmers](https://www.youtube.com/watch?v=xy2vzhwdkpM)
 - [Some people who appear to be in a coma may be conscious](https://www.scientificamerican.com/article/some-people-who-appear-to-be-in-a-coma-may-actually-be-conscious/) ([HN](https://news.ycombinator.com/item?id=33299419))
+- [Roger Penrose: "Consciousness must be beyond computable physics." (2022)](https://www.youtube.com/watch?v=TfouEFuB-co)

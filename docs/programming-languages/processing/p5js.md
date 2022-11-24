@@ -38,3 +38,8 @@ title: p5.js
 - [p5.play](https://molleindustria.github.io/p5.play/) - Game library for p5.js.
 - [p5.grain](https://github.com/meezwhite/p5.grain) - P5.js addon for conveniently adding grain and texture overlays to artworks.
 - [HN: P5.js (2022)](https://news.ycombinator.com/item?id=33176026)
+- [p5.js website code](https://github.com/processing/p5.js-website)
+- [p5LearnableProgramming](https://github.com/v3ga/p5LearnableProgramming) ([Tweet](https://twitter.com/v3ga/status/1590748497820938241))
+- [OSC for p5.js with examples](https://github.com/genekogan/p5js-osc)
+- [p5.buildGeometry](https://github.com/davepagurek/p5.buildGeometry) - Create a reusable p5.Geometry using the 3D primitives you're familiar with from p5.
+- [p5.Framebuffer](https://github.com/davepagurek/p5.Framebuffer) - Library for efficiently drawing to a texture in p5 WebGL mode.

@@ -8,7 +8,7 @@ If I can form and retrieve memories, I am alive. So I try to do my best in makin
 
 Its nice there are many humans working on [aging and longevity](../health/aging.md), specifically rejuvenation & eradication of diseases. I hope to contribute to the field too soon.
 
-From the psychedelic experiences I had in my life, I learned to appreciate the complex nature that is the human brain. Its ability to detect patterns in everything and draw connections is truly marvelous. Listening to all of [Alan Watts's works](../humans/alan-watts.md) on some [tryptamine](../drugs/psychedelics/tryptamines/tryptamines.md) or [lysergamide](../drugs/psychedelics/lysergamides/lysergamides.md) is something everyone should try to do once in their life as in my personal experience it made me truly content with my place in the universe. There is no meaning but the one you care enough to care about. And it seems the only true goal of conscious life is to understand itself. Explore the cosmos.
+From the [psychedelic](../drugs/psychedelics/psychedelics.md) experiences I had in my life, I learned to appreciate the complex nature that is the human brain. Its ability to detect patterns in everything and draw connections is truly marvelous. Listening to all of [Alan Watts's works](../humans/alan-watts.md) on some [tryptamine](../drugs/psychedelics/tryptamines/tryptamines.md) or [lysergamide](../drugs/psychedelics/lysergamides/lysergamides.md) is something everyone should try to do once in their life as in my personal experience it made me truly content with my place in the universe. There is no meaning but the one you care enough to care about. And it seems the only true goal of conscious life is to understand itself. Explore the cosmos.
 
 The other neat thing about psychedelics is their ability to [induce ego death by shutting off default mode network](https://psychonautwiki.org/wiki/Talk:Psilocybin_and_the_Default_Mode_Network). Having your short term memories suppressed so much that you forget that you even took the drug or that you were/are a human being is crazy experience. I had this on [Salvia](../drugs/psychedelics/salvia.md) and life is never really the same after this. Even if it's all just a drug.
 
@@ -19,6 +19,16 @@ With all that said, there is only one real conclusion to draw knowing all this. 
 Spend more time with ones you care about. Be [aware of your ego](../consciousness/ego.md) and be a [kind and loving person](../environment/veganism.md).
 
 It's a matter of time that death can be avoided. Fastest way to get to this future is getting to [AGI](../machine-learning/artificial-intelligence.md).
+
+I do think, when you die. That's that. You maybe will have some interesting [DMT](../drugs/psychedelics/tryptamines/dmt.md) like experience as you go but then you and all your memories will cease to exist.
+
+But as far as there are living beings in the universe, life and thus ability to experience things will never stop until at least [heat death of the universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe) arrives. There will always be an observer to the experience and most likely 'you' will be born again into some living being, statistically likely some insect. Thus I find it so important to [treat others including animals with care and love](../environment/veganism.md). Not eat them. Make their existance as pleasant as possible, not just for them but even egoistically for your future 'you'.
+
+At least I try to live my life believing this. It kind of grounds me and gives me purpose too. Find out all there is to find out about how the [universe](../space/universe.md) works. And make every living being existence as nice as possible.
+
+Having said the above, [anesthesia](https://en.wikipedia.org/wiki/Anesthesia) has this strange property of putting [consciousness](../consciousness/consciousness.md) into hibernation mode for a certain time where when/if you wake up from it, you have no sense of how much time has passed. This doesn't happen with [sleep](../sleep/sleep.md) where you will have some sense of time passing between. But even with that, assuming existence is eternal and there will always be someone experiencing this reality, this blip in time, no matter how long it is. Even with perhaps the heat death of the universe will be instant from the perspective of the observer. Not sure how you can research this field, nor have I read the literature on near death experiences or experiences of someone clinically dying and somehow coming back. Most say some strange mystical things or say nothing happened at all inbetween kind of like anesthesia. In anyway, whatever happens, happens.
+
+> [I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.](https://www.goodreads.com/quotes/25647-i-do-not-fear-death-i-had-been-dead-for)
 
 ## Notes
 
@@ -37,6 +47,8 @@ It's a matter of time that death can be avoided. Fastest way to get to this futu
 - [I think we’re all going to die and disappear. I don’t believe in literal afterlife, stateful reincarnation, etc. There is a feeling of “nowness” that you feel right now. it changes with every moment. it’s like you’re flowing through time. in that sense once you run out of those moments, you’re gone. no more experiencing.](https://twitter.com/dan_abramov/status/1519888189334372353)
 - Grief Is the Price We Pay for Love.
 - [Personally if I meditate on this I see constant movement and change and ultimately arrive at no-self but obviously these experiences are also influenced by my interpretation of concepts which seem true. The sense of self I conventionally have seems to be reconstructed over and over during consciousness with self referencing memories but those are subject to change in brain disease. There’s also awareness itself but it’s only present when I’m conscious so that’s not been the same. In open awareness I can lose all self reference and I just exist but why would I think part of any of these experiences could transfer to another body? Also awake awareness is not concerned with rebirth or any continuation because it just exists. Only the ego cares about rebirth or reincarnation because it wants to keep existing and be important.](https://www.reddit.com/r/secularbuddhism/comments/yf3i9s/three_reasons_you_wont_return_after_this_life/)
+- [We become a memory in the hearts and minds of those who loved us and those whose lives we influenced, positively or negatively. The values we lived and the lessons we taught people pass on from person to person until someday, our names are said for the last time, our memories are remembered for the last time and the last person who knew us dies, killing us a second time.](https://www.reddit.com/r/india/comments/z12ws6/what_do_you_think_happens_after_someone_dies/)
+- [I know that the ones who love us, will miss us.](https://www.youtube.com/watch?v=etlBZInTE-I)
 
 ## Links
 
@@ -87,3 +99,4 @@ It's a matter of time that death can be avoided. Fastest way to get to this futu
 - [Books about Death (2022)](https://www.reddit.com/r/suggestmeabook/comments/y54p5s/books_about_death/)
 - [Technology that lets us speak to our dead relatives has arrived. Are we ready? (2022)](https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/)
 - [People who've lost a parent suddenly, what are things you wish you'd done before your parent passed?](https://twitter.com/Aella_Girl/status/1585133949105238016)
+- [Posterity](https://posterity.life/) - Create a legally binding plan for the event something happens to you, and share it with your loved ones. ([HN](https://news.ycombinator.com/item?id=33655747))

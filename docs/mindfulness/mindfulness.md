@@ -69,3 +69,6 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [You have a sad feeling for a moment, then it passes](https://everything2.com/title/You+have+a+sad+feeling+for+a+moment%252C+then+it+passes) ([HN](https://news.ycombinator.com/item?id=32252198))
 - [4-7-8 Breathing](https://breathing.m15y.com/)
 - [Ask HN: How to Stop Caring (Professionally)? (2022)](https://news.ycombinator.com/item?id=33054652)
+- [Box Breathing Techniques and Benefits](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900) ([HN](https://news.ycombinator.com/item?id=33586383))
+- [Science-based tools to reduce stress](https://twitter.com/hubermanlab/status/1592968635643219968)
+- [Box Breathing Technique](https://lassebomh.github.io/box-breathing/) - Visual animation to help with calmness, mindfulness, stress and anxiety. ([HN](https://news.ycombinator.com/item?id=33653540))

@@ -2,13 +2,15 @@
 
 [Abletone Learning Synth](https://learningsynths.ableton.com/) is nice intro. [Never Before Heard Sounds](https://heardsounds.com/) is working on some [neat tech](https://twitter.com/yotammann/status/1532446436314402817).
 
+Practicing using [Sonic Pi](https://sonic-pi.net/) & [Ableton](https://www.ableton.com/en/).
+
 ## Tools
 
 - [Ableton Live](https://www.ableton.com/en/) - Digital audio workstation. ([GitHub](https://github.com/Ableton))
 - [GLICOL](https://github.com/chaosprint/glicol) - Graph-oriented live coding language written in Rust. Make music with code. ([Web](https://glicol.org/)) ([HN](https://news.ycombinator.com/item?id=30746299)) ([HN](https://news.ycombinator.com/item?id=30942074))
 - [Klangmeister](http://ctford.github.io/klangmeister/about)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile. ([Web](https://helio.fm/)) ([HN](https://news.ycombinator.com/item?id=28382873))
-- [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool. ([Code](https://github.com/sonic-pi-net/sonic-pi)) ([Sonic Pi Tool](https://github.com/lpil/sonic-pi-tool)) ([Sonic Pi Challenge](https://github.com/github/sonic-pi-challenge)) ([Sonic Pi Tool (Python)](https://github.com/emlyn/sonic-pi-tool)) ([HN](https://news.ycombinator.com/item?id=28274069))
+- [Sonic Pi](https://sonic-pi.net/) - Code-based music creation and performance tool. ([Code](https://github.com/sonic-pi-net/sonic-pi)) ([Sonic Pi Tool](https://github.com/lpil/sonic-pi-tool)) ([Sonic Pi Challenge](https://github.com/github/sonic-pi-challenge)) ([Sonic Pi Tool (Python)](https://github.com/emlyn/sonic-pi-tool)) ([HN](https://news.ycombinator.com/item?id=28274069)) ([HN](https://news.ycombinator.com/item?id=33516405))
 - [FlowKey](https://www.flowkey.com) - Learn Piano with songs you love.
 - [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation. ([C rewrite](https://github.com/hundredrabbits/Orca-c)) ([Web](https://hundredrabbits.github.io/Orca/)) ([HN](https://news.ycombinator.com/item?id=23118139)) ([Interview with creator](https://overcast.fm/+Jrqagk3h0)) ([Forum discussion](https://llllllll.co/t/orca-livecoding-tool/17689)) ([Intro](https://www.youtube.com/watch?v=RaI_TuISSJE)) ([Videos](https://www.youtube.com/playlist?list=PLb1uDATFJPcEEG3w715GzbD4AE232Pdcu)) ([HN](https://news.ycombinator.com/item?id=29122218))
 - [Glitch](https://github.com/naivesound/glitch) - Minimal algorithmic music composer and synthesizer. ([Code](https://github.com/vincentriemer/io-808))
@@ -445,3 +447,32 @@
 - [MIDI-Emotion](https://github.com/serkansulun/midi-emotion) - Generates multi-instrument symbolic music (MIDI), based on user-provided emotions from valence-arousal plane.
 - [Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)
 - [Hyperstep](https://a-sumo.github.io/hyperstep/) - Volumetric audio visualizer. ([HN](https://news.ycombinator.com/item?id=33425159))
+- [My First Piano (2022)](https://www.jeromeleroy.com/complog-content/2022/10/31/my-first-piano-a-story-of-hurt-healing-and-joy) ([HN](https://news.ycombinator.com/item?id=33426879))
+- [MidiEditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data.
+- [Automatic music mixing with deep learning and out-of-domain data (2022)](https://arxiv.org/abs/2208.11428) ([Code](https://github.com/sony/FxNorm-automix))
+- [Samples used in SuperDirt and the TidalCycles tutorials](https://github.com/tidalcycles/Dirt-Samples)
+- [David Addison - YouTube](https://www.youtube.com/c/DavidAddison1/videos)
+- [Modernizing my 1980s sound system (2022)](https://blog.yossarian.net/2022/11/07/Modernizing-my-1980s-sound-system) ([HN](https://news.ycombinator.com/item?id=33506765))
+- [What's your lyric/writing "process"? (2022)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/yorylw/whats_your_lyricwriting_process/)
+- [Tame Impala's Kevin Parker Breaks Down His Favorite Drum Sounds](https://www.youtube.com/watch?v=BWv4TgvSPjM)
+- [A tale of two clocks (2013)](https://web.dev/audio-scheduling/)
+- [Advanced techniques: Creating and sequencing audio - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
+- [What is the best way to make friends in music? (2022)](https://www.reddit.com/r/WeAreTheMusicMakers/comments/yrti6q/what_is_the_best_way_to_make_friends_in_music/)
+- [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/) ([HN](https://news.ycombinator.com/item?id=33545349))
+- [MIDI-to-Keypress](https://github.com/xobs/midi-to-keypress) - Takes MIDI input and turns it into keypresses.
+- [musthe](https://github.com/gciruelos/musthe) - Music theory implemented in Python. Notes, scales and chords.
+- [Resources for microtonal music](https://sevish.com/music-resources/) ([HN](https://news.ycombinator.com/item?id=33639132))
+- [Sean Corbett's Studio Kit](https://kit.co/SScience/studio-kit)
+- [RNBO Webpage Example](https://github.com/MrChico/rnbostuff) - Shows you how to add dynamic audio to a webpage, using the JavaScript source code export feature of RNBO.
+- [Reactronica](https://github.com/unkleho/reactronica) - React audio components for making music in the browser. ([Web](https://reactronica.com/))
+- [Jukebox Web UI](https://github.com/vzakharov/jukebox-webui) - Google Colab-backed Web UI for creating music with OpenAI Jukebox.
+- [dysentery](https://github.com/Deep-Symmetry/dysentery) - Exploring ways to participate in a Pioneer Pro DJ Link network.
+- [uifx](https://github.com/wle8300/uifx) - Audio library designed for UI sound effects.
+- [Music Mouse](https://teropa.info/musicmouse/) - Intelligent Instrument Emulation.
+- [Haxophone](https://github.com/jcard0na/haxo-hw) - Electronic musical instrument that resembles a saxophone. ([HN](https://news.ycombinator.com/item?id=33682813))
+- [Dittytoy](https://dittytoy.net/) - Create your generative music online using a simple JavaScript API.
+- [PulseQueue](https://valent-in.github.io/pulseq/) - Minimalistic web-app for creating electronic music. ([Code](https://github.com/Valent-in/pulseq))
+- [Magenta Note-SEQ](https://github.com/magenta/note-seq) - Serializable note sequence representation and utilities.
+- [Endlesss](https://discover.endlesss.fm/) - New way to create, publish and collect music together, powered by Web3.
+- [alda-clj](https://github.com/daveyarwood/alda-clj) - Clojure library for live-coding music with Alda.
+- [MNX](https://github.com/w3c/mnx) - Music Notation CG next-generation music markup proposal.

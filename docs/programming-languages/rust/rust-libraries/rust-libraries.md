@@ -2,16 +2,19 @@
 
 [axum](https://github.com/tokio-rs/axum) seems nice as a web framework ([neat template](https://github.com/joelparkerhenderson/demo-rust-axum)). [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
 
+[shuttle](https://github.com/awslabs/shuttle) is nice for testing concurrent code. [Burn](https://github.com/burn-rs/burn) looks nice as ML library. [Typeshare](https://github.com/1Password/typeshare) is nice for type sharing between languages.
+
 ## CLI
 
+- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
+- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
+- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
 - [Wena](https://github.com/wena-cli/wena) - Micro-framework that provides an elegant starting point for your console application.
-- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
 - [fncmd](https://github.com/yuhr/fncmd) - Opinionated command line parser frontend that wraps around clap.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
-- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
 - [StructOpt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [pico-args](https://github.com/RazrFalcon/pico-args) - Ultra simple CLI arguments parser.
@@ -48,7 +51,6 @@
 - [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
 - [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
 - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
-- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [Canopy](https://github.com/cortesi/canopy) - Terminal UI library for Rust.
 - [Rustea](https://github.com/lazops/rustea) - Easy-to-use TUI crate for Rust, based off of the Elm architecture.
 - [promptio](https://github.com/ynqa/promptio) - Toolkit for building your own interactive command-line tools in Rust.
@@ -63,6 +65,11 @@
 - [yansi](https://github.com/SergioBenitez/yansi) - Dead simple ANSI terminal color painting library for Rust.
 - [inquire](https://github.com/mikaelmello/inquire) - Rust library for building interactive prompts.
 - [prodash](https://github.com/Byron/prodash) - Report progress of concurrent applications and display it in various ways.
+- [minus](https://github.com/arijit79/minus) - Asynchronous terminal paging library.
+- [linya](https://github.com/fosskers/linya) - Simple concurrent progress bars.
+- [makeup](https://github.com/queer/makeup) - Stylish CLIs/TUIs for Rust.
+- [is-terminal](https://github.com/sunfishcode/is-terminal) - Test whether a given stream is a terminal.
+- [supports-color](https://github.com/zkat/supports-color) - Detects whether a terminal supports color, and gives details about that support.
 
 ## Web
 
@@ -96,7 +103,7 @@
 - [actix-web-lab](https://github.com/robjtede/actix-web-lab) - Experimental extractors, middleware, and other extras for possible inclusion in Actix Web.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Seed](https://github.com/seed-rs/seed) - Rust framework for creating web apps. ([HN](https://news.ycombinator.com/item?id=28567714)) ([Web](https://seed-rs.org/)) ([Awesome](https://github.com/seed-rs/awesome-seed-rs))
-- [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
+- [Tide](https://github.com/rust-net-web/tide) - Modular web framework. ([Designing Tide - Yoshua Wuyts](https://www.youtube.com/watch?v=laJA4QCjmxk))
 - [Tide WebSockets](https://github.com/http-rs/tide-websockets) - Experimental websockets handler for tide based on async-tungstenite.
 - [websocket-lite](https://github.com/1tgr/rust-websocket-lite) - Fast, low-overhead WebSocket client.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
@@ -197,9 +204,11 @@
 - [TinyRoute](https://github.com/togglebyte/tinyroute) - Small networked message passing library.
 - [Async UI](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust. ([Article](https://wishawa.github.io/posts/async-ui-intro/)) ([HN](https://news.ycombinator.com/item?id=33089131))
 - [CustomElement](https://github.com/gbj/custom-elements) - Framework-agnostic CustomElement trait to create Rust/WASM Web Components/Custom Elements easily without writing any JavaScript.
+- [har-rs](https://github.com/mandrean/har-rs) - HTTP Archive format (HAR) serialization & deserialization library, written in Rust.
 
 ## Auth
 
+- [Rust-JWT-Simple](https://github.com/jedisct1/rust-jwt-simple) - Secure, standard-conformant, easy to use JWT implementation for Rust.
 - [Dacquiri](https://github.com/resyncgg/dacquiri) - Strong, compile-time enforced authorization framework for rust applications. ([Tweet](https://twitter.com/InsanityBit/status/1545157199311187968))
 - [Frank JWT](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
 - [oauth1-request](https://github.com/tesaguri/oauth1-request-rs) - OAuth 1.0 client library for Rust.
@@ -208,7 +217,7 @@
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
-- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks))
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks)) ([Awesome](https://github.com/jetli/awesome-yew))
 - [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
@@ -229,6 +238,10 @@
 - [wasm-instrument](https://github.com/paritytech/wasm-instrument) - Instrument and transform wasm modules.
 - [wasm_thread](https://github.com/chemicstry/wasm_thread) - Rust `std::thread` replacement for wasm32 target.
 - [idb](https://github.com/devashishdxt/idb) - Futures based crate for interacting with IndexedDB on browsers using WebAssembly.
+- [WasmEdge WASI Socket](https://github.com/second-state/wasmedge_wasi_socket) - Rust SDK for network socket functions available in the WasmEdge Runtime.
+- [prokio](https://github.com/yewstack/prokio) - Asynchronous runtime compatible with WebAssembly and non-WebAssembly targets.
+- [edom](https://github.com/adamritter/edom) - Immediate mode web frontend library written in Rust.
+- [spidermonkey-wasm-rs](https://github.com/bytecodealliance/spidermonkey-wasm-rs) - Rust bindings and generic builtins for SpiderMonkey for the wasm32-wasi target.
 
 ## GUI
 
@@ -357,6 +370,8 @@
 - [leveldb-rs](https://github.com/dermesser/leveldb-rs) - Fully compatible implementation of LevelDB in Rust.
 - [TDengine connector for Rust](https://github.com/taosdata/taos-connector-rust)
 - [Hug SQLx](https://github.com/mbuczko/hugsqlx) - Derive macro turning SQL queries into plain Rust functions.
+- [mysql_async](https://github.com/blackbeam/mysql_async) - Asyncronous Rust Mysql driver based on Tokio.
+- [concurrent-map](https://github.com/komora-io/concurrent-map) - Lock-free linearizable map.
 
 ## Video
 
@@ -365,6 +380,7 @@
 - [retina](https://github.com/scottlamb/retina) - High-level RTSP multimedia streaming library, in Rust.
 - [h264-reader](https://github.com/dholroyd/h264-reader) - Rust reader for H264 bitsream syntax.
 - [libv4l-rs](https://github.com/raymanfx/libv4l-rs) - Safe bindings to the Video for Linux (V4L) stack.
+- [OpenH264 Rust](https://github.com/ralfbiedert/openh264-rust) - Idiomatic and low-level bindings for OpenH264.
 
 ## Graphics
 
@@ -448,6 +464,9 @@
 - [Frui](https://github.com/fruiframework/frui) - Developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust.
 - [Embedded Graphics Web Simulator](https://github.com/rahul-thakoor/embedded-graphics-web-simulator)
 - [Adaptive SPH](https://github.com/kaegi/adaptive-sph) - Fluid simulation with adaptive particle sizes.
+- [smaa-rs](https://github.com/fintelia/smaa-rs) - Post-process antialiasing for wgpu-rs, relying on the SMAA reference implementation.
+- [Pax](https://github.com/pax-lang/pax) - Cross-platform rendering engine & Rust framework for interactive graphics, animations, and GUIs.
+- [xilem](https://github.com/linebender/xilem) - Experimental Rust native UI framework.
 
 ## Games
 
@@ -460,6 +479,8 @@
 - [Flax](https://github.com/ten3roberts/flax) - Fully featured and easy to use ECS library for rust.
 - [yakui](https://github.com/LPGhatguy/yakui) - Declarative Rust UI library for games.
 - [Polyanya](https://github.com/vleue/polyanya) - Compromise-free Pathfinding on a Navigation Mesh.
+- [me3](https://github.com/garyttierney/me3) - Framework for modding and instrumenting games.
+- [Backroll](https://github.com/HouraiTeahouse/backroll-rs) - Pure Rust implementation of GGPO rollback networking library.
 
 ## GraphQL
 
@@ -638,6 +659,7 @@
 
 ## Linux
 
+- [Reverie](https://github.com/facebookexperimental/reverie) - Ergonomic and safe syscall interception framework for Linux.
 - [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
 - [libkrun](https://github.com/containers/libkrun) - Dynamic library providing KVM-based process isolation capabilities.
 - [io-uring](https://github.com/tokio-rs/io-uring) - Linux IO Uring.
@@ -675,6 +697,10 @@
 - [SELinux](https://github.com/koutheir/selinux) - Flexible Mandatory Access Control for Linux.
 - [penguincrab](https://github.com/docfate111/penguincrab) - Unsafe wrapper for Linux Kernel Library in Rust.
 - [sysfs_gpio](https://github.com/rust-embedded/rust-sysfs-gpio) - Rust Interface to the Linux sysfs GPIO interface.
+- [Wayland rust](https://github.com/Smithay/wayland-rs) - Rust implementation of the wayland protocol (client and server).
+- [Penrose](https://github.com/sminez/penrose) - Library for writing an X11 tiling window manager.
+- [syscalls](https://github.com/jasonwhite/syscalls) - Raw Linux system calls for Rust.
+- [ALSA-rs](https://github.com/diwic/alsa-rs) - Safe wrappers for ALSA, most common API for accessing audio devices on Linux.
 
 ## Embedded
 
@@ -722,6 +748,7 @@
 - [acid_io](https://github.com/dataphract/acid_io) - Rust I/O for no_std.
 - [esp-idf-hal](https://github.com/esp-rs/esp-idf-hal) - Embedded-hal implementation for Rust on ESP32 and ESP-IDF.
 - [rust_gpiozero](https://github.com/rahul-thakoor/rust_gpiozero) - Library inspired by gpiozero written in Rust.
+- [Birdcage](https://github.com/phylum-dev/birdcage) - Cross-platform embeddable sandboxing library allowing restrictions to Filesystem and Network operations using native operating system APIs.
 
 ## ML
 
@@ -749,6 +776,8 @@
 - [egobox](https://github.com/relf/egobox) - Rust toolbox about surrogate-based adaptative optimization.
 - [Safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors.
 - [Disco Rust](https://github.com/ankane/disco-rust) - Recommendations for Rust using collaborative filtering.
+- [Burn](https://github.com/burn-rs/burn) - Deep learning framework with extreme flexibility written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/ynquym/announcing_burn_new_deep_learning_framework_with/))
+- [FFSVM-Rust](https://github.com/ralfbiedert/ffsvm-rust) - Really Fast Support Vector Machine.
 
 ## macOS
 
@@ -773,6 +802,7 @@
 - [vmnet](https://github.com/edigaryev/vmnet) - Apple's vmnet.framework bindings for Rust.
 - [apple-platform-rs](https://github.com/indygreg/apple-platform-rs) - Rust crates supporting Apple platform development.
 - [coreaudio-rs](https://github.com/RustAudio/coreaudio-rs) - Friendly rust interface to Apple's Core Audio API.
+- [Applevisor](https://github.com/Impalabs/applevisor) - Rust bindings for the Apple Silicon Hypervisor.framework.
 
 ## Macros
 
@@ -879,6 +909,9 @@
 - [autobox](https://github.com/insanitybit/autobox) - Compile time analysis for runtime sandboxing.
 - [Inter-Struct](https://github.com/Nukesor/inter-struct) - Automatically generated traits for operations between arbitrary structs.
 - [structmap](https://github.com/ex0dus-0x/structmap) - Procedural macro crate for conversion between Rust structs and associative containers.
+- [mixin](https://github.com/DenisKolodin/mixin) - Macros that combine fields and implementations of different structs.
+- [Rust Embed for Web](https://github.com/SeriousBug/rust-embed-for-web) - Rust Macro which embeds files into your executableFork of rust-embed with a focus on usage in web servers..
+- [OptionalStruct](https://github.com/lesurp/OptionalStruct) - Macro copying a struct with Option fields. Useful for config initialization.
 
 ## Math
 
@@ -896,6 +929,8 @@
 - [kmeans-colors](https://github.com/okaneco/kmeans-colors) - k-means clustering library and binary to find dominant colors in images.
 - [roots](https://github.com/vorot/roots) - Library of well known algorithms for numerical root finding.
 - [Astro-float](https://github.com/stencillogic/astro-float) - Arbitrary precision floating point numbers library.
+- [wedged](https://github.com/jsmith628/wedged) - Robust and generalized library for Geometric Algebra in Rust.
+- [matrixmultiply](https://github.com/bluss/matrixmultiply) - General matrix multiplication of f32 and f64 matrices in Rust. Supports matrices with general strides.
 
 ## CSS
 
@@ -937,7 +972,7 @@
 - [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
 - [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
 - [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux. ([Fork](https://github.com/tezedge/redux-rs))
-- [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
+- [Datafrog](https://github.com/rust-lang/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
 - [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.
 - [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
 - [tikv-jemallocator](https://github.com/tikv/jemallocator) - Simplified fork of jemallocator focus on server.
@@ -2286,6 +2321,40 @@
 - [tachyonix](https://github.com/asynchronics/tachyonix) - Asynchronous, multi-producer, single-consumer (MPSC) bounded channel that operates at tachyonic speeds.
 - [Asynchronix](https://github.com/asynchronics/asynchronix) - High-performance asynchronous computation framework for system simulation.
 - [graphlib2](https://github.com/adriangb/graphlib2) - Rust port of Python stdlib's graphlib.
+- [ftlog](https://github.com/nonconvextech/ftlog) - Asynchronous logging library for high performance.
+- [json_plus](https://github.com/rust-playground/json-plus) - JSON helper functions beyond Serialization & Deserialization such as diff, merge, ....
+- [sitemap](https://github.com/svmk/rust-sitemap) - Sitemap library for Rust.
+- [dot_graph](https://github.com/SelamaAshalanore/dot_graph) - Library for generating Graphviz DOT language files.
+- [Route Pattern](https://github.com/jondot/route-pattern) - Parser and matcher for route patterns in Rust.
+- [uchan](https://github.com/kprotty/uchan) - Small, scalable, unbounded, mpsc channel.
+- [env_logger](https://github.com/rust-cli/env_logger) - Logger that can be configured via environment variables.
+- [hex](https://github.com/KokaKiwi/rust-hex) - Encoding and decoding data into/from hexadecimal representation.
+- [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) - Iterators which split strings on Grapheme Cluster or Word boundaries.
+- [Banyan](https://github.com/Actyx/banyan)
+- [xtaskops](https://github.com/jondot/xtaskops) - Goodies for working with the xtask concept in Rust.
+- [JavaScriptCore API for Rust](https://github.com/penberg/rusty_jsc)
+- [ijson](https://github.com/Diggsey/ijson) - Offers a replacement for serde-json's Value type, which is significantly more memory efficient.
+- [Acto](https://github.com/rkuhn/acto) - Actor library for Rust.
+- [Versions](https://github.com/fosskers/rs-versions) - Library for parsing and comparing software version numbers.
+- [validated](https://github.com/fosskers/validated) - Cumulative sibling of `Result` and `Either`.
+- [Scroll](https://github.com/m4b/scroll) - Traits for read/writing generic containers (byte buffers are currently implemented by default).
+- [StateLock](https://github.com/Xudong-Huang/state_lock) - Sync primitive that can be used to wait for a state to be ready.
+- [usdt](https://github.com/oxidecomputer/usdt) - Dust your Rust with USDT probes.
+- [Parcom](https://github.com/strtok/parcom) - Trait + closure based parser combinator library loosely following the Parsec Paper.
+- [Versionize](https://github.com/firecracker-microvm/versionize_derive) - Framework for version tolerant serializion/deserialization of Rust data structures.
+- [compress-tools](https://github.com/OSSystems/compress-tools-rs) - Swiss Army Knife for handling compressed data in Rust.
+- [timbre](https://github.com/thoren-d/timbre) - Rust audio library designed for composing real-time effects.
+- [zalgo codec](https://github.com/JSorngard/zalgo_codec) - Crate for converting an ASCII text string or file to a single unicode character.
+- [bigdecimal-rs](https://github.com/akubera/bigdecimal-rs) - Arbitrary precision decimal crate for Rust.
+- [diff.rs](https://github.com/utkarshkukreti/diff.rs) - LCS based slice and string diffing implementation.
+- [buffer-unordered-weighted](https://github.com/nextest-rs/buffer-unordered-weighted) - Rust Stream::buffer_unordered where each future can have a different weight.
+- [enve](https://github.com/pleshevskiy/enve) - Work with environment variables and convert it to any type using only type annotations.
+- [archive](https://github.com/patr0nus/rust-archive) - Safe bindings for libarchive with minimum overhead.
+- [JS Source Scopes](https://github.com/getsentry/js-source-scopes) - Extracting and processing scope information from JavaScript source files, and resolving that scope via SourceMaps.
+- [faer](https://github.com/sarah-ek/faer-rs) - Low level linear algebra routines in pure Rust. ([Reddit](https://www.reddit.com/r/rust/comments/z17l0g/introducing_faer_a_linear_algebra_library_in_rust/))
+- [Gifed](https://github.com/gennyble/gifed) - GIF encoding and decoding library.
+- [envsubst](https://github.com/lucab/envsubst-rs) - Simple Rust library for variables substitution.
+- [nom-supreme](https://github.com/Lucretiel/nom-supreme) - Collection of utilities for a superior nom experience.
 
 ## Cargo Plugins
 
@@ -2389,6 +2458,10 @@
 - [Cargo Sort](https://github.com/DevinR528/cargo-sort) - Tool to check that your Cargo.toml dependencies are sorted alphabetically.
 - [targo](https://github.com/sunshowers/targo) - Wraps cargo to move target directories to a central location.
 - [cargo-deps](https://github.com/m-cat/cargo-deps) - Cargo subcommand for building dependency graphs of Rust projects.
+- [CycloneDX Rust (Cargo) Plugin](https://github.com/CycloneDX/cyclonedx-rust-cargo) - Creates CycloneDX Software Bill of Materials (SBOM) from Rust (Cargo) projects.
+- [cargo-guppy](https://github.com/guppy-rs/guppy) - Track and query Cargo dependency graphs.
+- [allocative](https://github.com/facebookexperimental/allocative) - Library and proc macro to analyze memory usage of data structures in rust.
+- [Typeshare](https://github.com/1Password/typeshare) - Ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. ([Reddit](https://www.reddit.com/r/rust/comments/z1qc6n/1password_releases_typeshare_the_ultimate_tool/)) ([Article](https://blog.1password.com/typeshare-for-rust/))
 
 ## Notes
 
@@ -2556,3 +2629,19 @@
 - [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison) ([HN](https://news.ycombinator.com/item?id=33385148))
 - [Rust Template](https://github.com/paulrberg/rust-template) - Template for developing Rust projects, with sensible defaults.
 - [Rust Template by OKP4](https://github.com/okp4/template-rust)
+- [Workshop Repo: Microservice with Tokio and Rust](https://github.com/ddprrt/microservice-rust-workshop)
+- [Using Rust as my Backend (2022)](https://www.reddit.com/r/rust/comments/yk9br7/using_rust_as_my_backend/)
+- [What crates are considered as de-facto standard? (2022)](https://www.reddit.com/r/rust/comments/ylp4nz/what_crates_are_considered_as_defacto_standard/)
+- [Blessed.rs](https://blessed.rs/crates) - Unofficial guide to the Rust ecosystem. ([Code](https://github.com/nicoburns/blessed-rs)) ([HN](https://news.ycombinator.com/item?id=33506132)) ([Reddit](https://www.reddit.com/r/rust/comments/yp65kq/crate_list_blessedrs/)) ([Lobsters](https://lobste.rs/s/smrik5/blessed_rs_unofficial_guide_rust))
+- [Interoptopus](https://github.com/ralfbiedert/interoptopus) - Polyglot bindings generator for your library. Write a robust library in Rust, easily access it from your second-favorite language.
+- [Rust UML Diagram Generator](https://github.com/SelamaAshalanore/rudg) - Tools that parsing Rust code into UML diagram.
+- [Typebinder](https://github.com/impero-com/typebinder) - Exports TS definitions from Rust module.
+- [conc-map-bench](https://github.com/xacrimon/conc-map-bench) - Uses the bustle benchmarking harness.
+- [Symbolicator](https://github.com/getsentry/symbolicator) - Symbolication service for native stacktraces and minidumps with symbol server support.
+- [Template for a generic rust project hosted on GitHub](https://github.com/rust-github/template)
+- [What is your favorite standard library function? (2022)](https://www.reddit.com/r/rust/comments/yz3xul/what_is_your_favorite_standard_library_function/)
+- [Cargo Scan](https://github.com/PLSysSec/cargo-scan) - Scan and analyze Rust dependencies.
+- [Rust MySQL microservice](https://github.com/second-state/microservice-rust-mysql) - Template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.
+- [Flux: Refinement Types for Rust (2022)](https://liquid-rust.github.io/2022/11/14/introducing-flux/)
+- [Rust enum-match code generation (2022)](https://www.eventhelix.com/rust/rust-to-assembly-enum-match/)
+- [Migrating from warp to axum (2022)](https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2) ([HN](https://news.ycombinator.com/item?id=33718765))

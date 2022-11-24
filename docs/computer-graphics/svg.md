@@ -1,10 +1,10 @@
 # SVG
 
-[SVGator](https://www.svgator.com/) is nice.
+[SVGator](https://www.svgator.com/) & [HTML 2 SVG](https://github.com/fathyb/html2svg) are nice.
 
 ## Links
 
-- [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine.
+- [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine. ([React bindings](https://github.com/drcmda/react-zdog))
 - [Rough.js](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance. ([Web](https://roughjs.com/))
 - [SVG illustrations as React Components](https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6)
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg) ([Lobsters](https://lobste.rs/s/luuqzc/svg_is_telescope_into_another_world))
@@ -174,3 +174,10 @@
 - [GIOSVG](https://github.com/inkeliz/giosvg) - SVG in Go.
 - [SVG text layout for Krita (2022)](https://wolthera.info/2022/10/svg-text-layout-for-krita/)
 - [occult](https://github.com/LoicGoulefert/occult) - vpype plug-in to remove occulted lines in SVG files.
+- [rasterize-svg](https://github.com/pmkroeker/rasterize-svg) - Rasterize SVG Elements for Download as PNG.
+- [gkurve: simpler vector graphics - Stephen Gutekanst (2022)](https://www.youtube.com/watch?v=QTybQ-5MlrE)
+- [svg-halftone](https://halftone.vestera.as/) - Tool for converting raster images to SVG halftone patterns. ([Code](https://github.com/evestera/svg-halftone))
+- [html2svg](https://github.com/fathyb/html2svg) - Convert HTML and canvas to SVG using Chromium. ([Forking Chrome to turn HTML into SVG](https://fathy.fr/html2svg)) ([HN](https://news.ycombinator.com/item?id=33584941))
+- [SSVG: Scalable Scalable Vector Graphics](https://github.com/michaschwab/ssvg) - Library to speed up interactive svg-based data visualizations by transforming them into canvases.
+- [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors. ([Code](https://github.com/btk/vectorizer))
+- [SVG text to path](https://github.com/paulzi/svg-text-to-path) - Convert SVG nodes to vector font-free elements.

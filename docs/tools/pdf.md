@@ -80,3 +80,8 @@
 - [lazypress](https://github.com/alexferrari88/lazypress) - Convert HTML pages to PDFs looking just like they would render in the browser.
 - [PDF processing and analysis with open-source tools (2021)](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools) ([HN](https://news.ycombinator.com/item?id=33145498))
 - [How To Create a PDF in Go: A Step-By-Step Tutorial](https://medium.com/the-godev-corner/how-to-create-a-pdf-in-go-157355429a94) ([Reddit](https://www.reddit.com/r/golang/comments/y2sz1f/how_to_create_a_pdf_in_go_a_stepbystep_tutorial/))
+- [go-audio](https://github.com/Harry-027/go-audio) - Offline solution to convert PDFs into audiobooks.
+- [bagme](https://github.com/speedata/bagme) - PDF rendering library for Go using boxes and glue.
+- [PDFSyntax](https://github.com/desgeeko/pdfsyntax) - Python PDF parsing library and tool built on top to browse the internal structure of a PDF file. ([HN](https://news.ycombinator.com/item?id=33646951))
+- [PDF storage with global search](https://github.com/ire4ever1190/tsuil)
+- [Hammer PDF](https://pdf.hammerscholar.net/) - Smart Scientific Reader. ([Code](https://github.com/HammerPDF/Smart-Scientific-Reader))
